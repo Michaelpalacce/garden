@@ -3,17 +3,17 @@
 # 1. Ignore everything
 *
 
+# Docker Section
 !.gitignore
 !.dockerignore
 !Dockerfile
 
-!KIT/
-!KIT/**
-
-!quartz/
-!quartz/**
-
+# Automation
 !.github/
 !.github/**
+
+# CONTENT that will be published
+!KIT/
+!KIT/**
 
 !index.md
