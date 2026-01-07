@@ -1,10 +1,9 @@
 ---
-tags: dataviewjs, grouping, MOC
-state: evergreen 
-aliases: 
-- 
+state: evergreen
+aliases:
+  - 
 date: 2022-05-02 16:37
-cssclass: 
+cssclass:
 ---
 [[Dataview]]
 
