@@ -51,7 +51,7 @@ jobs:
           echo "New tag: $NEW_TAG"
 
           # 4. Configure Git and Push
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Stefan Genov"
+          git config user.email "sgenov94@gmail.com"
           git tag $NEW_TAG
           git push origin $NEW_TAG
