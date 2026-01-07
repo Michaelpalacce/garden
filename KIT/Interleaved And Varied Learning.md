@@ -3,7 +3,7 @@ parent: "[[Obsidian - Framework]]"
 state:
   - evergreen
 date: "[[2025-04-27]]"
-info: Learning multiple things and switching often.
+description: Learning multiple things and switching often.
 relates:
   - "[[Spaced Repetition]]"
 ---

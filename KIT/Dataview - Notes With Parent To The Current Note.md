@@ -5,7 +5,7 @@ state:
 date: "[[2024-06-09]]"
 links:
   - https://blacksmithgu.github.io/obsidian-dataview/reference/functions/#linkpath-display
-info: Contains a dataview query to display a table with notes that have a parent set to the current note.
+description: Contains a dataview query to display a table with notes that have a parent set to the current note.
 ---
 This could be potentially useful in the future if I want to display MOCs or Indices dynamically.
 

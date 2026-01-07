@@ -5,7 +5,7 @@ state:
 date: "[[2025-04-27]]"
 opposes:
   - "[[Procrastination]]"
-info: Keep your inboxes clean by regularly processing items
+description: Keep your inboxes clean by regularly processing items
 aliases:
   - Process Items
 ---

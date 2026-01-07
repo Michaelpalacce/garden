@@ -5,7 +5,7 @@ state:
 date: "[[2024-09-01]]"
 relates:
   - "[[Atomic Notes]]"
-info:
+description:
 ---
 > [!info]+
 > Literature note is a single note containing references to all the interesting passages in a book (or other piece of media) that you encounter. 

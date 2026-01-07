@@ -7,7 +7,7 @@ relates:
   - "[[Linking Knowledge]]"
   - "[[Four Dimensional Thinking]]"
   - "[[Reflection]]"
-info: Taking a broadened look into a topic helps with learning.
+description: Taking a broadened look into a topic helps with learning.
 ---
 Organizing knowledge and ideas into a larger context helps, that's why we discover relations, oppositions and give a parent to them.
 

@@ -3,7 +3,7 @@ parent: "[[Obsidian - Framework]]"
 state:
   - sapling
 date: "[[2024-06-15]]"
-info: Start with a basic concept and let it evolve into complex ideas
+description: Start with a basic concept and let it evolve into complex ideas
 aliases:
   - TDT
 ---

@@ -7,7 +7,7 @@ relates:
   - "[[Reflection]]"
   - "[[Putting Knowledge Into Larger Context]]"
   - "[[Linking Knowledge]]"
-info: Creating connections is the primary way of retaining information.
+description: Creating connections is the primary way of retaining information.
 ---
 > [!info]+
 > You have more [[Durable Knowledge]] when you make connections with things you already know and understand. I try to link the first occurrence of a thing in a file, even if they don't yet exist yet.

@@ -5,7 +5,7 @@ state:
 date: "[[2024-09-07]]"
 relates:
   - "[[Obsidian - How To Retain Knowledge|Learning By Taking Notes]]"
-info: What kind of information do I store, how and when?
+description: What kind of information do I store, how and when?
 aliases:
   - Hot Storage
   - Cold Storage

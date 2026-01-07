@@ -9,7 +9,7 @@ relates:
   - "[[Four Dimensional Thinking|North, West, East, South Thinking]]"
 opposes:
   - "[[Copy Pasting]]"
-info: Process of giving information new meaning by writing it down in your own words and connecting it with what you already know.
+description: Process of giving information new meaning by writing it down in your own words and connecting it with what you already know.
 aliases:
   - Elaborate
 ---

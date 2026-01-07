@@ -5,7 +5,7 @@ state:
 date: "[[2025-05-02]]"
 relates:
   - "[[Reflection|Reflect]]"
-info: Emphasize the important parts.
+description: Emphasize the important parts.
 ---
 ![[Obsidian - What Do Bold Characters Mean#^p91az5]]
 

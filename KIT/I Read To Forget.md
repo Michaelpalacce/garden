@@ -10,7 +10,7 @@ relates:
   - "[[Hot And Cold Storage]]"
 links:
   - https://mo42.bearblog.dev/read-to-forget/
-info: Reading should stimulate my thinking and produce new ideas/links.
+description: Reading should stimulate my thinking and produce new ideas/links.
 aliases:
   - Reading To Forget
 ---

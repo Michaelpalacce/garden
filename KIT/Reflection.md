@@ -8,7 +8,7 @@ relates:
   - "[[Linking Your Thinking]]"
 opposes:
   - "[[Forgetting]]"
-info: Reflect on events in your life as well as new information.
+description: Reflect on events in your life as well as new information.
 aliases:
   - Reflection Is A Form Of Practice
   - Reflect

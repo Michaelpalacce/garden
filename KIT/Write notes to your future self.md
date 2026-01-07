@@ -10,7 +10,7 @@ opposes:
   - "[[Write Notes For Someone Else]]"
 links:
   - https://youtu.be/iKFNXCItqoI?t=873
-info: Notes exist for yourself, not for someone else.
+description: Notes exist for yourself, not for someone else.
 aliases:
   - Write Notes To You
 ---

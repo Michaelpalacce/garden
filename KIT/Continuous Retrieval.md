@@ -8,7 +8,7 @@ relates:
   - "[[Spaced Repetition]]"
 opposes:
   - "[[Forgetting]]"
-info: Interrupt the process of forgetting
+description: Interrupt the process of forgetting
 aliases:
   - Recalling Information
 ---

@@ -3,7 +3,7 @@ parent: "[[000 Obsidian Index]]"
 state:
   - evergreen
   - workbench
-info: Seeded [[2022-05-01]]
+description: Seeded [[2022-05-01]]
 aliases:
   - Dataview
   - DataviewJS

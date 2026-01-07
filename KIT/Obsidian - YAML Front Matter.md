@@ -40,7 +40,7 @@ cultivate: # Optional, only when one of the states is cultivate
 - **opposes** - Optional. Notes that **oppose the current note** 
 - **links** - Optional. Links to the web. References can go here. 
 - **tags** - Note Tags [[Obsidian - Tagging System|Tagging System]]
-- **info** - used for dynamic views to provide a short overview 
+- **description** - used for dynamic views to provide a short overview 
 
 # Dynamic YAML Frontmatter 
 

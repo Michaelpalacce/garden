@@ -12,7 +12,7 @@ aliases:
   - Learning By Taking Notes
   - How To Learn
 date: "[[2023-06-13]]"
-info: Retaining Knowledge is essential for progress.
+description: Retaining Knowledge is essential for progress.
 ---
 You've done it! You've **written down your thoughts, ideas, and notes**. Now it's time to **solidify that knowledge**.
 

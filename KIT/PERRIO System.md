@@ -9,7 +9,7 @@ relates:
 opposes: 
 links:
   - https://www.youtube.com/watch?v=6GTt10GDWII
-info: Stands for Priming Encoding Reference Retrieval Interleaving Overlearning
+description: Stands for Priming Encoding Reference Retrieval Interleaving Overlearning
 aliases:
 ---
 PERRIO does not really seem like anything special. Seems like this is what normally people do when they are building a [[Obsidian - PKM|PKM]].
