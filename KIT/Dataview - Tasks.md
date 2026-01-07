@@ -1,8 +1,10 @@
 ---
-tags: dataviewjs, task
+parent:
+  - "[[Dataview]]"
 state: evergreen
-aliases:
-- 
+date: "[[2022-05-11]]"
+links:
+  - https://youtu.be/ccN5vJzXwvo
 ---
 [[Dataview]]
 
@@ -17,8 +19,3 @@ dv.taskList(
 	 .where(t=>t.text.includes(moment().format( "YYYY-MM-DD" ) ) )
  );
 ```
-
----
-Date: [[2022-05-11]]
-Links: 
-- [Reference + Idea](https://youtu.be/ccN5vJzXwvo) 

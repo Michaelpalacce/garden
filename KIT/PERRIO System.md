@@ -1,18 +1,18 @@
 ---
-parent: "[[Obsidian - Framework]]"
-tags: 
+parent: "[[Framework]]"
+tags:
 state:
   - evergreen
 date: "[[2024-06-14]]"
 relates:
   - "[[Make It Stick]]"
-opposes: 
+opposes:
 links:
   - https://www.youtube.com/watch?v=6GTt10GDWII
 description: Stands for Priming Encoding Reference Retrieval Interleaving Overlearning
 aliases:
 ---
-PERRIO does not really seem like anything special. Seems like this is what normally people do when they are building a [[Obsidian - PKM|PKM]].
+PERRIO does not really seem like anything special. Seems like this is what normally people do when they are building a [[PKM|PKM]].
 
 
 # Priming

@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state:
   - tree
 date: "[[2025-04-26]]"

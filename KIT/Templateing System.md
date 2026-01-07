@@ -1,15 +1,7 @@
 ---
-parent: "[[Obsidian - Framework]]"
-tags:
-  - obsidian
-  - template
-  - system
+parent: "[[Framework]]"
 state: evergreen
-relates: 
-opposes: 
-links: 
 date: "[[2024-06-09]]"
-aliases:
 ---
 # Overview
 

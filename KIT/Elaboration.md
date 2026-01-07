@@ -1,11 +1,11 @@
 ---
-parent: "[[Obsidian - How To Retain Knowledge]]"
+parent: "[[How To Retain Knowledge]]"
 state:
   - evergreen
 date: "[[2025-04-26]]"
 relates:
   - "[[Learning]]"
-  - "[[Obsidian - How To Retain Knowledge|Learning By Taking Notes]]"
+  - "[[How To Retain Knowledge|Learning By Taking Notes]]"
   - "[[Four Dimensional Thinking|North, West, East, South Thinking]]"
 opposes:
   - "[[Copy Pasting]]"

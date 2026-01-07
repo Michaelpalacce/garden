@@ -13,10 +13,7 @@ aliases:
 
 - [[Command & Control Center Index|C3]] - A dynamically generated place to control your garden.
 - How to structure your garden.
-	- [[Obsidian - Framework|Framework]] - How your notes and navigation is structured
-- Annotations
-	- [[Obsidian - What Do Bold Characters Mean|What Do Bold Characters Mean]]  - emphasis
-	- [[Obsidian - What Do Italic Characters Mean|What Do Italic Characters Mean]] - thoughts
+	- [[Framework|Framework]] - How your notes and navigation is structured
 - Dynamic Content
 	- [[Dataview]] - #dataviewjs #moc
 	- [[Moment.JS Formatting]] - cheatsheet on formatting

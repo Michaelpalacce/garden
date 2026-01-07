@@ -1,10 +1,9 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state:
   - evergreen
 aliases:
   - Personal Knowledge Management
-  - PKM
   - Second Brain
 date: "[[2023-06-15]]"
 ---
@@ -13,4 +12,4 @@ date: "[[2023-06-15]]"
 
 The most important part of having your own pkm is that it **should be working for you**. If you find yourself taking notes, just for the sake of [[Note Taking]], you need to rethink why you are actually making a PKM.
 
-My reason for taking notes is to [[Obsidian - How To Retain Knowledge|retain knowledge]].
+My reason for taking notes is to [[How To Retain Knowledge|retain knowledge]].

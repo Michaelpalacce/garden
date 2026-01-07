@@ -1,9 +1,10 @@
 ---
-parent: "[[000 Obsidian Index]]"
+parent:
+  - "[[Framework]]"
 state:
   - evergreen
 relates:
-  - "[[Obsidian - What Do Italic Characters Mean]]"
+  - "[[What Do Italic Characters Mean]]"
   - "[[Emphasize]]"
 date: "[[2022-05-28]]"
 ---

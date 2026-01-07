@@ -1,13 +1,7 @@
 ---
 parent: "[[Dataview]]"
-tags:
-  - dataview
-  - example
-  - snippet
-  - time
-  - dataviewjs
 state: evergreen
-aliases: 
+aliases:
 date: "[[2024-06-02]]"
 relates:
   - "[[Moment.JS Formatting]]"

@@ -1,11 +1,11 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state:
   - evergreen
 date: "[[2024-09-02]]"
 relates:
-  - "[[Obsidian - Alias System]]"
-  - "[[Obsidian - Templates System]]"
+  - "[[Alias System]]"
+  - "[[Templateing System]]"
 ---
 > [!idea]+
 > Tags are used **solely for [[Journal|Journaling]]** and for **writing quick thoughts** about a **piece of media** like [[Anime]] or [[Reading|Books]].

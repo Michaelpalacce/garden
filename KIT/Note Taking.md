@@ -1,9 +1,9 @@
 ---
-parent: "[[Obsidian - NoMa Method]]"
+parent: "[[NoMa Method]]"
 state:
   - evergreen
 relates:
-  - "[[Obsidian - How To Retain Knowledge|Learning By Taking Notes]]"
+  - "[[How To Retain Knowledge|Learning By Taking Notes]]"
 opposes:
   - "[[Note Making]]"
 date: "[[2023-06-13]]"

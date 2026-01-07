@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - Guiding Principles]]"
+parent: "[[Guiding Principles]]"
 state:
   - evergreen
 date: "[[2025-12-23]]"

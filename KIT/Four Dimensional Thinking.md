@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state:
   - evergreen
 date: "[[2023-07-09]]"
@@ -8,7 +8,7 @@ aliases:
 links:
   - https://www.youtube.com/watch?v=5O46Rqh5zHE
 ---
-[[Obsidian - Framework]]
+[[Framework]]
 
 > [!success] ~ What ? ~
 > A way to discover new connections and find potential similarities between your notes as well as create new ones. ^[https://www.youtube.com/watch?v=5O46Rqh5zHE]
@@ -23,7 +23,7 @@ Furthermore I try to add sources when possible
 
 # West - What's Similar To X
 
-These are the links that are made along the way. Additional Links may be provided in the [[Obsidian - YAML Front Matter|YAML Frontmatter]].
+These are the links that are made along the way. Additional Links may be provided in the [[YAML Front Matter|YAML Frontmatter]].
 
 # East - What's Opposite Of X
 

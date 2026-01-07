@@ -1,13 +1,11 @@
 ---
+parent:
+  - "[[Dataview]]"
 state: evergreen
-aliases:
-  - 
-date: 2022-05-02 16:37
-cssclass:
+date: "[[2022-05-02]]"
+links:
+  - https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/
 ---
-[[Dataview]]
-
-
 Using the dataviewjs codeblock, you can do some advanced grouping.
 
 ## Map Of Content
@@ -19,10 +17,3 @@ Using the dataviewjs codeblock, you can do some advanced grouping.
 
 ### Tags are missing
 Restart Obsidian
-
-
-
-
----
-Links: 
-- [Reference](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/)

@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state:
   - evergreen
 aliases:

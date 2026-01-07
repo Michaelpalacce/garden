@@ -15,7 +15,7 @@ A way to organize your current thoughts 💡. Whenever you want to add something
 
 The MOC is generated dynamically based on the state of the page. If the state is workbench, then it will appear in the list.
 
-An optional [[Obsidian - YAML Front Matter|YAML Front Matter]] `info` can be set which will be displayed.
+An optional [[YAML Front Matter|YAML Front Matter]] `info` can be set which will be displayed.
 
 
 # Workbenches

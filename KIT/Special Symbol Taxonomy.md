@@ -1,10 +1,10 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state:
   - evergreen
 date: "[[2024-06-17]]"
 ---
-Method of classification and assignment of classifications to a collection. This targets the state of a note and not everything that can go in the [[Obsidian - YAML Front Matter|YAML Frontmatter]] ( Read that for more details )
+Method of classification and assignment of classifications to a collection. This targets the state of a note and not everything that can go in the [[YAML Front Matter|YAML Frontmatter]] ( Read that for more details )
 
 # Classifying status of notes
 
@@ -18,7 +18,7 @@ When searching, you should be combining multiple of these special symbols/keywor
 
 ## State Symbols
 
-Symbols that describe the state of the note. These must be added to the `state` [[Obsidian - YAML Front Matter]]
+Symbols that describe the state of the note. These must be added to the `state` [[YAML Front Matter]]
 - Progress Tags - Denoting tags that specify the completeness of a note. Only one per note 
 	1. **seed** - The note is just a seed. The idea is forming. *Example: Empty note, with properties and a proper place in the vault.*
 	2. **sapling** - The note has sprouted from the `seed` and is growing. *Example: added [[Four Dimensional Thinking|relates, opposes and links]]*

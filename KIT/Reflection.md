@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - How To Retain Knowledge]]"
+parent: "[[How To Retain Knowledge]]"
 state:
   - evergreen
 date: "[[2025-04-26]]"

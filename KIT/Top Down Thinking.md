@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state:
   - sapling
 date: "[[2024-06-15]]"

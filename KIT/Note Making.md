@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - NoMa Method]]"
+parent: "[[NoMa Method]]"
 state:
   - evergreen
 date: "[[2023-06-13]]"

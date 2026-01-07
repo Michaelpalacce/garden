@@ -1,9 +1,10 @@
 ---
-parent: "[[000 Obsidian Index]]"
+parent:
+  - "[[Framework]]"
 state:
   - evergreen
 relates:
-  - "[[Obsidian - What Do Bold Characters Mean]]"
+  - "[[What Do Bold Characters Mean]]"
 date: "[[2022-05-18]]"
 ---
 > [!done] ~ What ? ~

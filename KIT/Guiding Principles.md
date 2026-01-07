@@ -1,8 +1,8 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state: evergreen
 aliases:
-- Framework Getting Started
+  - Framework Getting Started
 date: "[[2023-06-14]]"
 ---
 1. [[Linking Your Thinking]]
@@ -12,8 +12,8 @@ date: "[[2023-06-14]]"
 3. Order from chaos
 	- Don't think too much about where you are putting notes, rather focus on capturing data.
 4. Dynamicity of data
-	- Data should be dynamically retrievable. Utilizing the [[Obsidian - YAML Front Matter|YAML Frontmatter]] as well as other aspects of a note.
+	- Data should be dynamically retrievable. Utilizing the [[YAML Front Matter|YAML Frontmatter]] as well as other aspects of a note.
 5. [[Atomic Notes]]
 6. [[Hot And Cold Storage]]
-7. [[Obsidian - How To Retain Knowledge|Retaining Knowledge]]
+7. [[How To Retain Knowledge|Retaining Knowledge]]
 8. [[File Over App]]

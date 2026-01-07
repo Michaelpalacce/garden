@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state:
   - evergreen
 aliases:
@@ -33,13 +33,13 @@ cultivate: # Optional, only when one of the states is cultivate
 - **parent** - Provide one or more links to parents
 ## Optional 
 
-- **aliases** - Optional. Good to add as many as possible and is highly encouraged. Practices are detailed in the [[Obsidian - Alias System|Alias System]]
+- **aliases** - Optional. Good to add as many as possible and is highly encouraged. Practices are detailed in the [[Alias System|Alias System]]
 - **cultivate** - Optional. When specific instructions are needed for what is to happen to the note. Will be displayed in [[Command & Control Center Index|C3]]. Note that this must be SPECIFICALLY for note related options.
 - **research** - Optional. This is a tag saying you want to get better at something. Similar to cultivate
 - **relates** - Optional. Notes that are **related and connected** to the **current one**
 - **opposes** - Optional. Notes that **oppose the current note** 
 - **links** - Optional. Links to the web. References can go here. 
-- **tags** - Note Tags [[Obsidian - Tagging System|Tagging System]]
+- **tags** - Note Tags [[Tagging System|Tagging System]]
 - **description** - used for dynamic views to provide a short overview 
 
 # Dynamic YAML Frontmatter 

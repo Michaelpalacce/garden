@@ -1,7 +1,7 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 relates:
-  - "[[Obsidian - NoMa Method|NoMa Method]]"
+  - "[[NoMa Method|NoMa Method]]"
   - "[[000 Nursery Index|Nursery]]"
 state:
   - evergreen

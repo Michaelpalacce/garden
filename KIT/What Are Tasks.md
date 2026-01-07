@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state: evergreen
 date: "[[2023-07-11]]"
 ---

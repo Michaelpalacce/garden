@@ -1,9 +1,5 @@
 ---
-parent: "[[Obsidian - Framework]]"
-tags:
-  - obsidian
-  - alias
-  - system
+parent: "[[Framework]]"
 state: evergreen
 aliases:
   - Alias System

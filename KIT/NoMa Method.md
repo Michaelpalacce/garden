@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - Framework]]"
+parent: "[[Framework]]"
 state:
   - evergreen
 date: "[[2023-06-13]]"
@@ -23,4 +23,4 @@ date: "[[2023-06-13]]"
 		- It's similar because
 		- It's different because
 
-At the end of the process, make sure to collect your ideas in the daily note and [[Obsidian - How To Retain Knowledge|retain]] at the end. 
+At the end of the process, make sure to collect your ideas in the daily note and [[How To Retain Knowledge|retain]] at the end. 

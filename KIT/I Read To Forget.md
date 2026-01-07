@@ -20,9 +20,9 @@ aliases:
 > [!warning]+ [[Forgetting]] 
 > **More than 90% of what is read is forgotten**. 
 
-This backs up the idea of keeping a [[Obsidian - PKM|Second Brain]]. 
+This backs up the idea of keeping a [[PKM|Second Brain]]. 
 
-**Important information** needs to be [[Obsidian - How To Retain Knowledge|retained]].
+**Important information** needs to be [[How To Retain Knowledge|retained]].
 
 **Don't [[Learning|learn]] for the sake of remembering everything**, but to form [[Linking Your Thinking|links]] and [[Stimulating New Ideas|stimulate new ideas]].
 

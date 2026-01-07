@@ -1,5 +1,5 @@
 ---
-parent: "[[Obsidian - How To Retain Knowledge]]"
+parent: "[[How To Retain Knowledge]]"
 state:
   - evergreen
 relates:
@@ -43,7 +43,7 @@ This is the **most important part**. At this point you've wasted time and resour
 
 - **Analyze what you've done** 
 - **Write down any missing connections** so if a **similar situation** occurs it will be traced back and potentially **resolved faster** 
-- [[Obsidian - How To Retain Knowledge|Retaining Knowledge]]
+- [[How To Retain Knowledge|Retaining Knowledge]]
 
 # When does learning happen? 
 
