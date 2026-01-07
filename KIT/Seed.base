@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Seedlings
+    filters:
+      and:
+        - state.containsAny("seed")
+        - file.folder != "Assets"
+        - file.folder != "Buttons"
+        - file.folder != "Templates"
+        - kind != "book"
+        - kind != "anime"
+        - kind != "task"
+        - file.folder != "DnD"
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.size
+        direction: ASC

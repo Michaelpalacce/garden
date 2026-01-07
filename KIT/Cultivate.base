@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Cultivate
+    filters:
+      and:
+        - "!cultivate.isEmpty()"
+    order:
+      - file.name
+      - cultivate
+      - date
+    columnSize:
+      file.name: 143
+      note.cultivate: 153

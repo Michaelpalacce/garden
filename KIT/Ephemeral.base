@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Ephemeral
+    filters:
+      or:
+        - state.containsAny("ephemeral")
+        - and:
+            - state.isEmpty()
+            - file.folder != "Templates"
+            - file.ext != "base"
+            - file.ext != "canvas"
+            - file.ext != "zip"
+    order:
+      - file.name
+      - state

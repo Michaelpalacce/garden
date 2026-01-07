@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - state.containsAny("core")
+    order:
+      - file.name
+      - info
