@@ -17,6 +17,7 @@ jobs:
         with:
           # Fetch all history so we can push back to the branch
           fetch-depth: 0
+          token: "${{ secrets.PAT }}"
 
       - name: Create and Push Tag
         run: |
