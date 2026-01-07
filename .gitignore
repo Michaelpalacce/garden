@@ -15,3 +15,5 @@
 
 !.github/
 !.github/**
+
+!index.md

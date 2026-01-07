@@ -1,1 +1,9 @@
-.gitignore
+# IGNORE ALL
+# This is a precaution. If you want to add something, use `!SomethingName` after this
+# 1. Ignore everything
+*
+
+!KIT/
+!KIT/**
+
+!index.md
