@@ -6,4 +6,4 @@ RUN rm -rf quartz/ && \
   rm -rf Dockerfile
 
 FROM ghcr.io/jackyzha0/quartz
-COPY --from=builder /temp /content
+COPY --from=builder /temp /usr/src/app/content
