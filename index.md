@@ -1,8 +1,8 @@
 ---
 title: Home
-desciption: Hey there
+desciption: Sgenov Second Brain Home
 alias:
-- Home Alias
+- Home
 ---
 
 

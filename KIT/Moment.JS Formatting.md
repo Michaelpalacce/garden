@@ -4,6 +4,6 @@ state:
   - evergreen
 date: "[[2022-05-10]]"
 ---
-![[Pasted image 20230617202817.png]]
+![[Assets/Pasted image 20230617202817.png]]
 
 - Reference: https://devhints.io/moment
