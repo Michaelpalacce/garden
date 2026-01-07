@@ -1,9 +1,5 @@
 ---
 parent: "[[Obsidian - Framework]]"
-tags:
-  - kit
-  - obsidian
-  - special-symbol-taxonomy
 state:
   - evergreen
 date: "[[2024-06-17]]"
