@@ -1,5 +1,4 @@
-name: Increment Tag on Main
-
+name: Release
 on:
   workflow_dispatch:
     inputs:
