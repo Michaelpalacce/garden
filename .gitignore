@@ -12,9 +12,11 @@
 !.github/
 !.github/**
 
+!quartz/
+!quartz/**
+
 # CONTENT that will be published
 !KIT/
 !KIT/**
 
 !index.md
-!quartz.config.ts
