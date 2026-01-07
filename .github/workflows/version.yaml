@@ -21,15 +21,16 @@ jobs:
       contents: write
       repository-projects: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v5
         with:
-          persist-credentials: false
           fetch-depth: 0
-
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
           token: "${{ secrets.PAT }}"
+
+      - name: Configure Git
+        run: |
+          git config user.name "Github Action"
+          git config user.email "github-action@users.noreply.github.com"
 
       - name: Calculate and Push New Tag
         run: |
@@ -61,11 +62,4 @@ jobs:
           echo "New tag: $NEW_TAG"
 
           git tag $NEW_TAG
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          # Using a PAT beacuse if we use GITHUB_TOKEN the Docker action will not trigger
-          github_token: ${{ secrets.PAT }}
-          branch: ${{ github.ref }}
-          tags: true
+          git push origin $NEW_TAG
