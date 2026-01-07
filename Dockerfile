@@ -5,5 +5,5 @@ COPY ./quartz/index.md .
 RUN rm -rf quartz/ && \
   rm -rf Dockerfile
 
-FROM scratch
+FROM ghcr.io/jackyzha0/quartz
 COPY --from=builder /temp /content
