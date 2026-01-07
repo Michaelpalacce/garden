@@ -1,4 +1,6 @@
 FROM ghcr.io/jackyzha0/quartz
 
-COPY . /usr/src/app/content
-COPY quartz/* /usr/src/app
+WORKDIR /usr/src/app
+COPY . ./content
+COPY ./quartz .
+RUN rm -rf ./content/quartz

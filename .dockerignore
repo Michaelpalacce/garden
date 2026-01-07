@@ -3,6 +3,10 @@
 # 1. Ignore everything
 *
 
+!quartz/
+!quartz/**
+
+# CONTENT
 !KIT/
 !KIT/**
 
