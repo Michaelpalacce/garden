@@ -3,8 +3,6 @@ parent: "[[Obsidian - Framework]]"
 state: evergreen
 date: "[[2023-07-09]]"
 ---
-[[Obsidian - Framework]]
-
 > [!success] ~ What ? ~
 > Atomic notes are notes that clearly capture [[Question Evidence Conclusion Note Taking|QECs]] of an idea. 
 > They are note that hold [[Single Responsibility Principle|single responsibility]]. They capture a single idea.
