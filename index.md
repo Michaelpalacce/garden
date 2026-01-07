@@ -1,6 +1,11 @@
-```
-title: Garden Home
-```
+---
+title: Home
+desciption: Hey there
+alias:
+- Home Alias
+---
+
+
 # Welcome!
 
-This is the base of my quartz install. WIP
+Check out [[KIT/000 Obsidian Index|Obsidian]]!

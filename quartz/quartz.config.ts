@@ -27,28 +27,28 @@ const config: QuartzConfig = {
 			},
 			colors: {
 				lightMode: {
-					light: "#eff1f5",       // Base (Latte)
-					lightgray: "#e6e9ef",   // Surface0
-					gray: "#bcc0cc",        // Surface1
-					darkgray: "#4c4f69",    // Text
-					dark: "#dce0e8",        // Crust
-					secondary: "#1e66f5",   // Blue
-					tertiary: "#179287",    // Teal
-					highlight: "rgba(30, 102, 245, 0.15)", // Blue with opacity
-					textHighlight: "#df8e1e88",            // Yellow with opacity
+					light: "#faf8f8",
+					lightgray: "#e5e5e5",
+					gray: "#b8b8b8",
+					darkgray: "#4e4e4e",
+					dark: "#2b2b2b",
+					secondary: "#284b63",
+					tertiary: "#84a59d",
+					highlight: "rgba(143, 159, 169, 0.15)",
+					textHighlight: "#fff23688",
 				},
 				darkMode: {
-					light: "#1e1e2e",       // Base (Mocha)
-					lightgray: "#313244",   // Surface0
-					gray: "#45475a",        // Surface1
-					darkgray: "#cdd6f4",    // Text
-					dark: "#11111b",        // Crust
-					secondary: "#89b4fa",   // Blue
-					tertiary: "#94e2d5",    // Teal
-					highlight: "rgba(137, 180, 250, 0.15)", // Blue with opacity
-					textHighlight: "#f9e2af88",             // Yellow with opacity
+					light: "#1e1e2e", // Background
+					lightgray: "#b4befe", // Borders
+					gray: "#cba6f7", // Search
+					darkgray: "#a6adc8", // Text
+					dark: "#9399b2", // Sidebar Links
+					secondary: "#cba6f7", // Bold Links
+					tertiary: "#cba6f7", // Selected Sidebar
+					highlight: "#1e1e2e", // links
+					textHighlight: "#ffffff", // no clue
 				},
-			}
+			},
 		},
 	},
 	plugins: {
