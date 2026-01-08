@@ -1,3 +1,3 @@
 FROM scratch
 
-COPY . ./content
+COPY . .
