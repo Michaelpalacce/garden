@@ -8,6 +8,7 @@ relates:
 description: Who will censor artificial intelligences?
 aliases:
   - Thoughts about government of AI generation
+kind: blog
 ---
 This came to me after arguing with an acquaintance of mine regarding AI, where I was explaining to her what are the cons of artificial intelligence. 
 

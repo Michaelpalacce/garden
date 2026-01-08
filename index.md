@@ -19,4 +19,5 @@ Check out [[KIT/000 Obsidian Index|My KIT]] if you want to know more how I take 
 
 # Blogs
 
+- [[Work For Peace, Not Money]] to be happier overall.
 - [[On The Governance Of AI]] and what it means to me as a father.
