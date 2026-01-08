@@ -21,3 +21,9 @@ Check out [[KIT/000 Obsidian Index|My KIT]] if you want to know more how I take 
 
 - [[Work For Peace, Not Money]] to be happier overall.
 - [[On The Governance Of AI]] and what it means to me as a father.
+
+
+# Map Of Content
+
+- My [[Lifestyle]] a part of my garden, where I plan to cultivate what an ideal lifestyle is for me.
+
