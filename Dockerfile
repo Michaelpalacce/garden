@@ -1,4 +1,3 @@
-FROM ghcr.io/michaelpalacce/quartz:v1.2.0
+FROM scratch
 
-WORKDIR /usr/src/app
 COPY . ./content
