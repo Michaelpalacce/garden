@@ -1,5 +1,5 @@
 ---
-parent: "[[Artificial Inteligence]]"
+parent: "[[Artificial Intelligence]]"
 state:
   - sapling
 date: "[[2025-04-16]]"

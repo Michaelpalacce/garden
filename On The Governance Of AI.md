@@ -1,5 +1,5 @@
 ---
-parent: "[[Artificial Inteligence]]"
+parent: "[[Artificial Intelligence]]"
 state:
   - evergreen
 date: "[[2026-01-04]]"
