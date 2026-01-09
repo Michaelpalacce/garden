@@ -7,6 +7,7 @@ date: "[[2026-01-08]]"
 kind: quote
 from: Patrick Rothfuss
 description: From the Kingkiller chronicles
+publish: true
 ---
 > [!quote]+
 > The desire for knowledge shapes a man.

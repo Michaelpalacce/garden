@@ -6,6 +6,7 @@ date: "[[2025-12-31]]"
 relates:
   - "[[Gym Schedule]]"
 description: My lifestyle
+publish: true
 ---
 > [!info]+
 > Some guiding Principles in life. 

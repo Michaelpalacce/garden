@@ -7,6 +7,7 @@ aliases:
 date: "[[2022-06-01]]"
 relates: 
 opposes:
+publish: true
 ---
 > [!done] ~ What ? ~
 > Below is a list and some examples of Callouts.

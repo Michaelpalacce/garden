@@ -6,6 +6,7 @@ date: "[[2025-05-02]]"
 relates:
   - "[[Reflection|Reflect]]"
 description: Emphasize the important parts.
+publish: true
 ---
 ![[What Do Bold Characters Mean#^p91az5]]
 

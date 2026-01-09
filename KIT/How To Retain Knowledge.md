@@ -13,6 +13,7 @@ aliases:
   - How To Learn
 date: "[[2023-06-13]]"
 description: Retaining Knowledge is essential for progress.
+publish: true
 ---
 You've done it! You've **written down your thoughts, ideas, and notes**. Now it's time to **solidify that knowledge**.
 

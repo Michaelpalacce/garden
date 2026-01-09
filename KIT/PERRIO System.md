@@ -11,6 +11,7 @@ links:
   - https://www.youtube.com/watch?v=6GTt10GDWII
 description: Stands for Priming Encoding Reference Retrieval Interleaving Overlearning
 aliases:
+publish: true
 ---
 PERRIO does not really seem like anything special. Seems like this is what normally people do when they are building a [[PKM|PKM]].
 

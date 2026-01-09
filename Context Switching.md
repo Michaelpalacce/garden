@@ -5,6 +5,7 @@ state: evergreen
 aliases:
   - Attention Residue
 date: "[[2023-07-11]]"
+publish: true
 ---
 Everything we work on has **activation energy**. It takes time to get in the [[Flow]]. 
 

@@ -5,6 +5,7 @@ state:
 date: "[[2023-07-01]]"
 relates:
   - "[[Time Saving]]"
+publish: true
 ---
 # Prioritise 
 

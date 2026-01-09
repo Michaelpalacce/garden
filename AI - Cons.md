@@ -10,6 +10,7 @@ links:
 description: Downsides of AI
 aliases:
   - Artificial Intelligence - Cons
+publish: true
 ---
 # Slows down learning
 

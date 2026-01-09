@@ -4,6 +4,7 @@ state:
   - evergreen
 aliases:
   - Obsidian
+publish: true
 ---
 > [!done] ~ ObsidianMD ~ 📝
 > 

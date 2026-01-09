@@ -6,6 +6,7 @@ aliases:
   - How To Be Productive
   - How To Motivate Myself
 date: "[[2022-06-01]]"
+publish: true
 ---
 # Map Of Content
 

@@ -5,6 +5,7 @@ state:
 relates:
   - "[[Literature Notes]]"
 date: "[[2023-07-19]]"
+publish: true
 ---
 > [!success] ~ What ? ~
 > A note is evergreen when it is **self-containing**. It **hold all the needed information** to describe an idea, **has a place** in the vault, contains all the **needed metadata**.

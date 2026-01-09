@@ -7,6 +7,7 @@ relates:
   - "[[Dataview - Grouping by State]]"
   - "[[Dataview - Grouping of Files]]"
 opposes:
+publish: true
 ---
 # Grouping with Sort
 

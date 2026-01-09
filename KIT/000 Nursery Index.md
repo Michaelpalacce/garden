@@ -3,6 +3,7 @@ parent: "[[Command & Control Center Index|Command & Control Center]]"
 state:
   - evergreen
 date: "[[2022-06-01]]"
+publish: true
 ---
 > [!done] ~ What ? ~
 > Welcome to your Nursery! 🌲

@@ -6,6 +6,7 @@ date: "[[2025-04-27]]"
 description: Learning multiple things and switching often.
 relates:
   - "[[Spaced Repetition]]"
+publish: true
 ---
 > [!info]
 > **Interleaved practice** involves **mixing different skills or topics within a single study session**, while **varied practice** focuses on **performing the same skill in different settings and contexts**.

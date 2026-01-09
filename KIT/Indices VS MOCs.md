@@ -3,6 +3,7 @@ parent: "[[Framework]]"
 state:
   - evergreen
 date: "[[2023-06-14]]"
+publish: true
 ---
 # What Is A MOC
 

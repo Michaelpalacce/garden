@@ -3,6 +3,7 @@ parent: "[[Dataview - Grouping]]"
 state:
   - evergreen
 date: "[[2022-05-03]]"
+publish: true
 ---
 # Grouping of files
 

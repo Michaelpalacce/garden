@@ -5,6 +5,7 @@ state:
 date: "[[2025-02-20]]"
 aliases:
   - How to make good links in obsidian
+publish: true
 ---
 # Whole Files
 

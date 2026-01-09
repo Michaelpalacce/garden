@@ -5,6 +5,7 @@ state:
 aliases:
   - Organizational Principles
 date: "[[2023-06-14]]"
+publish: true
 ---
 # Avoid Creating A Hierarchical Folder Structure
 

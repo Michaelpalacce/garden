@@ -13,6 +13,7 @@ links:
 description: Notes exist for yourself, not for someone else.
 aliases:
   - Write Notes To You
+publish: true
 ---
 > [!tip]
 > What will future you be thinking about to find this information?

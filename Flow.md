@@ -7,6 +7,7 @@ aliases:
 opposes:
   - "[[Ruining Development Flow]]"
 date: "[[2023-06-14]]"
+publish: true
 ---
 > [!success] ~ What ? ~
 > Flow is a state of extreme concentration that can help you accomplish all your [[Goals|Goals]]. When you are so concentrated on the task at hand and your brain is working on full power to complete it. 

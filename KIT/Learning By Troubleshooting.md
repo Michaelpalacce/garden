@@ -10,6 +10,7 @@ links:
   - https://www.youtube.com/watch?v=ZFi-LTpUGHA&list=WL&index=5
 aliases:
   - Learning From Problems
+publish: true
 ---
 # The Problem Starts 
 

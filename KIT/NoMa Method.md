@@ -3,6 +3,7 @@ parent: "[[Framework]]"
 state:
   - evergreen
 date: "[[2023-06-13]]"
+publish: true
 ---
 > [!success] ~ What ? ~
 > NoMa stands for note making. It is the distinction between note-taking which results into knowledge that is easily lost and note-making that leads to knowledge being retained

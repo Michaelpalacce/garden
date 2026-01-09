@@ -6,6 +6,7 @@ aliases:
   - Personal Knowledge Management
   - Second Brain
 date: "[[2023-06-15]]"
+publish: true
 ---
 > [!success] ~ What ? ~
 > **P**ersonal **K**nowledge **M**anagement is a process of **storing information** that will help you **make meaningful connections** and **assist you** in **extracting it** when the time comes.

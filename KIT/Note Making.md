@@ -5,6 +5,7 @@ state:
 date: "[[2023-06-13]]"
 opposes:
   - "[[Note Taking]]"
+publish: true
 ---
 # Overview
 

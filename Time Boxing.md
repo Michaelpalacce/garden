@@ -8,6 +8,7 @@ date: "[[2024-10-07]]"
 relates:
   - "[[Time Saving]]"
 description: Creating dedicated time slots for productivity and better management of your time.
+publish: true
 ---
 # Write down what needs to be done
 

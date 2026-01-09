@@ -12,6 +12,7 @@ description: Reflect on events in your life as well as new information.
 aliases:
   - Reflection Is A Form Of Practice
   - Reflect
+publish: true
 ---
 **Reflect on issues and events** that happen during the day. **Examine different situations** and think **how you could have handled them better**. [[Try New Things]] next time you encounter that problem.
 

@@ -3,6 +3,7 @@ parent: "[[Framework]]"
 state:
   - evergreen
 date: "[[2024-06-17]]"
+publish: true
 ---
 Method of classification and assignment of classifications to a collection. This targets the state of a note and not everything that can go in the [[YAML Front Matter|YAML Frontmatter]] ( Read that for more details )
 

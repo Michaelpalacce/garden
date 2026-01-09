@@ -7,6 +7,7 @@ relates:
 opposes:
   - "[[Note Making]]"
 date: "[[2023-06-13]]"
+publish: true
 ---
 # Overview
 

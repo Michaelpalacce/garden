@@ -4,6 +4,7 @@ state: evergreen
 aliases:
   - Alias System
 date: "[[2024-06-02]]"
+publish: true
 ---
 # Overview
 

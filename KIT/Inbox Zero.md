@@ -8,6 +8,7 @@ opposes:
 description: Keep your inboxes clean by regularly processing items
 aliases:
   - Process Items
+publish: true
 ---
 # Inbox Zero
 

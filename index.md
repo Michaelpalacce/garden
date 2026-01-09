@@ -3,6 +3,7 @@ title: Home
 desciption: garden.sgenov.dev home page
 state:
   - sapling
+publish: true
 ---
 # Welcome!
 

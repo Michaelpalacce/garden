@@ -2,6 +2,7 @@
 parent: "[[Framework]]"
 state: evergreen
 date: "[[2023-07-09]]"
+publish: true
 ---
 > [!success] ~ What ? ~
 > Atomic notes are notes that clearly capture [[Question Evidence Conclusion Note Taking|QECs]] of an idea. 

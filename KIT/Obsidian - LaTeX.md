@@ -3,6 +3,7 @@ parent: "[[000 Obsidian Index]]"
 state:
   - evergreen
 date: "[[2025-03-25]]"
+publish: true
 ---
 Example:
 $$

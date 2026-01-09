@@ -5,6 +5,7 @@ state:
 aliases:
   - Learning System
   - How I Learn
+publish: true
 ---
 # Overview
 

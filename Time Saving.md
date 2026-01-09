@@ -8,6 +8,7 @@ relates:
   - "[[Time Management]]"
 links:
   - https://www.youtube.com/watch?v=KCDGMeM2WZg
+publish: true
 ---
 # Habits that save time
 

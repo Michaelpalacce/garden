@@ -4,6 +4,7 @@ state:
 aliases:
   - Workbench
 parent: "[[Command & Control Center Index|CCC]]"
+publish: true
 ---
 > [!done] What?
 > 

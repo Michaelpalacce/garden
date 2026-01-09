@@ -8,6 +8,7 @@ opposes:
 description: Pros of AI
 aliases:
   - Artificial Intelligence - Pros
+publish: true
 ---
 # Simplifies Large DataSets
 

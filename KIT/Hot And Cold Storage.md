@@ -9,6 +9,7 @@ description: What kind of information do I store, how and when?
 aliases:
   - Hot Storage
   - Cold Storage
+publish: true
 ---
 > [!info]+
 > **Cold storage** is **information that I don't work with often**, while **Hot storage** is one that I **use on a daily basis**. 

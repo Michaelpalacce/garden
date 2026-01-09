@@ -7,6 +7,7 @@ relates:
 aliases:
   - Pathways
 date: "[[2023-06-15]]"
+publish: true
 ---
 > [!success] ~ What ? ~
 > Each forest contains pathways that animals take. Shortcuts and well trodden paths that connect different parts of the whole. Just like the [[Neurological|neurological]] pathways in your [[Brain]]. 

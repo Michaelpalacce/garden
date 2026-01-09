@@ -6,6 +6,7 @@ date: "[[2024-09-02]]"
 relates:
   - "[[Alias System]]"
   - "[[Templateing System]]"
+publish: true
 ---
 > [!idea]+
 > Tags are used **solely for [[Journal|Journaling]]** and for **writing quick thoughts** about a **piece of media** like [[Anime]] or [[Reading|Books]].

@@ -13,6 +13,7 @@ links:
 description: Reading should stimulate my thinking and produce new ideas/links.
 aliases:
   - Reading To Forget
+publish: true
 ---
 > [!success] Concept
 > In today's day and age, **given the amount of compelling works** that **need our attention**, we are **limited in how much we can actually ingest**.

@@ -3,6 +3,7 @@ parent: "[[Framework]]"
 state:
   - evergreen
 date: "[[2022-05-09]]"
+publish: true
 ---
 > [!success] ~ How ? ~
 > **Utilize your daily note**. There is a section for **quick capture** if things need to be written down fast. 

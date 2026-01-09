@@ -5,6 +5,7 @@ aliases:
 date: "[[2024-06-02]]"
 relates:
   - "[[Moment.JS Formatting]]"
+publish: true
 ---
 Dataview supports [[Moment.JS]] **natively**. This allows us to **format time** as we see fit. 
 

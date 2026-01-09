@@ -7,6 +7,7 @@ aliases:
   - North, West, East, South Thinking
 links:
   - https://www.youtube.com/watch?v=5O46Rqh5zHE
+publish: true
 ---
 [[Framework]]
 

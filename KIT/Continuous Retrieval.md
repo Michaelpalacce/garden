@@ -11,6 +11,7 @@ opposes:
 description: Interrupt the process of forgetting
 aliases:
   - Recalling Information
+publish: true
 ---
 **Continuous retrieval** of information **adds loops and connections** to that problem/memory making it **faster and easier to retrieve**.
 

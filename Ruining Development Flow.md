@@ -12,6 +12,7 @@ aliases:
   - Constant Meetings
 opposes:
   - "[[Flow]]"
+publish: true
 ---
 > [!abstract] Interrupting Flow
 > After a certain [[Hackaton]], a survey was sent over to me to give my thoughts about it. See, the management thought it was great and that they'd like to do more of these hackatons moving forward. My vision was different, as I was **constantly interrupted** to the point where I had to go **watch a tree being planted** rather than **doing actual work**. 

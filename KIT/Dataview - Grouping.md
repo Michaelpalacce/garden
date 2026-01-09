@@ -5,6 +5,7 @@ state: evergreen
 date: "[[2022-05-02]]"
 links:
   - https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/
+publish: true
 ---
 Using the dataviewjs codeblock, you can do some advanced grouping.
 

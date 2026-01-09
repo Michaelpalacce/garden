@@ -6,6 +6,7 @@ date: "[[2025-03-29]]"
 description: AI revolution is upon us.
 aliases:
   - AI
+publish: true
 ---
 # Map Of Content
 

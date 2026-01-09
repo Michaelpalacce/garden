@@ -12,6 +12,7 @@ opposes:
 description: Minimalism is a lifestyle and art movement focused on intentionality, stripping away the non-essential to focus on what truly adds value
 aliases:
   -
+publish: true
 ---
 > [!info]+
 > Minimalism is a lifestyle and art movement focused on intentionality, stripping away the non-essential to focus on what truly adds value.

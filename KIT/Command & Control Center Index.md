@@ -5,6 +5,7 @@ state:
 aliases:
   - C3
   - CCC
+publish: true
 ---
 > Consolidates all the tasks you have as well as a list of notes that need your attention.
 > - Head over to the [[000 Nursery Index|Nursery]] to nurture your notes further.

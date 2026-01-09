@@ -5,6 +5,7 @@ state: evergreen
 date: "[[2022-05-11]]"
 links:
   - https://youtu.be/ccN5vJzXwvo
+publish: true
 ---
 [[Dataview]]
 

@@ -8,6 +8,7 @@ relates:
 date: "[[2023-06-14]]"
 links:
   - https://youtu.be/3kKB6wYqP7Y
+publish: true
 ---
 What is the difference between the two, or rather do I personally draw a line?
 

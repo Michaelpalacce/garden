@@ -6,6 +6,7 @@ state:
 relates:
   - "[[What Do Bold Characters Mean]]"
 date: "[[2022-05-18]]"
+publish: true
 ---
 > [!done] ~ What ? ~
 > 

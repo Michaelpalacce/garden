@@ -4,6 +4,7 @@ state: evergreen
 aliases:
   - Framework Getting Started
 date: "[[2023-06-14]]"
+publish: true
 ---
 1. [[Linking Your Thinking]]
 	- Your brain uses relations and links to learn, remember and understand and so should your vault.

@@ -2,6 +2,7 @@
 parent: "[[Framework]]"
 state: evergreen
 date: "[[2023-07-11]]"
+publish: true
 ---
 Tasks in my vault are all automatically shown in [[Command & Control Center Index|C3]]. 
 

@@ -3,6 +3,7 @@ parent: "[[000 Obsidian Index]]"
 state:
   - evergreen
 aliases:
+publish: true
 ---
 > [!done] ~ How ? ~
 > Images can be resized by appending `|` after the name and specifying the `widthxheight`.

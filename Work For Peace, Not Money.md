@@ -10,6 +10,7 @@ opposes:
   - "[[Happiness]]"
 description: What are we truly working for?
 kind: blog
+publish: true
 ---
 Money is truly everything in this [[Capitalism|capitalistic]] world we live in, but in spite of all that I say screw it!
 

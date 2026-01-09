@@ -5,6 +5,7 @@ state:
 aliases:
   - How To Name Notes
 date: "[[2023-07-09]]"
+publish: true
 ---
 # Prefixes
 

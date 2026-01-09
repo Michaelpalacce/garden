@@ -12,6 +12,7 @@ opposes:
 description: Process of giving information new meaning by writing it down in your own words and connecting it with what you already know.
 aliases:
   - Elaborate
+publish: true
 ---
 > [!note]+
 > Elaboration is the process of giving material that you learn **new meaning** by **expressing it in your own words** and **connecting it with what you already know**.
