@@ -41,6 +41,16 @@ jobs:
         with:
           images: |
             ghcr.io/Michaelpalacce/garden
+          tags: |
+            # 1. Standard SemVer tag (e.g., v1.2.3)
+            type=semver,pattern={{version}}
+
+            # 2. Custom tag: v1.2.3-20240109-2354
+            # This matches the 'v' prefix and appends the date
+            type=match,pattern=v(.*),group=1,prefix=v,suffix=-{{date 'YYYYMMDD-HHmm'}}
+
+            # 3. Fallback for branch pushes (optional)
+            type=ref,event=branch
 
       - name: Build and push Docker image
         id: build-and-push
