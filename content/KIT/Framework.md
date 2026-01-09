@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Learning System","How I Learn"],"created":"2025-05-08T08:01:57.364+03:00","modified":"2026-01-09T13:58:24.184+02:00","published":"2026-01-09T13:58:24.184+02:00","cssclasses":"","parent":"[[000 Obsidian Index]]","state":["evergreen"]}
+{"publish":true,"aliases":["Learning System","How I Learn"],"created":"2026-01-09T13:58:24.184+02:00","modified":"2026-01-09T13:58:24.184+02:00","published":"2026-01-09T13:58:24.184+02:00","cssclasses":"","parent":"[[000 Obsidian Index]]","state":["evergreen"]}
 ---
 
 # Overview

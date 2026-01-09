@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"[[2026-01-07]]","modified":"[[2026-01-07]]","published":"[[2026-01-07]]","cssclasses":"","desciption":"garden.sgenov.dev home page","state":["sapling"]}
+{"publish":true,"title":"Home","created":"2026-01-09T14:13:01.782+02:00","modified":"2026-01-09T20:34:43.088+02:00","published":"2026-01-09T20:34:43.088+02:00","cssclasses":"","desciption":"garden.sgenov.dev home page","state":["sapling"]}
 ---
 
 # Welcome!
