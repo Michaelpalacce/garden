@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-09T17:58:23.737+02:00","published":"2026-01-09T17:58:23.737+02:00","cssclasses":"","desciption":"garden.sgenov.dev home page","state":["sapling"]}
+{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-09T20:34:43.088+02:00","published":"2026-01-09T20:34:43.088+02:00","cssclasses":"","desciption":"garden.sgenov.dev home page","state":["sapling"]}
 ---
 
 # Welcome!
@@ -11,7 +11,7 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 > [!warning]+ [[Work In Progress]]
 > This is very much an [[Experiment\|experiment]] revolving around [[Studying In Public]]!
 > 
-> **Some links may not work. Assets may be missing. Dynamic data will not be loaded. Bases will not work. Etc.**
+> **Some links may not work, as they may not be added yet. Assets may be missing. Dynamic data will not be loaded. Bases will not work. Etc.**
 > 
 > If you are interested in making it work, you can check the [github repo](https://github.com/Michaelpalacce/garden) where you can download the content and view them in [[KIT/000 Obsidian Index\|Obsidian]] directly.
 
