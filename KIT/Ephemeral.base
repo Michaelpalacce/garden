@@ -10,6 +10,8 @@ views:
             - file.ext != "base"
             - file.ext != "canvas"
             - file.ext != "zip"
+            - file.name != "Dockerfile"
+            - file.name != "Scratch"
     order:
       - file.name
       - state

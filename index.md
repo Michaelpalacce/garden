@@ -18,11 +18,13 @@ Check out [[KIT/000 Obsidian Index|My KIT]] if you want to know more **how I tak
 > 
 > If you are interested in making it work, you can check the [github repo](https://github.com/Michaelpalacce/garden) where you can download the content and view them in [[000 Obsidian Index|Obsidian]] directly.
 
+> [!success]+ How Is This Blog Made ? 
+> Check out [[How Does This Blog Work|here]] for more information
+
 # Blogs
 
 - [[Work For Peace, Not Money]] to be happier overall.
 - [[On The Governance Of AI]] and what it means to me as a father.
-
 
 # Map Of Content
 
