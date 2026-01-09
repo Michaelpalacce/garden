@@ -27,3 +27,4 @@ Check out [[KIT/000 Obsidian Index|My KIT]] if you want to know more **how I tak
 
 - My [[Lifestyle]], a part of my garden, where I plan to cultivate what an ideal lifestyle is for me.
 - Thoughts about [[Productivity]]
+- Thoughts about [[Artificial Intelligence]]
