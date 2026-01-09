@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Obsidian"],"created":"2026-01-09T13:55:44.368+02:00","modified":"2026-01-09T23:22:08.005+02:00","published":"2026-01-09T23:22:08.005+02:00","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"]}
+{"publish":true,"aliases":["Obsidian"],"created":"2023-05-21T09:26:08.768+03:00","modified":"2026-01-09T23:22:08.005+02:00","published":"2026-01-09T23:22:08.005+02:00","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"]}
 ---
 
 > [!done] ~ ObsidianMD ~ 📝
