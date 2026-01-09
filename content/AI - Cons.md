@@ -1,0 +1,11 @@
+---
+{"publish":true,"aliases":"Artificial Intelligence - Cons","description":"Downsides of AI","created":"[[2025-03-29]]","modified":"2026-01-09T19:00:28.729+02:00","cssclasses":""}
+---
+
+# Slows down learning
+
+Makes people dumber as they don't go through the process of making mistakes, debugging and [[KIT/Learning By Troubleshooting]]
+
+# Removes the joy of programming
+
+Many developers, when asked why they do what they do will tell you that they do it because it's fun. Because they enjoy getting in that [[Flow\|Flow State]] and coding away at whatever problem comes their way. That joy is gone when using AI. And if it's gone, then what's going to be left at the end? Who is training the new generation of devs?
