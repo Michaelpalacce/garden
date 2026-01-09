@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2026-01-09T14:13:01.782+02:00","modified":"2026-01-10T00:06:33.988+02:00","published":"2026-01-10T00:06:33.988+02:00","cssclasses":"","desciption":"garden.sgenov.dev home page","state":["tree"]}
+{"publish":true,"title":"Home","created":"2026-01-09T14:13:01.782+02:00","modified":"2026-01-10T00:32:29.934+02:00","published":"2026-01-10T00:32:29.934+02:00","cssclasses":"","state":["evergreen"]}
 ---
 
 # Welcome!
