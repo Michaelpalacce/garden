@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"How to make good links in obsidian","created":"[[2025-02-20]]","modified":"2026-01-09T13:58:24.450+02:00","cssclasses":""}
+{"publish":true,"aliases":["How to make good links in obsidian"],"created":"[[2025-02-20]]","modified":"2026-01-09T13:58:24.450+02:00","published":"[[2025-02-20]]","cssclasses":"","parent":"[[Linking Your Thinking]]","state":["evergreen"],"date":"[[2025-02-20]]"}
 ---
 
 # Whole Files

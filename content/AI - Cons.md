@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Artificial Intelligence - Cons","description":"Downsides of AI","created":"[[2025-03-29]]","modified":"2026-01-09T19:00:28.729+02:00","cssclasses":""}
+{"publish":true,"aliases":["Artificial Intelligence - Cons"],"description":"Downsides of AI","created":"[[2025-03-29]]","modified":"2026-01-09T13:59:18.698+02:00","published":"[[2025-03-29]]","cssclasses":"","parent":"[[Artificial Intelligence]]","state":["sapling"],"date":"[[2025-03-29]]","opposes":["[[AI - Pros]]"],"links":["https://eli.cx/blog/ai-is-making-developers-dumb"]}
 ---
 
 # Slows down learning

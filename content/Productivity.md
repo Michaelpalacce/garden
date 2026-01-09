@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"How To Be Productive How To Motivate Myself","created":"[[2022-06-01]]","modified":"2026-01-09T13:59:18.781+02:00","cssclasses":""}
+{"publish":true,"aliases":["How To Be Productive","How To Motivate Myself"],"created":"[[2022-06-01]]","modified":"2026-01-09T13:59:18.781+02:00","published":"[[2022-06-01]]","cssclasses":"","parent":"[[Self]]","state":["evergreen"],"date":"[[2022-06-01]]"}
 ---
 
 # Map Of Content

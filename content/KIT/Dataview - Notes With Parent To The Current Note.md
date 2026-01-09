@@ -1,5 +1,5 @@
 ---
-{"publish":true,"description":"Contains a dataview query to display a table with notes that have a parent set to the current note.","created":"[[2024-06-09]]","modified":"2026-01-09T13:58:23.968+02:00","cssclasses":""}
+{"publish":true,"description":"Contains a dataview query to display a table with notes that have a parent set to the current note.","created":"[[2024-06-09]]","modified":"2026-01-09T13:58:23.968+02:00","published":"[[2024-06-09]]","cssclasses":"","parent":"[[Dataview]]","state":["evergreen"],"date":"[[2024-06-09]]","links":["https://blacksmithgu.github.io/obsidian-dataview/reference/functions/#linkpath-display"]}
 ---
 
 This could be potentially useful in the future if I want to display MOCs or Indices dynamically.

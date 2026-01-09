@@ -1,5 +1,5 @@
 ---
-{"publish":true,"description":"What are the intricacies of making this work?","created":"[[2026-01-09]]","modified":"2026-01-09T20:05:36.558+02:00","cssclasses":""}
+{"publish":true,"description":"What are the intricacies of making this work?","created":"[[2026-01-09]]","modified":"2026-01-09T20:09:40.799+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":"[[index]]","state":["evergreen"],"date":"[[2026-01-09]]","relates":["[[Self-Hosting]]","[[Github - Workflow]]","[[Pull Request]]"]}
 ---
 
 # Hosting

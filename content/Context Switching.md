@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Attention Residue","created":"[[2023-07-11]]","modified":"2026-01-09T13:59:18.751+02:00","cssclasses":""}
+{"publish":true,"aliases":["Attention Residue"],"created":"[[2023-07-11]]","modified":"2026-01-09T13:59:18.751+02:00","published":"[[2023-07-11]]","cssclasses":"","parent":["[[Productivity]]"],"state":"evergreen","date":"[[2023-07-11]]"}
 ---
 
 Everything we work on has **activation energy**. It takes time to get in the [[Flow]]. 

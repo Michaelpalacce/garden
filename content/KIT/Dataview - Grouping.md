@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2022-05-02]]","modified":"2026-01-09T13:58:23.942+02:00","cssclasses":""}
+{"publish":true,"created":"[[2022-05-02]]","modified":"2026-01-09T13:58:23.942+02:00","published":"[[2022-05-02]]","cssclasses":"","parent":["[[Dataview]]"],"state":"evergreen","date":"[[2022-05-02]]","links":["https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/"]}
 ---
 
 Using the dataviewjs codeblock, you can do some advanced grouping.

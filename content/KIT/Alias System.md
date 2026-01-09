@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Alias System","created":"[[2024-06-02]]","modified":"2026-01-09T13:58:23.738+02:00","cssclasses":""}
+{"publish":true,"aliases":["Alias System"],"created":"[[2024-06-02]]","modified":"2026-01-09T13:58:23.738+02:00","published":"[[2024-06-02]]","cssclasses":"","parent":"[[Framework]]","state":"evergreen","date":"[[2024-06-02]]"}
 ---
 
 # Overview

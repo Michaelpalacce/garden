@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2022-05-03]]","modified":"2026-01-09T13:58:23.916+02:00","cssclasses":""}
+{"publish":true,"created":"[[2022-05-03]]","modified":"2026-01-09T13:58:23.916+02:00","published":"[[2022-05-03]]","cssclasses":"","parent":"[[Dataview - Grouping]]","state":["evergreen"],"date":"[[2022-05-03]]","relates":["[[Dataview - Grouping by State]]","[[Dataview - Grouping of Files]]"],"opposes":null}
 ---
 
 # Grouping with Sort

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2023-07-19]]","modified":"2026-01-09T13:58:24.099+02:00","cssclasses":""}
+{"publish":true,"created":"[[2023-07-19]]","modified":"2026-01-09T13:58:24.099+02:00","published":"[[2023-07-19]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"relates":["[[Literature Notes]]"],"date":"[[2023-07-19]]"}
 ---
 
 > [!success] ~ What ? ~

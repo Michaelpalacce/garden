@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"How To Solidify Knowledge Retaining Knowledge Learning By Taking Notes How To Learn","description":"Retaining Knowledge is essential for progress.","created":"[[2023-06-13]]","modified":"2026-01-09T13:58:24.260+02:00","cssclasses":""}
+{"publish":true,"aliases":["How To Solidify Knowledge","Retaining Knowledge","Learning By Taking Notes","How To Learn"],"description":"Retaining Knowledge is essential for progress.","created":"[[2023-06-13]]","modified":"2026-01-09T13:58:24.260+02:00","published":"[[2023-06-13]]","cssclasses":"","parent":"[[Framework]]","relates":["[[NoMa Method|NoMa Method]]","[[000 Nursery Index|Nursery]]"],"state":["evergreen","core"],"date":"[[2023-06-13]]"}
 ---
 
 You've done it! You've **written down your thoughts, ideas, and notes**. Now it's time to **solidify that knowledge**.

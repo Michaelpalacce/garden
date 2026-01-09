@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Callouts","created":"[[2022-06-01]]","modified":"2026-01-09T13:58:24.742+02:00","cssclasses":""}
+{"publish":true,"aliases":["Callouts"],"created":"[[2022-06-01]]","modified":"2026-01-09T13:58:24.742+02:00","published":"[[2022-06-01]]","cssclasses":"","parent":"[[000 Obsidian Index]]","state":["evergreen"],"date":"[[2022-06-01]]","relates":null,"opposes":null}
 ---
 
 > [!done] ~ What ? ~

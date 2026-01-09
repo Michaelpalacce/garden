@@ -1,5 +1,5 @@
 ---
-{"publish":true,"description":"Stands for Priming Encoding Reference Retrieval Interleaving Overlearning","created":"[[2024-06-14]]","modified":"2026-01-09T13:58:24.872+02:00","cssclasses":""}
+{"publish":true,"description":"Stands for Priming Encoding Reference Retrieval Interleaving Overlearning","created":"[[2024-06-14]]","modified":"2026-01-09T13:58:24.872+02:00","published":"[[2024-06-14]]","cssclasses":"","parent":"[[Framework]]","tags":null,"state":["evergreen"],"date":"[[2024-06-14]]","relates":["[[Make It Stick]]"],"opposes":null,"links":["https://www.youtube.com/watch?v=6GTt10GDWII"],"aliases":null}
 ---
 
 PERRIO does not really seem like anything special. Seems like this is what normally people do when they are building a [[KIT/PKM\|PKM]].

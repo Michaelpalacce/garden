@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2022-05-09]]","modified":"2026-01-09T13:58:24.286+02:00","cssclasses":""}
+{"publish":true,"created":"[[2022-05-09]]","modified":"2026-01-09T13:58:24.286+02:00","published":"[[2022-05-09]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2022-05-09]]"}
 ---
 
 > [!success] ~ How ? ~

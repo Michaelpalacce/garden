@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Reflection Is A Form Of Practice Reflect","description":"Reflect on events in your life as well as new information.","created":"[[2025-04-26]]","modified":"2026-01-09T13:58:24.948+02:00","cssclasses":""}
+{"publish":true,"aliases":["Reflection Is A Form Of Practice","Reflect"],"description":"Reflect on events in your life as well as new information.","created":"[[2025-04-26]]","modified":"2026-01-09T13:58:24.948+02:00","published":"[[2025-04-26]]","cssclasses":"","parent":"[[How To Retain Knowledge]]","state":["evergreen"],"date":"[[2025-04-26]]","relates":["[[Learning]]","[[Linking Your Thinking]]"],"opposes":["[[Forgetting]]"]}
 ---
 
 **Reflect on issues and events** that happen during the day. **Examine different situations** and think **how you could have handled them better**. [[Try New Things]] next time you encounter that problem.

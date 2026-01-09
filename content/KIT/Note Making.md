@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2023-06-13]]","modified":"2026-01-09T13:58:24.666+02:00","cssclasses":""}
+{"publish":true,"created":"[[2023-06-13]]","modified":"2026-01-09T13:58:24.666+02:00","published":"[[2023-06-13]]","cssclasses":"","parent":"[[NoMa Method]]","state":["evergreen"],"date":"[[2023-06-13]]","opposes":["[[Note Taking]]"]}
 ---
 
 # Overview

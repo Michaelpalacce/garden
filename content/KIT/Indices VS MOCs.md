@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2023-06-14]]","modified":"2026-01-09T13:58:24.362+02:00","cssclasses":""}
+{"publish":true,"created":"[[2023-06-14]]","modified":"2026-01-09T13:58:24.362+02:00","published":"[[2023-06-14]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2023-06-14]]"}
 ---
 
 # What Is A MOC

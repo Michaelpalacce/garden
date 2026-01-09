@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2023-06-14]]","modified":"2026-01-09T13:59:25.671+02:00","cssclasses":""}
+{"publish":true,"created":"[[2023-06-14]]","modified":"2026-01-09T13:59:25.671+02:00","published":"[[2023-06-14]]","cssclasses":"","parent":"[[Productivity]]","state":["sapling"],"aliases":null,"relates":["[[Productivity|How To Motivate Myself]]"],"date":"[[2023-06-14]]","links":["https://youtu.be/3kKB6wYqP7Y"]}
 ---
 
 What is the difference between the two, or rather do I personally draw a line?

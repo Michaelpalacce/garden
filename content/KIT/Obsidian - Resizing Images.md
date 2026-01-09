@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2022-11-09T11:40:28.171+02:00","modified":"2026-01-09T13:58:24.819+02:00","cssclasses":""}
+{"publish":true,"created":"2022-11-09T11:40:28.171+02:00","modified":"2026-01-09T13:58:24.819+02:00","published":"2026-01-09T13:58:24.819+02:00","cssclasses":"","parent":"[[000 Obsidian Index]]","state":["evergreen"],"aliases":null}
 ---
 
 > [!done] ~ How ? ~
