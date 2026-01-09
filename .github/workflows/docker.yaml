@@ -25,6 +25,7 @@ jobs:
       - name: Get Latest Tag and Set Version
         id: vars
         run: |
+          # Because I can't be bothered with renovate and matching.. make sure latest tag is only MAJOR.MINOR
           LATEST_TAG=$(git describe --tags --abbrev=0)
           TIMESTAMP=$(date +%s)
           FULL_VERSION="${LATEST_TAG}.${TIMESTAMP}"
