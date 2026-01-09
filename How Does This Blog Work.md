@@ -32,42 +32,36 @@ The fork contains changes to plug-ins, styles and a few custom components like:
 
 The contents are hosted in a [separate repo](https://github.com/Michaelpalacce/garden). It gets updated inside [[000 Obsidian Index|Obsidian]] and if I want to publish it I set the frontmatter property `publish` to `true`.
 
-I've written a [[git - hook|git hook]] to help me with filtering:
+I've written a [[git - alias|git alias]] to help me with filtering:
 ```sh
-#!/bin/bash
-IFS=$'\n'
-
-all_md_files=$(git ls-files | grep '\.md$')
-staged_md_files=$(git diff --name-only --cached | grep '\.md$')
-
-echo "🛡️  Checking publication status..."
-
-for file in $all_md_files; do
-    if [ -f "$file" ]; then
-        if ! head -n 30 "$file" | grep -q "publish: true"; then
-            echo "   🗑️  Un-tracking: $file"
-            git rm --cached "$file" -q
-        fi
-    fi
-done
-
-for file in $staged_md_files; do
-    if [ -f "$file" ]; then
-        if ! head -n 30 "$file" | grep -q "publish: true"; then
-            echo "   🚫 Blocking: $file"
-            git reset -q HEAD "$file"
-        fi
-    fi
-done
-
-unset IFS
-echo "✅ Filter complete."
+[alias]
+    publish = "!f() { \
+        IFS=$'\n'; \
+        echo '🛡️  Syncing publication status...'; \
+        for file in $(find . -type f -name '*.md' -not -path '*/.*'); do \
+            clean_file=\"${file#./}\"; \
+            if head -n 20 \"$clean_file\" | grep -q 'publish: true'; then \
+                echo \"   ✅ Staging: $clean_file\"; \
+                git add -f \"$clean_file\"; \
+            else \
+                if git ls-files --error-unmatch \"$clean_file\" >/dev/null 2>&1; then \
+                    echo \"   🗑️  Removing: $clean_file\"; \
+                    git rm --cached \"$clean_file\" -q; \
+                fi; \
+            fi; \
+        done; \
+        unset IFS; \
+        if [ -n \"$1\" ]; then \
+            git commit -m \"$1\"; \
+        else \
+            git commit -v; \
+        fi; \
+    }; f"
 ```
 
 Which allows me to do:
 ```sh
-git add .
-git commit -m "New Content"
+git publish "New Content"
 ```
 
 Only files that are set to be published will be added and committed. The hook also allows me to remove files if I ever set them to not be published.
