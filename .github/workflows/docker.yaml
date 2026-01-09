@@ -27,7 +27,7 @@ jobs:
         run: |
           LATEST_TAG=$(git describe --tags --abbrev=0)
           TIMESTAMP=$(date +%s)
-          FULL_VERSION="${LATEST_TAG}-${TIMESTAMP}"
+          FULL_VERSION="${LATEST_TAG}.${TIMESTAMP}"
           echo "tag=${LATEST_TAG}" >> $GITHUB_OUTPUT
           echo "taggedDate=${FULL_VERSION}" >> $GITHUB_OUTPUT
           echo "Using version: ${FULL_VERSION}"
