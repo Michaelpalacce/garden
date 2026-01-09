@@ -17,7 +17,20 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
+        with:
+          # Fetch all history so we can find the latest tag
+          fetch-depth: 0
+
+      - name: Get Latest Tag and Set Version
+        id: vars
+        run: |
+          LATEST_TAG=$(git describe --tags --abbrev=0)
+          TIMESTAMP=$(date +'%Y%m%d-%H%M%S')
+          FULL_VERSION="${LATEST_TAG}-${TIMESTAMP}"
+          echo "tag=${LATEST_TAG}" >> $GITHUB_OUTPUT
+          echo "taggedDate=${FULL_VERSION}" >> $GITHUB_OUTPUT
+          echo "Using version: ${FULL_VERSION}"
 
       # Setup QEMU
       # https://github.com/marketplace/actions/docker-setup-buildx#with-qemu
@@ -39,18 +52,11 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: |
-            ghcr.io/Michaelpalacce/garden
+          images: ghcr.io/Michaelpalacce/garden
           tags: |
-            # 1. Standard SemVer tag (e.g., v1.2.3)
-            type=semver,pattern={{version}}
-
-            # 2. Custom tag: v1.2.3-20240109-2354
-            # This matches the 'v' prefix and appends the date
-            type=match,pattern=v(.*),group=1,prefix=v,suffix=-{{date 'YYYYMMDD-HHmm'}}
-
-            # 3. Fallback for branch pushes (optional)
-            type=ref,event=branch
+            type=raw,value=${{ steps.vars.outputs.tag }}
+            type=raw,value=${{ steps.vars.outputs.taggedDate }}
+            type=raw,value=latest
 
       - name: Build and push Docker image
         id: build-and-push
