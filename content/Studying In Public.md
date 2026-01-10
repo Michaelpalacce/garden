@@ -1,6 +1,15 @@
 ---
-{"publish":true,"aliases":[null],"created":"[[2026-01-09]]","modified":"2026-01-10T15:13:57.080+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":["[[Lifestyle]]"],"state":["seed"],"date":"[[2026-01-09]]","relates":["[[Open Source]]"],"opposes":null,"description":null}
+{"publish":true,"aliases":[null],"created":"[[2026-01-09]]","modified":"2026-01-10T18:17:45.444+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":["[[Lifestyle]]"],"state":["seed"],"date":"[[2026-01-09]]","relates":["[[Open Source]]"],"opposes":null,"description":null}
 ---
 
 > [!info]+
-> A practice of making private thoughts public in order 
+> A practice of making private thoughts public.
+
+There are lots of benefits to society as well as oneself in sharing opinions, knowledge, experiences and day-to-day.
+
+Artists share their art. 
+Photographers their photos. 
+Musicians their music. 
+Writers their stories and books. 
+Sculptors their creations. 
+Developers [[Open Source]] their code. 
