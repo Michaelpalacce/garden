@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Pathways"],"created":"[[2023-06-15]]","modified":"2026-01-09T13:58:24.616+02:00","published":"[[2023-06-15]]","cssclasses":"","parent":"[[Command & Control Center Index|Command & Control Center]]","state":["evergreen"],"relates":["[[000 Nursery Index|Nursery]]"],"date":"[[2023-06-15]]"}
+{"publish":true,"aliases":"Pathways","created":"[[2023-06-15]]","modified":"2026-01-09T13:58:24.616+02:00","cssclasses":""}
 ---
 
 > [!success] ~ What ? ~

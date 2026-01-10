@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2024-09-01]]","modified":"2026-01-09T13:58:24.541+02:00","published":"[[2024-09-01]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2024-09-01]]","relates":["[[Atomic Notes]]"],"description":null}
+{"publish":true,"created":"[[2024-09-01]]","modified":"2026-01-09T13:58:24.541+02:00","cssclasses":""}
 ---
 
 > [!info]+
