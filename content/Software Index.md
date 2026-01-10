@@ -1,0 +1,52 @@
+---
+{"publish":true,"created":"[[2024-09-13]]","modified":"2026-01-11T00:54:39.570+02:00","published":"[[2024-09-13]]","cssclasses":"","parent":"[[Knowledge Index]]","state":["evergreen"],"date":"[[2024-09-13]]"}
+---
+
+# Map Of Content
+
+- Event Brokers
+	- [[Kafka\|Kafka]] - Event Broker and message queue
+- APIs
+	- [[Swagger\|Swagger]] - API Generator
+	- [[Openapi Generator CLI]]
+- Package Managers
+	- [[mvn\|mvn]] - java | [[npm\|npm]] - nodejs | [[composer\|composer]] - php 
+	- [[pip\|pip]] - python  
+- CLIs
+	- [[grep\|grep]] is a pattern matching command line tool
+	- [[sed\|sed]] is a stream editor
+	- [[awk\|awk]] is a scripting tool used for data extraction.
+	- [[cut]] is a tool used to cut out sections of a file/string/stdout/stdin
+	- [[yq]] for working with [[YAML]]
+	- [[jq]] for working with [[JSON]]
+- Storage
+	- [[Syncthing\|Syncthing]] is a tool for syncing folders between devices
+- File System 
+	- [[find\|find]] can be used to locate files on the fs. 
+- Security
+	- [[openssl]] - Generate certificates and perform other certficiate related tasks
+	- [[SOPS\|Mozilla SOPS]]
+- Network
+	- [[curl]]
+	- [[netstat]]
+- Archives
+	- [[tar\|tar]] a compression and archival utility
+- SCM
+	- [[git\|git]] a scm cli tool
+- Terminal
+	- [[tmux\|tmux]]
+- [[Service Mesh\|Service Mesh]]
+- [[SaaS\|SaaS]]
+- [[VPN\|VPN]] for security and avoiding [[Geo-Blocking]]
+- [[IDE\|IDE]]s for development 
+- Project Management
+	- [[Atlassian\|Atlassian]] provides software management tools
+	- [[Broadcom - Clarity\|Clarity]] 
+- Services
+	- [[End Of Life]]
+- Search
+	- [[rg]]
+- Media
+	- [[Tdarr]]
+- Development
+	- [[Make]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-10T23:09:31.460+02:00","published":"2026-01-10T23:09:31.460+02:00","cssclasses":"","state":["evergreen"]}
+{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T01:02:38.958+02:00","published":"2026-01-11T01:02:38.958+02:00","cssclasses":"","state":["evergreen"]}
 ---
 
 # Welcome!
@@ -32,7 +32,10 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 # Indices
 
-- [[Programming Index]]
+For now it's mostly the structure of my notes, as I'm making content more available 
+
+- [[Knowledge Index\|Knowledge 💡]] - All the knowledge you've acquired
+- [[Hobbies Index\|Hobbies]] are the way you offload from the stress of daily life.
 
 # Why?
 
