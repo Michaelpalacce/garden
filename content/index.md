@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-10T02:15:45.616+02:00","published":"2026-01-10T02:15:45.616+02:00","cssclasses":"","state":["evergreen"]}
+{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-10T17:31:14.409+02:00","published":"2026-01-10T17:31:14.409+02:00","cssclasses":"","state":["evergreen"]}
 ---
 
 # Welcome!
@@ -29,3 +29,4 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 - Thoughts about [[Productivity]] ⚒️
 - Thoughts about [[Artificial Intelligence]] 🤖
 - [[Programming Index]]
+- Take a look at some of the [[Projects]] I am working on
