@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T01:02:38.958+02:00","published":"2026-01-11T01:02:38.958+02:00","cssclasses":"","state":["evergreen"]}
+{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T09:23:58.860+02:00","published":"2026-01-11T09:23:58.860+02:00","cssclasses":"","state":["evergreen"]}
 ---
 
 # Welcome!
@@ -10,7 +10,6 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 > [!success]+ How Is This Blog Made ? 
 > Check out [[How Does This Blog Work\|this note]] for more information!
-
 
 > [!warning]+ [[Work In Progress]]
 > This is very much an [[Experiment\|experiment]] revolving around [[Studying In Public]]! I am still figuring out what I want to keep/change, so changes will be frequent.
@@ -28,7 +27,7 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 - My [[Lifestyle]], a part of my garden, where I plan to cultivate what an ideal lifestyle is for me.
 - I care about [[Productivity]] ⚒️
 - Thoughts about [[Artificial Intelligence]] 🤖
-- Take a look at some of the [[Projects]] I am working on
+
 
 # Indices
 
