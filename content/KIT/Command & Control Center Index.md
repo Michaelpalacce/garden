@@ -1,11 +1,11 @@
 ---
-{"publish":true,"aliases":["C3","CCC"],"created":"2023-05-21T09:26:08.764+03:00","modified":"2026-01-09T13:58:23.793+02:00","published":"2026-01-09T13:58:23.793+02:00","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"]}
+{"publish":true,"aliases":["C3","CCC"],"created":"2023-05-21T09:26:08.764+03:00","modified":"2026-01-11T21:05:54.589+02:00","published":"2026-01-11T21:05:54.589+02:00","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"]}
 ---
 
 > Consolidates all the tasks you have as well as a list of notes that need your attention.
 > - Head over to the [[KIT/000 Nursery Index\|Nursery]] to nurture your notes further.
 > - Go to the [[KIT/Workbench\|Workbench]] as well and check out work in progress. 
-> - Find [[Emergance\|emerging ideas]] in the [[KIT/Neurological Pathways\|Pathways]]
+> - Find [[Emergance\|emerging ideas]] in the [[KIT/Neurological Pathways Index\|Pathways]]
 
 ---
 ![[Ephemeral.base]]
