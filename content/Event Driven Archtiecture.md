@@ -1,9 +1,9 @@
 ---
-{"publish":true,"aliases":["EDP","Event Driven Programming"],"description":"A paradigm where components communicate through production and consumption of events.","created":"[[2025-09-07]]","modified":"2026-01-11T15:32:48.692+02:00","published":"[[2025-09-07]]","cssclasses":"","parent":"[[Software Design\|Software Design Paradigm]]","state":["evergreen"],"date":"[[2025-09-07]]","relates":["[[Message Broker]]","[[Pub Sub]]","[[CQRS]]"]}
+{"publish":true,"aliases":["EDP","Event Driven Programming"],"description":"A paradigm where components communicate through production and consumption of events.","created":"[[2025-09-07]]","modified":"2026-01-11T16:20:23.766+02:00","published":"[[2025-09-07]]","cssclasses":"","parent":"[[Software Design]]","state":["evergreen"],"date":"[[2025-09-07]]","relates":["[[Message Broker]]","[[Pub Sub]]","[[CQRS]]"]}
 ---
 
 > [!info]+
-> A [[Software Design|Software Design Paradigm]] where components of (usually) a distributed systems [[Asynchronous Communication\|communicate asynchronously]] through the production, reaction and consumption of events.
+> A [[Software Design\|Software Design Paradigm]] where components of (usually) a distributed systems [[Asynchronous Communication\|communicate asynchronously]] through the production, reaction and consumption of events.
 
 # Map Of Content
 
