@@ -1,10 +1,10 @@
 ---
-{"publish":true,"aliases":["Blog","Garden"],"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T20:53:24.031+02:00","published":"2026-01-11T20:53:24.031+02:00","cssclasses":"","state":["evergreen"]}
+{"publish":true,"aliases":["Blog","Garden"],"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T22:51:17.667+02:00","published":"2026-01-11T22:51:17.667+02:00","cssclasses":"","state":["evergreen"]}
 ---
 
 # Welcome!
 
-You are entering a sorta blog, sorta Second Brain that will be shared publicly. Read [[index#Why?]]
+You are **entering a small garden part of a bigger forest**. Don't get [[index#Pathways\|lost]]! 
 
 Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I take and structure notes**.
 
@@ -18,12 +18,14 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 # Blogs
 
+- [[Invest In Yourself]]
+- [[Artificial Intelligence - The Aftermath\|What is left after AI?]]
 - [[Self Guaranteeing Promise]] and never trusting companies and people promises
 - [[Studying In Public]] helps with polishing ideas 
 - [[Work For Peace, Not Money]] to be happier overall.
 - [[On The Governance Of AI]] and what it means to me as a father.
 
-# Highlights 
+# Pathways
 
 ![[Pathways]]
 

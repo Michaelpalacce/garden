@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["AI"],"description":"AI revolution is upon us.","created":"[[2025-03-29]]","modified":"2026-01-11T18:20:39.271+02:00","published":"[[2025-03-29]]","cssclasses":"","parent":"[[Forest]]","state":["tree"],"date":"[[2025-03-29]]"}
+{"publish":true,"aliases":["AI"],"description":"AI revolution is upon us.","created":"[[2025-03-29]]","modified":"2026-01-11T21:49:12.115+02:00","published":"[[2025-03-29]]","cssclasses":"","parent":"[[Forest]]","state":["tree"],"date":"[[2025-03-29]]"}
 ---
 
 # Map Of Content
@@ -7,6 +7,7 @@
 - [[AI - Pros]]
 - [[AI - Cons]]
 - [[On The Governance Of AI]]
+- [[Artificial Intelligence - The Aftermath]]
 - Tools 
 	- [[RAG]]
 	- [[MCP]]
@@ -14,7 +15,7 @@
 
 ## 01-2026
 
-AI is getting "better" and "better". It's interfering with our live. There is no [[On The Governance Of AI\|governance]] stuff it spits out.
+AI is getting "better" and "better". It's interfering with our live. There is no [[On The Governance Of AI\|governance]] on the stuff it spits out.
 
 ## 12-2025
 
