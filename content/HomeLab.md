@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"[[2024-04-15]]","modified":"2026-01-11T15:07:11.637+02:00","published":"[[2024-04-15]]","cssclasses":"","parent":"[[Projects]]","state":["evergreen"],"date":"[[2024-04-15]]","links":["https://github.com/Michaelpalacce/HomeLab"]}
+{"publish":true,"created":"[[2024-04-15]]","modified":"2026-01-11T17:05:13.562+02:00","published":"[[2024-04-15]]","cssclasses":"","parent":"[[Projects]]","state":["evergreen"],"date":"[[2024-04-15]]","links":["https://github.com/Michaelpalacce/HomeLab"]}
 ---
 
 > [!done] What?
-> [[Self Hosting]] for [[Privacy]], [[Data Governance]], [[Learning]], [[Self-Improvement]] and trying different things out.
+> [[Self Hosting]] for [[Privacy]], [[Data Ownership]], [[Learning]], [[Self-Improvement]] and trying different things out.
 
 # Map Of Content
 

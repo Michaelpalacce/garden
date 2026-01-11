@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2024-09-05]]","modified":"2026-01-11T00:49:09.410+02:00","published":"[[2024-09-05]]","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"],"date":"[[2024-09-05]]"}
+{"publish":true,"created":"[[2024-09-05]]","modified":"2026-01-11T16:37:29.908+02:00","published":"[[2024-09-05]]","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"],"date":"[[2024-09-05]]"}
 ---
 
 ![[The desire for knowledge shapes a man]]
@@ -15,6 +15,7 @@
 - [[Operating System]] - 💻 Each device needs one!
 - [[Databases\|Databases]] - 🗄️ Store your data!
 - [[Security\|Security]] - how to be secure in an insecure world 🔐
+- [[Privacy]] - keep others away personal affairs 
 - [[Artificial Intelligence]] - 🤖 how it's changing our lives
 - [[Learning]] 💡
 

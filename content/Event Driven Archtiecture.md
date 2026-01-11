@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["EDP","Event Driven Programming"],"description":"A paradigm where components communicate through production and consumption of events.","created":"[[2025-09-07]]","modified":"2026-01-11T16:20:23.766+02:00","published":"[[2025-09-07]]","cssclasses":"","parent":"[[Software Design]]","state":["evergreen"],"date":"[[2025-09-07]]","relates":["[[Message Broker]]","[[Pub Sub]]","[[CQRS]]"]}
+{"publish":true,"aliases":["EDP","Event Driven Programming"],"description":"A paradigm where components communicate through production and consumption of events.","created":"[[2025-09-07]]","modified":"2026-01-11T16:33:26.374+02:00","published":"[[2025-09-07]]","cssclasses":"","parent":"[[Software Design]]","state":["evergreen"],"date":"[[2025-09-07]]","relates":["[[Message Broker]]","[[Pub Sub]]","[[CQRS]]"]}
 ---
 
 > [!info]+
@@ -20,7 +20,7 @@
 	- [[Event Streaming Processing]]
 	- [[Complex Event Processing]]
 
-> [!warning] **🧩 When to Use EDA?**
+> [!success] **🧩 When to Use EDA?**
 > - Microservices architectures
 > - Systems requiring real-time processing
 > - Applications with asynchronous workflows

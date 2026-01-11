@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T15:08:30.497+02:00","published":"2026-01-11T15:08:30.497+02:00","cssclasses":"","state":["evergreen"]}
+{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T17:05:13.586+02:00","published":"2026-01-11T17:05:13.586+02:00","cssclasses":"","state":["evergreen"]}
 ---
 
 # Welcome!
@@ -24,7 +24,7 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 # Highlights 
 
-- My [[HomeLab]]! I am fully for [[Self Hosting]] and [[Data Governance\|Data Ownership]]
+- My [[HomeLab]]! I am fully for [[Self Hosting]] and [[Data Ownership\|Data Ownership]]
 - I care about [[Productivity]] ⚒️
 - My [[Lifestyle]], a part of my garden, where I plan to cultivate what an ideal lifestyle is for me.
 

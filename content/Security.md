@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2023-05-27]]","modified":"2026-01-11T00:55:31.058+02:00","published":"[[2023-05-27]]","cssclasses":"","parent":"[[Knowledge Index]]","state":["evergreen"],"date":"[[2023-05-27]]"}
+{"publish":true,"created":"[[2023-05-27]]","modified":"2026-01-11T17:06:54.562+02:00","published":"[[2023-05-27]]","cssclasses":"","parent":"[[Knowledge Index]]","state":["evergreen"],"date":"[[2023-05-27]]"}
 ---
 
 # Map Of Content
@@ -7,6 +7,8 @@
 - Introduction
 	- Explanation of the importance of online security
 	- Overview of common online threats
+- Why should [[Data Ownership]] be important for everyone? 
+	- ![[Data Ownership#Pros]]
 - Passwords
 	- [[Identity Providers\|IDP]] - identity providers are used to store user identity information. 
 	- Best practices for creating strong passwords

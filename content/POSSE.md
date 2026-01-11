@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Publish on your Own Site Syndicate Elsewhere"],"description":"Own your posts and share links to them.","created":"[[2026-01-04]]","modified":"2026-01-10T23:15:20.956+02:00","published":"[[2026-01-04]]","cssclasses":"","parent":["[[Blogging]]","[[SEO]]"],"state":["tree"],"date":"[[2026-01-04]]","links":["https://indieweb.org/POSSE#"]}
+{"publish":true,"aliases":["Publish on your Own Site Syndicate Elsewhere"],"description":"Own your posts and share links to them.","created":"[[2026-01-04]]","modified":"2026-01-11T17:05:13.570+02:00","published":"[[2026-01-04]]","cssclasses":"","parent":["[[Blogging]]","[[SEO]]"],"state":["tree"],"date":"[[2026-01-04]]","links":["https://indieweb.org/POSSE#"]}
 ---
 
 > [!info]+
@@ -10,7 +10,7 @@ In a world, where exposure is more often than not more important than money, hav
 The problem however with having your own outlet is [[SEO]]. Most search engines will push your website up the rankings the more links that exist pointing backwards to it, so in a sense when you want to write an article somewhere... Write it on your own site and add a link instead. 
 
 POSSE gives you:
-- [[Data Governance\|Data Ownership]]
+- [[Data Ownership\|Data Ownership]]
 - Removes [[Vendor Lock-In]]
 - Own [[Domain Name]] that shows individuality
 
