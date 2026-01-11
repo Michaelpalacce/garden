@@ -1,5 +1,5 @@
 ---
-{"publish":true,"description":"What are the intricacies of making this work?","created":"[[2026-01-09]]","modified":"2026-01-10T02:29:23.303+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":"[[index]]","state":["evergreen"],"date":"[[2026-01-09]]","relates":["[[Self-Hosting]]","[[Github - Workflow]]","[[Pull Request]]"]}
+{"publish":true,"description":"What are the intricacies of making this work?","created":"[[2026-01-09]]","modified":"2026-01-11T15:07:11.649+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":"[[index]]","state":["evergreen"],"date":"[[2026-01-09]]","relates":["[[Self Hosting]]","[[Github - Workflow]]","[[Pull Request]]"]}
 ---
 
 # Hosting

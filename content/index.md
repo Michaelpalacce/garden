@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T09:23:58.860+02:00","published":"2026-01-11T09:23:58.860+02:00","cssclasses":"","state":["evergreen"]}
+{"publish":true,"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T15:08:30.497+02:00","published":"2026-01-11T15:08:30.497+02:00","cssclasses":"","state":["evergreen"]}
 ---
 
 # Welcome!
@@ -18,16 +18,15 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 # Blogs
 
+- [[Studying In Public]] helps with polishing ideas 
 - [[Work For Peace, Not Money]] to be happier overall.
 - [[On The Governance Of AI]] and what it means to me as a father.
-- [[Studying In Public]] helps with polishing ideas 
 
-# Map Of Content
+# Highlights 
 
-- My [[Lifestyle]], a part of my garden, where I plan to cultivate what an ideal lifestyle is for me.
+- My [[HomeLab]]! I am fully for [[Self Hosting]] and [[Data Governance\|Data Ownership]]
 - I care about [[Productivity]] ⚒️
-- Thoughts about [[Artificial Intelligence]] 🤖
-
+- My [[Lifestyle]], a part of my garden, where I plan to cultivate what an ideal lifestyle is for me.
 
 # Indices
 

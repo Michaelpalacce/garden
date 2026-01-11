@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2022-05-14]]","modified":"2026-01-11T01:01:23.530+02:00","published":"[[2022-05-14]]","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"],"date":"[[2022-05-14]]"}
+{"publish":true,"created":"[[2022-05-14]]","modified":"2026-01-11T15:07:11.573+02:00","published":"[[2022-05-14]]","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"],"date":"[[2022-05-14]]"}
 ---
 
 > [!done] What?
@@ -16,7 +16,7 @@
 
 - [[Food & Cooking\|Food & Cooking 👨‍🍳]] is an important part of your life
 
-- [[SelfHosting\|SelfHosting 💻]] is something I've been doing since late [[2021]]. Provides so many great services in your [[HomeLab]]
+- [[Self Hosting\|SelfHosting 💻]] is something I've been doing since late [[2021]]. Provides so many great services in your [[HomeLab]]
 
 - [[Reading\|Reading 📖]] a habit that I've had since little. Reading books has shaped me as a man. It's a shame that it's slowly going away. Let's try to keep the spirit of reading alive.
 
