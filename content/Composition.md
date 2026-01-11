@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"[[2023-06-13]]","modified":"2026-01-11T20:38:27.259+02:00","published":"[[2023-06-13]]","cssclasses":"","parent":"[[Software Engineering Index|Software Engineering]]","opposes":"[[Inheritance\|Inheritance]]","state":"evergreen","date":"[[2023-06-13]]","aliases":null}
+{"publish":true,"created":"[[2023-06-13]]","modified":"2026-01-11T21:00:52.259+02:00","published":"[[2023-06-13]]","cssclasses":"","parent":"[[Software Engineering Index|Software Engineering]]","opposes":"[[Inheritance]]","state":"evergreen","date":"[[2023-06-13]]","aliases":null}
 ---
 
 > [!success] ~ What ? ~
-> Composition is when we use other classes to build more complex classes and there is no parent/child relationship as is with [[Inheritance|Inheritance]]. Composition represents a **has-a** relationship. ^mc7wor
+> Composition is when we use other classes to build more complex classes and there is no parent/child relationship as is with [[Inheritance\|Inheritance]]. Composition represents a **has-a** relationship. ^mc7wor
 
 # Overview
 
