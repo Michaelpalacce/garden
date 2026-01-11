@@ -1,5 +1,5 @@
 ---
-{"publish":true,"description":"What are the intricacies of making this work?","created":"[[2026-01-09]]","modified":"2026-01-11T15:07:11.649+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":"[[index]]","state":["evergreen"],"date":"[[2026-01-09]]","relates":["[[Self Hosting]]","[[Github - Workflow]]","[[Pull Request]]"]}
+{"publish":true,"description":"What are the intricacies of making this work?","created":"[[2026-01-09]]","modified":"2026-01-11T16:13:27.511+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":"[[index]]","state":["evergreen"],"date":"[[2026-01-09]]","relates":["[[Self Hosting]]","[[Github - Workflow]]","[[Pull Request]]"]}
 ---
 
 # Hosting
@@ -25,6 +25,8 @@ The fork contains changes to plug-ins, styles and a few custom components like:
 The contents are hosted in a [separate repo](https://github.com/Michaelpalacce/garden). It gets updated inside [[KIT/000 Obsidian Index\|Obsidian]] and if I want to publish it I set the frontmatter property `publish` to `true`.
 
 I am using [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) to push changes from any devices.
+
+![[Assets/Screenshot_20260111_161317_Obsidian.jpg]]
 
 Only files that are set to be published will be added and committed. The plugin also allows me to remove files if I ever set them to not be published.
 
