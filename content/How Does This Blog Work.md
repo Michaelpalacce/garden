@@ -1,5 +1,5 @@
 ---
-{"publish":true,"description":"What are the intricacies of making this work?","created":"[[2026-01-09]]","modified":"2026-01-11T16:13:27.511+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":"[[index]]","state":["evergreen"],"date":"[[2026-01-09]]","relates":["[[Self Hosting]]","[[Github - Workflow]]","[[Pull Request]]"]}
+{"publish":true,"description":"What are the intricacies of making this work?","created":"[[2026-01-09]]","modified":"2026-01-11T22:55:57.463+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":"[[index]]","state":["evergreen"],"date":"[[2026-01-09]]","relates":["[[Self Hosting]]","[[Github - Workflow]]","[[Pull Request]]"]}
 ---
 
 # Hosting
@@ -42,9 +42,9 @@ COPY ./content .
 After pushing to [[git]], [I run a Github Workflow](https://github.com/Michaelpalacce/garden/actions/workflows/version.yaml), to release a new version, which automatically triggers [another Github Workflow](https://github.com/Michaelpalacce/garden/actions/workflows/docker.yaml) that will package it and release it to [github packages](https://github.com/Michaelpalacce/garden/pkgs/container/garden).
 
 > [!info] Bonus! 
-> Alternatively I don't need to run the workflow anymore. Automatically the latest pushed tag will be used and the current [[Timestamp]] will be added at the end, creating a image that will eventually be promotedtto production.
+> Alternatively I don't need to run the workflow anymore. Automatically the latest pushed tag will be used and the current [[Timestamp]] will be added at the end, creating a image that will eventually be promoted to production.
 
-When docker image gets released, I can simply update the version of the container in my HomeLab's git repo, at which point FluxCD2 will reconcile it and deploy the new version to the world. 
+When the docker image gets released, I can simply update the version of the container in my HomeLab's git repo, at which point FluxCD2 will reconcile it and deploy the new version to the world. 
 
 > [!info]+ Bonus!
 > I can also just wait a bit and [[Renovate]] will automatically open a [PR](https://github.com/Michaelpalacce/HomeLab/pull/3707) and merge it.
@@ -52,3 +52,5 @@ When docker image gets released, I can simply update the version of the containe
 # What does the future hold for this site?
 
 First of all, I plan to slowly expand this garden and try my hand at [[index\|blogging]]. Currently I have around ~3500 notes which require some vetting before they are all published and made public.
+
+Of course, not all of them will be made public, as a good portion of them are quite personal. 
