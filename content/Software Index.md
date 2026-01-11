@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2024-09-13]]","modified":"2026-01-11T00:54:39.570+02:00","published":"[[2024-09-13]]","cssclasses":"","parent":"[[Knowledge Index]]","state":["evergreen"],"date":"[[2024-09-13]]"}
+{"publish":true,"created":"[[2024-09-13]]","modified":"2026-01-11T18:20:39.483+02:00","published":"[[2024-09-13]]","cssclasses":"","parent":"[[Forest]]","state":["evergreen"],"date":"[[2024-09-13]]"}
 ---
 
 # Map Of Content

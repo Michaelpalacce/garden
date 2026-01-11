@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Studying"],"description":"Learning is an integral part of my life.","created":"[[2025-04-20]]","modified":"2026-01-11T00:55:42.922+02:00","published":"[[2025-04-20]]","cssclasses":"","parent":"[[Knowledge Index]]","state":["evergreen"],"date":"[[2025-04-20]]"}
+{"publish":true,"aliases":["Studying"],"description":"Learning is an integral part of my life.","created":"[[2025-04-20]]","modified":"2026-01-11T18:20:39.347+02:00","published":"[[2025-04-20]]","cssclasses":"","parent":"[[Forest]]","state":["evergreen"],"date":"[[2025-04-20]]"}
 ---
 
 # Map Of Content

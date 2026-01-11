@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["AI"],"description":"AI revolution is upon us.","created":"[[2025-03-29]]","modified":"2026-01-09T14:18:34.405+02:00","published":"[[2025-03-29]]","cssclasses":"","parent":"[[Knowledge Index]]","state":["tree"],"date":"[[2025-03-29]]"}
+{"publish":true,"aliases":["AI"],"description":"AI revolution is upon us.","created":"[[2025-03-29]]","modified":"2026-01-11T18:20:39.271+02:00","published":"[[2025-03-29]]","cssclasses":"","parent":"[[Forest]]","state":["tree"],"date":"[[2025-03-29]]"}
 ---
 
 # Map Of Content

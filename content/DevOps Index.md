@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["SysAdmin"],"description":"Developer Operations","created":"[[2024-09-05]]","modified":"2026-01-11T00:51:12.162+02:00","published":"[[2024-09-05]]","cssclasses":"","parent":"[[Knowledge Index]]","state":["evergreen"],"date":"[[2024-09-05]]","relates":["[[Programming Index]]"]}
+{"publish":true,"aliases":["SysAdmin"],"description":"Developer Operations","created":"[[2024-09-05]]","modified":"2026-01-11T18:20:39.335+02:00","published":"[[2024-09-05]]","cssclasses":"","parent":"[[Forest]]","state":["evergreen"],"date":"[[2024-09-05]]","relates":["[[Programming Index]]"]}
 ---
 
 # Map Of Content
