@@ -1,5 +1,5 @@
 ---
-{"publish":true,"description":"Content shared online and available locally","created":"[[2026-01-11]]","modified":"2026-01-11T18:29:20.711+02:00","published":"[[2026-01-11]]","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"],"date":"[[2026-01-11]]"}
+{"publish":true,"description":"Content shared online and available locally","created":"[[2026-01-11]]","modified":"2026-01-11T20:47:34.831+02:00","published":"[[2026-01-11]]","cssclasses":"","parent":"[[+ Home]]","state":["evergreen"],"date":"[[2026-01-11]]"}
 ---
 
 > [!info]+

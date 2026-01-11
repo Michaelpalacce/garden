@@ -1,5 +1,5 @@
 ---
-{"publish":true,"description":"What are we truly working for?","created":"[[2026-01-08]]","modified":"2026-01-11T18:28:15.179+02:00","published":"[[2026-01-08]]","cssclasses":"","parent":["[[index]]"],"state":["evergreen"],"date":"[[2026-01-08]]","relates":["[[Work Index|Work]]"],"opposes":["[[Happiness]]"],"kind":"blog"}
+{"publish":true,"description":"What are we truly working for?","created":"[[2026-01-08]]","modified":"2026-01-11T20:53:52.315+02:00","published":"[[2026-01-08]]","cssclasses":"","parent":["[[index|Blog]]"],"state":["evergreen"],"date":"[[2026-01-08]]","relates":["[[Work Index|Work]]"],"opposes":["[[Happiness]]"],"kind":"blog"}
 ---
 
 Money is truly everything in this [[Capitalism\|capitalistic]] world we live in, but in spite of all that I say screw it!
