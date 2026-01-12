@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2023-06-15]]","modified":"2026-01-11T21:06:44.123+02:00","published":"[[2023-06-15]]","cssclasses":"","parent":"[[Command & Control Center Index|Command & Control Center]]","state":["evergreen"],"relates":["[[000 Nursery Index|Nursery]]"],"date":"[[2023-06-15]]"}
+{"publish":true,"created":"[[2023-06-15]]","modified":"2026-01-12T08:38:56.890+02:00","published":"[[2023-06-15]]","cssclasses":"","parent":"[[Command & Control Center Index|Command & Control Center]]","state":["evergreen"],"relates":["[[000 Nursery Index|Nursery]]"],"date":"[[2023-06-15]]"}
 ---
 
 > [!success] ~ What ? ~

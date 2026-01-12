@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2023-06-13]]","modified":"2026-01-09T13:58:24.666+02:00","published":"[[2023-06-13]]","cssclasses":"","parent":"[[NoMa Method]]","state":["evergreen"],"date":"[[2023-06-13]]","opposes":["[[Note Taking]]"]}
+{"publish":true,"created":"[[2023-06-13]]","modified":"2026-01-12T11:21:26.012+02:00","published":"[[2023-06-13]]","cssclasses":"","parent":"[[NoMa Method]]","state":["evergreen"],"date":"[[2023-06-13]]","opposes":["[[Note Taking]]"]}
 ---
 
 # Overview
@@ -8,4 +8,4 @@ Note-making is when you **put in a solid effort into creating links between your
 
 Note-making **gives you linkable assets**.
 
-Note-making is **investing in yourself**.
+Note-making is **[[Invest In Yourself\|investing in yourself]]**.

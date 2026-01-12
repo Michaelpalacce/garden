@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2024-02-24]]","modified":"2026-01-11T15:09:36.697+02:00","published":"[[2024-02-24]]","cssclasses":"","parent":"[[Software Engineering Index|Software Engineering]]","state":["tree"],"date":"[[2024-02-24]]","aliases":null}
+{"publish":true,"created":"[[2024-02-24]]","modified":"2026-01-12T11:29:45.248+02:00","published":"[[2024-02-24]]","cssclasses":"","parent":"[[Software Engineering Index|Software Engineering]]","state":["tree"],"date":"[[2024-02-24]]","aliases":null}
 ---
 
 > [!info]
@@ -9,9 +9,9 @@
 
 - [[Path To Architect]]
 - Getting Started
-	- [[Levels Of Architecture]]
-	- [[Software Architect - Skills\|Skills]]
-	- [[Software Architect - Responsibilities\|Responsibilities]]
+	- What are the different [[Levels Of Architecture]]? 
+	- What [[Software Architect - Skills\|Skills]] are needed 
+	- What [[Software Architect - Responsibilities\|Responsibilities]] are software architects expected to have? 
 	- Establishing [[Standards Of Practice]]
 	- Having good [[Decision Making]]
 		- [[Impact x Effort Matrix]] to determine when should be done at what time

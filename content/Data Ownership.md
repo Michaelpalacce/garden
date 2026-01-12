@@ -1,5 +1,5 @@
 ---
-{"publish":true,"description":"Owning your data, for privacy","created":"[[2026-01-11]]","modified":"2026-01-11T17:06:20.866+02:00","published":"[[2026-01-11]]","cssclasses":"","parent":["[[Privacy]]","[[Security]]"],"state":["sapling"],"date":"[[2026-01-11]]","relates":["[[Self Hosting]]"],"opposes":["[[Data Custodian]]"]}
+{"publish":true,"aliases":["Owning Your Data"],"description":"Owning your data, for privacy","created":"[[2026-01-11]]","modified":"2026-01-12T08:38:58.042+02:00","published":"[[2026-01-11]]","cssclasses":"","parent":["[[Privacy]]","[[Security]]"],"state":["sapling"],"date":"[[2026-01-11]]","relates":["[[Self Hosting]]"],"opposes":["[[Data Custodian]]"]}
 ---
 
 > [!info]+

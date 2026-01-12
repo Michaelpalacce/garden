@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2024-04-15]]","modified":"2026-01-11T17:05:13.562+02:00","published":"[[2024-04-15]]","cssclasses":"","parent":"[[Projects]]","state":["evergreen"],"date":"[[2024-04-15]]","links":["https://github.com/Michaelpalacce/HomeLab"]}
+{"publish":true,"created":"[[2024-04-15]]","modified":"2026-01-11T23:28:38.627+02:00","published":"[[2024-04-15]]","cssclasses":"","parent":"[[Projects]]","state":["evergreen"],"date":"[[2024-04-15]]","links":["https://github.com/Michaelpalacce/HomeLab"]}
 ---
 
 > [!done] What?
@@ -18,6 +18,7 @@
 - [ ] Firefly fix for subscriptions 
 - [ ] Info Inhibitor alerts should go to null
 - [ ] Way to manage Proxmox security via Kubernetes? I wonder what are the best practices there? I don't want to use [[Terraform]], that has proven to be a bad idea.
+- [ ] Better Bold Text on [[index]]
 
 # Withered
 

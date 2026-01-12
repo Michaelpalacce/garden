@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Blog","Garden"],"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-11T22:51:17.667+02:00","published":"2026-01-11T22:51:17.667+02:00","cssclasses":"","state":["evergreen"]}
+{"publish":true,"aliases":["Blog","Garden"],"title":"Home","created":"2026-01-09T14:13:01.782+02:00","modified":"2026-01-12T10:36:48.802+02:00","published":"2026-01-12T10:36:48.802+02:00","cssclasses":"","state":["evergreen"]}
 ---
 
 # Welcome!
@@ -18,12 +18,18 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 # Blogs
 
-- [[Invest In Yourself]]
 - [[Artificial Intelligence - The Aftermath\|What is left after AI?]]
 - [[Self Guaranteeing Promise]] and never trusting companies and people promises
 - [[Studying In Public]] helps with polishing ideas 
 - [[Work For Peace, Not Money]] to be happier overall.
 - [[On The Governance Of AI]] and what it means to me as a father.
+
+## WIP
+
+- [[I do not care about privacy]]
+- [[I not Robot]]
+- [[Invest In Yourself]] 
+
 
 # Pathways
 
