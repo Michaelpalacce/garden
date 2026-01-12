@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["K8S"],"description":"Distributed, fault-tolerant, highly available customizable extensible platform for managing container workflows.","created":"[[2022-05-02]]","modified":"2026-01-11T00:53:52.522+02:00","published":"[[2022-05-02]]","cssclasses":"","parent":"[[DevOps Index|DevOps]]","state":["evergreen","core"],"opposes":["[[Virtualization]]"],"relates":["[[Containers]]","[[Docker Compose]]"],"date":"[[2022-05-02]]"}
+{"publish":true,"aliases":["K8S"],"description":"Distributed, fault-tolerant, highly available customizable extensible platform for managing container workflows.","created":"[[2022-05-02]]","modified":"2026-01-12T22:30:45.739+02:00","published":"[[2022-05-02]]","cssclasses":"","parent":"[[DevOps Index|DevOps]]","state":["evergreen","core"],"opposes":["[[Virtualization]]"],"relates":["[[Containers]]","[[Docker Compose]]"],"date":"[[2022-05-02]]"}
 ---
 
 Kubernetes is a distributed, fault-tolerant, highly-available, customizable, extensible platform for managing container ([[Containers]]) workflows. 
@@ -29,6 +29,8 @@ Kubernetes is a distributed, fault-tolerant, highly-available, customizable, ext
 	- [[Kubernetes - Generation Field]]
 	- [[Kubernetes - Labels, Annotations, Selectors]]
 	- [[Kubernetes - Owners And Dependents]]
+- Lifecycle
+	- [[Kubernetes - Ready Status]]
 - Advanced
 	- [[Kubernetes - Concurrency Control And Consistency]]
 	- [[Kubernetes - Deletion]]

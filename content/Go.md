@@ -1,0 +1,77 @@
+---
+{"publish":true,"aliases":["Golang"],"description":"A modern programming language","created":"[[2022-12-07]]","modified":"2026-01-12T22:29:08.407+02:00","published":"[[2022-12-07]]","cssclasses":"","parent":"[[Programming Index|Programming]]","state":["evergreen","core"],"date":"[[2022-12-07]]"}
+---
+
+# Map Of Content
+
+- Getting Started
+	- [[Go - Preface\|Preface]]
+	- [[Go - Project Structure\|Project Structure ]]
+	- [[Go - Installation\|Installation]]
+	- [[Go - Best Practices\|Best Practices]]
+	- [[Go - First App\|First App]]
+	- [[Go - Cheatsheet\|Cheatsheet]]
+	- [[Go - go.mod\|go.mod]]
+	- [[Go - Code Organization\|Code Organization]]
+	- [[Go - Documentation]]
+	- [[Go - Working With Packages]]
+- Tools
+	- [[Go - vet]]
+	- [[Go - fmt]]
+	- [[Go - govulnchecker]]
+	- [[Go - gosec]]
+- Basics
+	- [[Go - Basic Types\|Basic Types]] | [[Go - Variables\|Variables]]
+	- [[Go - Structure\|Structure]] | [[Go - Inheritance\|Inheritance]] | [[Go - Exported Names\|Exported Names]]
+	- [[Go - Typecasting\|Typecasting]] | [[Go - Named Return Values\|Named Return Values]]
+	- [[Go - Loops\|Loops]] | [[Go - Conditionals\|Conditionals]]
+	- [[Go - Constructors\|Constructors]] in go **don't really exist**, but we can use **factory methods** to achieve the same.
+	- [[Go - Defer\|Defer]] execution of code **until the surrounding func returns**.
+	- [[Go - Struct Tags]]
+- Components
+	- [[Go - Arrays And Slices\|Arrays And Slices]] | [[Go - Map\|Map]]
+	- [[Go - Struct\|Struct]] | [[Go - Interface\|Interface]]
+	- [[Go - Pointers\|Pointers]] to variables are used when **we want to modify** a variable or not copy a **massive struct**
+	- [[Go - Mutex\|Mutex]] when you want to **lock a goroutine's execution** until a lock is available
+- Tips And tricks
+- Packages
+	- [[Go - Context]]
+	- [[Go - embed]]
+	- [[Go - golang-migrate]]
+	- [[Go - pprof]]
+- Functionality
+	- [[Go - JSON\|JSON]] marshaling and unmarshaling
+	- [[Go - range\|range]] to **iterate** over maps/slices/arrays
+	- [[Go - Anonymous Func\|Anonymous Func]] are funcs that are **defined in another func scope** 
+- Programming
+	- [[Go - Error Handling\|Error Handling]]
+	- [[Go - String Operations\|String Operations]]
+	- [[Go - Testing\|Testing]]
+	- [[Go - Generics\|Generics]]
+	- [[Go - goroutines\|goroutines]]
+	- [[Go - nil Receivers\|nil Receivers]] | [[Go - Nil Interface Values\|Nil Interface Values]]
+	- [[Go - Type Assertions\|Type Assertions]] | [[Go - Type Switches\|Type Switches]]
+	- [[Go - Short Variable Declarations\|Short Variable Declarations]]
+- Advanced
+	- [[Go - Random Number Generation\|Random Number Generation]]
+	- [[Go - Stack vs Heap\|Stack vs Heap]]
+	- [[Go - Performance\|Performance]]
+	- [[Go - Security]]
+- [[Go - build]]
+- Packages
+	- [[Go - flag Package\|flag Package]]
+	- [[Go - errgroup]]
+	- [[Go - multierror]]
+- Snippets
+	- [[Go - Readers\|Readers]] | [[Go - Get Type Of Object\|Get Type Of Object]]
+	- [[Go - Writers]]
+	- [[Go - Sort An Int Array]]
+	- [[Go - Kubernetes controller patch func]]
+- Troubleshooting
+	- [[Go - Nil Pointer Deference]]
+	- [[Go - Pointer To An Interface Not An Interface]]
+- Workbench
+	- [[Go - Golang For DevOps And Cloud Engineers\|Golang For DevOps And Cloud Engineers]]
+- Media
+	- [[Go - 100 Common Go Mistakes]]
+	- [[Go - Proverbs]]
