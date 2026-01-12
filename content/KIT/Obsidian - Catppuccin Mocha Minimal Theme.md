@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"[[2026-01-09]]","modified":"2026-01-09T23:28:43.234+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":"[[2026-01-09]]","state":["evergreen"],"date":"[[2026-01-09]]"}
+{"publish":true,"created":"[[2026-01-09]]","modified":"2026-01-10T01:43:59.573+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":"[[2026-01-09]]","state":["evergreen"],"date":"[[2026-01-09]]"}
 ---
 
 Put this in `.obsidian/snippets/catppucin-mocha.css` and activate it from Appearance.

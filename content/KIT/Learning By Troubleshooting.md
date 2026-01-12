@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Learning From Problems"],"created":"[[2023-06-04]]","modified":"2026-01-09T14:03:12.613+02:00","published":"[[2023-06-04]]","cssclasses":"","parent":"[[How To Retain Knowledge]]","state":["evergreen"],"relates":["[[Learning]]","[[Hot And Cold Storage]]"],"date":"[[2023-06-04]]","links":["https://www.youtube.com/watch?v=ZFi-LTpUGHA&list=WL&index=5"]}
+{"publish":true,"aliases":["Learning From Problems"],"created":"[[2023-06-04]]","modified":"2026-01-09T13:58:24.413+02:00","published":"[[2023-06-04]]","cssclasses":"","parent":"[[How To Retain Knowledge]]","state":["evergreen"],"relates":["[[Learning]]","[[Hot And Cold Storage]]"],"date":"[[2023-06-04]]","links":["https://www.youtube.com/watch?v=ZFi-LTpUGHA&list=WL&index=5"]}
 ---
 
 # The Problem Starts 
