@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Blog","Garden"],"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-12T22:06:50.933+02:00","published":"2026-01-12T22:06:50.933+02:00","cssclasses":"","state":["evergreen"]}
+{"publish":true,"aliases":["Blog","Garden"],"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-14T01:09:16.452+02:00","published":"2026-01-14T01:09:16.452+02:00","cssclasses":"","state":["evergreen"]}
 ---
 
 # Welcome!
@@ -18,6 +18,8 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 # Thoughts
 
+
+- [[So what if they track me]]? #privacy 
 - [[The New (And Improved) Knowledge Silo]]! #ai
 - [[Artificial Intelligence - The Aftermath\|What is left after AI?]] #ai
 - [[Self Guaranteeing Promise]] and never trusting companies and people promises #dependence, #greed 
@@ -27,7 +29,6 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 ## WIP
 
-- [[So what if they track me]] #privacy 
 - [[I not Robot]] #robots
 - [[Invest In Yourself]] #self-improvement
 
