@@ -4,7 +4,7 @@ aliases:
   - Owning Your Data
 description: Owning your data, for privacy
 created: "[[2026-01-11]]"
-modified: 2026-01-11T23:26:55.995+02:00
+modified: 2026-01-12T08:38:58.042+02:00
 published: "[[2026-01-11]]"
 cssclasses: ""
 parent:

@@ -2,7 +2,7 @@
 publish: true
 description: AI - the new knowledge silo!
 created: "[[2026-01-12]]"
-modified: 2026-01-12T20:59:39.139+02:00
+modified: 2026-01-13T08:30:25.091+02:00
 published: "[[2026-01-12]]"
 cssclasses: ""
 parent:
