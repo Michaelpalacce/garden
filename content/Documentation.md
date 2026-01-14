@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2023-06-17]]","modified":"2026-01-11T00:33:01.286+02:00","published":"[[2023-06-17]]","cssclasses":"","parent":"[[Programming Index]]","state":["evergreen"],"date":"[[2023-06-17]]","relates":["[[Comments]]"]}
+publish: true
+created: "[[2023-06-17]]"
+modified: 2026-01-11T00:33:01.286+02:00
+published: "[[2023-06-17]]"
+cssclasses: ""
+parent: "[[Programming Index]]"
+state:
+  - evergreen
+date: "[[2023-06-17]]"
+relates:
+  - "[[Comments]]"
 ---
 
 > [!success] ~ What ? ~ 

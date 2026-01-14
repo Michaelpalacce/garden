@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2024-01-14]]","modified":"2026-01-10T02:09:51.456+02:00","published":"[[2024-01-14]]","cssclasses":"","parent":"[[Programming Index|Development]]","state":["evergreen"],"date":"[[2024-01-14]]"}
+publish: true
+created: "[[2024-01-14]]"
+modified: 2026-01-10T02:09:51.456+02:00
+published: "[[2024-01-14]]"
+cssclasses: ""
+parent: "[[Programming Index|Development]]"
+state:
+  - evergreen
+date: "[[2024-01-14]]"
 ---
 
 # Ideas For Improvement

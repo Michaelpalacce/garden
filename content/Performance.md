@@ -1,5 +1,20 @@
 ---
-{"publish":true,"description":"How to write performant code","created":"[[2024-10-10]]","modified":"2026-01-11T15:41:48.308+02:00","published":"[[2024-10-10]]","cssclasses":"","parent":"[[Software Engineering Index]]","state":["evergreen"],"date":"[[2024-10-10]]","relates":["[[Go - Performance]]","[[Complexity]]","[[Optimization]]"],"links":["https://github.com/dgryski/go-perfbook/blob/master/performance.md#writing-and-optimizing-go-code"]}
+publish: true
+description: How to write performant code
+created: "[[2024-10-10]]"
+modified: 2026-01-11T15:41:48.308+02:00
+published: "[[2024-10-10]]"
+cssclasses: ""
+parent: "[[Software Engineering Index]]"
+state:
+  - evergreen
+date: "[[2024-10-10]]"
+relates:
+  - "[[Go - Performance]]"
+  - "[[Complexity]]"
+  - "[[Optimization]]"
+links:
+  - https://github.com/dgryski/go-perfbook/blob/master/performance.md#writing-and-optimizing-go-code
 ---
 
 # Map Of Content

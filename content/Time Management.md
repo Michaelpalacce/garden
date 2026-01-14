@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2023-07-01]]","modified":"2026-01-09T13:59:18.863+02:00","published":"[[2023-07-01]]","cssclasses":"","parent":"[[Productivity]]","state":["evergreen"],"date":"[[2023-07-01]]","relates":["[[Time Saving]]"]}
+publish: true
+created: "[[2023-07-01]]"
+modified: 2026-01-09T13:59:18.863+02:00
+published: "[[2023-07-01]]"
+cssclasses: ""
+parent: "[[Productivity]]"
+state:
+  - evergreen
+date: "[[2023-07-01]]"
+relates:
+  - "[[Time Saving]]"
 ---
 
 # Prioritise 

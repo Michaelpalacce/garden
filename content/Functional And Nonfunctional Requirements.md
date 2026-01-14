@@ -1,5 +1,18 @@
 ---
-{"publish":true,"aliases":["Non-Functional Requirements","Functional Requirements"],"created":"[[2022-11-15]]","modified":"2026-01-11T15:21:13.116+02:00","published":"[[2022-11-15]]","cssclasses":"","parent":"[[Software Architect]]","state":["evergreen"],"date":"[[2022-11-15]]","links":["https://www.altexsoft.com/blog/business/functional-and-non-functional-requirements-specification-and-types/"]}
+publish: true
+aliases:
+  - Non-Functional Requirements
+  - Functional Requirements
+created: "[[2022-11-15]]"
+modified: 2026-01-11T15:21:13.116+02:00
+published: "[[2022-11-15]]"
+cssclasses: ""
+parent: "[[Software Architect]]"
+state:
+  - evergreen
+date: "[[2022-11-15]]"
+links:
+  - https://www.altexsoft.com/blog/business/functional-and-non-functional-requirements-specification-and-types/
 ---
 
 ![[Assets/Pasted image 20221115093147.png]]

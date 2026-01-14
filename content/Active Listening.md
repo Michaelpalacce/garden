@@ -1,5 +1,19 @@
 ---
-{"publish":true,"description":"Practice active listening","created":"[[2025-04-28]]","modified":"2026-01-11T15:14:54.461+02:00","published":"[[2025-04-28]]","cssclasses":"","parent":"[[Communication]]","state":["tree"],"date":"[[2025-04-28]]","relates":["[[Verbal Communication]]","[[Visual Communication]]"],"opposes":["[[Distractions]]"]}
+publish: true
+description: Practice active listening
+created: "[[2025-04-28]]"
+modified: 2026-01-11T15:14:54.461+02:00
+published: "[[2025-04-28]]"
+cssclasses: ""
+parent: "[[Communication]]"
+state:
+  - tree
+date: "[[2025-04-28]]"
+relates:
+  - "[[Verbal Communication]]"
+  - "[[Visual Communication]]"
+opposes:
+  - "[[Distractions]]"
 ---
 
 > [!info]+

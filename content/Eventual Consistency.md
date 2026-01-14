@@ -1,5 +1,19 @@
 ---
-{"publish":true,"description":"Data gets eventually replicated","created":"[[2025-09-07]]","modified":"2026-01-11T15:30:24.348+02:00","published":"[[2025-09-07]]","cssclasses":"","parent":"[[Consistency]]","state":["tree"],"date":"[[2025-09-07]]","relates":["[[Cassandra]]","[[Replication]]"],"opposes":["[[Immediate Consistency]]"]}
+publish: true
+description: Data gets eventually replicated
+created: "[[2025-09-07]]"
+modified: 2026-01-11T15:30:24.348+02:00
+published: "[[2025-09-07]]"
+cssclasses: ""
+parent: "[[Consistency]]"
+state:
+  - tree
+date: "[[2025-09-07]]"
+relates:
+  - "[[Cassandra]]"
+  - "[[Replication]]"
+opposes:
+  - "[[Immediate Consistency]]"
 ---
 
 > [!info]+

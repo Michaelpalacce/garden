@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2023-05-27]]","modified":"2026-01-11T18:20:39.415+02:00","published":"[[2023-05-27]]","cssclasses":"","parent":"[[Forest]]","state":["evergreen"],"date":"[[2023-05-27]]"}
+publish: true
+created: "[[2023-05-27]]"
+modified: 2026-01-11T18:20:39.415+02:00
+published: "[[2023-05-27]]"
+cssclasses: ""
+parent: "[[Forest]]"
+state:
+  - evergreen
+date: "[[2023-05-27]]"
 ---
 
 # Map Of Content

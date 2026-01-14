@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["Obsidian"],"created":"2023-05-21T09:26:08.768+03:00","modified":"2026-01-11T18:23:24.511+02:00","published":"2026-01-11T18:23:24.511+02:00","cssclasses":"","parent":["[[Pathways]]"],"state":["evergreen"]}
+publish: true
+aliases:
+  - Obsidian
+created: 2023-05-21T09:26:08.768+03:00
+modified: 2026-01-11T18:23:24.511+02:00
+published: 2026-01-11T18:23:24.511+02:00
+cssclasses: ""
+parent:
+  - "[[Pathways]]"
+state:
+  - evergreen
 ---
 
 > [!done] ~ ObsidianMD ~ 📝

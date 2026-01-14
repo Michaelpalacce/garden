@@ -1,5 +1,22 @@
 ---
-{"publish":true,"description":"Learning By sharing","created":"[[2026-01-09]]","modified":"2026-01-10T22:49:12.048+02:00","published":"[[2026-01-09]]","cssclasses":"","parent":["[[Lifestyle]]"],"state":["evergreen"],"date":"[[2026-01-09]]","relates":["[[Open Source]]","[[Extrovert]]"],"opposes":["[[Introvert]]"],"kind":["blog"]}
+publish: true
+description: Learning By sharing
+created: "[[2026-01-09]]"
+modified: 2026-01-10T22:49:12.048+02:00
+published: "[[2026-01-09]]"
+cssclasses: ""
+parent:
+  - "[[Lifestyle]]"
+state:
+  - evergreen
+date: "[[2026-01-09]]"
+relates:
+  - "[[Open Source]]"
+  - "[[Extrovert]]"
+opposes:
+  - "[[Introvert]]"
+kind:
+  - blog
 ---
 
 > [!info]+

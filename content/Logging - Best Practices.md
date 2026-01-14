@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2023-02-02]]","modified":"2026-01-11T00:30:33.482+02:00","published":"[[2023-02-02]]","cssclasses":"","parent":"[[Logging]]","state":["evergreen"],"date":"[[2023-02-02]]"}
+publish: true
+created: "[[2023-02-02]]"
+modified: 2026-01-11T00:30:33.482+02:00
+published: "[[2023-02-02]]"
+cssclasses: ""
+parent: "[[Logging]]"
+state:
+  - evergreen
+date: "[[2023-02-02]]"
 ---
 
 # Best Practices

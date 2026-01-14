@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"Complexity scale","created":"[[2024-10-11]]","modified":"2026-01-11T15:41:59.044+02:00","published":"[[2024-10-11]]","cssclasses":"","parent":"[[Performance]]","state":["sapling"],"date":"[[2024-10-11]]","links":["http://bigocheatsheet.com/"],"relates":["[[Complexity]]"]}
+publish: true
+description: Complexity scale
+created: "[[2024-10-11]]"
+modified: 2026-01-11T15:41:59.044+02:00
+published: "[[2024-10-11]]"
+cssclasses: ""
+parent: "[[Performance]]"
+state:
+  - sapling
+date: "[[2024-10-11]]"
+links:
+  - http://bigocheatsheet.com/
+relates:
+  - "[[Complexity]]"
 ---
 
 The basic classes of complexity are:

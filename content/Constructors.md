@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"Construct new object instances","created":"[[2025-04-01]]","modified":"2026-01-10T23:18:45.564+02:00","published":"[[2025-04-01]]","cssclasses":"","parent":"[[Programming Index]]","state":["sapling"],"date":"[[2025-04-01]]","opposes":["[[Destructors]]"],"relates":["[[OOP|Object Oriented Programming]]"]}
+publish: true
+description: Construct new object instances
+created: "[[2025-04-01]]"
+modified: 2026-01-10T23:18:45.564+02:00
+published: "[[2025-04-01]]"
+cssclasses: ""
+parent: "[[Programming Index]]"
+state:
+  - sapling
+date: "[[2025-04-01]]"
+opposes:
+  - "[[Destructors]]"
+relates:
+  - "[[OOP|Object Oriented Programming]]"
 ---
 
 # Best Practices

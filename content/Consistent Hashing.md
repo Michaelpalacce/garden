@@ -1,5 +1,21 @@
 ---
-{"publish":true,"description":"A way to recalculate partitions in an event of a node failure.","created":"[[2024-09-06]]","modified":"2026-01-11T15:38:47.324+02:00","published":"[[2024-09-06]]","cssclasses":"","parent":"[[System Design]]","state":["sapling"],"date":"[[2024-09-06]]","relates":["[[Cassandra]]"],"opposes":null,"links":["https://interviewnoodle.com/how-to-use-consistent-hashing-in-a-system-design-interview-b738be3a1ae3","https://highscalability.com/consistent-hashing-algorithm/"],"aliases":null}
+publish: true
+description: A way to recalculate partitions in an event of a node failure.
+created: "[[2024-09-06]]"
+modified: 2026-01-11T15:38:47.324+02:00
+published: "[[2024-09-06]]"
+cssclasses: ""
+parent: "[[System Design]]"
+state:
+  - sapling
+date: "[[2024-09-06]]"
+relates:
+  - "[[Cassandra]]"
+opposes:
+links:
+  - https://interviewnoodle.com/how-to-use-consistent-hashing-in-a-system-design-interview-b738be3a1ae3
+  - https://highscalability.com/consistent-hashing-algorithm/
+aliases:
 ---
 
 > [!info]+

@@ -1,5 +1,12 @@
 ---
-{"publish":true,"created":"[[2023-07-09]]","modified":"2026-01-09T13:58:23.765+02:00","published":"[[2023-07-09]]","cssclasses":"","parent":"[[Framework]]","state":"evergreen","date":"[[2023-07-09]]"}
+publish: true
+created: "[[2023-07-09]]"
+modified: 2026-01-09T13:58:23.765+02:00
+published: "[[2023-07-09]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state: evergreen
+date: "[[2023-07-09]]"
 ---
 
 > [!success] ~ What ? ~

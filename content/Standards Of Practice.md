@@ -1,5 +1,18 @@
 ---
-{"publish":true,"aliases":["SOP"],"description":"Established guidelines or norms","created":"[[2024-10-07]]","modified":"2026-01-11T15:11:22.745+02:00","published":"[[2024-10-07]]","cssclasses":"","parent":"[[Software Architect]]","state":["sapling"],"date":"[[2024-10-07]]","relates":["[[Documentation]]"]}
+publish: true
+aliases:
+  - SOP
+description: Established guidelines or norms
+created: "[[2024-10-07]]"
+modified: 2026-01-11T15:11:22.745+02:00
+published: "[[2024-10-07]]"
+cssclasses: ""
+parent: "[[Software Architect]]"
+state:
+  - sapling
+date: "[[2024-10-07]]"
+relates:
+  - "[[Documentation]]"
 ---
 
 > [!info]+

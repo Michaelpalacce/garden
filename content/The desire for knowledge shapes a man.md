@@ -1,5 +1,17 @@
 ---
-{"publish":true,"description":"From the Kingkiller chronicles","created":"[[2026-01-08]]","modified":"2026-01-09T13:59:18.917+02:00","published":"[[2026-01-08]]","cssclasses":"","parent":["[[Quotes]]"],"state":["evergreen"],"date":"[[2026-01-08]]","kind":"quote","from":"Patrick Rothfuss"}
+publish: true
+description: From the Kingkiller chronicles
+created: "[[2026-01-08]]"
+modified: 2026-01-09T13:59:18.917+02:00
+published: "[[2026-01-08]]"
+cssclasses: ""
+parent:
+  - "[[Quotes]]"
+state:
+  - evergreen
+date: "[[2026-01-08]]"
+kind: quote
+from: Patrick Rothfuss
 ---
 
 > [!quote]+

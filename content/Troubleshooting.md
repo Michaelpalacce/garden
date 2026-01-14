@@ -1,5 +1,17 @@
 ---
-{"publish":true,"aliases":["Problem Solving"],"created":"[[2024-10-11]]","modified":"2026-01-11T15:13:42.629+02:00","published":"[[2024-10-11]]","cssclasses":"","parent":"[[Soft Skills]]","state":["evergreen"],"date":"[[2024-10-11]]","relates":["[[KIT/Learning By Troubleshooting]]"]}
+publish: true
+aliases:
+  - Problem Solving
+created: "[[2024-10-11]]"
+modified: 2026-01-11T15:13:42.629+02:00
+published: "[[2024-10-11]]"
+cssclasses: ""
+parent: "[[Soft Skills]]"
+state:
+  - evergreen
+date: "[[2024-10-11]]"
+relates:
+  - "[[KIT/Learning By Troubleshooting]]"
 ---
 
 > [!info]+

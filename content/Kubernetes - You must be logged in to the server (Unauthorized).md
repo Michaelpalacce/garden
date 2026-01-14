@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":[null],"created":"[[2023-10-24]]","modified":"2026-01-12T22:38:29.431+02:00","published":"[[2023-10-24]]","cssclasses":"","parent":["[[Kubernetes]]"],"state":"evergreen","date":"[[2023-10-24]]"}
+publish: true
+aliases:
+  - 
+created: "[[2023-10-24]]"
+modified: 2026-01-12T22:38:29.431+02:00
+published: "[[2023-10-24]]"
+cssclasses: ""
+parent:
+  - "[[Kubernetes]]"
+state: evergreen
+date: "[[2023-10-24]]"
 ---
 
 # Reason

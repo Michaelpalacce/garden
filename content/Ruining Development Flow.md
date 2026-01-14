@@ -1,5 +1,24 @@
 ---
-{"publish":true,"aliases":["Slowing Down Development","Too Many Meetings","Constant Meetings"],"created":"[[2023-06-19]]","modified":"2026-01-10T02:23:59.808+02:00","published":"[[2023-06-19]]","cssclasses":"","parent":["[[Productivity]]","[[Programming Index]]"],"state":["evergreen"],"date":"[[2023-06-19]]","relates":["[[Productivity]]","[[Productivity VS Motivation]]"],"opposes":["[[Flow]]"]}
+publish: true
+aliases:
+  - Slowing Down Development
+  - Too Many Meetings
+  - Constant Meetings
+created: "[[2023-06-19]]"
+modified: 2026-01-10T02:23:59.808+02:00
+published: "[[2023-06-19]]"
+cssclasses: ""
+parent:
+  - "[[Productivity]]"
+  - "[[Programming Index]]"
+state:
+  - evergreen
+date: "[[2023-06-19]]"
+relates:
+  - "[[Productivity]]"
+  - "[[Productivity VS Motivation]]"
+opposes:
+  - "[[Flow]]"
 ---
 
 > [!abstract] Interrupting Flow

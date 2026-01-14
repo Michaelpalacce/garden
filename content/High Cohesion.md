@@ -1,5 +1,18 @@
 ---
-{"publish":true,"created":"[[2025-09-07]]","modified":"2026-01-11T15:28:58.628+02:00","published":"[[2025-09-07]]","cssclasses":"","parent":"[[Software Design#Software Design Principles]]","state":["sapling"],"date":"[[2025-09-07]]","relates":["[[Interface Segregation Principle]]"],"opposes":null,"links":null,"aliases":null}
+publish: true
+created: "[[2025-09-07]]"
+modified: 2026-01-11T15:28:58.628+02:00
+published: "[[2025-09-07]]"
+cssclasses: ""
+parent: "[[Software Design#Software Design Principles]]"
+state:
+  - sapling
+date: "[[2025-09-07]]"
+relates:
+  - "[[Interface Segregation Principle]]"
+opposes:
+links:
+aliases:
 ---
 
 > [!info]+

@@ -1,5 +1,19 @@
 ---
-{"publish":true,"created":"[[2025-04-16]]","modified":"2026-01-11T20:41:01.935+02:00","published":"[[2025-04-16]]","cssclasses":"","parent":"[[DevOps Index]]","state":["evergreen"],"date":"[[2025-04-16]]","relates":["[[Databases]]"],"opposes":null,"links":null,"description":null,"aliases":null}
+publish: true
+created: "[[2025-04-16]]"
+modified: 2026-01-11T20:41:01.935+02:00
+published: "[[2025-04-16]]"
+cssclasses: ""
+parent: "[[DevOps Index]]"
+state:
+  - evergreen
+date: "[[2025-04-16]]"
+relates:
+  - "[[Databases]]"
+opposes:
+links:
+description:
+aliases:
 ---
 
 # Map Of Content

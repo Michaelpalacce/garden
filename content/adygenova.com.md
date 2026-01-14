@@ -1,5 +1,14 @@
 ---
-{"publish":true,"description":"adygenova.com will be hosted on my servers","created":"[[2025-12-07]]","modified":"2026-01-10T17:20:26.603+02:00","published":"[[2025-12-07]]","cssclasses":"","parent":"[[Projects]]","state":["evergreen"],"date":"[[2025-12-07]]"}
+publish: true
+description: adygenova.com will be hosted on my servers
+created: "[[2025-12-07]]"
+modified: 2026-01-10T17:20:26.603+02:00
+published: "[[2025-12-07]]"
+cssclasses: ""
+parent: "[[Projects]]"
+state:
+  - evergreen
+date: "[[2025-12-07]]"
 ---
 
 - Hosted on my servers

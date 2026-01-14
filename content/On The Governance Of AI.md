@@ -1,5 +1,19 @@
 ---
-{"publish":true,"aliases":["Thoughts about government of AI generation"],"description":"Who will censor artificial intelligences?","created":"[[2026-01-04]]","modified":"2026-01-09T14:02:35.291+02:00","published":"[[2026-01-04]]","cssclasses":"","parent":"[[Artificial Intelligence]]","state":["evergreen"],"date":"[[2026-01-04]]","relates":["[[AI - Cons]]"],"kind":"blog"}
+publish: true
+aliases:
+  - Thoughts about government of AI generation
+description: Who will censor artificial intelligences?
+created: "[[2026-01-04]]"
+modified: 2026-01-09T14:02:35.291+02:00
+published: "[[2026-01-04]]"
+cssclasses: ""
+parent: "[[Artificial Intelligence]]"
+state:
+  - evergreen
+date: "[[2026-01-04]]"
+relates:
+  - "[[AI - Cons]]"
+kind: blog
 ---
 
 This came to me after arguing with an acquaintance of mine regarding AI, where I was explaining to her what are the cons of artificial intelligence. 

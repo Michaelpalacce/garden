@@ -1,5 +1,14 @@
 ---
-{"publish":true,"created":"[[2022-05-14]]","modified":"2026-01-11T18:23:10.655+02:00","published":"[[2022-05-14]]","cssclasses":"","parent":["[[Pathways]]"],"state":["evergreen"],"date":"[[2022-05-14]]"}
+publish: true
+created: "[[2022-05-14]]"
+modified: 2026-01-11T18:23:10.655+02:00
+published: "[[2022-05-14]]"
+cssclasses: ""
+parent:
+  - "[[Pathways]]"
+state:
+  - evergreen
+date: "[[2022-05-14]]"
 ---
 
 > [!done] What?

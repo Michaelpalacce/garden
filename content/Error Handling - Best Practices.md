@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2023-02-01]]","modified":"2026-01-10T23:27:15.490+02:00","published":"[[2023-02-01]]","cssclasses":"","parent":"[[Error Handling]]","state":"evergreen","date":"[[2023-02-01]]","relates":["[[Best Practices]]"],"opposes":"[[Bad Practices]]"}
+publish: true
+created: "[[2023-02-01]]"
+modified: 2026-01-10T23:27:15.490+02:00
+published: "[[2023-02-01]]"
+cssclasses: ""
+parent: "[[Error Handling]]"
+state: evergreen
+date: "[[2023-02-01]]"
+relates:
+  - "[[Best Practices]]"
+opposes: "[[Bad Practices]]"
 ---
 
 # Best Practices

@@ -1,5 +1,21 @@
 ---
-{"publish":true,"aliases":["Invest in automation"],"description":"Invest in automation, not in efficient workers.","created":"[[2025-04-13]]","modified":"2026-01-11T00:51:21.506+02:00","published":"[[2025-04-13]]","cssclasses":"","parent":"[[DevOps Index]]","state":["evergreen"],"date":"[[2025-04-13]]","relates":["[[Automation]]","[[Processes]]"],"links":["https://vitonsky.net/blog/2024/10/11/system-approach/"]}
+publish: true
+aliases:
+  - Invest in automation
+description: Invest in automation, not in efficient workers.
+created: "[[2025-04-13]]"
+modified: 2026-01-11T00:51:21.506+02:00
+published: "[[2025-04-13]]"
+cssclasses: ""
+parent: "[[DevOps Index]]"
+state:
+  - evergreen
+date: "[[2025-04-13]]"
+relates:
+  - "[[Automation]]"
+  - "[[Processes]]"
+links:
+  - https://vitonsky.net/blog/2024/10/11/system-approach/
 ---
 
 **Individual skills skew the actual performance metric of your application**. 

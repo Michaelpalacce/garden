@@ -1,5 +1,17 @@
 ---
-{"publish":true,"description":"NASA Rules for developing safely critical code","created":"[[2025-02-17]]","modified":"2026-01-10T02:22:43.656+02:00","published":"[[2025-02-17]]","cssclasses":"","parent":"[[Best Practices]]","state":["evergreen"],"date":"[[2025-02-17]]","relates":["[[Tiger Style]]","[[Safety]]"]}
+publish: true
+description: NASA Rules for developing safely critical code
+created: "[[2025-02-17]]"
+modified: 2026-01-10T02:22:43.656+02:00
+published: "[[2025-02-17]]"
+cssclasses: ""
+parent: "[[Best Practices]]"
+state:
+  - evergreen
+date: "[[2025-02-17]]"
+relates:
+  - "[[Tiger Style]]"
+  - "[[Safety]]"
 ---
 
 # Rules

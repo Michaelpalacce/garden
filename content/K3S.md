@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2025-12-26]]","modified":"2026-01-12T22:36:06.691+02:00","published":"[[2025-12-26]]","cssclasses":"","parent":"[[Kubernetes]]","state":["tree"],"date":"[[2025-12-26]]"}
+publish: true
+created: "[[2025-12-26]]"
+modified: 2026-01-12T22:36:06.691+02:00
+published: "[[2025-12-26]]"
+cssclasses: ""
+parent: "[[Kubernetes]]"
+state:
+  - tree
+date: "[[2025-12-26]]"
 ---
 
 > [!info]+

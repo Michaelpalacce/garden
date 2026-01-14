@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2022-05-14]]","modified":"2026-01-10T16:58:04.457+02:00","published":"[[2022-05-14]]","cssclasses":"","parent":"[[HomeLab]]","state":["evergreen"],"relates":["[[K3S]]"],"date":"[[2022-05-14]]"}
+publish: true
+created: "[[2022-05-14]]"
+modified: 2026-01-10T16:58:04.457+02:00
+published: "[[2022-05-14]]"
+cssclasses: ""
+parent: "[[HomeLab]]"
+state:
+  - evergreen
+relates:
+  - "[[K3S]]"
+date: "[[2022-05-14]]"
 ---
 
 # CSI - [[Longhorn\|Longhorn]]

@@ -1,5 +1,20 @@
 ---
-{"publish":true,"description":"Learn how to learn","created":"[[2025-04-20]]","modified":"2026-01-11T00:57:33.526+02:00","published":"[[2025-04-20]]","cssclasses":"","parent":"[[Learning]]","state":["evergreen"],"relates":["[[KIT/Four Dimensional Thinking]]"],"opposes":["[[Forgetting]]"],"date":"[[2025-04-20]]","links":["https://kavita.stefangenov.site/library/2/series/173/pdf/1143"]}
+publish: true
+description: Learn how to learn
+created: "[[2025-04-20]]"
+modified: 2026-01-11T00:57:33.526+02:00
+published: "[[2025-04-20]]"
+cssclasses: ""
+parent: "[[Learning]]"
+state:
+  - evergreen
+relates:
+  - "[[KIT/Four Dimensional Thinking]]"
+opposes:
+  - "[[Forgetting]]"
+date: "[[2025-04-20]]"
+links:
+  - https://kavita.stefangenov.site/library/2/series/173/pdf/1143
 ---
 
 # Map Of Content

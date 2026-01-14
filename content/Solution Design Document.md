@@ -1,5 +1,17 @@
 ---
-{"publish":true,"aliases":["Solution Design"],"created":"[[2024-02-19]]","modified":"2026-01-11T15:22:54.052+02:00","published":"[[2024-02-19]]","cssclasses":"","parent":"[[Software Architect]]","state":["evergreen"],"relates":["[[Requirements Gathering|Requirements Design]]"],"date":"[[2024-02-19]]"}
+publish: true
+aliases:
+  - Solution Design
+created: "[[2024-02-19]]"
+modified: 2026-01-11T15:22:54.052+02:00
+published: "[[2024-02-19]]"
+cssclasses: ""
+parent: "[[Software Architect]]"
+state:
+  - evergreen
+relates:
+  - "[[Requirements Gathering|Requirements Design]]"
+date: "[[2024-02-19]]"
 ---
 
 > [!warning]

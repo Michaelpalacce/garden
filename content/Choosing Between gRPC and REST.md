@@ -1,5 +1,18 @@
 ---
-{"publish":true,"aliases":["gRPC VS HTTP"],"description":"Benefits and disadvantages of gRPC and HTTP","created":"[[2025-04-13]]","modified":"2026-01-10T02:21:28.784+02:00","published":"[[2025-04-13]]","cssclasses":"","parent":"[[gRPC]]","state":["evergreen"],"date":"[[2025-04-13]]","relates":["[[REST]]"]}
+publish: true
+aliases:
+  - gRPC VS HTTP
+description: Benefits and disadvantages of gRPC and HTTP
+created: "[[2025-04-13]]"
+modified: 2026-01-10T02:21:28.784+02:00
+published: "[[2025-04-13]]"
+cssclasses: ""
+parent: "[[gRPC]]"
+state:
+  - evergreen
+date: "[[2025-04-13]]"
+relates:
+  - "[[REST]]"
 ---
 
 When deciding between gRPC and REST, it's essential to consider the **specific needs of your application**. Here's a breakdown of when each technology is typically more suitable:

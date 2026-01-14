@@ -1,5 +1,17 @@
 ---
-{"publish":true,"created":"[[2024-01-17]]","modified":"2026-01-12T23:40:19.165+02:00","published":"[[2024-01-17]]","cssclasses":"","parent":"[[Meetings]]","state":["tree"],"date":"[[2024-01-17]]","relates":["[[Communication]]","[[Project Manager]]"],"research":true}
+publish: true
+created: "[[2024-01-17]]"
+modified: 2026-01-12T23:40:19.165+02:00
+published: "[[2024-01-17]]"
+cssclasses: ""
+parent: "[[Meetings]]"
+state:
+  - tree
+date: "[[2024-01-17]]"
+relates:
+  - "[[Communication]]"
+  - "[[Project Manager]]"
+research: true
 ---
 
 # How to write effective meeting minutes

@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2025-03-26]]","modified":"2026-01-13T00:08:19.962+02:00","published":"[[2025-03-26]]","cssclasses":"","parent":"[[Linux]]","state":["sapling"],"date":"[[2025-03-26]]","links":["https://linuxhandbook.com/linux-directory-structure/"]}
+publish: true
+created: "[[2025-03-26]]"
+modified: 2026-01-13T00:08:19.962+02:00
+published: "[[2025-03-26]]"
+cssclasses: ""
+parent: "[[Linux]]"
+state:
+  - sapling
+date: "[[2025-03-26]]"
+links:
+  - https://linuxhandbook.com/linux-directory-structure/
 ---
 
 - /bin – Binaries

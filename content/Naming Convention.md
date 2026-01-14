@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["How To Name Components"],"created":"[[2023-06-30]]","modified":"2026-01-11T00:43:32.082+02:00","published":"[[2023-06-30]]","cssclasses":"","parent":"[[Programming Index]]","state":["evergreen"],"date":"[[2023-06-30]]"}
+publish: true
+aliases:
+  - How To Name Components
+created: "[[2023-06-30]]"
+modified: 2026-01-11T00:43:32.082+02:00
+published: "[[2023-06-30]]"
+cssclasses: ""
+parent: "[[Programming Index]]"
+state:
+  - evergreen
+date: "[[2023-06-30]]"
 ---
 
 # Single Letter Variables

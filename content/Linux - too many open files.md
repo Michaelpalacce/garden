@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"There is a limit of how many open files can exist. This is how to increase it.","created":"[[2024-08-27]]","modified":"2026-01-13T00:08:52.918+02:00","published":"[[2024-08-27]]","cssclasses":"","parent":"[[Linux]]","state":["evergreen"],"date":"[[2024-08-27]]","relates":["[[ulimit]]"],"links":["https://www.howtogeek.com/805629/too-many-open-files-linux/"]}
+publish: true
+description: There is a limit of how many open files can exist. This is how to increase it.
+created: "[[2024-08-27]]"
+modified: 2026-01-13T00:08:52.918+02:00
+published: "[[2024-08-27]]"
+cssclasses: ""
+parent: "[[Linux]]"
+state:
+  - evergreen
+date: "[[2024-08-27]]"
+relates:
+  - "[[ulimit]]"
+links:
+  - https://www.howtogeek.com/805629/too-many-open-files-linux/
 ---
 
 # Fix

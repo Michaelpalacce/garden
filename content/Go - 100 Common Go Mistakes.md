@@ -1,5 +1,21 @@
 ---
-{"publish":true,"created":"[[2024-01-24]]","modified":"2026-01-12T22:28:24.639+02:00","published":"[[2024-01-24]]","cssclasses":"","parent":"[[Go|Golang]]","state":["evergreen"],"relates":["[[Go - Best Practices]]","[[Best Practices]]"],"links":["https://100go.co/"],"aliases":null,"date":"[[2024-01-24]]","opposes":["[[Bad Practices]]"]}
+publish: true
+created: "[[2024-01-24]]"
+modified: 2026-01-12T22:28:24.639+02:00
+published: "[[2024-01-24]]"
+cssclasses: ""
+parent: "[[Go|Golang]]"
+state:
+  - evergreen
+relates:
+  - "[[Go - Best Practices]]"
+  - "[[Best Practices]]"
+links:
+  - https://100go.co/
+aliases:
+date: "[[2024-01-24]]"
+opposes:
+  - "[[Bad Practices]]"
 ---
 
 # 1. Unintended variable shadowing

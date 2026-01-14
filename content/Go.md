@@ -1,5 +1,17 @@
 ---
-{"publish":true,"aliases":["Golang"],"description":"A modern programming language","created":"[[2022-12-07]]","modified":"2026-01-12T22:29:08.407+02:00","published":"[[2022-12-07]]","cssclasses":"","parent":"[[Programming Index|Programming]]","state":["evergreen","core"],"date":"[[2022-12-07]]"}
+publish: true
+aliases:
+  - Golang
+description: A modern programming language
+created: "[[2022-12-07]]"
+modified: 2026-01-12T22:29:08.407+02:00
+published: "[[2022-12-07]]"
+cssclasses: ""
+parent: "[[Programming Index|Programming]]"
+state:
+  - evergreen
+  - core
+date: "[[2022-12-07]]"
 ---
 
 # Map Of Content

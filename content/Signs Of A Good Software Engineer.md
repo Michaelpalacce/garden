@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["How To Be A Good Developer"],"created":"[[2023-06-24]]","modified":"2026-01-11T15:45:05.216+02:00","published":"[[2023-06-24]]","cssclasses":"","parent":"[[Software Engineering Index]]","state":["evergreen"],"date":"[[2023-06-24]]"}
+publish: true
+aliases:
+  - How To Be A Good Developer
+created: "[[2023-06-24]]"
+modified: 2026-01-11T15:45:05.216+02:00
+published: "[[2023-06-24]]"
+cssclasses: ""
+parent: "[[Software Engineering Index]]"
+state:
+  - evergreen
+date: "[[2023-06-24]]"
 ---
 
 # Map Of Content

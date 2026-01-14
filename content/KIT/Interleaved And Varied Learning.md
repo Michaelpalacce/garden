@@ -1,5 +1,16 @@
 ---
-{"publish":true,"description":"Learning multiple things and switching often.","created":"[[2025-04-27]]","modified":"2026-01-09T13:58:24.388+02:00","published":"[[2025-04-27]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2025-04-27]]","relates":["[[Spaced Repetition]]"]}
+publish: true
+description: Learning multiple things and switching often.
+created: "[[2025-04-27]]"
+modified: 2026-01-09T13:58:24.388+02:00
+published: "[[2025-04-27]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2025-04-27]]"
+relates:
+  - "[[Spaced Repetition]]"
 ---
 
 > [!info]

@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2024-06-17]]","modified":"2026-01-09T13:58:24.974+02:00","published":"[[2024-06-17]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2024-06-17]]"}
+publish: true
+created: "[[2024-06-17]]"
+modified: 2026-01-09T13:58:24.974+02:00
+published: "[[2024-06-17]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2024-06-17]]"
 ---
 
 Method of classification and assignment of classifications to a collection. This targets the state of a note and not everything that can go in the [[KIT/YAML Front Matter\|YAML Frontmatter]] ( Read that for more details )

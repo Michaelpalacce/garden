@@ -1,5 +1,18 @@
 ---
-{"publish":true,"aliases":["Process Items"],"description":"Keep your inboxes clean by regularly processing items","created":"[[2025-04-27]]","modified":"2026-01-09T13:58:24.337+02:00","published":"[[2025-04-27]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2025-04-27]]","opposes":["[[Procrastination]]"]}
+publish: true
+aliases:
+  - Process Items
+description: Keep your inboxes clean by regularly processing items
+created: "[[2025-04-27]]"
+modified: 2026-01-09T13:58:24.337+02:00
+published: "[[2025-04-27]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2025-04-27]]"
+opposes:
+  - "[[Procrastination]]"
 ---
 
 # Inbox Zero

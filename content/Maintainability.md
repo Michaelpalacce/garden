@@ -1,5 +1,20 @@
 ---
-{"publish":true,"aliases":["Maintainable Code","Writing Maintainable Code","How To Write Maintainable Code"],"description":"How easy is it for a maintainer to fix a piece of code.","created":"[[2023-06-30]]","modified":"2026-01-11T20:28:53.731+02:00","published":"[[2023-06-30]]","cssclasses":"","parent":"[[System Design]]","state":["evergreen"],"relates":["[[Good Code|How To Write Better Code]]"],"date":"[[2023-06-30]]"}
+publish: true
+aliases:
+  - Maintainable Code
+  - Writing Maintainable Code
+  - How To Write Maintainable Code
+description: How easy is it for a maintainer to fix a piece of code.
+created: "[[2023-06-30]]"
+modified: 2026-01-11T20:28:53.731+02:00
+published: "[[2023-06-30]]"
+cssclasses: ""
+parent: "[[System Design]]"
+state:
+  - evergreen
+relates:
+  - "[[Good Code|How To Write Better Code]]"
+date: "[[2023-06-30]]"
 ---
 
 > [!success] ~ What ? ~

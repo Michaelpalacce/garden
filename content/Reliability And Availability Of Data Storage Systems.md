@@ -1,5 +1,17 @@
 ---
-{"publish":true,"created":"[[2025-06-26]]","modified":"2026-01-11T00:53:01.310+02:00","published":"[[2025-06-26]]","cssclasses":"","parent":"[[DevOps Index]]","state":["tree"],"date":"[[2025-06-26]]","relates":["[[Rigidity]]","[[Databases]]"],"description":null}
+publish: true
+created: "[[2025-06-26]]"
+modified: 2026-01-11T00:53:01.310+02:00
+published: "[[2025-06-26]]"
+cssclasses: ""
+parent: "[[DevOps Index]]"
+state:
+  - tree
+date: "[[2025-06-26]]"
+relates:
+  - "[[Rigidity]]"
+  - "[[Databases]]"
+description:
 ---
 
 # [[Redundancy]] and [[Replication]]

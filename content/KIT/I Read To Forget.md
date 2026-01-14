@@ -1,5 +1,24 @@
 ---
-{"publish":true,"aliases":["Reading To Forget","You Can't Consume Everything"],"description":"Reading should stimulate my thinking and produce new ideas/links.","created":"[[2025-09-15]]","modified":"2026-01-10T00:57:32.404+02:00","published":"[[2025-09-15]]","cssclasses":"","parent":"[[Linking Your Thinking]]","state":["evergreen"],"date":"[[2025-09-15]]","relates":["[[Reading]]","[[Durable Knowledge]]","[[Four Dimensional Thinking]]","[[Hot And Cold Storage]]"],"links":["https://mo42.bearblog.dev/read-to-forget/"]}
+publish: true
+aliases:
+  - Reading To Forget
+  - You Can't Consume Everything
+description: Reading should stimulate my thinking and produce new ideas/links.
+created: "[[2025-09-15]]"
+modified: 2026-01-10T00:57:32.404+02:00
+published: "[[2025-09-15]]"
+cssclasses: ""
+parent: "[[Linking Your Thinking]]"
+state:
+  - evergreen
+date: "[[2025-09-15]]"
+relates:
+  - "[[Reading]]"
+  - "[[Durable Knowledge]]"
+  - "[[Four Dimensional Thinking]]"
+  - "[[Hot And Cold Storage]]"
+links:
+  - https://mo42.bearblog.dev/read-to-forget/
 ---
 
 > [!success] Concept

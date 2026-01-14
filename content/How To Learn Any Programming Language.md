@@ -1,5 +1,21 @@
 ---
-{"publish":true,"aliases":["Learn any programming language"],"description":"What has worked for me while going through multiple languages in depth.","created":"[[2024-01-28]]","modified":"2026-01-10T02:19:06.376+02:00","published":"[[2024-01-28]]","cssclasses":"","parent":"[[Programming Index|Programming]]","state":["evergreen"],"relates":["[[Learning]]","[[My 12 Questions]]"],"opposes":["[[Forgetting]]"],"date":"[[2024-01-28]]"}
+publish: true
+aliases:
+  - Learn any programming language
+description: What has worked for me while going through multiple languages in depth.
+created: "[[2024-01-28]]"
+modified: 2026-01-10T02:19:06.376+02:00
+published: "[[2024-01-28]]"
+cssclasses: ""
+parent: "[[Programming Index|Programming]]"
+state:
+  - evergreen
+relates:
+  - "[[Learning]]"
+  - "[[My 12 Questions]]"
+opposes:
+  - "[[Forgetting]]"
+date: "[[2024-01-28]]"
 ---
 
 > [!info]

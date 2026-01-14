@@ -1,5 +1,14 @@
 ---
-{"publish":true,"created":"[[2025-09-23]]","modified":"2026-01-13T00:11:14.590+02:00","published":"[[2025-09-23]]","cssclasses":"","parent":"[[bash]]","state":"evergreen","relates":["[[bash - Variables]]"],"date":"[[2025-09-23]]"}
+publish: true
+created: "[[2025-09-23]]"
+modified: 2026-01-13T00:11:14.590+02:00
+published: "[[2025-09-23]]"
+cssclasses: ""
+parent: "[[bash]]"
+state: evergreen
+relates:
+  - "[[bash - Variables]]"
+date: "[[2025-09-23]]"
 ---
 
 This is where you will find information on how to work with bash strings

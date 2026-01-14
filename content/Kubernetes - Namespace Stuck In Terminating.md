@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2022-05-03]]","modified":"2026-01-12T22:38:52.783+02:00","published":"[[2022-05-03]]","cssclasses":"","parent":"[[Kubernetes]]","state":["evergreen"],"date":"[[2022-05-03]]"}
+publish: true
+created: "[[2022-05-03]]"
+modified: 2026-01-12T22:38:52.783+02:00
+published: "[[2022-05-03]]"
+cssclasses: ""
+parent: "[[Kubernetes]]"
+state:
+  - evergreen
+date: "[[2022-05-03]]"
 ---
 
 # Script to fix it

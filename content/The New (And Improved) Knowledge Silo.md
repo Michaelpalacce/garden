@@ -1,5 +1,19 @@
 ---
-{"publish":true,"description":"AI - the new knowledge silo!","created":"[[2026-01-12]]","modified":"2026-01-12T20:59:39.139+02:00","published":"[[2026-01-12]]","cssclasses":"","parent":["[[Artificial Intelligence]]"],"state":["evergreen"],"date":"[[2026-01-12]]","relates":["[[Knowledge Silos]]",null],"kind":"blog"}
+publish: true
+description: AI - the new knowledge silo!
+created: "[[2026-01-12]]"
+modified: 2026-01-12T20:59:39.139+02:00
+published: "[[2026-01-12]]"
+cssclasses: ""
+parent:
+  - "[[Artificial Intelligence]]"
+state:
+  - evergreen
+date: "[[2026-01-12]]"
+relates:
+  - "[[Knowledge Silos]]"
+  - 
+kind: blog
 ---
 
 You know what a [[Knowledge Silos\|knowledge silo]] is and if you don't, look it up. There are hundreds of articles that can explain it better than I can. 

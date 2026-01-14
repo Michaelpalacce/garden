@@ -1,5 +1,23 @@
 ---
-{"publish":true,"aliases":["Write Notes To You"],"description":"Notes exist for yourself, not for someone else.","created":"[[2024-06-13]]","modified":"2026-01-09T13:58:25.198+02:00","published":"[[2024-06-13]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2024-06-13]]","relates":["[[Alias System]]","[[Note Making]]"],"opposes":["[[Write Notes For Someone Else]]"],"links":["https://youtu.be/iKFNXCItqoI?t=873"]}
+publish: true
+aliases:
+  - Write Notes To You
+description: Notes exist for yourself, not for someone else.
+created: "[[2024-06-13]]"
+modified: 2026-01-09T13:58:25.198+02:00
+published: "[[2024-06-13]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2024-06-13]]"
+relates:
+  - "[[Alias System]]"
+  - "[[Note Making]]"
+opposes:
+  - "[[Write Notes For Someone Else]]"
+links:
+  - https://youtu.be/iKFNXCItqoI?t=873
 ---
 
 > [!tip]

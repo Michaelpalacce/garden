@@ -1,5 +1,16 @@
 ---
-{"publish":true,"description":"Write notes as if you are teaching someone else. This gives you a different perspective.","created":"[[2025-04-26]]","modified":"2026-01-09T13:58:25.175+02:00","published":"[[2025-04-26]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2025-04-26]]","opposes":["[[Write notes to your future self|Write Notes To You]]"]}
+publish: true
+description: Write notes as if you are teaching someone else. This gives you a different perspective.
+created: "[[2025-04-26]]"
+modified: 2026-01-09T13:58:25.175+02:00
+published: "[[2025-04-26]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2025-04-26]]"
+opposes:
+  - "[[Write notes to your future self|Write Notes To You]]"
 ---
 
 > [!note]+ Thoughts 💭

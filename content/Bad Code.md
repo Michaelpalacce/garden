@@ -1,5 +1,19 @@
 ---
-{"publish":true,"created":"[[2024-08-15]]","modified":"2026-01-11T20:39:31.791+02:00","published":"[[2024-08-15]]","cssclasses":"","parent":"[[Software Engineering Index]]","state":["evergreen"],"date":"[[2024-08-15]]","relates":["[[Bad Practices]]"],"opposes":["[[Good Code]]"],"links":["https://www.youtube.com/watch?v=Unp5nXBE4kY&t=2314s"]}
+publish: true
+created: "[[2024-08-15]]"
+modified: 2026-01-11T20:39:31.791+02:00
+published: "[[2024-08-15]]"
+cssclasses: ""
+parent: "[[Software Engineering Index]]"
+state:
+  - evergreen
+date: "[[2024-08-15]]"
+relates:
+  - "[[Bad Practices]]"
+opposes:
+  - "[[Good Code]]"
+links:
+  - https://www.youtube.com/watch?v=Unp5nXBE4kY&t=2314s
 ---
 
 > [!info]+

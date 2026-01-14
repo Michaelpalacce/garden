@@ -1,5 +1,18 @@
 ---
-{"publish":true,"created":"[[2023-08-24]]","modified":"2026-01-11T20:38:39.719+02:00","published":"[[2023-08-24]]","cssclasses":"","parent":"[[Software Engineering Index|Software Engineering]]","state":["sapling"],"aliases":null,"date":"[[2023-08-24]]","links":["https://www.computerenhance.com/p/clean-code-horrible-performance"],"relates":["[[Best Practices]]"]}
+publish: true
+created: "[[2023-08-24]]"
+modified: 2026-01-11T20:38:39.719+02:00
+published: "[[2023-08-24]]"
+cssclasses: ""
+parent: "[[Software Engineering Index|Software Engineering]]"
+state:
+  - sapling
+aliases:
+date: "[[2023-08-24]]"
+links:
+  - https://www.computerenhance.com/p/clean-code-horrible-performance
+relates:
+  - "[[Best Practices]]"
 ---
 
 # Definition Of Clean Code

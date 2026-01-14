@@ -1,5 +1,17 @@
 ---
-{"publish":true,"aliases":["Domain Name System"],"created":"[[2022-11-13]]","modified":"2026-01-11T20:45:34.891+02:00","published":"[[2022-11-13]]","cssclasses":"","parent":"[[Networking]]","state":["evergreen"],"relates":["[[IP]]"],"date":"[[2022-11-13]]"}
+publish: true
+aliases:
+  - Domain Name System
+created: "[[2022-11-13]]"
+modified: 2026-01-11T20:45:34.891+02:00
+published: "[[2022-11-13]]"
+cssclasses: ""
+parent: "[[Networking]]"
+state:
+  - evergreen
+relates:
+  - "[[IP]]"
+date: "[[2022-11-13]]"
 ---
 
 > [!success] ~ What ? ~

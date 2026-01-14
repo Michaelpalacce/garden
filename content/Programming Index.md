@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["Development"],"created":"[[2024-03-25]]","modified":"2026-01-10T02:23:49.012+02:00","published":"[[2024-03-25]]","cssclasses":"","parent":"[[Software Engineering Index|Software Engineering]]","state":["evergreen"],"date":"[[2024-03-25]]"}
+publish: true
+aliases:
+  - Development
+created: "[[2024-03-25]]"
+modified: 2026-01-10T02:23:49.012+02:00
+published: "[[2024-03-25]]"
+cssclasses: ""
+parent: "[[Software Engineering Index|Software Engineering]]"
+state:
+  - evergreen
+date: "[[2024-03-25]]"
 ---
 
 # Map Of Content 

@@ -1,5 +1,16 @@
 ---
-{"publish":true,"aliases":["Security","Linux Security"],"created":"[[2022-08-26]]","modified":"2026-01-13T00:09:19.462+02:00","published":"[[2022-08-26]]","cssclasses":"","parent":"[[Linux]]","state":["evergreen"],"date":"[[2022-08-26]]"}
+publish: true
+aliases:
+  - Security
+  - Linux Security
+created: "[[2022-08-26]]"
+modified: 2026-01-13T00:09:19.462+02:00
+published: "[[2022-08-26]]"
+cssclasses: ""
+parent: "[[Linux]]"
+state:
+  - evergreen
+date: "[[2022-08-26]]"
 ---
 
 # Map Of Content

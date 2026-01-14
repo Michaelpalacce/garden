@@ -1,5 +1,17 @@
 ---
-{"publish":true,"aliases":["IAC"],"created":"[[2022-09-12]]","modified":"2026-01-11T00:54:12.094+02:00","published":"[[2022-09-12]]","cssclasses":"","parent":"[[DevOps Index|DevOps]]","state":["evergreen"],"date":"[[2022-09-12]]","relates":["[[Best Practices]]"]}
+publish: true
+aliases:
+  - IAC
+created: "[[2022-09-12]]"
+modified: 2026-01-11T00:54:12.094+02:00
+published: "[[2022-09-12]]"
+cssclasses: ""
+parent: "[[DevOps Index|DevOps]]"
+state:
+  - evergreen
+date: "[[2022-09-12]]"
+relates:
+  - "[[Best Practices]]"
 ---
 
 > [!info]+

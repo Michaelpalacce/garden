@@ -1,5 +1,17 @@
 ---
-{"publish":true,"description":"Resilient design for resilient systems","created":"[[2024-10-04]]","modified":"2026-01-10T23:35:49.818+02:00","published":"[[2024-10-04]]","cssclasses":"","parent":"[[Error Handling]]","state":["tree"],"date":"[[2024-10-04]]","relates":["[[Fault Tolerance]]","[[Error Handling]]"]}
+publish: true
+description: Resilient design for resilient systems
+created: "[[2024-10-04]]"
+modified: 2026-01-10T23:35:49.818+02:00
+published: "[[2024-10-04]]"
+cssclasses: ""
+parent: "[[Error Handling]]"
+state:
+  - tree
+date: "[[2024-10-04]]"
+relates:
+  - "[[Fault Tolerance]]"
+  - "[[Error Handling]]"
 ---
 
 > [!info]+

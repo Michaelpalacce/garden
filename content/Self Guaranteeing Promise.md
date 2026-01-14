@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"Don't trust companies, trust standards.","created":"[[2026-01-04]]","modified":"2026-01-11T20:54:06.415+02:00","published":"[[2026-01-04]]","cssclasses":"","parent":["[[index|Blog]]","[[Corporate]]"],"state":["evergreen"],"date":"[[2026-01-04]]","links":["https://stephango.com/self-guarantee"]}
+publish: true
+description: Don't trust companies, trust standards.
+created: "[[2026-01-04]]"
+modified: 2026-01-11T20:54:06.415+02:00
+published: "[[2026-01-04]]"
+cssclasses: ""
+parent:
+  - "[[index|Blog]]"
+  - "[[Corporate]]"
+state:
+  - evergreen
+date: "[[2026-01-04]]"
+links:
+  - https://stephango.com/self-guarantee
 ---
 
 > [!info]+

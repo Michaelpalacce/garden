@@ -1,5 +1,16 @@
 ---
-{"publish":true,"description":"Load balancing using F5 Networks' suite of LB products, most notably their `BIG-IP` platform.","created":"[[2025-01-21]]","modified":"2026-01-11T15:36:55.812+02:00","published":"[[2025-01-21]]","cssclasses":"","parent":"[[Load Balancing]]","state":["evergreen"],"date":"[[2025-01-21]]","links":null,"aliases":null}
+publish: true
+description: Load balancing using F5 Networks' suite of LB products, most notably their `BIG-IP` platform.
+created: "[[2025-01-21]]"
+modified: 2026-01-11T15:36:55.812+02:00
+published: "[[2025-01-21]]"
+cssclasses: ""
+parent: "[[Load Balancing]]"
+state:
+  - evergreen
+date: "[[2025-01-21]]"
+links:
+aliases:
 ---
 
 > [!info]+

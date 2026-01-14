@@ -1,5 +1,18 @@
 ---
-{"publish":true,"created":"[[2024-06-14]]","modified":"2026-01-09T13:59:18.891+02:00","published":"[[2024-06-14]]","cssclasses":"","parent":"[[Productivity]]","state":["evergreen"],"date":"[[2024-06-14]]","relates":["[[Time Boxing]]","[[Time Management]]"],"links":["https://www.youtube.com/watch?v=KCDGMeM2WZg"]}
+publish: true
+created: "[[2024-06-14]]"
+modified: 2026-01-09T13:59:18.891+02:00
+published: "[[2024-06-14]]"
+cssclasses: ""
+parent: "[[Productivity]]"
+state:
+  - evergreen
+date: "[[2024-06-14]]"
+relates:
+  - "[[Time Boxing]]"
+  - "[[Time Management]]"
+links:
+  - https://www.youtube.com/watch?v=KCDGMeM2WZg
 ---
 
 # Habits that save time

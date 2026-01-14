@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2023-06-19]]","modified":"2026-01-11T15:40:40.640+02:00","published":"[[2023-06-19]]","cssclasses":"","parent":"[[Software Engineering Index|Software Engineering]]","state":["evergreen"],"date":"[[2023-06-19]]"}
+publish: true
+created: "[[2023-06-19]]"
+modified: 2026-01-11T15:40:40.640+02:00
+published: "[[2023-06-19]]"
+cssclasses: ""
+parent: "[[Software Engineering Index|Software Engineering]]"
+state:
+  - evergreen
+date: "[[2023-06-19]]"
 ---
 
 > [!success] ~ What ? ~

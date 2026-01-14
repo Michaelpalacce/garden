@@ -1,5 +1,20 @@
 ---
-{"publish":true,"description":"With the help of curl","created":"[[2024-11-18]]","modified":"2026-01-11T20:43:29.955+02:00","published":"[[2024-11-18]]","cssclasses":"","parent":"[[Github]]","state":["evergreen"],"date":"[[2024-11-18]]","relates":["[[git]]","[[curl]]"],"links":["https://github.com/Michaelpalacce/docker-dashy/blob/main/BUILD.sh"],"aliases":null}
+publish: true
+description: With the help of curl
+created: "[[2024-11-18]]"
+modified: 2026-01-11T20:43:29.955+02:00
+published: "[[2024-11-18]]"
+cssclasses: ""
+parent: "[[Github]]"
+state:
+  - evergreen
+date: "[[2024-11-18]]"
+relates:
+  - "[[git]]"
+  - "[[curl]]"
+links:
+  - https://github.com/Michaelpalacce/docker-dashy/blob/main/BUILD.sh
+aliases:
 ---
 
 ```sh

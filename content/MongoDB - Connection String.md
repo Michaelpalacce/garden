@@ -1,5 +1,19 @@
 ---
-{"publish":true,"created":"[[2024-06-21]]","modified":"2026-01-12T22:46:41.425+02:00","published":"[[2024-06-21]]","cssclasses":"","parent":"[[MongoDB]]","state":["sapling"],"date":"[[2024-06-21]]","relates":null,"opposes":null,"links":["https://www.mongodb.com/docs/manual/reference/connection-string/"],"description":null,"aliases":null}
+publish: true
+created: "[[2024-06-21]]"
+modified: 2026-01-12T22:46:41.425+02:00
+published: "[[2024-06-21]]"
+cssclasses: ""
+parent: "[[MongoDB]]"
+state:
+  - sapling
+date: "[[2024-06-21]]"
+relates:
+opposes:
+links:
+  - https://www.mongodb.com/docs/manual/reference/connection-string/
+description:
+aliases:
 ---
 
 

@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["Upgrading K3S Version","K3S System Upgrader"],"created":"2023-04-27T22:28:05.902+03:00","modified":"2026-01-12T22:36:17.951+02:00","published":"2026-01-12T22:36:17.951+02:00","cssclasses":"","parent":"[[K3S]]","state":["evergreen"]}
+publish: true
+aliases:
+  - Upgrading K3S Version
+  - K3S System Upgrader
+created: 2023-04-27T22:28:05.902+03:00
+modified: 2026-01-12T22:36:17.951+02:00
+published: 2026-01-12T22:36:17.951+02:00
+cssclasses: ""
+parent: "[[K3S]]"
+state:
+  - evergreen
 ---
 
 # Description

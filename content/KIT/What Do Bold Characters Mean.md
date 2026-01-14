@@ -1,5 +1,17 @@
 ---
-{"publish":true,"created":"[[2022-05-28]]","modified":"2026-01-09T13:58:25.125+02:00","published":"[[2022-05-28]]","cssclasses":"","parent":["[[Framework]]"],"state":["evergreen"],"relates":["[[What Do Italic Characters Mean]]","[[Emphasize]]"],"date":"[[2022-05-28]]"}
+publish: true
+created: "[[2022-05-28]]"
+modified: 2026-01-09T13:58:25.125+02:00
+published: "[[2022-05-28]]"
+cssclasses: ""
+parent:
+  - "[[Framework]]"
+state:
+  - evergreen
+relates:
+  - "[[What Do Italic Characters Mean]]"
+  - "[[Emphasize]]"
+date: "[[2022-05-28]]"
 ---
 
 > [!done] ~ What ? ~

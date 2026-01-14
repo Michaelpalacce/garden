@@ -1,5 +1,14 @@
 ---
-{"publish":true,"description":"Probabilistic data structure to test if an element is a member of a set.","created":"[[2024-10-10]]","modified":"2026-01-11T15:43:01.940+02:00","published":"[[2024-10-10]]","cssclasses":"","parent":"[[Performance]]","state":["tree"],"date":"[[2024-10-10]]"}
+publish: true
+description: Probabilistic data structure to test if an element is a member of a set.
+created: "[[2024-10-10]]"
+modified: 2026-01-11T15:43:01.940+02:00
+published: "[[2024-10-10]]"
+cssclasses: ""
+parent: "[[Performance]]"
+state:
+  - tree
+date: "[[2024-10-10]]"
 ---
 
 A **Bloom filter** is a probabilistic data structure used to test whether an element is a member of a set. It is highly space-efficient and fast but allows for false positives, meaning it may incorrectly indicate that an element is in the set when it's not. However, it guarantees no false negatives, so if the Bloom filter says an element is not in the set, it's definitely not.

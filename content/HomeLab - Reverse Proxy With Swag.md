@@ -1,5 +1,14 @@
 ---
-{"publish":true,"created":"[[2024-02-27]]","modified":"2026-01-10T17:19:53.563+02:00","published":"[[2024-02-27]]","cssclasses":"","parent":"[[HomeLab]]","state":["evergreen","withered"],"date":"[[2024-02-27]]"}
+publish: true
+created: "[[2024-02-27]]"
+modified: 2026-01-10T17:19:53.563+02:00
+published: "[[2024-02-27]]"
+cssclasses: ""
+parent: "[[HomeLab]]"
+state:
+  - evergreen
+  - withered
+date: "[[2024-02-27]]"
 ---
 
 We are using [SWAG](https://docs.linuxserver.io/general/swag/) for reverse proxy

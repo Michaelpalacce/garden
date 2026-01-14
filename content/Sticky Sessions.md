@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"Redirect to the same server when hit multiple times","created":"[[2024-09-06]]","modified":"2026-01-11T15:37:35.168+02:00","published":"[[2024-09-06]]","cssclasses":"","parent":"[[Load Balancing]]","state":["evergreen"],"date":"[[2024-09-06]]","relates":["[[Kubernetes - Canary Releases]]","[[Sticky Canaries]]","[[Canary Release]]"]}
+publish: true
+description: Redirect to the same server when hit multiple times
+created: "[[2024-09-06]]"
+modified: 2026-01-11T15:37:35.168+02:00
+published: "[[2024-09-06]]"
+cssclasses: ""
+parent: "[[Load Balancing]]"
+state:
+  - evergreen
+date: "[[2024-09-06]]"
+relates:
+  - "[[Kubernetes - Canary Releases]]"
+  - "[[Sticky Canaries]]"
+  - "[[Canary Release]]"
 ---
 
 > [!info]+

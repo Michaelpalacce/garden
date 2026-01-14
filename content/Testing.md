@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2023-06-19]]","modified":"2026-01-11T01:11:28.310+02:00","published":"[[2023-06-19]]","cssclasses":"","parent":"[[Programming Index]]","state":["tree"],"relates":["[[Go - Testing]]"],"date":"[[2023-06-19]]"}
+publish: true
+created: "[[2023-06-19]]"
+modified: 2026-01-11T01:11:28.310+02:00
+published: "[[2023-06-19]]"
+cssclasses: ""
+parent: "[[Programming Index]]"
+state:
+  - tree
+relates:
+  - "[[Go - Testing]]"
+date: "[[2023-06-19]]"
 ---
 
 # Map Of Content 

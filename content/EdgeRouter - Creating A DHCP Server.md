@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2024-02-18]]","modified":"2026-01-11T20:46:07.271+02:00","published":"[[2024-02-18]]","cssclasses":"","parent":"[[DHCP]]","state":["evergreen"],"date":"[[2024-02-18]]","relates":["[[EdgeRouter]]"]}
+publish: true
+created: "[[2024-02-18]]"
+modified: 2026-01-11T20:46:07.271+02:00
+published: "[[2024-02-18]]"
+cssclasses: ""
+parent: "[[DHCP]]"
+state:
+  - evergreen
+date: "[[2024-02-18]]"
+relates:
+  - "[[EdgeRouter]]"
 ---
 
 # Steps

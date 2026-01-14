@@ -1,5 +1,21 @@
 ---
-{"publish":true,"aliases":["Kubernetes - Pod Topology Spread Constraints","Kubernetes - TSC"],"description":"How to distribute where your apps go based on external factors like geo location","created":"[[2025-05-26]]","modified":"2026-01-12T22:39:53.215+02:00","published":"[[2025-05-26]]","cssclasses":"","parent":"[[Kubernetes]]","state":["tree"],"date":"[[2025-05-26]]","relates":["[[Cassandra - Partitioning]]"],"links":["https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/"]}
+publish: true
+aliases:
+  - Kubernetes - Pod Topology Spread Constraints
+  - Kubernetes - TSC
+description: How to distribute where your apps go based on external factors like geo location
+created: "[[2025-05-26]]"
+modified: 2026-01-14T11:23:48.984+02:00
+published: "[[2025-05-26]]"
+cssclasses: ""
+parent: "[[Kubernetes]]"
+state:
+  - tree
+date: "[[2025-05-26]]"
+relates:
+  - "[[Cassandra - Partitioning]]"
+links:
+  - https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/
 ---
 
 # Respecting Node Affinity Or anti affinity
@@ -16,6 +32,7 @@ metadata:
 spec:
   topologySpreadConstraints:
   - maxSkew: 1
+	 nodeAffinityPolicy: Honor # Honoring nodeAffinity
     topologyKey: zone
     whenUnsatisfiable: DoNotSchedule
     labelSelector:

@@ -1,5 +1,19 @@
 ---
-{"publish":true,"aliases":["Idempotency"],"created":"[[2023-07-09]]","modified":"2026-01-11T15:31:35.464+02:00","published":"[[2023-07-09]]","cssclasses":"","parent":"[[Software Engineering Index]]","state":["evergreen"],"relates":["[[API]]","[[Ansible]]","[[Best Practices]]"],"date":"[[2023-07-09]]"}
+publish: true
+aliases:
+  - Idempotency
+created: "[[2023-07-09]]"
+modified: 2026-01-11T15:31:35.464+02:00
+published: "[[2023-07-09]]"
+cssclasses: ""
+parent: "[[Software Engineering Index]]"
+state:
+  - evergreen
+relates:
+  - "[[API]]"
+  - "[[Ansible]]"
+  - "[[Best Practices]]"
+date: "[[2023-07-09]]"
 ---
 
 > [!success] ~ What ? ~

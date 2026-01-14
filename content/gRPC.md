@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"Form of RPC communication developed by Google","created":"[[2025-01-01]]","modified":"2026-01-10T02:20:40.344+02:00","published":"[[2025-01-01]]","cssclasses":"","parent":"[[RPC]]","state":["evergreen"],"date":"[[2025-01-01]]","opposes":["[[REST]]"],"links":["https://youtu.be/gnchfOojMk4?si=WOCdLbpR7pX0wgYM"]}
+publish: true
+description: Form of RPC communication developed by Google
+created: "[[2025-01-01]]"
+modified: 2026-01-10T02:20:40.344+02:00
+published: "[[2025-01-01]]"
+cssclasses: ""
+parent: "[[RPC]]"
+state:
+  - evergreen
+date: "[[2025-01-01]]"
+opposes:
+  - "[[REST]]"
+links:
+  - https://youtu.be/gnchfOojMk4?si=WOCdLbpR7pX0wgYM
 ---
 
 > [!info]+

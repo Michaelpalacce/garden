@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2024-06-02]]","modified":"2026-01-09T13:58:24.020+02:00","published":"[[2024-06-02]]","cssclasses":"","parent":"[[Dataview]]","state":"evergreen","aliases":null,"date":"[[2024-06-02]]","relates":["[[Moment.JS Formatting]]"]}
+publish: true
+created: "[[2024-06-02]]"
+modified: 2026-01-09T13:58:24.020+02:00
+published: "[[2024-06-02]]"
+cssclasses: ""
+parent: "[[Dataview]]"
+state: evergreen
+aliases:
+date: "[[2024-06-02]]"
+relates:
+  - "[[Moment.JS Formatting]]"
 ---
 
 Dataview supports [[Moment.JS]] **natively**. This allows us to **format time** as we see fit. 

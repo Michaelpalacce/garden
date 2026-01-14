@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2024-08-05]]","modified":"2026-01-11T20:37:02.075+02:00","published":"[[2024-08-05]]","cssclasses":"","parent":"[[System Design]]","state":["evergreen"],"date":"[[2024-08-05]]","relates":["[[Monitoring]]"]}
+publish: true
+created: "[[2024-08-05]]"
+modified: 2026-01-11T20:37:02.075+02:00
+published: "[[2024-08-05]]"
+cssclasses: ""
+parent: "[[System Design]]"
+state:
+  - evergreen
+date: "[[2024-08-05]]"
+relates:
+  - "[[Monitoring]]"
 ---
 
 > [!info]+

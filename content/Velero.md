@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"A backup tool for kubernetes clusters","created":"[[2024-06-09]]","modified":"2026-01-10T17:17:14.533+02:00","published":"[[2024-06-09]]","cssclasses":"","parent":"[[Kubernetes]]","state":["evergreen"],"relates":["[[3-2-1 Backup Rule]]"],"date":"[[2024-06-09]]","links":["https://velero.io/"]}
+publish: true
+description: A backup tool for kubernetes clusters
+created: "[[2024-06-09]]"
+modified: 2026-01-10T17:17:14.533+02:00
+published: "[[2024-06-09]]"
+cssclasses: ""
+parent: "[[Kubernetes]]"
+state:
+  - evergreen
+relates:
+  - "[[3-2-1 Backup Rule]]"
+date: "[[2024-06-09]]"
+links:
+  - https://velero.io/
 ---
 
 > [!info]+ What?

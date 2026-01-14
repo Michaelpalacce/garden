@@ -1,5 +1,17 @@
 ---
-{"publish":true,"created":"[[2023-06-17]]","modified":"2026-01-11T00:34:25.926+02:00","published":"[[2023-06-17]]","cssclasses":"","parent":"[[Documentation]]","links":"https://youtu.be/Bf7vDBBOBUA","state":["evergreen"],"date":"[[2023-06-17]]","relates":["[[Testing - Unit Tests]]","[[Best Practices]]"]}
+publish: true
+created: "[[2023-06-17]]"
+modified: 2026-01-11T00:34:25.926+02:00
+published: "[[2023-06-17]]"
+cssclasses: ""
+parent: "[[Documentation]]"
+links: https://youtu.be/Bf7vDBBOBUA
+state:
+  - evergreen
+date: "[[2023-06-17]]"
+relates:
+  - "[[Testing - Unit Tests]]"
+  - "[[Best Practices]]"
 ---
 
 

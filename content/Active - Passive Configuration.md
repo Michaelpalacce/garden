@@ -1,5 +1,19 @@
 ---
-{"publish":true,"description":"Failover strategy where one of the systems is on standby.","created":"[[2024-09-06]]","modified":"2026-01-11T15:37:58.692+02:00","published":"[[2024-09-06]]","cssclasses":"","parent":"[[Failover]]","state":["evergreen"],"date":"[[2024-09-06]]","relates":["[[Active - Active Configuration]]","[[Load Balancing|Load Balancer]]"],"links":["https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/high-availability-and-fault-tolerance"]}
+publish: true
+description: Failover strategy where one of the systems is on standby.
+created: "[[2024-09-06]]"
+modified: 2026-01-11T15:37:58.692+02:00
+published: "[[2024-09-06]]"
+cssclasses: ""
+parent: "[[Failover]]"
+state:
+  - evergreen
+date: "[[2024-09-06]]"
+relates:
+  - "[[Active - Active Configuration]]"
+  - "[[Load Balancing|Load Balancer]]"
+links:
+  - https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/high-availability-and-fault-tolerance
 ---
 
 > [!info]+

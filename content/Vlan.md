@@ -1,5 +1,16 @@
 ---
-{"publish":true,"created":"[[2024-03-09]]","modified":"2026-01-11T20:46:26.435+02:00","published":"[[2024-03-09]]","cssclasses":"","parent":"[[Networking]]","relates":null,"opposes":null,"state":["sapling"],"date":"[[2024-03-09]]","aliases":null}
+publish: true
+created: "[[2024-03-09]]"
+modified: 2026-01-11T20:46:26.435+02:00
+published: "[[2024-03-09]]"
+cssclasses: ""
+parent: "[[Networking]]"
+relates:
+opposes:
+state:
+  - sapling
+date: "[[2024-03-09]]"
+aliases:
 ---
 
 > [!info]

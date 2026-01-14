@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"2023-04-27T22:29:05.168+03:00","modified":"2026-01-10T17:16:37.374+02:00","published":"2026-01-10T17:16:37.374+02:00","cssclasses":"","parent":"[[Velero]]","state":"evergreen","relates":["[[AWS]]"]}
+publish: true
+created: 2023-04-27T22:29:05.168+03:00
+modified: 2026-01-10T17:16:37.374+02:00
+published: 2026-01-10T17:16:37.374+02:00
+cssclasses: ""
+parent: "[[Velero]]"
+state: evergreen
+relates:
+  - "[[AWS]]"
 ---
 
 # Steps ( for aws )

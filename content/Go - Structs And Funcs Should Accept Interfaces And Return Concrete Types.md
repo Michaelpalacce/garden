@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2024-09-05]]","modified":"2026-01-11T15:29:02.160+02:00","published":"[[2024-09-05]]","cssclasses":"","parent":"[[Go - Best Practices]]","state":["evergreen"],"date":"[[2024-09-05]]","relates":["[[Go - 100 Common Go Mistakes]]"]}
+publish: true
+created: "[[2024-09-05]]"
+modified: 2026-01-11T15:29:02.160+02:00
+published: "[[2024-09-05]]"
+cssclasses: ""
+parent: "[[Go - Best Practices]]"
+state:
+  - evergreen
+date: "[[2024-09-05]]"
+relates:
+  - "[[Go - 100 Common Go Mistakes]]"
 ---
 
 > [!info]+

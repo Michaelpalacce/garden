@@ -1,5 +1,20 @@
 ---
-{"publish":true,"aliases":["Load Balancer"],"description":"Balance traffic between systems or clients","created":"[[2024-09-06]]","modified":"2026-01-11T15:36:37.692+02:00","published":"[[2024-09-06]]","cssclasses":"","parent":"[[System Design]]","state":["evergreen"],"date":"[[2024-09-06]]","relates":["[[Fault Tolerance]]"],"links":["https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/introduction-to-load-balancing"]}
+publish: true
+aliases:
+  - Load Balancer
+description: Balance traffic between systems or clients
+created: "[[2024-09-06]]"
+modified: 2026-01-11T15:36:37.692+02:00
+published: "[[2024-09-06]]"
+cssclasses: ""
+parent: "[[System Design]]"
+state:
+  - evergreen
+date: "[[2024-09-06]]"
+relates:
+  - "[[Fault Tolerance]]"
+links:
+  - https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/introduction-to-load-balancing
 ---
 
 > [!info]+

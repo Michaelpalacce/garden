@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2023-03-04]]","modified":"2026-01-12T22:44:42.261+02:00","published":"[[2023-03-04]]","cssclasses":"","parent":"[[Cassandra]]","state":["evergreen"],"date":"[[2023-03-04]]","links":["https://www.baeldung.com/cassandra-keys"]}
+publish: true
+created: "[[2023-03-04]]"
+modified: 2026-01-12T22:44:42.261+02:00
+published: "[[2023-03-04]]"
+cssclasses: ""
+parent: "[[Cassandra]]"
+state:
+  - evergreen
+date: "[[2023-03-04]]"
+links:
+  - https://www.baeldung.com/cassandra-keys
 ---
 
 > [!success] ~ What ? ~

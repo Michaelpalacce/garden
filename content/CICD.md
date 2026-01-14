@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["CI/CD"],"created":"[[2022-05-11]]","modified":"2026-01-11T20:44:52.439+02:00","published":"[[2022-05-11]]","cssclasses":"","parent":"[[DevOps Index]]","state":["sapling"],"date":"[[2022-05-11]]"}
+publish: true
+aliases:
+  - CI/CD
+created: "[[2022-05-11]]"
+modified: 2026-01-11T20:44:52.439+02:00
+published: "[[2022-05-11]]"
+cssclasses: ""
+parent: "[[DevOps Index]]"
+state:
+  - sapling
+date: "[[2022-05-11]]"
 ---
 
 > [!done]

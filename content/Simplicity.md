@@ -1,5 +1,18 @@
 ---
-{"publish":true,"created":"[[2024-08-03]]","modified":"2026-01-11T20:29:40.927+02:00","published":"[[2024-08-03]]","cssclasses":"","parent":"[[System Design]]","state":["sapling"],"date":"[[2024-08-03]]","relates":["[[KISS]]"],"opposes":["[[Over Thinking]]","[[Overengineering]]"]}
+publish: true
+created: "[[2024-08-03]]"
+modified: 2026-01-11T20:29:40.927+02:00
+published: "[[2024-08-03]]"
+cssclasses: ""
+parent: "[[System Design]]"
+state:
+  - sapling
+date: "[[2024-08-03]]"
+relates:
+  - "[[KISS]]"
+opposes:
+  - "[[Over Thinking]]"
+  - "[[Overengineering]]"
 ---
 
 # Shake The Solution

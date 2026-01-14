@@ -1,5 +1,14 @@
 ---
-{"publish":true,"description":"How to handle errors in our applications","created":"[[2023-02-01]]","modified":"2026-01-10T23:40:26.946+02:00","published":"[[2023-02-01]]","cssclasses":"","parent":"[[Programming Index]]","state":["tree"],"date":"[[2023-02-01]]"}
+publish: true
+description: How to handle errors in our applications
+created: "[[2023-02-01]]"
+modified: 2026-01-10T23:40:26.946+02:00
+published: "[[2023-02-01]]"
+cssclasses: ""
+parent: "[[Programming Index]]"
+state:
+  - tree
+date: "[[2023-02-01]]"
 ---
 
 > [!info]+

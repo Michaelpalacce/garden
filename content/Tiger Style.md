@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"A style of programming associated with TigerBeetle.","created":"[[2025-02-17]]","modified":"2026-01-10T02:22:57.980+02:00","published":"[[2025-02-17]]","cssclasses":"","parent":"[[Programming Index]]","state":["sapling"],"date":"[[2025-02-17]]","links":["https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md"],"relates":["[[NASA power of ten]]"]}
+publish: true
+description: A style of programming associated with TigerBeetle.
+created: "[[2025-02-17]]"
+modified: 2026-01-10T02:22:57.980+02:00
+published: "[[2025-02-17]]"
+cssclasses: ""
+parent: "[[Programming Index]]"
+state:
+  - sapling
+date: "[[2025-02-17]]"
+links:
+  - https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
+relates:
+  - "[[NASA power of ten]]"
 ---
 
 > [!info]+

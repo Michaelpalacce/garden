@@ -1,5 +1,16 @@
 ---
-{"publish":true,"aliases":["Atomic Operations","Atomicity"],"created":"[[2022-08-08]]","modified":"2026-01-11T20:29:59.171+02:00","published":"[[2022-08-08]]","cssclasses":"","parent":"[[System Design]]","state":["evergreen"],"date":"[[2022-08-08]]"}
+publish: true
+aliases:
+  - Atomic Operations
+  - Atomicity
+created: "[[2022-08-08]]"
+modified: 2026-01-11T20:29:59.171+02:00
+published: "[[2022-08-08]]"
+cssclasses: ""
+parent: "[[System Design]]"
+state:
+  - evergreen
+date: "[[2022-08-08]]"
 ---
 
 > [!success] ~ What ? ~

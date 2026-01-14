@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["Fundamentals"],"created":"[[2023-03-04]]","modified":"2026-01-12T22:43:19.653+02:00","published":"[[2023-03-04]]","cssclasses":"","parent":["[[Cassandra]]"],"state":"evergreen","date":"[[2023-03-04]]"}
+publish: true
+aliases:
+  - Fundamentals
+created: "[[2023-03-04]]"
+modified: 2026-01-12T22:43:19.653+02:00
+published: "[[2023-03-04]]"
+cssclasses: ""
+parent:
+  - "[[Cassandra]]"
+state: evergreen
+date: "[[2023-03-04]]"
 ---
 
 # Rack Aware

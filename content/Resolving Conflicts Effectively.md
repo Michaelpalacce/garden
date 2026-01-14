@@ -1,5 +1,20 @@
 ---
-{"publish":true,"created":"[[2025-04-29]]","modified":"2026-01-12T23:39:01.745+02:00","published":"[[2025-04-29]]","cssclasses":"","parent":"[[Tech Lead]]","state":["tree"],"date":"[[2025-04-29]]","relates":["[[Communication]]","[[Conflicts]]"],"links":["https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006708"],"description":null,"aliases":null}
+publish: true
+created: "[[2025-04-29]]"
+modified: 2026-01-12T23:39:01.745+02:00
+published: "[[2025-04-29]]"
+cssclasses: ""
+parent: "[[Tech Lead]]"
+state:
+  - tree
+date: "[[2025-04-29]]"
+relates:
+  - "[[Communication]]"
+  - "[[Conflicts]]"
+links:
+  - https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006708
+description:
+aliases:
 ---
 
 # Prepare before the meeting

@@ -1,5 +1,17 @@
 ---
-{"publish":true,"description":"CI/CD of github","created":"[[2025-10-14]]","modified":"2026-01-12T08:39:06.277+02:00","published":"[[2025-10-14]]","cssclasses":"","parent":"[[Github]]","state":["evergreen"],"date":"[[2025-10-14]]","relates":["[[Jenkins]]","[[Gitlab - ci.yaml]]"]}
+publish: true
+description: CI/CD of github
+created: "[[2025-10-14]]"
+modified: 2026-01-12T08:39:06.277+02:00
+published: "[[2025-10-14]]"
+cssclasses: ""
+parent: "[[Github]]"
+state:
+  - evergreen
+date: "[[2025-10-14]]"
+relates:
+  - "[[Jenkins]]"
+  - "[[Gitlab - ci.yaml]]"
 ---
 
 > [!info]+

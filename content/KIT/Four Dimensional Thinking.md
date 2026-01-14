@@ -1,5 +1,17 @@
 ---
-{"publish":true,"aliases":["North, West, East, South Thinking"],"created":"[[2023-07-09]]","modified":"2026-01-09T13:58:24.157+02:00","published":"[[2023-07-09]]","cssclasses":"","parent":"[[KIT/Framework]]","state":["evergreen"],"date":"[[2023-07-09]]","links":["https://www.youtube.com/watch?v=5O46Rqh5zHE"]}
+publish: true
+aliases:
+  - North, West, East, South Thinking
+created: "[[2023-07-09]]"
+modified: 2026-01-09T13:58:24.157+02:00
+published: "[[2023-07-09]]"
+cssclasses: ""
+parent: "[[KIT/Framework]]"
+state:
+  - evergreen
+date: "[[2023-07-09]]"
+links:
+  - https://www.youtube.com/watch?v=5O46Rqh5zHE
 ---
 
 [[Framework]]

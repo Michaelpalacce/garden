@@ -1,5 +1,16 @@
 ---
-{"publish":true,"created":"[[2024-03-09]]","modified":"2026-01-11T20:46:18.655+02:00","published":"[[2024-03-09]]","cssclasses":"","parent":"[[Networking]]","relates":["[[Switch]]","[[NSX - Segment|Logical Switch]]"],"state":["evergreen"],"date":"[[2024-03-09]]"}
+publish: true
+created: "[[2024-03-09]]"
+modified: 2026-01-11T20:46:18.655+02:00
+published: "[[2024-03-09]]"
+cssclasses: ""
+parent: "[[Networking]]"
+relates:
+  - "[[Switch]]"
+  - "[[NSX - Segment|Logical Switch]]"
+state:
+  - evergreen
+date: "[[2024-03-09]]"
 ---
 
 

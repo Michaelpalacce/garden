@@ -1,5 +1,17 @@
 ---
-{"publish":true,"created":"[[2023-07-01]]","modified":"2026-01-11T00:44:56.302+02:00","published":"[[2023-07-01]]","cssclasses":"","parent":"[[Bad Practices]]","state":["evergreen"],"date":"[[2023-07-01]]","relates":["[[Bad Practices]]"],"opposes":["[[Best Practices]]"]}
+publish: true
+created: "[[2023-07-01]]"
+modified: 2026-01-11T00:44:56.302+02:00
+published: "[[2023-07-01]]"
+cssclasses: ""
+parent: "[[Bad Practices]]"
+state:
+  - evergreen
+date: "[[2023-07-01]]"
+relates:
+  - "[[Bad Practices]]"
+opposes:
+  - "[[Best Practices]]"
 ---
 
 > [!success] ~ What ? ~

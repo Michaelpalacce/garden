@@ -1,5 +1,18 @@
 ---
-{"publish":true,"created":"[[2025-05-01]]","modified":"2026-01-13T00:09:57.198+02:00","published":"[[2025-05-01]]","cssclasses":"","parent":"[[Linux]]","state":["tree"],"date":"[[2025-05-01]]","relates":null,"opposes":null,"links":null,"description":null,"aliases":null}
+publish: true
+created: "[[2025-05-01]]"
+modified: 2026-01-13T00:09:57.198+02:00
+published: "[[2025-05-01]]"
+cssclasses: ""
+parent: "[[Linux]]"
+state:
+  - tree
+date: "[[2025-05-01]]"
+relates:
+opposes:
+links:
+description:
+aliases:
 ---
 
 # Map Of Content

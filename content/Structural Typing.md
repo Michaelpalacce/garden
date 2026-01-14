@@ -1,5 +1,18 @@
 ---
-{"publish":true,"created":"[[2024-03-20]]","modified":"2026-01-10T02:20:02.480+02:00","published":"[[2024-03-20]]","cssclasses":"","parent":"[[Programming Index|Development]]","relates":["[[Interface]]","[[Duck Typing]]","[[Go]]","[[Typescript]]"],"state":["evergreen"],"date":"[[2024-03-20]]"}
+publish: true
+created: "[[2024-03-20]]"
+modified: 2026-01-10T02:20:02.480+02:00
+published: "[[2024-03-20]]"
+cssclasses: ""
+parent: "[[Programming Index|Development]]"
+relates:
+  - "[[Interface]]"
+  - "[[Duck Typing]]"
+  - "[[Go]]"
+  - "[[Typescript]]"
+state:
+  - evergreen
+date: "[[2024-03-20]]"
 ---
 
 > [!info]

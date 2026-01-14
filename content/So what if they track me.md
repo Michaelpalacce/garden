@@ -1,5 +1,25 @@
 ---
-{"publish":true,"aliases":["I don't care for privacy"],"created":"[[2026-01-12]]","modified":"2026-01-14T01:12:15.676+02:00","published":"[[2026-01-12]]","cssclasses":"","parent":"[[index]]","state":"seed","date":"[[2026-01-12]]","relates":null,"opposes":null,"description":null}
+publish: true
+aliases:
+  - I don't care for privacy
+description: You shouldn't be OK with tracking.
+created: "[[2026-01-12]]"
+modified: 2026-01-14T08:29:02.768+02:00
+published: "[[2026-01-12]]"
+cssclasses: ""
+parent:
+  - "[[Privacy]]"
+state:
+  - evergreen
+date: "[[2026-01-12]]"
+relates:
+  - "[[Security]]"
+  - "[[Privacy]]"
+  - "[[Tracking]]"
+  - "[[Corporate]]"
+  - "[[Capitalism]]"
+  - "[[Ad]]"
+kind: blog
 ---
 
 **Isn't the title such a common response of people getting judged for not caring about online [[Privacy\|privacy]]?**
@@ -35,4 +55,4 @@ So, who cares for your data? Ad sellers do.
 What if they track you? They are milking money from you, brainwashing you in staying on their platform.
 Are you important? No, but you earn money for them. 
 
-And no,  I don't want to be fully dependant on massive [[Capitalism\|capitalist]] corporations and neither should you. 
+I don't want my data fully controlled and sold by massive [[Capitalism\|capitalist]] corporations and neither should you. At the end of the day, if you don't care for privacy, let yourself be exploited! Nobody can help with that. 

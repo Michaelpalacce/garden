@@ -1,5 +1,16 @@
 ---
-{"publish":true,"aliases":["Personal Knowledge Management","Second Brain"],"created":"[[2023-06-15]]","modified":"2026-01-09T13:58:24.897+02:00","published":"[[2023-06-15]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2023-06-15]]"}
+publish: true
+aliases:
+  - Personal Knowledge Management
+  - Second Brain
+created: "[[2023-06-15]]"
+modified: 2026-01-09T13:58:24.897+02:00
+published: "[[2023-06-15]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2023-06-15]]"
 ---
 
 > [!success] ~ What ? ~

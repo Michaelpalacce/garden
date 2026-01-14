@@ -1,5 +1,18 @@
 ---
-{"publish":true,"created":"[[2025-09-13]]","modified":"2026-01-10T17:19:14.875+02:00","published":"[[2025-09-13]]","cssclasses":"","parent":"[[Velero]]","state":"evergreen","relates":["[[Velero - Backup Schedule]]","[[Backup]]","[[3-2-1 Backup Rule]]"],"opposes":["[[Velero - Restore]]"],"date":"[[2025-09-13]]"}
+publish: true
+created: "[[2025-09-13]]"
+modified: 2026-01-10T17:19:14.875+02:00
+published: "[[2025-09-13]]"
+cssclasses: ""
+parent: "[[Velero]]"
+state: evergreen
+relates:
+  - "[[Velero - Backup Schedule]]"
+  - "[[Backup]]"
+  - "[[3-2-1 Backup Rule]]"
+opposes:
+  - "[[Velero - Restore]]"
+date: "[[2025-09-13]]"
 ---
 
 Backing up with Velero is done via the cli, by a CRD or on a [[Velero - Backup Schedule\|schedule]].

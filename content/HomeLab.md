@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2024-04-15]]","modified":"2026-01-11T23:28:38.627+02:00","published":"[[2024-04-15]]","cssclasses":"","parent":"[[Projects]]","state":["evergreen"],"date":"[[2024-04-15]]","links":["https://github.com/Michaelpalacce/HomeLab"]}
+publish: true
+created: "[[2024-04-15]]"
+modified: 2026-01-11T23:28:38.627+02:00
+published: "[[2024-04-15]]"
+cssclasses: ""
+parent: "[[Projects]]"
+state:
+  - evergreen
+date: "[[2024-04-15]]"
+links:
+  - https://github.com/Michaelpalacce/HomeLab
 ---
 
 > [!done] What?

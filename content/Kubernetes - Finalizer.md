@@ -1,5 +1,19 @@
 ---
-{"publish":true,"created":"[[2024-08-01]]","modified":"2026-01-12T22:39:11.155+02:00","published":"[[2024-08-01]]","cssclasses":"","parent":"[[Kubernetes]]","state":["sapling"],"date":"[[2024-08-01]]","relates":null,"opposes":null,"links":["https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/"],"description":null,"aliases":null}
+publish: true
+created: "[[2024-08-01]]"
+modified: 2026-01-12T22:39:11.155+02:00
+published: "[[2024-08-01]]"
+cssclasses: ""
+parent: "[[Kubernetes]]"
+state:
+  - sapling
+date: "[[2024-08-01]]"
+relates:
+opposes:
+links:
+  - https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/
+description:
+aliases:
 ---
 
 > [!info]+

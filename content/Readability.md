@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["Understandability"],"created":"[[2023-06-30]]","modified":"2026-01-11T20:28:51.139+02:00","published":"[[2023-06-30]]","cssclasses":"","parent":"[[Maintainability]]","state":["evergreen"],"date":"[[2023-06-30]]"}
+publish: true
+aliases:
+  - Understandability
+created: "[[2023-06-30]]"
+modified: 2026-01-11T20:28:51.139+02:00
+published: "[[2023-06-30]]"
+cssclasses: ""
+parent: "[[Maintainability]]"
+state:
+  - evergreen
+date: "[[2023-06-30]]"
 ---
 
 > [!quote]+ ThePrimeagen

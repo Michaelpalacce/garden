@@ -1,5 +1,19 @@
 ---
-{"publish":true,"description":"Distributing data on multiple servers","created":"[[2024-09-06]]","modified":"2026-01-12T22:47:11.081+02:00","published":"[[2024-09-06]]","cssclasses":"","parent":"[[Databases]]","state":["sapling"],"date":"[[2024-09-06]]","relates":["[[Cassandra]]","[[MongoDB]]","[[CouchDB]]","[[Partitioning]]"]}
+publish: true
+description: Distributing data on multiple servers
+created: "[[2024-09-06]]"
+modified: 2026-01-12T22:47:11.081+02:00
+published: "[[2024-09-06]]"
+cssclasses: ""
+parent: "[[Databases]]"
+state:
+  - sapling
+date: "[[2024-09-06]]"
+relates:
+  - "[[Cassandra]]"
+  - "[[MongoDB]]"
+  - "[[CouchDB]]"
+  - "[[Partitioning]]"
 ---
 
 > [!info]+

@@ -1,5 +1,19 @@
 ---
-{"publish":true,"aliases":[null],"created":"[[2024-09-13]]","modified":"2026-01-13T00:10:33.098+02:00","published":"[[2024-09-13]]","cssclasses":"","parent":"[[Linux]]","state":["tree"],"date":"[[2024-09-13]]","relates":null,"opposes":null,"links":null,"description":null}
+publish: true
+aliases:
+  - 
+created: "[[2024-09-13]]"
+modified: 2026-01-13T00:10:33.098+02:00
+published: "[[2024-09-13]]"
+cssclasses: ""
+parent: "[[Linux]]"
+state:
+  - tree
+date: "[[2024-09-13]]"
+relates:
+opposes:
+links:
+description:
 ---
 
 1. Create a new file under `~/.local/share/applications` named: `%S.desktop`

@@ -1,5 +1,17 @@
 ---
-{"publish":true,"aliases":["Team Lead"],"created":"[[2025-04-08]]","modified":"2026-01-12T11:27:46.368+02:00","published":"[[2025-04-08]]","cssclasses":"","parent":"[[Software Engineering Index]]","state":["evergreen"],"date":"[[2025-04-08]]","relates":["[[Software Architect]]"]}
+publish: true
+aliases:
+  - Team Lead
+created: "[[2025-04-08]]"
+modified: 2026-01-12T11:27:46.368+02:00
+published: "[[2025-04-08]]"
+cssclasses: ""
+parent: "[[Software Engineering Index]]"
+state:
+  - evergreen
+date: "[[2025-04-08]]"
+relates:
+  - "[[Software Architect]]"
 ---
 
 # Overview

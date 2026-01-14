@@ -1,5 +1,16 @@
 ---
-{"publish":true,"aliases":["Immutability"],"created":"[[2023-06-13]]","modified":"2026-01-11T20:39:43.095+02:00","published":"[[2023-06-13]]","cssclasses":"","parent":["[[Software Engineering Index]]"],"state":["sapling"],"date":"[[2023-06-13]]"}
+publish: true
+aliases:
+  - Immutability
+created: "[[2023-06-13]]"
+modified: 2026-01-11T20:39:43.095+02:00
+published: "[[2023-06-13]]"
+cssclasses: ""
+parent:
+  - "[[Software Engineering Index]]"
+state:
+  - sapling
+date: "[[2023-06-13]]"
 ---
 
 > [!success] ~ What ? ~

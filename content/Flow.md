@@ -1,5 +1,17 @@
 ---
-{"publish":true,"aliases":["Flow State"],"created":"[[2023-06-14]]","modified":"2026-01-09T13:59:18.808+02:00","published":"[[2023-06-14]]","cssclasses":"","parent":"[[Productivity]]","state":["evergreen"],"opposes":["[[Ruining Development Flow]]"],"date":"[[2023-06-14]]"}
+publish: true
+aliases:
+  - Flow State
+created: "[[2023-06-14]]"
+modified: 2026-01-09T13:59:18.808+02:00
+published: "[[2023-06-14]]"
+cssclasses: ""
+parent: "[[Productivity]]"
+state:
+  - evergreen
+opposes:
+  - "[[Ruining Development Flow]]"
+date: "[[2023-06-14]]"
 ---
 
 > [!success] ~ What ? ~

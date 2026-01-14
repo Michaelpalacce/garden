@@ -1,5 +1,18 @@
 ---
-{"publish":true,"aliases":["Caching"],"description":"The process of saving information for later use, usually in memory","created":"[[2025-09-03]]","modified":"2026-01-11T15:42:30.616+02:00","published":"[[2025-09-03]]","cssclasses":"","parent":"[[Performance]]","state":["evergreen"],"date":"[[2025-09-03]]","relates":["[[Optimization]]"]}
+publish: true
+aliases:
+  - Caching
+description: The process of saving information for later use, usually in memory
+created: "[[2025-09-03]]"
+modified: 2026-01-11T15:42:30.616+02:00
+published: "[[2025-09-03]]"
+cssclasses: ""
+parent: "[[Performance]]"
+state:
+  - evergreen
+date: "[[2025-09-03]]"
+relates:
+  - "[[Optimization]]"
 ---
 
 > [!info]+

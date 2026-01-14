@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2024-09-08]]","modified":"2026-01-13T00:08:08.550+02:00","published":"[[2024-09-08]]","cssclasses":"","parent":"[[Operating System]]","state":["evergreen"],"date":"[[2024-09-08]]"}
+publish: true
+created: "[[2024-09-08]]"
+modified: 2026-01-13T00:08:08.550+02:00
+published: "[[2024-09-08]]"
+cssclasses: ""
+parent: "[[Operating System]]"
+state:
+  - evergreen
+date: "[[2024-09-08]]"
 ---
 
 # Map Of Content

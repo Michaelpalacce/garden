@@ -1,5 +1,21 @@
 ---
-{"publish":true,"aliases":["Brewer's Theorem","Consistency Availability Partition Tolerance"],"description":"A theorem of the shortcomings of distributed systems.","created":"[[2024-09-07]]","modified":"2026-01-11T15:35:54.624+02:00","published":"[[2024-09-07]]","cssclasses":"","parent":"[[System Design]]","state":["evergreen"],"date":"[[2024-09-07]]","relates":["[[Consistency]]","[[Availability]]","[[Partition Tolerance]]"]}
+publish: true
+aliases:
+  - Brewer's Theorem
+  - Consistency Availability Partition Tolerance
+description: A theorem of the shortcomings of distributed systems.
+created: "[[2024-09-07]]"
+modified: 2026-01-11T15:35:54.624+02:00
+published: "[[2024-09-07]]"
+cssclasses: ""
+parent: "[[System Design]]"
+state:
+  - evergreen
+date: "[[2024-09-07]]"
+relates:
+  - "[[Consistency]]"
+  - "[[Availability]]"
+  - "[[Partition Tolerance]]"
 ---
 
 > [!info]+

@@ -1,5 +1,19 @@
 ---
-{"publish":true,"aliases":["Hot Storage","Cold Storage"],"description":"What kind of information do I store, how and when?","created":"[[2024-09-07]]","modified":"2026-01-09T13:58:24.235+02:00","published":"[[2024-09-07]]","cssclasses":"","parent":"[[Guiding Principles]]","state":["evergreen"],"date":"[[2024-09-07]]","relates":["[[How To Retain Knowledge|Learning By Taking Notes]]"]}
+publish: true
+aliases:
+  - Hot Storage
+  - Cold Storage
+description: What kind of information do I store, how and when?
+created: "[[2024-09-07]]"
+modified: 2026-01-09T13:58:24.235+02:00
+published: "[[2024-09-07]]"
+cssclasses: ""
+parent: "[[Guiding Principles]]"
+state:
+  - evergreen
+date: "[[2024-09-07]]"
+relates:
+  - "[[How To Retain Knowledge|Learning By Taking Notes]]"
 ---
 
 > [!info]+

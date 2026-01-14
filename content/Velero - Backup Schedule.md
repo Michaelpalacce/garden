@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2022-08-29]]","modified":"2026-01-10T17:17:23.317+02:00","published":"[[2022-08-29]]","cssclasses":"","parent":"[[Velero]]","state":"evergreen","links":["https://github.com/Michaelpalacce/HomeLab/blob/master/cluster/homelab/configs/velero/schedule.yaml"],"date":"[[2022-08-29]]","relates":null}
+publish: true
+created: "[[2022-08-29]]"
+modified: 2026-01-10T17:17:23.317+02:00
+published: "[[2022-08-29]]"
+cssclasses: ""
+parent: "[[Velero]]"
+state: evergreen
+links:
+  - https://github.com/Michaelpalacce/HomeLab/blob/master/cluster/homelab/configs/velero/schedule.yaml
+date: "[[2022-08-29]]"
+relates:
 ---
 
 > [!success] ~ What ? ~

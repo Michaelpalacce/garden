@@ -1,5 +1,19 @@
 ---
-{"publish":true,"aliases":["How to negotiate for a job","10 rules of negotiating for a job","Learn how to negotiate yourself"],"created":"[[2025-04-06]]","modified":"2026-01-11T15:14:47.797+02:00","published":"[[2025-04-06]]","cssclasses":"","parent":"[[Communication]]","state":["sapling"],"date":"[[2025-04-06]]","links":["https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/"]}
+publish: true
+aliases:
+  - How to negotiate for a job
+  - 10 rules of negotiating for a job
+  - Learn how to negotiate yourself
+created: "[[2025-04-06]]"
+modified: 2026-01-11T15:14:47.797+02:00
+published: "[[2025-04-06]]"
+cssclasses: ""
+parent: "[[Communication]]"
+state:
+  - sapling
+date: "[[2025-04-06]]"
+links:
+  - https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
 ---
 
 > [!info]+

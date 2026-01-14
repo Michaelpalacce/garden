@@ -1,5 +1,17 @@
 ---
-{"publish":true,"description":"Complexity is the enemy of innovation.","created":"[[2024-10-11]]","modified":"2026-01-11T20:33:31.699+02:00","published":"[[2024-10-11]]","cssclasses":"","parent":"[[System Design]]","state":["sapling"],"date":"[[2024-10-11]]","relates":null,"opposes":["[[Simplicity]]"]}
+publish: true
+description: Complexity is the enemy of innovation.
+created: "[[2024-10-11]]"
+modified: 2026-01-11T20:33:31.699+02:00
+published: "[[2024-10-11]]"
+cssclasses: ""
+parent: "[[System Design]]"
+state:
+  - sapling
+date: "[[2024-10-11]]"
+relates:
+opposes:
+  - "[[Simplicity]]"
 ---
 
 > [!info]+

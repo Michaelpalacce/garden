@@ -1,5 +1,16 @@
 ---
-{"publish":true,"created":"[[2024-09-02]]","modified":"2026-01-09T13:58:25.000+02:00","published":"[[2024-09-02]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2024-09-02]]","relates":["[[Alias System]]","[[Templateing System]]"]}
+publish: true
+created: "[[2024-09-02]]"
+modified: 2026-01-09T13:58:25.000+02:00
+published: "[[2024-09-02]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2024-09-02]]"
+relates:
+  - "[[Alias System]]"
+  - "[[Templateing System]]"
 ---
 
 > [!idea]+

@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"How to enable root ssh with password","created":"[[2025-03-24]]","modified":"2026-01-11T20:46:55.303+02:00","published":"[[2025-03-24]]","cssclasses":"","parent":"[[ssh]]","state":["evergreen"],"date":"[[2025-03-24]]","relates":["[[Security]]"],"links":["https://linuxconfig.org/allow-ssh-root-login-on-ubuntu-20-04-focal-fossa-linux"]}
+publish: true
+description: How to enable root ssh with password
+created: "[[2025-03-24]]"
+modified: 2026-01-11T20:46:55.303+02:00
+published: "[[2025-03-24]]"
+cssclasses: ""
+parent: "[[ssh]]"
+state:
+  - evergreen
+date: "[[2025-03-24]]"
+relates:
+  - "[[Security]]"
+links:
+  - https://linuxconfig.org/allow-ssh-root-login-on-ubuntu-20-04-focal-fossa-linux
 ---
 
 # Steps

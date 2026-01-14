@@ -1,5 +1,17 @@
 ---
-{"publish":true,"description":"Exponentially increase the time between each retry.","created":"[[2024-06-16]]","modified":"2026-01-10T23:39:12.726+02:00","published":"[[2024-06-16]]","cssclasses":"","parent":"[[Retry Mechanism]]","state":["evergreen"],"date":"[[2024-06-16]]","relates":["[[Random backoff]]","[[Fixed backoff]]"]}
+publish: true
+description: Exponentially increase the time between each retry.
+created: "[[2024-06-16]]"
+modified: 2026-01-10T23:39:12.726+02:00
+published: "[[2024-06-16]]"
+cssclasses: ""
+parent: "[[Retry Mechanism]]"
+state:
+  - evergreen
+date: "[[2024-06-16]]"
+relates:
+  - "[[Random backoff]]"
+  - "[[Fixed backoff]]"
 ---
 
 > [!info]+

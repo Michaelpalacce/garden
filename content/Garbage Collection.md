@@ -1,5 +1,19 @@
 ---
-{"publish":true,"aliases":[null],"created":"[[2024-10-11]]","modified":"2026-01-11T15:42:08.948+02:00","published":"[[2024-10-11]]","cssclasses":"","parent":"[[Performance]]","state":["sapling"],"date":"[[2024-10-11]]","relates":null,"opposes":null,"links":null,"description":null}
+publish: true
+aliases:
+  - 
+created: "[[2024-10-11]]"
+modified: 2026-01-11T15:42:08.948+02:00
+published: "[[2024-10-11]]"
+cssclasses: ""
+parent: "[[Performance]]"
+state:
+  - sapling
+date: "[[2024-10-11]]"
+relates:
+opposes:
+links:
+description:
 ---
 
 # Map Of Content

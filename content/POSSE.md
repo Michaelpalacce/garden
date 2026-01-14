@@ -1,5 +1,20 @@
 ---
-{"publish":true,"aliases":["Publish on your Own Site Syndicate Elsewhere"],"description":"Own your posts and share links to them.","created":"[[2026-01-04]]","modified":"2026-01-11T17:05:13.570+02:00","published":"[[2026-01-04]]","cssclasses":"","parent":["[[Blogging]]","[[SEO]]"],"state":["tree"],"date":"[[2026-01-04]]","links":["https://indieweb.org/POSSE#"]}
+publish: true
+aliases:
+  - Publish on your Own Site Syndicate Elsewhere
+description: Own your posts and share links to them.
+created: "[[2026-01-04]]"
+modified: 2026-01-11T17:05:13.570+02:00
+published: "[[2026-01-04]]"
+cssclasses: ""
+parent:
+  - "[[Blogging]]"
+  - "[[SEO]]"
+state:
+  - tree
+date: "[[2026-01-04]]"
+links:
+  - https://indieweb.org/POSSE#
 ---
 
 > [!info]+

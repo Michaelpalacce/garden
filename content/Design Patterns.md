@@ -1,5 +1,17 @@
 ---
-{"publish":true,"created":"[[2022-10-15]]","modified":"2026-01-11T15:40:23.596+02:00","published":"[[2022-10-15]]","cssclasses":"","parent":"[[Software Engineering Index|Software Engineering]]","state":["tree"],"date":"[[2022-10-15]]","relates":["[[Best Practices]]"],"opposes":["[[Bad Practices]]"]}
+publish: true
+created: "[[2022-10-15]]"
+modified: 2026-01-11T15:40:23.596+02:00
+published: "[[2022-10-15]]"
+cssclasses: ""
+parent: "[[Software Engineering Index|Software Engineering]]"
+state:
+  - tree
+date: "[[2022-10-15]]"
+relates:
+  - "[[Best Practices]]"
+opposes:
+  - "[[Bad Practices]]"
 ---
 
 > [!success] ~ What ? ~

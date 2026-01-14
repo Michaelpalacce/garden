@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["Blog","Garden"],"title":"Home","created":"2026-01-07T21:40:31.994+02:00","modified":"2026-01-14T01:09:16.452+02:00","published":"2026-01-14T01:09:16.452+02:00","cssclasses":"","state":["evergreen"]}
+publish: true
+aliases:
+  - Blog
+  - Garden
+title: Home
+created: 2026-01-07T21:40:31.994+02:00
+modified: 2026-01-14T01:09:16.452+02:00
+published: 2026-01-14T01:09:16.452+02:00
+cssclasses: ""
+state:
+  - evergreen
 ---
 
 # Welcome!

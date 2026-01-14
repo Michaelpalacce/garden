@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2024-10-04]]","modified":"2026-01-13T00:11:05.154+02:00","published":"[[2024-10-04]]","cssclasses":"","parent":"[[Linux]]","state":["evergreen"],"date":"[[2024-10-04]]"}
+publish: true
+created: "[[2024-10-04]]"
+modified: 2026-01-13T00:11:05.154+02:00
+published: "[[2024-10-04]]"
+cssclasses: ""
+parent: "[[Linux]]"
+state:
+  - evergreen
+date: "[[2024-10-04]]"
 ---
 
 > [!info]

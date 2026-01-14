@@ -1,5 +1,17 @@
 ---
-{"publish":true,"description":"Coding best practices to follow.","created":"[[2024-10-07]]","modified":"2026-01-11T15:40:05.776+02:00","published":"[[2024-10-07]]","cssclasses":"","parent":"[[Software Engineering Index]]","state":["evergreen"],"date":"[[2024-10-07]]","opposes":["[[Bad Practices]]","[[Bad Code]]"]}
+publish: true
+description: Coding best practices to follow.
+created: "[[2024-10-07]]"
+modified: 2026-01-11T15:40:05.776+02:00
+published: "[[2024-10-07]]"
+cssclasses: ""
+parent: "[[Software Engineering Index]]"
+state:
+  - evergreen
+date: "[[2024-10-07]]"
+opposes:
+  - "[[Bad Practices]]"
+  - "[[Bad Code]]"
 ---
 
 # Map Of Content

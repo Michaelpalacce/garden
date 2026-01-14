@@ -1,5 +1,17 @@
 ---
-{"publish":true,"description":"How can we reduce complexity?","created":"[[2025-04-01]]","modified":"2026-01-11T20:32:15.115+02:00","published":"[[2025-04-01]]","cssclasses":"","parent":"[[Complexity]]","state":["sapling"],"date":"[[2025-04-01]]","relates":["[[Comments - Best Practices]]","[[Best Practices]]"]}
+publish: true
+description: How can we reduce complexity?
+created: "[[2025-04-01]]"
+modified: 2026-01-11T20:32:15.115+02:00
+published: "[[2025-04-01]]"
+cssclasses: ""
+parent: "[[Complexity]]"
+state:
+  - sapling
+date: "[[2025-04-01]]"
+relates:
+  - "[[Comments - Best Practices]]"
+  - "[[Best Practices]]"
 ---
 
 # Development

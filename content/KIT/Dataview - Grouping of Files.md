@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2022-05-03]]","modified":"2026-01-09T13:58:23.889+02:00","published":"[[2022-05-03]]","cssclasses":"","parent":"[[Dataview - Grouping]]","state":["evergreen"],"date":"[[2022-05-03]]"}
+publish: true
+created: "[[2022-05-03]]"
+modified: 2026-01-09T13:58:23.889+02:00
+published: "[[2022-05-03]]"
+cssclasses: ""
+parent: "[[Dataview - Grouping]]"
+state:
+  - evergreen
+date: "[[2022-05-03]]"
 ---
 
 # Grouping of files

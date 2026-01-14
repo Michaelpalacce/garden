@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2022-07-14]]","modified":"2026-01-10T16:52:21.372+02:00","published":"[[2022-07-14]]","cssclasses":"","parent":["[[HomeLab - K3S Details]]"],"state":"evergreen","relates":["[[Plex]]"],"date":"[[2022-07-14]]"}
+publish: true
+created: "[[2022-07-14]]"
+modified: 2026-01-10T16:52:21.372+02:00
+published: "[[2022-07-14]]"
+cssclasses: ""
+parent:
+  - "[[HomeLab - K3S Details]]"
+state: evergreen
+relates:
+  - "[[Plex]]"
+date: "[[2022-07-14]]"
 ---
 
 - Without GPU

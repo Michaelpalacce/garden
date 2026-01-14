@@ -1,5 +1,17 @@
 ---
-{"publish":true,"created":"[[2022-05-03]]","modified":"2026-01-10T17:19:05.324+02:00","published":"[[2022-05-03]]","cssclasses":"","parent":"[[Velero]]","state":"evergreen","opposes":"[[Velero - Backup]]","relates":["[[Kubernetes]]","[[Backup]]","[[3-2-1 Backup Rule]]"],"date":"[[2022-05-03]]"}
+publish: true
+created: "[[2022-05-03]]"
+modified: 2026-01-10T17:19:05.324+02:00
+published: "[[2022-05-03]]"
+cssclasses: ""
+parent: "[[Velero]]"
+state: evergreen
+opposes: "[[Velero - Backup]]"
+relates:
+  - "[[Kubernetes]]"
+  - "[[Backup]]"
+  - "[[3-2-1 Backup Rule]]"
+date: "[[2022-05-03]]"
 ---
 
 # Restoring backups:

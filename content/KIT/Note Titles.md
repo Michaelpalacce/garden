@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["How To Name Notes"],"created":"[[2023-07-09]]","modified":"2026-01-09T13:58:24.714+02:00","published":"[[2023-07-09]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2023-07-09]]"}
+publish: true
+aliases:
+  - How To Name Notes
+created: "[[2023-07-09]]"
+modified: 2026-01-09T13:58:24.714+02:00
+published: "[[2023-07-09]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2023-07-09]]"
 ---
 
 # Prefixes

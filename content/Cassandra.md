@@ -1,5 +1,16 @@
 ---
-{"publish":true,"aliases":["Cassandra DB","Apache Cassandra"],"created":"[[2024-06-19]]","modified":"2026-01-12T22:40:03.075+02:00","published":"[[2024-06-19]]","cssclasses":"","parent":"[[Databases]]","state":["evergreen"],"date":"[[2024-06-19]]"}
+publish: true
+aliases:
+  - Cassandra DB
+  - Apache Cassandra
+created: "[[2024-06-19]]"
+modified: 2026-01-12T22:40:03.075+02:00
+published: "[[2024-06-19]]"
+cssclasses: ""
+parent: "[[Databases]]"
+state:
+  - evergreen
+date: "[[2024-06-19]]"
 ---
 
 > [!success] ~ What ? ~

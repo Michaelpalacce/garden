@@ -1,5 +1,14 @@
 ---
-{"publish":true,"aliases":["Framework Getting Started"],"created":"[[2023-06-14]]","modified":"2026-01-12T11:22:14.492+02:00","published":"[[2023-06-14]]","cssclasses":"","parent":"[[Framework]]","state":"evergreen","date":"[[2023-06-14]]"}
+publish: true
+aliases:
+  - Framework Getting Started
+created: "[[2023-06-14]]"
+modified: 2026-01-12T11:22:14.492+02:00
+published: "[[2023-06-14]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state: evergreen
+date: "[[2023-06-14]]"
 ---
 
 1. [[KIT/Linking Your Thinking]]

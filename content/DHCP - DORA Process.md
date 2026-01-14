@@ -1,5 +1,19 @@
 ---
-{"publish":true,"aliases":["Discover Offer Request Acknowledge Process"],"description":"The DORA process is a four-step exchange that DHCP uses.","created":"[[2025-10-04]]","modified":"2026-01-11T20:45:54.783+02:00","published":"[[2025-10-04]]","cssclasses":"","parent":"[[DHCP]]","state":["evergreen"],"date":"[[2025-10-04]]","links":["https://www.geeksforgeeks.org/computer-networks/how-dora-works/"],"research":false}
+publish: true
+aliases:
+  - Discover Offer Request Acknowledge Process
+description: The DORA process is a four-step exchange that DHCP uses.
+created: "[[2025-10-04]]"
+modified: 2026-01-11T20:45:54.783+02:00
+published: "[[2025-10-04]]"
+cssclasses: ""
+parent: "[[DHCP]]"
+state:
+  - evergreen
+date: "[[2025-10-04]]"
+links:
+  - https://www.geeksforgeeks.org/computer-networks/how-dora-works/
+research: false
 ---
 
 # Discover

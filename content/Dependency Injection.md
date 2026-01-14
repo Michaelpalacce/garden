@@ -1,5 +1,17 @@
 ---
-{"publish":true,"created":"[[2024-03-20]]","modified":"2026-01-10T02:21:45.452+02:00","published":"[[2024-03-20]]","cssclasses":"","parent":"[[Programming Index|Development]]","state":["evergreen"],"relates":["[[Dependency Inversion Principle]]"],"opposes":["[[Tight Coupling]]"],"date":"[[2024-03-20]]"}
+publish: true
+created: "[[2024-03-20]]"
+modified: 2026-01-10T02:21:45.452+02:00
+published: "[[2024-03-20]]"
+cssclasses: ""
+parent: "[[Programming Index|Development]]"
+state:
+  - evergreen
+relates:
+  - "[[Dependency Inversion Principle]]"
+opposes:
+  - "[[Tight Coupling]]"
+date: "[[2024-03-20]]"
 ---
 
 # Types 

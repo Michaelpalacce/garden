@@ -1,5 +1,19 @@
 ---
-{"publish":true,"aliases":["Generate ssh key","ssh - Generate key"],"description":"Generate ssh key","created":"[[2025-03-25]]","modified":"2026-01-11T20:46:58.495+02:00","published":"[[2025-03-25]]","cssclasses":"","parent":"[[ssh]]","state":["evergreen"],"date":"[[2025-03-25]]","links":["https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent"]}
+publish: true
+aliases:
+  - Generate ssh key
+  - ssh - Generate key
+description: Generate ssh key
+created: "[[2025-03-25]]"
+modified: 2026-01-11T20:46:58.495+02:00
+published: "[[2025-03-25]]"
+cssclasses: ""
+parent: "[[ssh]]"
+state:
+  - evergreen
+date: "[[2025-03-25]]"
+links:
+  - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 ---
 
 # Overview

@@ -1,5 +1,18 @@
 ---
-{"publish":true,"aliases":["Software Design Paradigm","Software Design Principle"],"created":"[[2025-09-07]]","modified":"2026-01-11T15:29:37.812+02:00","published":"[[2025-09-07]]","cssclasses":"","parent":"[[Software Engineering Index]]","state":["evergreen"],"date":"[[2025-09-07]]","relates":["[[System Design]]"]}
+publish: true
+aliases:
+  - Software Design Paradigm
+  - Software Design Principle
+created: "[[2025-09-07]]"
+modified: 2026-01-11T15:29:37.812+02:00
+published: "[[2025-09-07]]"
+cssclasses: ""
+parent: "[[Software Engineering Index]]"
+state:
+  - evergreen
+date: "[[2025-09-07]]"
+relates:
+  - "[[System Design]]"
 ---
 
 # Map Of Content

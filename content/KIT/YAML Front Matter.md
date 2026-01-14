@@ -1,5 +1,18 @@
 ---
-{"publish":true,"aliases":["YAML Metadata"],"created":"[[2024-09-02]]","modified":"2026-01-09T13:58:25.224+02:00","published":"[[2024-09-02]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2024-09-02]]","links":["https://www.youtube.com/watch?v=rAoFGGMG-0g&ab_channel=BryanJenks","https://help.obsidian.md/Advanced+topics/YAML+front+matter"]}
+publish: true
+aliases:
+  - YAML Metadata
+created: "[[2024-09-02]]"
+modified: 2026-01-09T13:58:25.224+02:00
+published: "[[2024-09-02]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2024-09-02]]"
+links:
+  - https://www.youtube.com/watch?v=rAoFGGMG-0g&ab_channel=BryanJenks
+  - https://help.obsidian.md/Advanced+topics/YAML+front+matter
 ---
 
 # Overview

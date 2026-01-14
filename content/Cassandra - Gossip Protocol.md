@@ -1,5 +1,14 @@
 ---
-{"publish":true,"aliases":["Gossip Protocol"],"created":"[[2023-03-04]]","modified":"2026-01-12T22:44:35.389+02:00","published":"[[2023-03-04]]","cssclasses":"","parent":"[[Cassandra]]","state":"sapling","date":"[[2023-03-04]]"}
+publish: true
+aliases:
+  - Gossip Protocol
+created: "[[2023-03-04]]"
+modified: 2026-01-12T22:44:35.389+02:00
+published: "[[2023-03-04]]"
+cssclasses: ""
+parent: "[[Cassandra]]"
+state: sapling
+date: "[[2023-03-04]]"
 ---
 
 > [!success] ~ What ? ~

@@ -1,5 +1,18 @@
 ---
-{"publish":true,"aliases":["Github Actions - Execute Cleanup Step","Github Actions - Execute Step On Failure"],"created":"[[2026-01-12]]","modified":"2026-01-12T10:02:26.681+02:00","published":"[[2026-01-12]]","cssclasses":"","parent":"[[Github - Actions]]","state":["evergreen"],"date":"[[2026-01-12]]","relates":["[[Conditionals]]"]}
+publish: true
+aliases:
+  - Github Actions - Execute Cleanup Step
+  - Github Actions - Execute Step On Failure
+created: "[[2026-01-12]]"
+modified: 2026-01-12T10:02:26.681+02:00
+published: "[[2026-01-12]]"
+cssclasses: ""
+parent: "[[Github - Actions]]"
+state:
+  - evergreen
+date: "[[2026-01-12]]"
+relates:
+  - "[[Conditionals]]"
 ---
 
 # Always

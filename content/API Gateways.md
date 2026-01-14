@@ -1,5 +1,20 @@
 ---
-{"publish":true,"created":"[[2024-09-06]]","modified":"2026-01-11T15:38:38.712+02:00","published":"[[2024-09-06]]","cssclasses":"","parent":"[[System Design]]","state":["sapling"],"date":"[[2024-09-06]]","relates":["[[Reverse Proxy]]"],"opposes":null,"links":["https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/introduction-to-api-gateway"],"description":null,"aliases":null}
+publish: true
+created: "[[2024-09-06]]"
+modified: 2026-01-11T15:38:38.712+02:00
+published: "[[2024-09-06]]"
+cssclasses: ""
+parent: "[[System Design]]"
+state:
+  - sapling
+date: "[[2024-09-06]]"
+relates:
+  - "[[Reverse Proxy]]"
+opposes:
+links:
+  - https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/introduction-to-api-gateway
+description:
+aliases:
 ---
 
 # Responsibilities

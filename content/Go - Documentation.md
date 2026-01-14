@@ -1,5 +1,21 @@
 ---
-{"publish":true,"aliases":["godoc"],"created":"[[2024-09-05]]","modified":"2026-01-11T00:33:50.994+02:00","published":"[[2024-09-05]]","cssclasses":"","parent":["[[Go]]","[[Documentation]]"],"state":["evergreen"],"date":"[[2024-09-05]]","relates":["[[Documentation]]"],"links":["https://go.dev/doc/comment"]}
+publish: true
+aliases:
+  - godoc
+created: "[[2024-09-05]]"
+modified: 2026-01-11T00:33:50.994+02:00
+published: "[[2024-09-05]]"
+cssclasses: ""
+parent:
+  - "[[Go]]"
+  - "[[Documentation]]"
+state:
+  - evergreen
+date: "[[2024-09-05]]"
+relates:
+  - "[[Documentation]]"
+links:
+  - https://go.dev/doc/comment
 ---
 
 > [!info]+

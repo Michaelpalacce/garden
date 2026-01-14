@@ -1,5 +1,22 @@
 ---
-{"publish":true,"description":"Why are we doing this to ourselves?","created":"[[2026-01-11]]","modified":"2026-01-12T19:24:57.414+02:00","published":"[[2026-01-11]]","cssclasses":"","parent":["[[Artificial Intelligence]]"],"state":["evergreen"],"date":"[[2026-01-11]]","relates":["[[Corporate]]","[[On The Governance Of AI]]","[[Capitalism]]"],"opposes":["[[Common Sense]]"],"kind":"blog"}
+publish: true
+description: Why are we doing this to ourselves?
+created: "[[2026-01-11]]"
+modified: 2026-01-12T19:24:57.414+02:00
+published: "[[2026-01-11]]"
+cssclasses: ""
+parent:
+  - "[[Artificial Intelligence]]"
+state:
+  - evergreen
+date: "[[2026-01-11]]"
+relates:
+  - "[[Corporate]]"
+  - "[[On The Governance Of AI]]"
+  - "[[Capitalism]]"
+opposes:
+  - "[[Common Sense]]"
+kind: blog
 ---
 
 Where are we heading? An essay, with questions and little answers. 

@@ -1,5 +1,14 @@
 ---
-{"publish":true,"created":"[[2023-06-13]]","modified":"2026-01-11T21:00:52.259+02:00","published":"[[2023-06-13]]","cssclasses":"","parent":"[[Software Engineering Index|Software Engineering]]","opposes":"[[Inheritance]]","state":"evergreen","date":"[[2023-06-13]]","aliases":null}
+publish: true
+created: "[[2023-06-13]]"
+modified: 2026-01-11T21:00:52.259+02:00
+published: "[[2023-06-13]]"
+cssclasses: ""
+parent: "[[Software Engineering Index|Software Engineering]]"
+opposes: "[[Inheritance]]"
+state: evergreen
+date: "[[2023-06-13]]"
+aliases:
 ---
 
 > [!success] ~ What ? ~

@@ -1,5 +1,19 @@
 ---
-{"publish":true,"aliases":["You Are Not An X Learner"],"description":"There is no such thing as verbal, visual or auditory learners.","created":"[[2025-04-28]]","modified":"2026-01-11T00:59:48.026+02:00","published":"[[2025-04-28]]","cssclasses":"","parent":"[[Learning]]","state":["evergreen"],"date":"[[2025-04-28]]","relates":["[[Make It Stick]]"],"opposes":null}
+publish: true
+aliases:
+  - You Are Not An X Learner
+description: There is no such thing as verbal, visual or auditory learners.
+created: "[[2025-04-28]]"
+modified: 2026-01-11T00:59:48.026+02:00
+published: "[[2025-04-28]]"
+cssclasses: ""
+parent: "[[Learning]]"
+state:
+  - evergreen
+date: "[[2025-04-28]]"
+relates:
+  - "[[Make It Stick]]"
+opposes:
 ---
 
 > [!info]+

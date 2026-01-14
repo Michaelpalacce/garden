@@ -1,5 +1,17 @@
 ---
-{"publish":true,"aliases":["Avoid Confrontation","How To Talk To People","Talking To People"],"created":"[[2023-07-20]]","modified":"2026-01-12T23:41:00.173+02:00","published":"[[2023-07-20]]","cssclasses":"","parent":"[[Soft Skills]]","state":["evergreen"],"date":"[[2023-07-20]]"}
+publish: true
+aliases:
+  - Avoid Confrontation
+  - How To Talk To People
+  - Talking To People
+created: "[[2023-07-20]]"
+modified: 2026-01-12T23:41:00.173+02:00
+published: "[[2023-07-20]]"
+cssclasses: ""
+parent: "[[Soft Skills]]"
+state:
+  - evergreen
+date: "[[2023-07-20]]"
 ---
 
 # Map Of Content

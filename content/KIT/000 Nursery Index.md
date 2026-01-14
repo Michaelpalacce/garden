@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2022-06-01]]","modified":"2026-01-09T13:55:00.084+02:00","published":"[[2022-06-01]]","cssclasses":"","parent":"[[Command & Control Center Index|Command & Control Center]]","state":["evergreen"],"date":"[[2022-06-01]]"}
+publish: true
+created: "[[2022-06-01]]"
+modified: 2026-01-09T13:55:00.084+02:00
+published: "[[2022-06-01]]"
+cssclasses: ""
+parent: "[[Command & Control Center Index|Command & Control Center]]"
+state:
+  - evergreen
+date: "[[2022-06-01]]"
 ---
 
 > [!done] ~ What ? ~

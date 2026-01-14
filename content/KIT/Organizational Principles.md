@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":["Organizational Principles"],"created":"[[2023-06-14]]","modified":"2026-01-09T13:58:24.846+02:00","published":"[[2023-06-14]]","cssclasses":"","parent":"[[Framework]]","state":["evergreen"],"date":"[[2023-06-14]]"}
+publish: true
+aliases:
+  - Organizational Principles
+created: "[[2023-06-14]]"
+modified: 2026-01-09T13:58:24.846+02:00
+published: "[[2023-06-14]]"
+cssclasses: ""
+parent: "[[Framework]]"
+state:
+  - evergreen
+date: "[[2023-06-14]]"
 ---
 
 # Avoid Creating A Hierarchical Folder Structure

@@ -1,5 +1,17 @@
 ---
-{"publish":true,"description":"A open source fork of MySQL","created":"[[2025-09-03]]","modified":"2026-01-12T22:45:53.661+02:00","published":"[[2025-09-03]]","cssclasses":"","parent":"[[Databases]]","state":["tree"],"date":"[[2025-09-03]]","relates":["[[MySQL]]","[[PostgreSQL]]"]}
+publish: true
+description: A open source fork of MySQL
+created: "[[2025-09-03]]"
+modified: 2026-01-12T22:45:53.661+02:00
+published: "[[2025-09-03]]"
+cssclasses: ""
+parent: "[[Databases]]"
+state:
+  - tree
+date: "[[2025-09-03]]"
+relates:
+  - "[[MySQL]]"
+  - "[[PostgreSQL]]"
 ---
 
 > [!info]+

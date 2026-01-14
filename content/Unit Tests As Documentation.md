@@ -1,5 +1,18 @@
 ---
-{"publish":true,"description":"Writing unit tests with descriptive names and explicit outcomes can serve as documentation for the method.","created":"[[2025-02-21]]","modified":"2026-01-11T00:40:08.906+02:00","published":"[[2025-02-21]]","cssclasses":"","parent":["[[Testing - Unit Tests]]","[[Documentation]]"],"state":["evergreen"],"date":"[[2025-02-21]]","links":["https://www.thecoder.cafe/p/unit-tests-as-documentation"]}
+publish: true
+description: Writing unit tests with descriptive names and explicit outcomes can serve as documentation for the method.
+created: "[[2025-02-21]]"
+modified: 2026-01-11T00:40:08.906+02:00
+published: "[[2025-02-21]]"
+cssclasses: ""
+parent:
+  - "[[Testing - Unit Tests]]"
+  - "[[Documentation]]"
+state:
+  - evergreen
+date: "[[2025-02-21]]"
+links:
+  - https://www.thecoder.cafe/p/unit-tests-as-documentation
 ---
 
 > [!warning]+

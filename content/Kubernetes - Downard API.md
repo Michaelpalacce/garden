@@ -1,5 +1,20 @@
 ---
-{"publish":true,"aliases":["Downward API"],"description":" Exposing pod and container fields to a running container.","created":"[[2025-12-28]]","modified":"2026-01-12T22:39:27.207+02:00","published":"[[2025-12-28]]","cssclasses":"","parent":"[[Kubernetes]]","state":["tree"],"date":"[[2025-12-28]]","relates":null,"opposes":null,"links":["https://kubernetes.io/docs/concepts/workloads/pods/downward-api/"]}
+publish: true
+aliases:
+  - Downward API
+description: " Exposing pod and container fields to a running container."
+created: "[[2025-12-28]]"
+modified: 2026-01-12T22:39:27.207+02:00
+published: "[[2025-12-28]]"
+cssclasses: ""
+parent: "[[Kubernetes]]"
+state:
+  - tree
+date: "[[2025-12-28]]"
+relates:
+opposes:
+links:
+  - https://kubernetes.io/docs/concepts/workloads/pods/downward-api/
 ---
 
 > [!info]+

@@ -1,5 +1,18 @@
 ---
-{"publish":true,"aliases":["Dynamic Host Configuration Protocol"],"description":"Client/server protocol essential for assigning networking settings to clients.","created":"[[2024-02-18]]","modified":"2026-01-11T20:45:49.347+02:00","published":"[[2024-02-18]]","cssclasses":"","parent":"[[Networking]]","state":["evergreen"],"relates":["[[IP]]"],"date":"[[2024-02-18]]"}
+publish: true
+aliases:
+  - Dynamic Host Configuration Protocol
+description: Client/server protocol essential for assigning networking settings to clients.
+created: "[[2024-02-18]]"
+modified: 2026-01-11T20:45:49.347+02:00
+published: "[[2024-02-18]]"
+cssclasses: ""
+parent: "[[Networking]]"
+state:
+  - evergreen
+relates:
+  - "[[IP]]"
+date: "[[2024-02-18]]"
 ---
 
 > [!info]

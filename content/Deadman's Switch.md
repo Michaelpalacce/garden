@@ -1,5 +1,19 @@
 ---
-{"publish":true,"created":"[[2024-10-12]]","modified":"2026-01-11T15:45:44.688+02:00","published":"[[2024-10-12]]","cssclasses":"","parent":"[[Software Engineering Index]]","state":["tree"],"date":"[[2024-10-12]]","relates":["[[Error Resiliency]]","[[Fault Tolerance]]"],"opposes":null,"links":null,"aliases":null}
+publish: true
+created: "[[2024-10-12]]"
+modified: 2026-01-11T15:45:44.688+02:00
+published: "[[2024-10-12]]"
+cssclasses: ""
+parent: "[[Software Engineering Index]]"
+state:
+  - tree
+date: "[[2024-10-12]]"
+relates:
+  - "[[Error Resiliency]]"
+  - "[[Fault Tolerance]]"
+opposes:
+links:
+aliases:
 ---
 
 # Timeouts

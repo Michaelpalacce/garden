@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2023-06-18]]","modified":"2026-01-11T15:29:23.396+02:00","published":"[[2023-06-18]]","cssclasses":"","parent":"[[SOLID]]","state":"sapling","aliases":null,"date":"[[2023-06-18]]"}
+publish: true
+created: "[[2023-06-18]]"
+modified: 2026-01-11T15:29:23.396+02:00
+published: "[[2023-06-18]]"
+cssclasses: ""
+parent: "[[SOLID]]"
+state: sapling
+aliases:
+date: "[[2023-06-18]]"
 ---
 
 > [!success] ~ What ? ~

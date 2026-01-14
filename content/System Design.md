@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"[[2024-09-18]]","modified":"2026-01-11T15:35:32.880+02:00","published":"[[2024-09-18]]","cssclasses":"","parent":"[[Software Engineering Index]]","state":["evergreen"],"date":"[[2024-09-18]]","links":["https://www.geeksforgeeks.org/system-design-tutorial/"]}
+publish: true
+created: "[[2024-09-18]]"
+modified: 2026-01-11T15:35:32.880+02:00
+published: "[[2024-09-18]]"
+cssclasses: ""
+parent: "[[Software Engineering Index]]"
+state:
+  - evergreen
+date: "[[2024-09-18]]"
+links:
+  - https://www.geeksforgeeks.org/system-design-tutorial/
 ---
 
 > [!info]+

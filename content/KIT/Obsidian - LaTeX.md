@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"[[2025-03-25]]","modified":"2026-01-09T13:58:24.794+02:00","published":"[[2025-03-25]]","cssclasses":"","parent":"[[000 Obsidian Index]]","state":["evergreen"],"date":"[[2025-03-25]]"}
+publish: true
+created: "[[2025-03-25]]"
+modified: 2026-01-09T13:58:24.794+02:00
+published: "[[2025-03-25]]"
+cssclasses: ""
+parent: "[[000 Obsidian Index]]"
+state:
+  - evergreen
+date: "[[2025-03-25]]"
 ---
 
 Example:
