@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-04-16]]"
-modified: 2026-01-15T01:25:31.918+02:00
+modified: 2026-01-11T18:25:12.827+02:00
 published: "[[2024-04-16]]"
 cssclasses: ""
 parent: "[[Hobbies Index]]"

@@ -4,7 +4,7 @@ aliases:
   - SysAdmin
 description: Developer Operations
 created: "[[2024-09-05]]"
-modified: 2026-01-11T18:20:39.335+02:00
+modified: 2026-01-15T08:20:58.911+02:00
 published: "[[2024-09-05]]"
 cssclasses: ""
 parent: "[[Forest]]"
@@ -39,6 +39,7 @@ relates:
 - Containers ⛴️
 	- [[Containers]] - This is where you can find more information about container s. docker and dockercompose 
 	- [[Kubernetes]] - Everything related to kubernetes
+- [[Unikernel]] - Specialized in running a single piece of software
 - SCM
 	- [[Bitbucket]]
 	- [[Gitlab]]

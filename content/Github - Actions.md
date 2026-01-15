@@ -2,7 +2,7 @@
 publish: true
 description: CI/CD of github
 created: "[[2025-10-14]]"
-modified: 2026-01-12T08:39:06.277+02:00
+modified: 2026-01-15T12:52:28.273+02:00
 published: "[[2025-10-14]]"
 cssclasses: ""
 parent: "[[Github]]"
@@ -32,6 +32,7 @@ relates:
 	- [[Github Actions - Self-Hosted Runner]]
 	- [[Github Actions - Github-Hosted Runner]]
 	- [[Github Actions - Running Inside Containers]]
+	- [[Github Actions - Concurrency Control]]
 - Tips And Tricks
 	- [[Github Actions - Controlling Stage Executions]]
 	- [[Github Actions - Connecting Containers To A Different Docker Network]]

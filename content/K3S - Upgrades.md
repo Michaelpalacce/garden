@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Upgrading K3S Version
   - K3S System Upgrader
-created: 2023-04-27T22:28:05.902+03:00
+created: 2025-05-08T07:58:01.897+03:00
 modified: 2026-01-12T22:36:17.951+02:00
 published: 2026-01-12T22:36:17.951+02:00
 cssclasses: ""

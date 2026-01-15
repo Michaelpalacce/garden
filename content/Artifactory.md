@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Artifactory
-created: 2023-04-27T22:31:30.030+03:00
+created: 2025-05-08T07:54:34.705+03:00
 modified: 2026-01-14T20:55:19.784+02:00
 published: 2026-01-14T20:55:19.784+02:00
 cssclasses: ""

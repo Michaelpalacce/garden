@@ -4,7 +4,7 @@ aliases:
   - Dataview
   - DataviewJS
 description: Seeded [[2022-05-01]]
-created: 2023-04-27T22:26:06.546+03:00
+created: 2026-01-09T13:58:23.702+02:00
 modified: 2026-01-09T13:58:23.702+02:00
 published: 2026-01-09T13:58:23.702+02:00
 cssclasses: ""
