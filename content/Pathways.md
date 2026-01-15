@@ -2,7 +2,7 @@
 publish: true
 description: Content shared online and available locally
 created: "[[2026-01-11]]"
-modified: 2026-01-12T08:38:56.999+02:00
+modified: 2026-01-11T21:11:09.539+02:00
 published: "[[2026-01-11]]"
 cssclasses: ""
 parent: "[[+ Home]]"

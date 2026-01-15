@@ -2,7 +2,7 @@
 publish: true
 description: What are the intricacies of making this work?
 created: "[[2026-01-09]]"
-modified: 2026-01-11T22:55:57.463+02:00
+modified: 2026-01-15T19:46:09.371+02:00
 published: "[[2026-01-09]]"
 cssclasses: ""
 parent: "[[index]]"
@@ -61,6 +61,12 @@ When the docker image gets released, I can simply update the version of the cont
 
 > [!info]+ Bonus!
 > I can also just wait a bit and [[Renovate]] will automatically open a [PR](https://github.com/Michaelpalacce/HomeLab/pull/3707) and merge it.
+
+# Style
+
+As for design is close to my actual obsidian:
+
+![[Assets/Screenshot_20260115_194554_Obsidian.jpg]]
 
 # What does the future hold for this site?
 
