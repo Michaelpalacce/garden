@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-01-14]]"
-modified: 2026-01-10T02:09:51.456+02:00
+modified: 2026-01-16T01:38:45.297+02:00
 published: "[[2024-01-14]]"
 cssclasses: ""
 parent: "[[Programming Index|Development]]"
@@ -15,6 +15,8 @@ date: "[[2024-01-14]]"
 - [ ] Migrate to main treesitter branch
 - [ ] Better handling of big files
 - [ ] Better handling of many open [[Neovim - Buffers\|buffers]]
+- [ ] Be mindful of errors and try to resolve them better
+- [ ] Fugitive better placement? 
 
 
 # Dotfiles

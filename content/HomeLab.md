@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-04-15]]"
-modified: 2026-01-11T23:28:38.627+02:00
+modified: 2026-01-16T01:49:08.857+02:00
 published: "[[2024-04-15]]"
 cssclasses: ""
 parent: "[[Projects]]"
@@ -26,9 +26,7 @@ links:
 
 - [ ] Fix Paperless
 - [ ] Firefly fix for subscriptions 
-- [ ] Info Inhibitor alerts should go to null
-- [ ] Way to manage Proxmox security via Kubernetes? I wonder what are the best practices there? I don't want to use [[Terraform]], that has proven to be a bad idea.
-- [ ] Better Bold Text on [[index]]
+- [ ] Check out failing [[tofu-controller]]
 
 # Withered
 
