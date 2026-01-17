@@ -5,8 +5,8 @@ aliases:
   - Garden
 title: Home
 created: 2026-01-07T21:40:31.994+02:00
-modified: 2026-01-17T05:43:19.292+02:00
-published: 2026-01-17T05:43:19.292+02:00
+modified: 2026-01-17T07:15:57.428+02:00
+published: 2026-01-17T07:15:57.428+02:00
 cssclasses: ""
 state:
   - evergreen
@@ -28,7 +28,7 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 # Thoughts
 
-
+- [[The Fallacy Of Self Contributions Benefiting Corporations]] #mistake, #invest-in-self
 - [[So what if they track me]]? #privacy 
 - [[The New (And Improved) Knowledge Silo]]! #ai
 - [[Artificial Intelligence - The Aftermath\|What is left after AI?]] #ai
@@ -39,7 +39,6 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 ## WIP
 
-- [[The Fallacy Of Self Contributions Benefiting Corporations]]
 - [[I not Robot]] #robots
 - [[Invest In Yourself]] #self-improvement
 
