@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-01-17]]"
-modified: 2026-01-12T23:40:19.165+02:00
+modified: 2026-01-18T10:01:24.996+02:00
 published: "[[2024-01-17]]"
 cssclasses: ""
 parent: "[[Meetings]]"
@@ -18,19 +18,26 @@ research: true
 
 ## Introduction
 
-Capture the essence of discussions and documenting key decisions, meeting minutes serve as a valuable reference point for participants and stakeholders alike. In this article, we will explore the art of writing effective meeting minutes and provide practical tips on how to make them even more impactful.
+**This is the Agenda of the meeting minutes.** Capture the essence of the discussion and what decisions or action items if any we want to take in the end 
 
 ## Understand the Purpose
 
-Meeting minutes are not merely a summary of what transpired during a meeting; they are an official record that ensures accountability and transparency. Before delving into writing them, it is essential to understand the purpose they serve. Effective meeting minutes should accurately document important details such as action items, decisions made, assignments given, and deadlines set.
+Meeting Minutes serve as an official record that ensures accountability and transparency. 
+
+They should accurately document important details such as actions items, decisions made, assignments given and deadlines set. 
 
 ## Prepare Ahead
 
-To ensure comprehensive and organised meeting minutes, proper preparation is key. Familiarize yourself with the agenda beforehand to anticipate topics that may require more detailed documentation. Additionally, understanding the goal of each agenda item will help you capture relevant information efficiently.
+
+Proper preparation is key. Familiarize yourself with the agenda beforehand and anticipate topics, investigate those further. 
+
+Make sure to understand the goal of each agenda item so you know what to capture best. 
 
 ## Be Selective
 
-While it is important to capture essential details in meeting minutes, it is equally crucial to be selective in what you include. Focus on recording key points rather than transcribing every word spoken during the meeting. Note down salient arguments made by participants and summarise discussions concisely while maintaining clarity.
+Don't be tip verbose, record only key points in the discussion, rather than transcribing every word spoken. 
+
+Note down salient arguments made by participants and summarize discussions concisely while being clear. 
 
 ## Use Clear Language
 

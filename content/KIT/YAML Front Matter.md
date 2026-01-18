@@ -3,7 +3,7 @@ publish: true
 aliases:
   - YAML Metadata
 created: "[[2024-09-02]]"
-modified: 2026-01-09T13:58:25.224+02:00
+modified: 2026-01-18T09:09:58.744+02:00
 published: "[[2024-09-02]]"
 cssclasses: ""
 parent: "[[Framework]]"
@@ -23,7 +23,7 @@ It looks like:
 
 ~~~yaml
 ---
-tags: some-tag, some-other-tag
+parent: "[[Test]]"
 aliases: 
 	- AliasOne
 state: some-status, some-other-status
@@ -57,3 +57,10 @@ For content that will be displayed dynamically (using [[KIT/Dataview\|Dataview]]
 
 > [!note] ~ Note ~
 > If is preferred that a template is created for each new dynamic content. 
+
+# Garden
+
+My [[index\|Garden]] also has special metadata. 
+
+- **publish** - Optional. This is a checkbox, that if set to true ("checked"), the note will be published to my garden with Quartz syncer. At the same time, if set to false, it will be unpublished.
+- **title** - Optional. You can use this to overwrite the title of the note when it's published. 

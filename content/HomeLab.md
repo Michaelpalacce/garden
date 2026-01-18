@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-04-15]]"
-modified: 2026-01-16T01:49:08.857+02:00
+modified: 2026-01-18T12:06:40.639+02:00
 published: "[[2024-04-15]]"
 cssclasses: ""
 parent: "[[Projects]]"
@@ -26,7 +26,8 @@ links:
 
 - [ ] Fix Paperless
 - [ ] Firefly fix for subscriptions 
-- [ ] Check out failing [[tofu-controller]]
+- [x] Check out failing [[tofu-controller]]
+- [ ] Migrate  postgres 16 to cnpg postgres 18
 
 # Withered
 
