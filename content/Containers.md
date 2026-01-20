@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2025-09-04]]"
-modified: 2026-01-14T22:07:20.271+02:00
+modified: 2026-01-18T23:09:03.158+02:00
 published: "[[2025-09-04]]"
 cssclasses: ""
 parent: "[[DevOps Index|DevOps]]"
@@ -15,7 +15,7 @@ opposes:
   - "[[Virtual Machine]]"
 ---
 
-A lightweight package that bundles a single application together with all its needed dependencies. Containers, unlike [[Virtual Machine\|VM]]s do not emulate a whole system, but rather use the underlying system's kernel and modules to execute. 
+œœA lightweight package that bundles a single application together with all its needed dependencies. Containers, unlike [[Virtual Machine\|VM]]s do not emulate a whole system, but rather use the underlying system's kernel and modules to execute. 
 
 # Map Of Content
 

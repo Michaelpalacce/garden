@@ -2,7 +2,7 @@
 publish: true
 description: Why you should open source your work instead of donating to corporations
 created: "[[2026-01-17]]"
-modified: 2026-01-17T12:19:45.047+02:00
+modified: 2026-01-20T10:18:57.592+02:00
 published: "[[2026-01-17]]"
 cssclasses: ""
 parent:
@@ -37,7 +37,7 @@ I want the reader to be aware from the get go:
 
 And all of these statements are true still to this day. These are not the issue. 
 
-See I'm a huge believer in [[Invest In Yourself\|investing in one self]]. **What bothers me is not that I donated my work, but rather that I didn't open source it from the get go.** 
+See I'm a huge believer in [[Self Improvement\|investing in one self]]. **What bothers me is not that I donated my work, but rather that I didn't open source it from the get go.** 
 
 What possessed me at the time to not post it externally, but internally only, I don't know. Not only that but I was given the option back in the day to open source it, but was stopped by "upper management".
 

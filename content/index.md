@@ -5,8 +5,8 @@ aliases:
   - Garden
 title: Home
 created: 2026-01-07T21:40:31.994+02:00
-modified: 2026-01-17T07:15:57.428+02:00
-published: 2026-01-17T07:15:57.428+02:00
+modified: 2026-01-20T10:46:11.206+02:00
+published: 2026-01-20T10:46:11.206+02:00
 cssclasses: ""
 state:
   - evergreen
@@ -40,12 +40,18 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 ## WIP
 
 - [[I not Robot]] #robots
-- [[Invest In Yourself]] #self-improvement
 
 
 # Pathways
 
 ![[Pathways]]
+
+## Grottos 
+
+Harder to find notes that don't have an established pathway to them. 
+
+- [[Self Improvement]]
+- [[Losing Your Edge]]
 
 
 # Why?

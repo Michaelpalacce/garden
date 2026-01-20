@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-04-15]]"
-modified: 2026-01-18T12:06:40.639+02:00
+modified: 2026-01-20T09:47:06.290+02:00
 published: "[[2024-04-15]]"
 cssclasses: ""
 parent: "[[Projects]]"
@@ -13,7 +13,7 @@ links:
 ---
 
 > [!done] What?
-> [[Self Hosting]] for [[Privacy]], [[Data Ownership]], [[Learning]], [[Self-Improvement]] and trying different things out.
+> [[Self Hosting]] for [[Privacy]], [[Data Ownership]], [[Learning]], [[Self Improvement]] and trying different things out.
 
 # Map Of Content
 
@@ -26,8 +26,8 @@ links:
 
 - [ ] Fix Paperless
 - [ ] Firefly fix for subscriptions 
-- [x] Check out failing [[tofu-controller]]
-- [ ] Migrate  postgres 16 to cnpg postgres 18
+- [ ] Better [[Kubernetes - NetworkPolicy\|network policies]]
+- [ ] Re-add freshrss feeds
 
 # Withered
 

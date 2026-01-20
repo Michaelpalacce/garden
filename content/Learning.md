@@ -4,7 +4,7 @@ aliases:
   - Studying
 description: Learning is an integral part of my life.
 created: "[[2025-04-20]]"
-modified: 2026-01-11T18:20:39.347+02:00
+modified: 2026-01-20T10:15:22.608+02:00
 published: "[[2025-04-20]]"
 cssclasses: ""
 parent: "[[Forest]]"
@@ -12,6 +12,8 @@ state:
   - evergreen
 date: "[[2025-04-20]]"
 ---
+
+![[KIT/Learning Is A Space-time Tradeoff]]
 
 # Map Of Content
 

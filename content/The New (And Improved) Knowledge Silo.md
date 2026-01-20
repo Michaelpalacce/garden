@@ -2,7 +2,7 @@
 publish: true
 description: AI - the new knowledge silo!
 created: "[[2026-01-12]]"
-modified: 2026-01-12T20:59:39.139+02:00
+modified: 2026-01-20T09:42:05.086+02:00
 published: "[[2026-01-12]]"
 cssclasses: ""
 parent:
@@ -30,7 +30,10 @@ Training AI on company code and processes is slow and expensive. Not to mention 
 
 *I wonder if we spent the same amount of time and resources helping, teaching and developing [[Humanity]], where we would be? It's not efficient? Dear reader, you are a human.*
 
-Now, what I fear is [[Developers Are Getting Lazy\|how lazy we've become]]. The next generation of [[Developer\|devs]] are not trained on [[Best Practices]], [[Bad Practices]], [[Performance]] considerations. They are not interested in the intricacies of systems and the origin of it all. There is an [[Over Reliance On AI]], that is replacing [[Critical Thinking]] in favor of [[Speed]]. The [[Artificial Intelligence - The Aftermath\|aftermath]] will be spectacular.
+Now, what I fear is [[Developers Are Getting Lazy\|how lazy we've become]]. The next generation of [[Developer\|devs]] are not trained on [[Best Practices]], [[Bad Practices]], [[Performance]] considerations. They are not interested in the intricacies of systems and the origin of it all. There is an [[Over Reliance On AI]], that is replacing [[Critical Thinking]] in favor of [[Speed]]. 
+
+
+The [[Artificial Intelligence - The Aftermath\|aftermath]] will be spectacular.
 
 > [!quote]+ Vibe Coders
 > Let AI develop AI!

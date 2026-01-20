@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2022-05-12]]"
-modified: 2026-01-15T02:12:33.527+02:00
+modified: 2026-01-19T19:42:01.760+02:00
 published: "[[2022-05-12]]"
 cssclasses: ""
 parent: "[[Kubernetes]]"
@@ -49,3 +49,4 @@ Kubernetes Operators rely on [[Kubernetes - CRD\|CRD]]s (**C**ustom **R**esource
 		- [[tofu-controller]]
 	- Databases
 		- [[mariadb-operator]]
+		- [[cnpg]]

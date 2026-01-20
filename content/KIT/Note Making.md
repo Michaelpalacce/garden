@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2023-06-13]]"
-modified: 2026-01-12T11:21:26.012+02:00
+modified: 2026-01-20T10:18:44.936+02:00
 published: "[[2023-06-13]]"
 cssclasses: ""
 parent: "[[NoMa Method]]"
@@ -18,4 +18,4 @@ Note-making is when you **put in a solid effort into creating links between your
 
 Note-making **gives you linkable assets**.
 
-Note-making is **[[Invest In Yourself\|investing in yourself]]**.
+Note-making is **[[Self Improvement\|investing in yourself]]**.

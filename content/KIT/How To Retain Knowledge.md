@@ -7,7 +7,7 @@ aliases:
   - How To Learn
 description: Retaining Knowledge is essential for progress.
 created: "[[2023-06-13]]"
-modified: 2026-01-09T13:58:24.260+02:00
+modified: 2026-01-20T10:12:37.964+02:00
 published: "[[2023-06-13]]"
 cssclasses: ""
 parent: "[[Framework]]"
@@ -51,3 +51,7 @@ Asking questions for a specific subject, helps form durable knowledge. Questions
 # Reflection
 
 ![[KIT/Reflection]]
+
+# Learning Is A Space-time Tradeoff
+
+![[KIT/Learning Is A Space-time Tradeoff]]

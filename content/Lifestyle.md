@@ -2,7 +2,7 @@
 publish: true
 description: My lifestyle
 created: "[[2025-12-31]]"
-modified: 2026-01-11T18:23:32.615+02:00
+modified: 2026-01-20T10:47:09.666+02:00
 published: "[[2025-12-31]]"
 cssclasses: ""
 parent:
@@ -23,3 +23,4 @@ relates:
 
 - [[Minimalism]] - is something that makes me happy. Less choices and [[Clutter]] are beneficial to my mind and [[Well-Being]]
 - [[Studying In Public]] - to [[Break The Ice\|break the ice]] and get used to being more open and more [[Extrovert\|extroverted]]. A way to establish a presence online
+- [[Invest In Yourself]]

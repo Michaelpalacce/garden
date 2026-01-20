@@ -4,7 +4,7 @@ aliases:
   - AI
 description: AI revolution is upon us.
 created: "[[2025-03-29]]"
-modified: 2026-01-12T19:24:57.422+02:00
+modified: 2026-01-20T10:03:33.862+02:00
 published: "[[2025-03-29]]"
 cssclasses: ""
 parent: "[[Forest]]"
@@ -17,6 +17,7 @@ date: "[[2025-03-29]]"
 
 - [[AI - Pros]]
 - [[AI - Cons]]
+	- [[Losing Your Edge]]
 - Thoughts
 	- [[On The Governance Of AI]]
 	- [[Artificial Intelligence - The Aftermath]]
