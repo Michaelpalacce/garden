@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-04-15]]"
-modified: 2026-01-20T09:47:06.290+02:00
+modified: 2026-01-20T10:56:02.832+02:00
 published: "[[2024-04-15]]"
 cssclasses: ""
 parent: "[[Projects]]"
@@ -27,7 +27,6 @@ links:
 - [ ] Fix Paperless
 - [ ] Firefly fix for subscriptions 
 - [ ] Better [[Kubernetes - NetworkPolicy\|network policies]]
-- [ ] Re-add freshrss feeds
 
 # Withered
 

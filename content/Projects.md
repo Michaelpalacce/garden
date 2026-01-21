@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-04-16]]"
-modified: 2026-01-15T01:25:31.918+02:00
+modified: 2026-01-20T16:54:19.857+02:00
 published: "[[2024-04-16]]"
 cssclasses: ""
 parent: "[[Hobbies Index]]"
@@ -21,12 +21,13 @@ date: "[[2024-04-16]]"
 - [[HomeLab\|HomeLab]] - This is my personal Home Lab. Utilizing ![[Assets/KubernetesLogo.png|20]] and ![[Assets/FluxCD2Logo.png|20]]
 - [[go-ddns-controller]]
 - [[adygenova.com]]
-- [[Event Request]] is a NodeJS web framework with zero dependencies written from scratch.
+
 
 # Withered
 
 - [[kurem]]
 - [[ContractualState]] 
+- [[Event Request]] is a NodeJS web framework with zero dependencies written from scratch 
 
 # Action Items
 
