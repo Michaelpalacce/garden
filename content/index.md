@@ -5,8 +5,8 @@ aliases:
   - Garden
 title: Home
 created: 2026-01-07T21:40:31.994+02:00
-modified: 2026-01-20T10:46:11.206+02:00
-published: 2026-01-20T10:46:11.206+02:00
+modified: 2026-01-22T00:28:02.075+02:00
+published: 2026-01-22T00:28:02.075+02:00
 cssclasses: ""
 state:
   - evergreen
@@ -28,6 +28,7 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 
 # Thoughts
 
+- [[Automating Into Oblivion]], the grim reality of replacing humanity #automation, #humanity
 - [[The Fallacy Of Self Contributions Benefiting Corporations]] #mistake, #invest-in-self
 - [[So what if they track me]]? #privacy 
 - [[The New (And Improved) Knowledge Silo]]! #ai
@@ -40,6 +41,7 @@ Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I ta
 ## WIP
 
 - [[I not Robot]] #robots
+- [[When To Take Notes]] #framework, #notes 
 
 
 # Pathways

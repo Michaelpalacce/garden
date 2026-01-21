@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-09-02]]"
-modified: 2026-01-18T09:05:51.620+02:00
+modified: 2026-01-21T13:25:20.015+02:00
 published: "[[2024-09-02]]"
 cssclasses: ""
 parent: "[[Framework]]"
@@ -10,7 +10,7 @@ state:
 date: "[[2024-09-02]]"
 relates:
   - "[[Alias System]]"
-  - "[[Templateing System]]"
+  - "[[Templating System]]"
 ---
 
 > [!idea]+

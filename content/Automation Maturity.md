@@ -2,15 +2,16 @@
 publish: true
 description: The stages that a company will go through as it expands its internal automation
 created: "[[2025-10-06]]"
-modified: 2026-01-11T20:42:03.283+02:00
+modified: 2026-01-21T14:22:41.742+02:00
 published: "[[2025-10-06]]"
 cssclasses: ""
-parent: "[[DevOps Index]]"
+parent:
+  - "[[Automation]]"
+  - "[[DevOps Index]]"
 state:
   - evergreen
 date: "[[2025-10-06]]"
 relates:
-  - "[[Automation]]"
 opposes:
   - "[[ClickOps]]"
   - "[[Manual]]"

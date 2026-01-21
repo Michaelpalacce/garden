@@ -3,9 +3,11 @@ publish: true
 aliases:
   - Reading To Forget
   - You Can't Consume Everything
+  - You can't remember everything
+  - You can't write everything down
 description: Reading should stimulate my thinking and produce new ideas/links.
 created: "[[2025-09-15]]"
-modified: 2026-01-10T00:57:32.404+02:00
+modified: 2026-01-21T13:26:24.175+02:00
 published: "[[2025-09-15]]"
 cssclasses: ""
 parent: "[[Linking Your Thinking]]"

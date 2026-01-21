@@ -4,8 +4,8 @@ aliases:
   - Learning System
   - How I Learn
 created: 2025-05-08T08:01:57.364+03:00
-modified: 2026-01-12T11:21:31.264+02:00
-published: 2026-01-12T11:21:31.264+02:00
+modified: 2026-01-21T13:25:20.007+02:00
+published: 2026-01-21T13:25:20.007+02:00
 cssclasses: ""
 parent:
   - "[[000 Obsidian Index]]"
@@ -35,7 +35,7 @@ My Knowledge Framework aims at organizing your notes by making links between dif
 		- [[KIT/Alias System\|Alias System]] - How to handle Aliases
 		- [[KIT/Tagging System\|Tagging System]] - How your tagging system is structured
 - Structure
-	- [[KIT/Templateing System\|Templateing System]] - Templates that should ALWAYS be followed. Add a new template if needed
+	- [[KIT/Templating System\|Templateing System]] - Templates that should ALWAYS be followed. Add a new template if needed
 	- [[KIT/Indices VS MOCs\|Indices VS MOCs]] - MOCs are for topics, Indices are for collection of topics from the parent
 	- [[KIT/Organizational Principles\|Organizational Principles]] - How and where to put your notes
 - Link And Expand

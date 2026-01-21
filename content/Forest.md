@@ -2,7 +2,7 @@
 publish: true
 description: The forest contains your notes that are not personal
 created: "[[2024-09-05]]"
-modified: 2026-01-12T22:49:42.529+02:00
+modified: 2026-01-21T14:20:44.438+02:00
 published: "[[2024-09-05]]"
 cssclasses: ""
 parent:
@@ -36,6 +36,7 @@ date: "[[2024-09-05]]"
 	- [[Soft Skills]]
 	- [[Hard Skills]]
 - [[Productivity]]
+- [[Automation]]
 
 # Real Life 
 

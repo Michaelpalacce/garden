@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-06-17]]"
-modified: 2026-01-09T13:58:24.974+02:00
+modified: 2026-01-21T14:30:42.446+02:00
 published: "[[2024-06-17]]"
 cssclasses: ""
 parent: "[[Framework]]"
@@ -32,8 +32,12 @@ Symbols that describe the state of the note. These must be added to the `state` 
 	4. **evergreen** - The note has joined the forest. *Example: The note is fully formed and is not expected to change much.*
 	5. **withered** - The note is old and has withered away. 
 	6. **ephemeral** - notes that should be destroyed, information on them is temporary and is not important at all.
-	7. **core** - This is a really special tag. It signals for a significant note in your vault. Notes like these are special and they are few and far between. This is a core topic. 
+	7. [[KIT/Special Symbol Taxonomy#Core state]]
 - Action Tags
 	1. **inbox** - The note needs to be placed somewhere in the forest
 	2. **orphan** - The note is in the forest and doesn't really need a place for now. They are linked to [[KIT/Command & Control Center Index\|C3]] ( a general place to control your garden )
 	3. **workbench** - a collection for a specific idea or something I'm working on. These are not part of the forest
+
+### Core state 
+
+**core** - This is a really special tag. It signals for a significant note in your vault. Notes like these are special and they are few and far between. This is a core topic. 
