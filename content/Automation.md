@@ -1,22 +1,22 @@
 ---
 publish: true
-aliases:
-  - 
+description: Automate for predictable results.
 created: "[[2026-01-21]]"
-modified: 2026-01-21T16:05:22.350+02:00
+modified: 2026-01-22T00:31:14.031+02:00
 published: "[[2026-01-21]]"
 cssclasses: ""
 parent:
   - "[[Forest]]"
 state:
-  - seed
   - core
+  - tree
 date: "[[2026-01-21]]"
 relates:
+  - "[[Minimalism]]"
+  - "[[DevOps Index]]"
 opposes:
-description:
-links:
-research: false
+  - "[[Manual]]"
+  - "[[Manual Work]]"
 ---
 
 > [!info]+
@@ -24,8 +24,8 @@ research: false
 
 # Map Of Content
 
-- [[Automation Maturity]]
+- [[Automation Maturity]] is a measurement system of how autonomous your automation pipelines are
 - Thoughts 💭 
-	- [[Automating Into Oblivion]]
-	- [[Build Systems Not Heroes]]
+	- [[Automating Into Oblivion]], the grim reality of replacing humanity 
+	- [[Build Systems Not Heroes]] to ensure reliable and predictable operations 
 
