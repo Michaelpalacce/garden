@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-04-16]]"
-modified: 2026-01-20T16:54:19.857+02:00
+modified: 2026-01-24T15:38:18.365+02:00
 published: "[[2024-04-16]]"
 cssclasses: ""
 parent: "[[Hobbies Index]]"
@@ -21,6 +21,7 @@ date: "[[2024-04-16]]"
 - [[HomeLab\|HomeLab]] - This is my personal Home Lab. Utilizing ![[Assets/KubernetesLogo.png|20]] and ![[Assets/FluxCD2Logo.png|20]]
 - [[go-ddns-controller]]
 - [[adygenova.com]]
+- [[ReplacedBy]]
 
 
 # Withered

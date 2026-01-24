@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-01-14]]"
-modified: 2026-01-16T01:38:45.297+02:00
+modified: 2026-01-24T23:58:47.425+02:00
 published: "[[2024-01-14]]"
 cssclasses: ""
 parent: "[[Programming Index|Development]]"
@@ -14,8 +14,6 @@ date: "[[2024-01-14]]"
 
 - [ ] Migrate to main treesitter branch
 - [ ] Better handling of big files
-- [ ] Better handling of many open [[Neovim - Buffers\|buffers]]
-- [ ] Be mindful of errors and try to resolve them better
 - [ ] Fugitive better placement? 
 
 
@@ -61,7 +59,7 @@ curl -o- https://raw.githubusercontent.com/Michaelpalacce/nvim/main/setup.sh | b
 - Native as you can, so it's easier to transition, [[Learn the Fundamentals]], as you never know when you might need them
 - [[Terminal]] focused workflow. Fast, efficient, does what you expect it to do 
 - Themed for consistency. Catppuccin Mocha! 
-- Ergonomics are prioritized, [[Carpal Tunnel Syndrome]] is no joke. Should need to move far away from the homerow on your keyboard. 
+- Ergonomics are prioritized, [[Carpal Tunnel Syndrome]] is no joke. You should not need to move far away from the homerow on your keyboard. 
 - Automated installation, always. 
 - Having in mind different scenarios. Neovim should install and update what it needs, when it needs it. 
 	- [[Neovim - LSP]] is automatically configured 

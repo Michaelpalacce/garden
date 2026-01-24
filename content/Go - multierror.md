@@ -2,7 +2,7 @@
 publish: true
 description: Package that simplifies working with multiple errors
 created: "[[2026-01-12]]"
-modified: 2026-01-12T22:27:21.315+02:00
+modified: 2026-01-22T22:40:04.686+02:00
 published: "[[2026-01-12]]"
 cssclasses: ""
 parent: "[[Go]]"
@@ -10,23 +10,13 @@ state:
   - evergreen
 date: "[[2026-01-12]]"
 links:
-  - https://pkg.go.dev/go.uber.org/multierr
+  - https://github.com/hashicorp/go-multierror
 ---
 
 # When combining 2 errors
 
 ```go
 err = multierr.Append(reader.Close(), writer.Close()) 
-```
-
-# When combining multiple errors
-
-```go
-multierr.Combine(
-	reader.Close(),
-	writer.Close(),
-	conn.Close(),
-)
 ```
 
 # From deferred scopes
