@@ -4,7 +4,7 @@ aliases:
   - Caching
 description: The process of saving information for later use, usually in memory
 created: "[[2025-09-03]]"
-modified: 2026-01-11T15:42:30.616+02:00
+modified: 2026-01-25T10:01:34.427+02:00
 published: "[[2025-09-03]]"
 cssclasses: ""
 parent: "[[Performance]]"
@@ -25,3 +25,4 @@ relates:
 - [[DNS - Cache]]
 - [[CPU - Cache]]
 - [[CDN]]
+- [[Least Recently Used]]

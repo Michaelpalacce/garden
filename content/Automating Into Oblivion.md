@@ -1,9 +1,8 @@
 ---
 publish: true
-aliases:
-  - 
+description: At what point will automation take our livelihood?
 created: "[[2026-01-21]]"
-modified: 2026-01-22T00:26:53.579+02:00
+modified: 2026-01-25T16:30:27.327+02:00
 published: "[[2026-01-21]]"
 cssclasses: ""
 parent:
@@ -18,9 +17,7 @@ relates:
   - "[[Artificial Intelligence - The Aftermath]]"
 opposes:
   - "[[Capitalism]]"
-description:
 links:
-research: false
 kind: blog
 ---
 
@@ -34,13 +31,13 @@ In our lives, we see evidence of [[Automation]] everywhere.
 - [[Self-Driving Cars]]
 - [[Software]] delivery [[CICD\|pipelines]]
 - Coffee machines
-- Online deliver services
+- Online delivery services
 - Traffic lights and traffic control systems
 - Elevators
 - and much more. 
 
-> [!tip]+
-> Look around you and think just how much of your life is automated? 
+> [!tip]+ Look Around
+> Look around you and think just how much of your life is automated? Where can you see automation? Write a comment below. 
 
 # I Love Automation
 
@@ -54,13 +51,13 @@ I've thought a lot about automation, so much as to say it's a [[KIT/Special Symb
 
 So why this article? Seems like I love automation? What's with the ominous title? 
 
-Humanity is rapidly growing in numbers and those people need a means of [[Survival\|survival]]. I'm scared that our jobs get automated away. 
+Humanity is rapidly growing in numbers and those people need a means of [[Survival\|survival]]. I'm scared that our jobs will get automated away. 
 
 I do believe that there are jobs that **for the safety of humanity need automating** (heavy machinery exists for a reason), jobs that **require searching and indexing** (phone systems, library indexes), jobs with repeatable monotonous tasks, jobs where human error or negligence could have catastrophic financial, ecological and humanitarian consequences (imagine nuclear reactor operation software) and others. 
 
 Other cases may include automation assisting, but not replacing, humans or automation benefiting a person or team.
 
-Let's be honest with ourselves, when we talk about the need for automation it usually comes from a desire to replace us. I agree with the sentiment that we are faulty. We lose concentration, we make [[Human Error\|mistakes]] (and we idolize that making mistakes is human nature and we should ask for forgiveness), we require more maintenance than machines or automation and in many cases, we are slower. In many cases, adding more of us, doesn't mean the process gets better, so we don't [[Scalability\|scale]] that well either. 
+Let's be honest with ourselves, when we talk about the need for automation it usually comes from a desire to replace us. I agree with the sentiment that we are faulty. We lose concentration, we make [[Human Error\|mistakes]] (and we idolize that making mistakes is human nature and we should ask for forgiveness), we require more maintenance than machines or automation and in many cases, we are slower. Usually, adding more of us, doesn't mean the process gets better, so we don't [[Scalability\|scale]] that well either. 
 
 So, we are driven to "Automate away the human element". 
 
@@ -85,4 +82,6 @@ We take care of each other, raising the new generation of hopeless individuals a
 
 # Finishing Thoughts
 
-This article was a roller coaster of emotions to write. I'm just wondering if we aren't shooting ourselves in the foot. Automation in many ways is the driving force of Capitalism and if we are left at the mercy of giant corporations, we are screwed. 
+This article was a roller coaster of emotions to write. I'm just wondering if we aren't shooting ourselves in the foot. Automation in many ways is the driving force of Capitalism and if we are left at the mercy of giant corporations, we are done for. 
+
+This blog gave birth to a [website to track](https://replacedby.net)
