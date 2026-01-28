@@ -2,7 +2,7 @@
 publish: true
 description: Tool used to inspect docker images layers size
 created: "[[2026-01-22]]"
-modified: 2026-01-23T08:51:47.735+02:00
+modified: 2026-01-29T01:51:03.092+02:00
 published: "[[2026-01-22]]"
 cssclasses: ""
 parent: "[[Docker]]"
@@ -13,7 +13,6 @@ relates:
   - "[[Docker - buildx]]"
 links:
   - https://github.com/wagoodman/dive
-research: false
 ---
 
 > [!info]+

@@ -2,7 +2,7 @@
 publish: true
 description: Learning multiple things and switching often.
 created: "[[2025-04-27]]"
-modified: 2026-01-09T13:58:24.388+02:00
+modified: 2026-01-26T01:37:28.001+02:00
 published: "[[2025-04-27]]"
 cssclasses: ""
 parent: "[[Framework]]"
@@ -22,3 +22,5 @@ Learning about **more than one thing** at a time and by **switching between topi
 [[Spaced Repetition\|Spacing out learning]] also gives your brain time to store the information and by continuously [[KIT/Continuous Retrieval\|Recalling Information]] you gain a benefit of strengthening that knowledge. 
 
 Our brains are made for multitasking.
+
+![[KIT/Start Often Finish Early\|SOFA]]

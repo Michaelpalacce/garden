@@ -4,7 +4,7 @@ aliases:
   - K8S
 description: Distributed, fault-tolerant, highly available customizable extensible platform for managing container workflows.
 created: "[[2022-05-02]]"
-modified: 2026-01-12T22:30:45.739+02:00
+modified: 2026-01-28T11:14:16.955+02:00
 published: "[[2022-05-02]]"
 cssclasses: ""
 parent: "[[DevOps Index|DevOps]]"
@@ -28,6 +28,7 @@ Kubernetes is a distributed, fault-tolerant, highly-available, customizable, ext
 	- [[Tanzu\|Tanzu]] - VMware kubernetes implementation
 	- [[Talos Linux\|Talos Linux]]
 	- [[OpenShift]]
+	- [[kind]]
 - CSI - Container Storage Interface
 	- [[Longhorn\|Longhorn]] Distributed hyper-converged storage solution by the people behind K3S
 - CNIs - Container Networking Interface
