@@ -5,8 +5,8 @@ aliases:
   - Garden
 title: Home
 created: 2026-01-07T21:40:31.994+02:00
-modified: 2026-01-22T09:12:19.377+02:00
-published: 2026-01-22T09:12:19.377+02:00
+modified: 2026-01-29T01:59:54.044+02:00
+published: 2026-01-29T01:59:54.044+02:00
 cssclasses: ""
 state:
   - evergreen
@@ -16,7 +16,7 @@ state:
 
 You are **entering a small garden part of a bigger forest**. Don't get [[index#Pathways\|lost]]! 
 
-Check out [[KIT/000 Obsidian Index\|My KIT]] if you want to know more **how I take and structure notes**.
+Check out [[000 Obsidian Index\|My KIT]] if you want to know more **how I take and structure notes**.
 
 > [!success]+ How Is This Blog Made ? 
 > Check out [[How Does This Blog Work\|this note]] for more information!

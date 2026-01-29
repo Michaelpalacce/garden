@@ -3,14 +3,16 @@ publish: true
 aliases:
   - Learning System
   - How I Learn
+description: My framework for writing notes
 created: 2025-05-08T08:01:57.364+03:00
-modified: 2026-01-21T13:25:20.007+02:00
-published: 2026-01-21T13:25:20.007+02:00
+modified: 2026-01-29T02:04:55.288+02:00
+published: 2026-01-29T02:04:55.288+02:00
 cssclasses: ""
 parent:
   - "[[000 Obsidian Index]]"
 state:
   - evergreen
+  - core
 ---
 
 # Overview

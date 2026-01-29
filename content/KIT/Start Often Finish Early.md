@@ -5,7 +5,7 @@ aliases:
   - Start Often Fuck Achievements
 description: Start many projects, see what sticks
 created: "[[2026-01-26]]"
-modified: 2026-01-26T01:40:03.409+02:00
+modified: 2026-01-29T01:58:46.760+02:00
 published: "[[2026-01-26]]"
 cssclasses: ""
 parent:
@@ -26,7 +26,7 @@ links:
 > [!info]+ What is SOFA? 
 > A principle that states, you should **start doing as many things as you have the ability and desire to do** without any goal of completing it whatsoever. Only thing you should strive for is at the very least coming up with a detailed README of sorts, or finishing the idea fully in your mind.
 
-Working on multiple things at the same time is beneficial to your learning as you gain various degree of experience in all areas. Your brain is made to [[Multitasking\|multitask]], don't be scared. 
+**Working on multiple things at the same time** is beneficial to your learning as you gain various degree of experience in all areas. Your brain is made to [[Multitasking\|multitask]], don't be scared. 
 
 It's OK not to like something, after all, [[KIT/I Read To Forget\|we don't have all the time in the world to consume everything]]. Put it off, or put it down and never pick it up again.
 
