@@ -5,7 +5,7 @@ aliases:
   - Consistency Availability Partition Tolerance
 description: A theorem of the shortcomings of distributed systems.
 created: "[[2024-09-07]]"
-modified: 2026-01-11T15:35:54.624+02:00
+modified: 2026-01-31T22:31:58.247+02:00
 published: "[[2024-09-07]]"
 cssclasses: ""
 parent: "[[System Design]]"
@@ -16,6 +16,7 @@ relates:
   - "[[Consistency]]"
   - "[[Availability]]"
   - "[[Partition Tolerance]]"
+  - "[[Network Partition]]"
 ---
 
 > [!info]+

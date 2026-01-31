@@ -2,7 +2,7 @@
 publish: true
 description: AI - the new knowledge silo!
 created: "[[2026-01-12]]"
-modified: 2026-01-20T09:42:05.086+02:00
+modified: 2026-01-31T22:42:28.915+02:00
 published: "[[2026-01-12]]"
 cssclasses: ""
 parent:
@@ -41,3 +41,6 @@ The [[Artificial Intelligence - The Aftermath\|aftermath]] will be spectacular.
 [Yes](https://www.bbc.com/news/articles/cpqeng9d20go), [we](https://www.newsweek.com/ai-kill-humans-avoid-shut-down-report-2088929) [really](https://fortune.com/2025/06/23/ai-models-blackmail-existence-goals-threatened-anthropic-openai-xai-google/) [should](https://www.theguardian.com/technology/2025/oct/25/ai-models-may-be-developing-their-own-survival-drive-researchers-say) [do](https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights) [that](https://www.reddit.com/r/ControlProblem/s/mBiOsAyf2x). 
 
 
+This article I found is interesting: 
+
+- https://arxiv.org/abs/2601.20245

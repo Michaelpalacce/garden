@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2022-05-12]]"
-modified: 2026-01-19T19:42:01.760+02:00
+modified: 2026-01-31T23:52:04.225+02:00
 published: "[[2022-05-12]]"
 cssclasses: ""
 parent: "[[Kubernetes]]"
@@ -38,6 +38,7 @@ Kubernetes Operators rely on [[Kubernetes - CRD\|CRD]]s (**C**ustom **R**esource
 	- [[Kubernetes - Getting Remote Cluster Credentials]]
 	- [[Kubernetes - Get ApiVersion For Resources]]
 	- [[Kubernetes - FieldIndexer]]
+	- [[Kubernetes - How To Update Distributed Systems\|How to handle updates in distributed systems]] to ensure data integrity, high availability and partition tolerance
 - Cluster API
 	-  [[Kubernetes - Getting Remote Cluster Credentials With Go]]
 - Operators

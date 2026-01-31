@@ -2,7 +2,7 @@
 publish: true
 description: Distributing data on multiple servers
 created: "[[2024-09-06]]"
-modified: 2026-01-12T22:47:11.081+02:00
+modified: 2026-01-31T23:31:07.737+02:00
 published: "[[2024-09-06]]"
 cssclasses: ""
 parent: "[[Databases]]"
@@ -14,6 +14,7 @@ relates:
   - "[[MongoDB]]"
   - "[[CouchDB]]"
   - "[[Partitioning]]"
+  - "[[QDrant]]"
 ---
 
 > [!info]+
