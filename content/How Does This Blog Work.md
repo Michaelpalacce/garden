@@ -2,7 +2,7 @@
 publish: true
 description: What are the intricacies of making this work?
 created: "[[2026-01-09]]"
-modified: 2026-01-15T19:46:09.371+02:00
+modified: 2026-02-01T14:25:01.558+02:00
 published: "[[2026-01-09]]"
 cssclasses: ""
 parent: "[[index]]"
@@ -17,9 +17,7 @@ relates:
 
 # Hosting
 
-This website is hosted on my [[HomeLab]], running a [[Kubernetes]] cluster, with the help of a [[git - Fork\|forked]] and modified [quartz](https://github.com/Michaelpalacce/quartz). 
-
-The [garden](https://github.com/Michaelpalacce/garden)'s content is delivered separately from quartz using [Image volume mounts](https://kubernetes.io/docs/tasks/configure-pod-container/image-volumes/) , this allows me to update quartz without bumping the garden version too.
+This website is hosted on my [[HomeLab]], running a [[Kubernetes]] cluster, with the help of a [[git - Fork\|forked]] and modified [quartz](https://github.com/Michaelpalacce/garden). 
 
 For the full manifest, see: https://github.com/Michaelpalacce/HomeLab/tree/master/cluster/homelab/apps/garden
 
@@ -35,7 +33,7 @@ The fork contains changes to plug-ins, styles and a few custom components like:
 
 # Content
 
-The contents are hosted in a [separate repo](https://github.com/Michaelpalacce/garden). It gets updated inside [[KIT/000 Obsidian Index\|Obsidian]] and if I want to publish it I set the frontmatter property `publish` to `true`.
+The contents are hosted in a [here](https://github.com/Michaelpalacce/garden). It gets updated inside [[000 Obsidian Index\|Obsidian]] and if I want to publish it I set the frontmatter property `publish` to `true`.
 
 I am using [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) to push changes from any devices.
 
@@ -43,12 +41,7 @@ I am using [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) to push 
 
 Only files that are set to be published will be added and committed. The plugin also allows me to remove files if I ever set them to not be published.
 
-The content of the garden is then packaged in a [[Docker - Image\|docker image]], based on `scratch` as we only care for the static files and nothing else:
-```Dockerfile
-FROM scratch
-
-COPY ./content .
-```
+The content of the garden is then packaged in a [[Docker - Image\|docker image]].
 
 # Releasing a new version
 

@@ -1,7 +1,8 @@
 ---
 publish: true
+description: A lightweight and easier to understand replacement of PAXOS. A Consensus Algorithm
 created: "[[2024-09-17]]"
-modified: 2026-02-01T00:01:19.225+02:00
+modified: 2026-02-01T00:06:56.805+02:00
 published: "[[2024-09-17]]"
 cssclasses: ""
 parent:
@@ -13,7 +14,6 @@ relates:
   - "[[PAXOS]]"
 opposes:
   - "[[Asynchronous Replication]]"
-description:
 links:
   - https://qdrant.tech/documentation/guides/distributed_deployment/
   - https://docs.scylladb.com/manual/stable/architecture/raft.html

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2022-05-12]]"
-modified: 2026-01-31T23:52:04.225+02:00
+modified: 2026-02-01T12:20:37.003+02:00
 published: "[[2022-05-12]]"
 cssclasses: ""
 parent: "[[Kubernetes]]"
@@ -32,6 +32,7 @@ Kubernetes Operators rely on [[Kubernetes - CRD\|CRD]]s (**C**ustom **R**esource
 - Basics
 	- [[Kubernetes - Spec]]
 	- [[Kubernetes - Status]]
+	- [[Kubernetes - Multiple Concurrent Reconciliations\|How to handle multiple concurrent reconciliations?]]
 - Advanced Topics
 	- [[Kubernetes - Work Queue]]
 	- [[Kubernetes - Cluster Api]]
