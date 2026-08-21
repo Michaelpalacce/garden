@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-05-28]]"
-modified: 2026-01-09T13:58:25.125+02:00
+modified: 2026-01-09T11:58:25.125Z
 published: "[[2022-05-28]]"
-cssclasses: ""
 parent:
   - "[[Framework]]"
 state:

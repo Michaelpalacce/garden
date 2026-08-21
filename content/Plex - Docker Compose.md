@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-07-14]]"
-modified: 2026-01-10T16:52:21.372+02:00
+modified: 2026-01-10T14:52:21.372Z
 published: "[[2022-07-14]]"
-cssclasses: ""
 parent:
   - "[[HomeLab - K3S Details]]"
 state: evergreen
@@ -13,6 +12,7 @@ date: "[[2022-07-14]]"
 ---
 
 - Without GPU
+
 ```yaml
 ---
 version: "2.1"
@@ -38,6 +38,7 @@ volumes:
 ```
 
 - With GPU
+
 ```yaml
 version: '3.8'
 services:

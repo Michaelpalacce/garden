@@ -2,9 +2,8 @@
 publish: true
 description: Used to extract keys of hosts
 created: "[[2025-10-15]]"
-modified: 2026-01-11T20:47:01.683+02:00
+modified: 2026-01-11T18:47:01.683Z
 published: "[[2025-10-15]]"
-cssclasses: ""
 parent: "[[ssh]]"
 state:
   - evergreen

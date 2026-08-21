@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-05-03]]"
-modified: 2026-01-09T13:58:23.916+02:00
+modified: 2026-01-29T07:01:00.840Z
 published: "[[2022-05-03]]"
-cssclasses: ""
 parent: "[[Dataview - Grouping]]"
 state:
   - evergreen
@@ -17,6 +16,7 @@ opposes:
 # Grouping with Sort
 
 When you want to achieve grouping with some fort of sort. For more information check the [Raw Interface](https://blacksmithgu.github.io/obsidian-dataview/api/data-array/)
+
 ```js
 const DATE_FORMAT = "YYYY-MM-DD dddd";
 

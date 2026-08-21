@@ -2,9 +2,8 @@
 publish: true
 description: Stands for Priming Encoding Reference Retrieval Interleaving Overlearning
 created: "[[2024-06-14]]"
-modified: 2026-01-09T13:58:24.872+02:00
+modified: 2026-01-09T11:58:24.872Z
 published: "[[2024-06-14]]"
-cssclasses: ""
 parent: "[[Framework]]"
 tags:
 state:
@@ -18,8 +17,7 @@ links:
 aliases:
 ---
 
-PERRIO does not really seem like anything special. Seems like this is what normally people do when they are building a [[KIT/PKM\|PKM]].
-
+PERRIO does not really seem like anything special. Seems like this is what normally people do when they are building a [[PKM|PKM]].
 
 # Priming
 
@@ -34,8 +32,8 @@ Helps our brain to filter the information.
 
 Techniques that will allow your brain to organize and process the information better
 
-- Grouping 
-- Simplifying 
+- Grouping
+- Simplifying
 - Analogies
 - Connections
 - Intuitive
@@ -44,7 +42,7 @@ Techniques that will allow your brain to organize and process the information be
 
 Taking information and putting it somewhere to access later. A brain dump for information you don't want to bother with while you are encoding and processing.
 
-This could be software ([[KIT/000 Obsidian Index\|Obsidian]]) or a piece of paper.
+This could be software ([[000 Obsidian Index|Obsidian]]) or a piece of paper.
 
 # Retrieval
 

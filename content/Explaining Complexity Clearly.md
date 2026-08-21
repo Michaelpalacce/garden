@@ -2,9 +2,8 @@
 publish: true
 description: How to effectively explain complex topics to different audiences.
 created: "[[2025-04-28]]"
-modified: 2026-01-11T15:12:23.989+02:00
+modified: 2026-01-11T13:12:23.989Z
 published: "[[2025-04-28]]"
-cssclasses: ""
 parent: "[[Communication]]"
 state:
   - evergreen
@@ -30,15 +29,15 @@ When explaining highly technical problems to non-technical people, **use analogi
 
 # Simplify
 
-**Break down complex tasks into tangiable action items**. [[Simplicity]] is always good. Complex topics without any organization and guidance from the architect or [[Tech Lead\|Team Lead]] may be easily misunderstood.
+**Break down complex tasks into tangiable action items**. [[Simplicity]] is always good. Complex topics without any organization and guidance from the architect or [[Tech Lead|Team Lead]] may be easily misunderstood.
 
-This also [[Tech Lead#Mentorship & Guidance\|empowers developers]] to implement a solution in a way that they think is best.
+This also [[Tech Lead#Mentorship & Guidance|empowers developers]] to implement a solution in a way that they think is best.
 
 # Leverage Visual Aids
 
 You can **accompany your explanations** with **diagrams, presentations, flowcharts or models**. This will capture the attention of your audience.
 
-This way you are **using [[There Is No Preferred Learning Style\|two of their senses]] for learning**. 
+This way you are **using [[There Is No Preferred Learning Style|two of their senses]] for learning**.
 
 # Check for understanding
 

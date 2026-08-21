@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-04-16]]"
-modified: 2026-01-14T19:35:29.768+02:00
+modified: 2026-01-14T17:35:29.768Z
 published: "[[2025-04-16]]"
-cssclasses: ""
 parent: "[[Storage]]"
 state:
   - evergreen
@@ -16,6 +15,7 @@ relates:
 # Map Of Content
 
 - [[NFS]]
+
 # Concept
 
 File storage organizes **data into a hierarchical structure** of **files and folders (directories)**. This is the most traditional and familiar storage method, similar to how you organize files on your personal computer.
@@ -28,7 +28,7 @@ Data is **stored as individual files**, which are **grouped into folders**, and 
 
 Limited metadata (like **filename, file type, timestamps, and permissions**) is associated with each file and is typically stored within the file system.
 
-# Access 
+# Access
 
 Data is accessed through file paths and standard file system protocols like NFS (Network File System) for Linux/Unix and SMB/CIFS (Server Message Block/Common Internet File System) for Windows.
 

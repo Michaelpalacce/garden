@@ -6,9 +6,8 @@ aliases:
   - Caching Registry
 description: A caching mechanism where data is pulled by a proxy server and served to clients cached.
 created: "[[2025-09-03]]"
-modified: 2026-01-11T15:42:34.640+02:00
+modified: 2026-01-11T13:42:34.640Z
 published: "[[2025-09-03]]"
-cssclasses: ""
 parent: "[[Cache]]"
 state:
   - tree

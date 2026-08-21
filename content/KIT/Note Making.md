@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-13]]"
-modified: 2026-01-20T10:18:44.936+02:00
+modified: 2026-01-20T08:18:44.936Z
 published: "[[2023-06-13]]"
-cssclasses: ""
 parent: "[[NoMa Method]]"
 state:
   - evergreen
@@ -14,8 +13,8 @@ opposes:
 
 # Overview
 
-Note-making is when you **put in a solid effort into creating links between your notes and ideas**. Information stored this way is almost entirely **written in your own words**. 
+Note-making is when you **put in a solid effort into creating links between your notes and ideas**. Information stored this way is almost entirely **written in your own words**.
 
 Note-making **gives you linkable assets**.
 
-Note-making is **[[Self Improvement\|investing in yourself]]**.
+Note-making is **[[Self Improvement|investing in yourself]]**.

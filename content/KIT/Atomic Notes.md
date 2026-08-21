@@ -1,20 +1,19 @@
 ---
 publish: true
 created: "[[2023-07-09]]"
-modified: 2026-01-09T13:58:23.765+02:00
+modified: 2026-01-09T11:58:23.765Z
 published: "[[2023-07-09]]"
-cssclasses: ""
 parent: "[[Framework]]"
 state: evergreen
 date: "[[2023-07-09]]"
 ---
 
 > [!success] ~ What ? ~
-> Atomic notes are notes that clearly capture [[Question Evidence Conclusion Note Taking\|QECs]] of an idea. 
-> They are note that hold [[Single Responsibility Principle\|single responsibility]]. They capture a single idea.
+> Atomic notes are notes that clearly capture [[Question Evidence Conclusion Note Taking|QECs]] of an idea.
+> They are note that hold [[Single Responsibility Principle|single responsibility]]. They capture a single idea.
 
 # Principles Of Atomic Notes
 
 - They are short and concise
-- They are [[KIT/Evergreen Notes\|evergreen]]
+- They are [[Evergreen Notes|evergreen]]
 - Atomic notes are really easy to reference

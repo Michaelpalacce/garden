@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-05-01]]"
-modified: 2026-01-13T00:09:57.198+02:00
+modified: 2026-03-13T13:28:41.836Z
 published: "[[2025-05-01]]"
-cssclasses: ""
 parent: "[[Linux]]"
 state:
   - tree
@@ -18,8 +17,9 @@ aliases:
 # Map Of Content
 
 - Getting Strated
-	- [[Arch Linux - Installing yay]]
+  - [[Arch Linux - Installing yay]]
 - Advanced
-	- [[Arch Linux - Manually Installing Packages]]
+  - [[Arch Linux - Manually Installing Packages]]
+  - [[Arch Linux - Ignoring Package Updates]]
 - Troubleshooting
-	- [[Arch Linux - One or more files did not pass the validity check]]
+  - [[Arch Linux - One or more files did not pass the validity check]]

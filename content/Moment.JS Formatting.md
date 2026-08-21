@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-05-10]]"
-modified: 2026-01-09T13:58:24.580+02:00
+modified: 2026-01-29T07:01:03.011Z
 published: "[[2022-05-10]]"
-cssclasses: ""
 parent: "[[000 Obsidian Index]]"
 state:
   - evergreen

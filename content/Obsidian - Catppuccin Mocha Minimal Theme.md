@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2026-01-09]]"
-modified: 2026-01-10T01:43:59.573+02:00
+modified: 2026-01-29T07:01:08.669Z
 published: "[[2026-01-09]]"
-cssclasses: ""
 parent: "[[2026-01-09]]"
 state:
   - evergreen

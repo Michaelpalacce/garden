@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-05-03]]"
-modified: 2026-01-09T13:58:23.849+02:00
+modified: 2026-01-29T07:01:00.165Z
 published: "[[2022-05-03]]"
-cssclasses: ""
 parent: "[[Dataview - Grouping]]"
 state:
   - evergreen

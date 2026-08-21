@@ -4,24 +4,22 @@ aliases:
   - Style
   - Terraform Style
 created: "[[2022-09-13]]"
-modified: 2026-01-14T20:57:26.620+02:00
+modified: 2026-01-14T18:57:26.620Z
 published: "[[2022-09-13]]"
-cssclasses: ""
 parent: "[[Terraform]]"
 state:
   - evergreen
 date: "[[2022-09-13]]"
 ---
 
-
 1. Indent two spaces
 2. Single **meta-arguments** first ( `count=2` )
 3. Block meta-arguments go last
-	```shell
-	lifecycle {
-		create_before_destroy = true
-	}
-	```
+   ```shell
+   lifecycle {
+   	create_before_destroy = true
+   }
+   ```
 4. Group single arguments
 5. Add blank lines for clarity
 6. Think about readability

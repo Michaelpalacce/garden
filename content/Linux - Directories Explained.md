@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-03-26]]"
-modified: 2026-01-13T00:08:19.962+02:00
+modified: 2026-01-12T22:08:19.962Z
 published: "[[2025-03-26]]"
-cssclasses: ""
 parent: "[[Linux]]"
 state:
   - sapling

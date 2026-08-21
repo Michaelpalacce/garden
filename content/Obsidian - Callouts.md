@@ -3,9 +3,8 @@ publish: true
 aliases:
   - Callouts
 created: "[[2022-06-01]]"
-modified: 2026-01-09T13:58:24.742+02:00
+modified: 2026-01-29T07:01:04.217Z
 published: "[[2022-06-01]]"
-cssclasses: ""
 parent: "[[000 Obsidian Index]]"
 state:
   - evergreen
@@ -34,21 +33,21 @@ opposes:
 | example  | example                     |
 | quote    | quote, cite                 |
 
-
 > [!note] Note!!!
 > Note Content
 
 > [!note]- Automatically Collapsed
 > Hidden content
 
-> 	[!note]+ Collapsable
+> [!note]+ Collapsable
 > Content
 
 > [!note] Nested
+>
 > > [!success] Yey
 > > Nested content
 
-> [!abstract] abstract 
+> [!abstract] abstract
 
 > [!tip] tip
 

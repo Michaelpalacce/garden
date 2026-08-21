@@ -4,9 +4,8 @@ aliases:
   - Publish on your Own Site Syndicate Elsewhere
 description: Own your posts and share links to them.
 created: "[[2026-01-04]]"
-modified: 2026-01-11T17:05:13.570+02:00
+modified: 2026-01-11T15:05:13.570Z
 published: "[[2026-01-04]]"
-cssclasses: ""
 parent:
   - "[[Blogging]]"
   - "[[SEO]]"
@@ -18,22 +17,22 @@ links:
 ---
 
 > [!info]+
-> Write an article on your own platform, then publish a link on others. 
+> Write an article on your own platform, then publish a link on others.
 
-In a world, where exposure is more often than not more important than money, having your own platform for expression is becoming a must. [[Social Media]] is no longer the same [[Outlet]] for personal ideas and creativity, but rather a cesspool of [[Drama]], [[Gossip]] and [[Hate]]. **Being unique and going the extra mile to share your opinions makes you stand out.** 
+In a world, where exposure is more often than not more important than money, having your own platform for expression is becoming a must. [[Social Media]] is no longer the same [[Outlet]] for personal ideas and creativity, but rather a cesspool of [[Drama]], [[Gossip]] and [[Hate]]. **Being unique and going the extra mile to share your opinions makes you stand out.**
 
-The problem however with having your own outlet is [[SEO]]. Most search engines will push your website up the rankings the more links that exist pointing backwards to it, so in a sense when you want to write an article somewhere... Write it on your own site and add a link instead. 
+The problem however with having your own outlet is [[SEO]]. Most search engines will push your website up the rankings the more links that exist pointing backwards to it, so in a sense when you want to write an article somewhere... Write it on your own site and add a link instead.
 
 POSSE gives you:
-- [[Data Ownership\|Data Ownership]]
+
+- [[Data Ownership|Data Ownership]]
 - Removes [[Vendor Lock-In]]
 - Own [[Domain Name]] that shows individuality
 
-# Why Link To Original? 
+# Why Link To Original?
 
-Linking to your own site **allows people to discover you and your ideas**, giving you [[Exposure\|exposure]]. 
+Linking to your own site **allows people to discover you and your ideas**, giving you [[Exposure|exposure]].
 
 # Automating
 
-*I'm not much into social media at the moment and while one of the parts of POSSE is automating the posting of new content to different silos as they call them (social media platforms), for now it's not something I'm looking for.* 
-
+_I'm not much into social media at the moment and while one of the parts of POSSE is automating the posting of new content to different silos as they call them (social media platforms), for now it's not something I'm looking for._

@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-06-02]]"
-modified: 2026-01-09T13:58:24.020+02:00
+modified: 2026-01-29T07:01:01.377Z
 published: "[[2024-06-02]]"
-cssclasses: ""
 parent: "[[Dataview]]"
 state: evergreen
 aliases:
@@ -12,7 +11,7 @@ relates:
   - "[[Moment.JS Formatting]]"
 ---
 
-Dataview supports [[Moment.JS]] **natively**. This allows us to **format time** as we see fit. 
+Dataview supports [[Moment.JS]] **natively**. This allows us to **format time** as we see fit.
 
 # Working with time
 
@@ -24,4 +23,3 @@ let yesterday = moment().subtract(1, 'days').startOf('day').format( DATE_FORMAT 
 
 dv.span( `<< [[${yesterday}]] | [[${tomorrow}]] >>` )
 ```
-

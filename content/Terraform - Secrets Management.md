@@ -4,9 +4,8 @@ aliases:
   - Terraform - Storing Secrets
   - Terraform - Sensitive Variables
 created: "[[2025-04-19]]"
-modified: 2026-01-14T20:57:02.200+02:00
+modified: 2026-01-14T18:57:02.200Z
 published: "[[2025-04-19]]"
-cssclasses: ""
 parent: "[[Terraform]]"
 state:
   - tree
@@ -20,25 +19,25 @@ links:
 # Storage
 
 - Environment variables
-	- Easy and simple
-	- Works only for one environment
-	- Easily accessible, as they are present in the os
+  - Easy and simple
+  - Works only for one environment
+  - Easily accessible, as they are present in the os
 - Cloud provider secrets manager
-	- This in an enterprise environment should be the preferred approach
+  - This in an enterprise environment should be the preferred approach
 - Non-sensitive variables can be committed without a problem
 
 # State
 
 - Can be stored locally
-- Can be stored remotely with remote_storage
+- Can be stored remotely with remote\_storage
 
 # Best Practices
 
 - Use encryption during rest and during transit for any sensitive information
 - Limit access using [[RBAC]] to decrease the attack vector
 - Regularly rotate secrets to reduce the attack time windows
-- Avoid hardcoded secrets, as those are not safe and leak immediately. 
-- Use a dedicated secrets manager. 
+- Avoid hardcoded secrets, as those are not safe and leak immediately.
+- Use a dedicated secrets manager.
 - Terraform modules for consistency
 - Implement version control
 

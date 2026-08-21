@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-09-07]]"
-modified: 2026-01-11T15:28:58.628+02:00
+modified: 2026-01-11T13:28:58.628Z
 published: "[[2025-09-07]]"
-cssclasses: ""
 parent: "[[Software Design#Software Design Principles]]"
 state:
   - sapling
@@ -16,11 +15,11 @@ aliases:
 ---
 
 > [!info]+
-> A [[Software Design\|Software Design Principles]] where elements within a module, class or component are strongly related and work together to fulfil a single, well-defined purpose.
+> A [[Software Design|Software Design Principles]] where elements within a module, class or component are strongly related and work together to fulfil a single, well-defined purpose.
 
 # In Development
 
-Employ [[Interface Segregation Principle]]. Don't require concrete types, instead use interfaces and satisfy them. 
+Employ [[Interface Segregation Principle]]. Don't require concrete types, instead use interfaces and satisfy them.
 
 ## In [[Go]]
 

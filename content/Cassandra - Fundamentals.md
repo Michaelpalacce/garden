@@ -3,9 +3,8 @@ publish: true
 aliases:
   - Fundamentals
 created: "[[2023-03-04]]"
-modified: 2026-01-12T22:43:19.653+02:00
+modified: 2026-01-12T20:43:19.653Z
 published: "[[2023-03-04]]"
-cssclasses: ""
 parent:
   - "[[Cassandra]]"
 state: evergreen
@@ -22,11 +21,10 @@ Cassandra is Rack aware, meaning that it will try to position data in different 
 
 # Petabyte Database
 
-# Geographic Distribution 
+# Geographic Distribution
 
-Data is replicated between different [[Cassandra - Datacenter\|Datacenters]] and they can be geographically in different places. Each Datacenter has 100% of the data, however data is NOT immediately replicated between datacenters.
+Data is replicated between different [[Cassandra - Datacenter|Datacenters]] and they can be geographically in different places. Each Datacenter has 100% of the data, however data is NOT immediately replicated between datacenters.
 
 # Linear Scalability
 
-# Vendor Independent 
-
+# Vendor Independent

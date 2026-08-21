@@ -5,9 +5,8 @@ aliases:
   - Event Driven Programming
 description: A paradigm where components communicate through production and consumption of events.
 created: "[[2025-09-07]]"
-modified: 2026-01-11T16:33:26.374+02:00
+modified: 2026-01-11T14:33:26.374Z
 published: "[[2025-09-07]]"
-cssclasses: ""
 parent: "[[Software Design]]"
 state:
   - evergreen
@@ -19,24 +18,25 @@ relates:
 ---
 
 > [!info]+
-> A [[Software Design\|Software Design Paradigm]] where components of (usually) a distributed systems [[Asynchronous Communication\|communicate asynchronously]] through the production, reaction and consumption of events.
+> A [[Software Design|Software Design Paradigm]] where components of (usually) a distributed systems [[Asynchronous Communication|communicate asynchronously]] through the production, reaction and consumption of events.
 
 # Map Of Content
 
-- [[Event Driven Archtiecture#Key Components]]
-- [[Event Driven Archtiecture#Benefits]]
-- [[Event Driven Archtiecture#Challenges]]
+- [[#Key Components]]
+- [[#Benefits]]
+- [[#Challenges]]
 - Common Tools
-	- [[Kafka]]
-	- [[RabbitMQ]]
-	- [[Amazon SNS]]
-	- [[NATS]]
+  - [[Kafka]]
+  - [[RabbitMQ]]
+  - [[Amazon SNS]]
+  - [[NATS]]
 - Event-Driven Models
-	- [[Simple Event Processing]]
-	- [[Event Streaming Processing]]
-	- [[Complex Event Processing]]
+  - [[Simple Event Processing]]
+  - [[Event Streaming Processing]]
+  - [[Complex Event Processing]]
 
 > [!success] **🧩 When to Use EDA?**
+>
 > - Microservices architectures
 > - Systems requiring real-time processing
 > - Applications with asynchronous workflows
@@ -47,7 +47,7 @@ relates:
 
 - [[Event Producer]] is the component that produces an event.
 - [[Event Consumer]] is the component that consumes and reacts to the event that was produced.
-- [[Message Broker\|Event Broker]] is the component that stores the event and allows for producing and consumption of events.
+- [[Message Broker|Event Broker]] is the component that stores the event and allows for producing and consumption of events.
 - Event is the actual message that is being produced and consumed.
 
 # Benefits
@@ -59,6 +59,6 @@ relates:
 # Challenges
 
 - [[Debugging]] is complicated and the flow of logic is hard to trace
-- [[Eventual Consistency#Pitfalls\|Pitfalls of Eventual Consistency]]
-- [[Event Duplication]]. Consumers must handle this with [[Idempotent\|Idempotency]].
+- [[Eventual Consistency#Pitfalls|Pitfalls of Eventual Consistency]]
+- [[Event Duplication]]. Consumers must handle this with [[Idempotent|Idempotency]].
 - [[Schema Evolution]]. Managing changes to the structure of events can be tricky

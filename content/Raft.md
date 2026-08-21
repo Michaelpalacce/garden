@@ -2,9 +2,8 @@
 publish: true
 description: A lightweight and easier to understand replacement of PAXOS. A Consensus Algorithm
 created: "[[2024-09-17]]"
-modified: 2026-02-01T00:06:56.805+02:00
+modified: 2026-02-02T07:34:59.132Z
 published: "[[2024-09-17]]"
-cssclasses: ""
 parent:
   - "[[Consensus Algorithm]]"
 state:
@@ -21,22 +20,22 @@ links:
 ---
 
 > [!info]+
-> RAFT is a [[Consensus Algorithm]] designed as a replacement for [[PAXOS]]. It's more lightweight and easier to implement than PAXOS. 
+> RAFT is a [[Consensus Algorithm]] designed as a replacement for [[PAXOS]]. It's more lightweight and easier to implement than PAXOS.
 
 See the official white paper here: [[raft.pdf]]
 
 # Terminology
 
 - `Leader` is the node elected to handle log replication along other nodes
-- `Follower` is a node that follows the designated leader and can handle traffic. 
+- `Follower` is a node that follows the designated leader and can handle traffic.
 
 # Overview
 
-RAFT is a Consensus Algorithm designed as a replacement for PAXOS. 
+RAFT is a Consensus Algorithm designed as a replacement for PAXOS.
 
 It is more lightweight, since instead of following a peer to peer mentality and each node having the ability to act as a leader, RAFT only has one leader.
 
-In it's essence it implements a distributed, consistent, replicated log across members (nodes). 
+In it's essence it implements a distributed, consistent, replicated log across members (nodes).
 
 # Process
 
@@ -60,15 +59,15 @@ In Raft, when a system configuration (the nodes participating in the consensus a
 
 - A server crashed and needs to be replaced
 - A server needs to be updated
-- A server has been [[Network Partition\|partitioned]]
+- A server has been [[Network Partition|partitioned]]
 - Change degree of replication
 
 In order to ensure safety, there mustn't be a point where two leaders are ever elected. This is done via a 2 phase approach.
 
 First phase, Raft switches the cluster to a "Transitional Configuration" called [[Joint Consensus]]. This means:
 
-- Log entries are replicated to all servers in both configurations.  
-- Any server from either configuration may serve as leader. 
+- Log entries are replicated to all servers in both configurations.
+- Any server from either configuration may serve as leader.
 - Agreement (for elections and entry commitment) requires separate majorities from both the old and new configurations.
 
 # Log [[Compaction]]
@@ -82,22 +81,24 @@ In cases where a new node is added, a leader may send it's snapshot as well as a
 # Performing Updates
 
 An automated process that does:
-- Checks if the raft system healthy and in sync? 
-	- If you shut down a nice while it's catching up (syncing snapshots), then you may lose quorum, so perform updates only when your your cluster is healthy 
+
+- Checks if the raft system healthy and in sync?
+  - If you shut down a nice while it's catching up (syncing snapshots), then you may lose quorum, so perform updates only when your your cluster is healthy
 - [[Drain]] the node if the system supports it
-- Perform quorum math to ensure that you will have high quorum even during the restart and can afford one more node loss 
+- Perform quorum math to ensure that you will have high quorum even during the restart and can afford one more node loss
 
-# Multi Raft 
+# Multi Raft
 
-Through [[Sharding]], you can achieve this. This way multiple rest leaders exist for different subsets of data. This means that instead of one raft leader eventually becoming the bottleneck, the responsibility is distributed. 
+Through [[Sharding]], you can achieve this. This way multiple rest leaders exist for different subsets of data. This means that instead of one raft leader eventually becoming the bottleneck, the responsibility is distributed.
 
-# How is chattiness reduced? 
+# How is chattiness reduced?
 
-- **Use of [[gRPC]]** would mean that one single pipe is used between two servers 
-- **Range and shard merging** would mean that instead of sending multiple small requests, requests for ranges and shards directed to the same node are merged in one call 
-- **Hibernation on no requests**. After a few minutes of no requests, the shard can become dormant. The first write or read would wake the cluster back up. 
+- **Use of [[gRPC]]** would mean that one single pipe is used between two servers
+- **Range and shard merging** would mean that instead of sending multiple small requests, requests for ranges and shards directed to the same node are merged in one call
+- **Hibernation on no requests**. After a few minutes of no requests, the shard can become dormant. The first write or read would wake the cluster back up.
 
 # Improvements
+
 ## Leases
 
 While not part of the standard Raft algorithm, a lease is a improvement that may be implemented by raft systems:
@@ -112,14 +113,15 @@ Think of it like a **contract** signed by the Followers.
 
 To allow a follower to answer client request, raft systems usually use [[Read Indexing]] or [[Safe Timestamps]]
 
-### Read Indexing 
+### Read Indexing
 
 When you ask a Follower for data, the Follower:
+
 - Asks the Leader: "What is your current Commit Index?"
 - The Leader says: "I've committed up to Log #500."
 - The Follower waits until its own local log reaches #500
 - ​Only then does it give you the data.
-​Result: You get the latest data, but you still had to "chat" with the leader
+  ​Result: You get the latest data, but you still had to "chat" with the leader
 
 ### Safe Timestamps
 

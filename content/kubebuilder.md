@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-08-12]]"
-modified: 2026-01-15T02:43:23.349+02:00
+modified: 2026-01-15T00:43:23.349Z
 published: "[[2024-08-12]]"
-cssclasses: ""
 parent: "[[Kubernetes - Operator]]"
 state:
   - sapling
@@ -16,10 +15,8 @@ description:
 aliases:
 ---
 
-
 > [!info]+
 > Kubebuilder is a [[Go]] [[SDK]] for [[Kubernetes]].
-> 
 
 # Map Of Content
 
@@ -39,8 +36,9 @@ kubebuilder create api --group cache --version v1alpha1 --kind Memcached
 ```
 
 The command will prompt you:
-- If you want to create a [[Kubernetes - CRD\|Resource]]
-- If you want to create an [[Kubernetes - Operator\|Operator]]
+
+- If you want to create a [[Kubernetes - CRD|Resource]]
+- If you want to create an [[Kubernetes - Operator|Operator]]
 
 # Generate Manifests And Install Then
 

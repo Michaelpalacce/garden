@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-09-18]]"
-modified: 2026-01-29T01:57:01.168+02:00
+modified: 2026-01-28T23:57:01.168Z
 published: "[[2024-09-18]]"
-cssclasses: ""
 parent: "[[System Design]]"
 state:
   - sapling

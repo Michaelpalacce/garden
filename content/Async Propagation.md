@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-09-18]]"
-modified: 2026-01-11T20:40:18.583+02:00
+modified: 2026-01-11T18:40:18.583Z
 published: "[[2024-09-18]]"
-cssclasses: ""
 parent: "[[Asynchronous]]"
 state:
   - sapling

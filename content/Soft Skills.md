@@ -2,9 +2,8 @@
 publish: true
 description: Interpersonal skills
 created: "[[2025-04-16]]"
-modified: 2026-01-11T18:20:39.447+02:00
+modified: 2026-01-11T16:20:39.447Z
 published: "[[2025-04-16]]"
-cssclasses: ""
 parent:
   - "[[Forest]]"
 state:
@@ -16,17 +15,17 @@ opposes:
   - "[[Hard Skills]]"
 ---
 
-# Map Of Content 
+# Map Of Content
 
-- [[Leadership]] 
-- [[Decision Making]] 
+- [[Leadership]]
+- [[Decision Making]]
 - [[Prioritization]]
 - [[Inspiration]]
 - [[Multitasking]]
 - [[Communication]]
 - [[Strategic Thinking]]
 - [[Business Acumen]]
-- [[Troubleshooting\|Problem Solving]]
+- [[Troubleshooting|Problem Solving]]
 - [[Collaboration]]
 - [[Stakeholder Management]]
 - [[Presenting Your Ideas]]

@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-08-15]]"
-modified: 2026-01-13T00:10:08.722+02:00
+modified: 2026-01-12T22:10:08.722Z
 published: "[[2025-08-15]]"
-cssclasses: ""
 parent: "[[Arch Linux]]"
 state:
   - evergreen

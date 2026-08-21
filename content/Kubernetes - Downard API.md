@@ -4,9 +4,8 @@ aliases:
   - Downward API
 description: " Exposing pod and container fields to a running container."
 created: "[[2025-12-28]]"
-modified: 2026-01-12T22:39:27.207+02:00
+modified: 2026-01-12T20:39:27.207Z
 published: "[[2025-12-28]]"
-cssclasses: ""
 parent: "[[Kubernetes]]"
 state:
   - tree
@@ -18,10 +17,9 @@ links:
 ---
 
 > [!info]+
-> Downward API refers to the **2 methods used to expose pod and container fields to a running container** (*such as pod name or ip*). [[Environment Variables]] and as **files populated** by a special volume type.
+> Downward API refers to the **2 methods used to expose pod and container fields to a running container** (_such as pod name or ip_). [[Environment Variables]] and as **files populated** by a special volume type.
 
 # Environment Variables
-
 
 For a list of available fields, take a look at the attached note link.
 

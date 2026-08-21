@@ -4,9 +4,8 @@ aliases:
   - Kubernetes - DNS Debugging
 description: Check the link and follow.
 created: "[[2025-03-14]]"
-modified: 2026-01-12T22:38:45.275+02:00
+modified: 2026-01-12T20:38:45.275Z
 published: "[[2025-03-14]]"
-cssclasses: ""
 parent: "[[Kubernetes]]"
 state:
   - evergreen
@@ -18,7 +17,7 @@ links:
   - https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/
 ---
 
-Apply `dnsutils.yaml` and test. 
+Apply `dnsutils.yaml` and test.
 
 ```yaml
 apiVersion: v1

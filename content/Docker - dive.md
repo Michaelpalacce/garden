@@ -2,9 +2,8 @@
 publish: true
 description: Tool used to inspect docker images layers size
 created: "[[2026-01-22]]"
-modified: 2026-01-29T01:51:03.092+02:00
+modified: 2026-03-13T12:14:19.464Z
 published: "[[2026-01-22]]"
-cssclasses: ""
 parent: "[[Docker]]"
 state:
   - sapling

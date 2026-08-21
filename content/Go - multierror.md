@@ -2,9 +2,8 @@
 publish: true
 description: Package that simplifies working with multiple errors
 created: "[[2026-01-12]]"
-modified: 2026-01-22T22:40:04.686+02:00
+modified: 2026-01-22T20:40:04.686Z
 published: "[[2026-01-12]]"
-cssclasses: ""
 parent: "[[Go]]"
 state:
   - evergreen

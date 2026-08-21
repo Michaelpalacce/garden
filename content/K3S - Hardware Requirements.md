@@ -3,9 +3,8 @@ publish: true
 aliases:
   - K3S - Sizing
 created: "[[2025-04-19]]"
-modified: 2026-01-12T22:36:13.107+02:00
+modified: 2026-01-12T20:36:13.107Z
 published: "[[2025-04-19]]"
-cssclasses: ""
 parent: "[[K3S]]"
 state:
   - evergreen

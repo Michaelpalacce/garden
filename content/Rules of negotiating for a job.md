@@ -5,9 +5,8 @@ aliases:
   - 10 rules of negotiating for a job
   - Learn how to negotiate yourself
 created: "[[2025-04-06]]"
-modified: 2026-01-11T15:14:47.797+02:00
+modified: 2026-01-11T13:14:47.797Z
 published: "[[2025-04-06]]"
-cssclasses: ""
 parent: "[[Communication]]"
 state:
   - sapling
@@ -41,7 +40,7 @@ But their second favorite thing to hear you say is “can you do 90K instead of 
 
 # Information is power
 
-> To protect your power in the negotiation, you must protect information as much as possible. 
+> To protect your power in the negotiation, you must protect information as much as possible.
 
 • **Companies try to gain all the information** they can during negotiations, while **concealing their own** intentions.
 
@@ -57,7 +56,7 @@ But their second favorite thing to hear you say is “can you do 90K instead of 
 
 # Always be positive
 
->  If the offer is shit, it’s extremely important to remain positive and excited about the company. This is because your excitement is one of your most valuable assets in a negotiation. 
+> If the offer is shit, it’s extremely important to remain positive and excited about the company. This is because your excitement is one of your most valuable assets in a negotiation.
 
 • Companies view **candidates as investments**; losing candidate enthusiasm reduces their perceived value.
 
@@ -65,7 +64,7 @@ But their second favorite thing to hear you say is “can you do 90K instead of 
 
 # Don’t be the decision maker
 
-• To reduce recruiter pressure, mention others involved in the decision, shifting the focus from you. Mention that you have another job offer to consider, or you are waiting for the final call from another company. 
+• To reduce recruiter pressure, mention others involved in the decision, shifting the focus from you. Mention that you have another job offer to consider, or you are waiting for the final call from another company.
 
 • This defuses tension and allows you to negotiate better.
 
@@ -75,9 +74,9 @@ But their second favorite thing to hear you say is “can you do 90K instead of 
 
 ## Expedite the process with other companies
 
-> Hello [PERSON],
-> 
-> I just wanted to update you on my own process. I’ve just received an offer from [COMPANY] which is quite strong. That said, I’m really excited about [YOUR AMAZING COMPANY] and really want to see if we can make it work. Since my timeline is now compressed, is there anything you can do to expedite the process? 
+> Hello \[PERSON],
+>
+> I just wanted to update you on my own process. I’ve just received an offer from \[COMPANY] which is quite strong. That said, I’m really excited about \[YOUR AMAZING COMPANY] and really want to see if we can make it work. Since my timeline is now compressed, is there anything you can do to expedite the process?
 
 • Having a job offer, even a less desirable one, creates urgency and increases your chances of getting other offers.
 
@@ -113,7 +112,7 @@ Example conversation:
 
 If they push back and say this is the best they can do, then politely reply:
 
-> That’s really unfortunate. I like [YOUR COMPANY] and was really excited about the team, but like I said, there’s no way I can consider this offer. 48 hours just too unreasonable of a window. The next company I join will be a big life decision for me, and I take my commitments very seriously. I also need to consult with my [EXTERNAL_DECISION_MAKER]. There’s no way that I can make a decision I’m comfortable with in this short an amount of time. 
+> That’s really unfortunate. I like \[YOUR COMPANY] and was really excited about the team, but like I said, there’s no way I can consider this offer. 48 hours just too unreasonable of a window. The next company I join will be a big life decision for me, and I take my commitments very seriously. I also need to consult with my \[EXTERNAL\_DECISION\_MAKER]. There’s no way that I can make a decision I’m comfortable with in this short an amount of time.
 
 # Have alternatives
 
@@ -123,5 +122,4 @@ If they push back and say this is the best they can do, then politely reply:
 
 # Understand what they value
 
-# Be winnable 
-
+# Be winnable

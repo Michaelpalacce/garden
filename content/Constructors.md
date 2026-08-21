@@ -2,9 +2,8 @@
 publish: true
 description: Construct new object instances
 created: "[[2025-04-01]]"
-modified: 2026-01-10T23:18:45.564+02:00
+modified: 2026-01-10T21:18:45.564Z
 published: "[[2025-04-01]]"
-cssclasses: ""
 parent: "[[Programming Index]]"
 state:
   - sapling
@@ -18,9 +17,9 @@ relates:
 # Best Practices
 
 - Keep constructors simple. **Constructing an object shouldn't be an expensive operation**.
-	- No API calls
-	- No resources created
-	- No resources modified
+  - No API calls
+  - No resources created
+  - No resources modified
 - [[Dependency Injection]] is your friend.
-	- Use [[Interface\|interfaces]] when possible.
-		- [[High Level Components Should Depend On Low Level Abstractions]]
+  - Use [[Interface|interfaces]] when possible.
+    - [[High Level Components Should Depend On Low Level Abstractions]]

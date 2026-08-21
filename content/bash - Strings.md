@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-09-23]]"
-modified: 2026-01-13T00:11:14.590+02:00
+modified: 2026-01-12T22:11:14.590Z
 published: "[[2025-09-23]]"
-cssclasses: ""
 parent: "[[bash]]"
 state: evergreen
 relates:
@@ -14,13 +13,16 @@ date: "[[2025-09-23]]"
 This is where you will find information on how to work with bash strings
 
 # String Types
+
 Using single or double quotes matter!
-~~~bash
+
+```bash
 NAME="Stefan"
 echo "Hi $NAME"  #=> Hi Stefan
 echo 'Hi $NAME'  #=> Hi $NAME
-~~~
-Single quotes prevent you from using [[bash - Functions#Inline functions\|Bash Inline Functions]] ( `$()` syntax )
+```
+
+Single quotes prevent you from using [[bash - Functions#Inline functions|Bash Inline Functions]] ( `$()` syntax )
 
 # Get Length Of String
 
@@ -42,7 +44,6 @@ echo "${my_string:2:3}"  # Output: cde
 file_path="/home/user/document.txt"
 echo "${file_path#*/}"   # Output: home/user/document.txt
 ```
-
 
 ```sh
 file_path="/home/user/document.txt"

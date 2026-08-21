@@ -2,9 +2,8 @@
 publish: true
 description: How a Go operator is structured
 created: "[[2024-08-11]]"
-modified: 2026-01-15T02:43:32.869+02:00
+modified: 2026-01-15T00:43:32.869Z
 published: "[[2024-08-11]]"
-cssclasses: ""
 parent: "[[Kubernetes - Operator]]"
 state:
   - evergreen

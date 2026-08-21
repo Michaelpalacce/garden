@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-03-04]]"
-modified: 2026-01-12T22:44:42.261+02:00
+modified: 2026-01-12T20:44:42.261Z
 published: "[[2023-03-04]]"
-cssclasses: ""
 parent: "[[Cassandra]]"
 state:
   - evergreen
@@ -13,12 +12,12 @@ links:
 ---
 
 > [!success] ~ What ? ~
-> In Cassandra, clustering columns are any additional columns needed to form the [[Cassandra - Primary Key\|Primary Key]].
+> In Cassandra, clustering columns are any additional columns needed to form the [[Cassandra - Primary Key|Primary Key]].
 > Clustering Columns can be used to better segment or cluster the data.
 
 # Ordering
 
-Ordering can be either `ASC` or `DESC`. Also if you have more than one clustering column, when ordering they are ordered from left to right. 
+Ordering can be either `ASC` or `DESC`. Also if you have more than one clustering column, when ordering they are ordered from left to right.
 
 Example:
 
@@ -34,7 +33,7 @@ CREATE TABLE server_logs(
 
 With data:
 
-| log_hour | log_level | message       | server |
+| log\_hour | log\_level | message       | server |
 | -------- | --------- | ------------- | ------ |
 | 12       | info1     | Some message1 | Prod-1 |
 | 12       | info2     | Some message2 | Prod-1 |
@@ -44,7 +43,7 @@ Will query: `SELECT * FROM server_logs where log_hour = '12' and server = 'Prod-
 
 Will return:
 
-| log_hour | log_level | message       | server |
+| log\_hour | log\_level | message       | server |
 | -------- | --------- | ------------- | ------ |
 | 12       | info1     | Some message1 | Prod-1 |
 | 12       | info2     | Some message2 | Prod-1 |
@@ -55,7 +54,8 @@ By default, the Cassandra storage engine sorts the data in ascending order of cl
 
 # Examples
 
-## No Columns 
+## No Columns
+
 ```sql
 CREATE TABLE server_logs(
    log_hour timestamp PRIMARYKEY,
@@ -65,7 +65,7 @@ CREATE TABLE server_logs(
 )
 ```
 
-partition key: **log_hour** 
+partition key: **log\_hour** 
 
 clustering columns: none
 
@@ -81,9 +81,9 @@ CREATE TABLE server_logs(
 )
 ```
 
-partition key: **log_hour** 
+partition key: **log\_hour** 
 
-clustering columns: **log_level**
+clustering columns: **log\_level**
 
 ## Complex Partition Key
 
@@ -97,7 +97,7 @@ CREATE TABLE server_logs(
 )
 ```
 
-partition key: **log_hour,** **server**
+partition key: **log\_hour,** **server**
 
 clustering columns: none
 
@@ -113,6 +113,6 @@ CREATE TABLE server_logs(
 )WITH CLUSTERING ORDER BY (log_level DESC);
 ```
 
-partition key: **log_hour**, **server**
+partition key: **log\_hour**, **server**
 
-clustering columns: **log_level**
+clustering columns: **log\_level**

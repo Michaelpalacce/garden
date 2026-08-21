@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-14]]"
-modified: 2026-01-09T13:59:25.671+02:00
+modified: 2026-01-09T11:59:25.671Z
 published: "[[2023-06-14]]"
-cssclasses: ""
 parent: "[[Productivity]]"
 state:
   - sapling
@@ -17,9 +16,6 @@ links:
 
 What is the difference between the two, or rather do I personally draw a line?
 
-Being productive leads to being more motivated. Productivity and motivation are a cycle. 
+Being productive leads to being more motivated. Productivity and motivation are a cycle.
 
 ![[Assets/Screenshot_20240615_113622_YouTube ReX (drifty).jpg]]
-
-
-

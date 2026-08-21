@@ -1,9 +1,8 @@
 ---
 publish: true
-created: 2023-04-27T22:29:05.168+03:00
-modified: 2026-01-10T17:16:37.374+02:00
-published: 2026-01-10T17:16:37.374+02:00
-cssclasses: ""
+created: 2026-01-14T13:55:14.302Z
+modified: 2026-01-10T15:16:37.374Z
+published: 2026-01-10T15:16:37.374Z
 parent: "[[Velero]]"
 state: evergreen
 relates:
@@ -17,12 +16,13 @@ relates:
 3. Get the IAM user's credentials
 4. Create a new file: `velero-credentials` in the root of the folder ( see how it should look down below )
 5. In the project root, run: `velero install --use-restic --provider aws --plugins velero/velero-plugin-for-aws --bucket sgenov-velero-backup --secret-file ./velero-credentials --backup-location-config region=eu-west-1 --snapshot-location-config region=eu-west-1`
-    1. Make sure the bucket is empty!
-    2. --use-restic is used to backup PVCs
+   1. Make sure the bucket is empty!
+   2. \--use-restic is used to backup PVCs
 
 `velero-credentials`:
-~~~
+
+```
 [default]
 aws_access_key_id=<AWS_ACCESS_KEY_ID>
 aws_secret_access_key=<AWS_SECRET_ACCESS_KEY>
-~~~
+```

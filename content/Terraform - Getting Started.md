@@ -2,9 +2,8 @@
 publish: true
 description: How to get started with terraform
 created: "[[2025-04-25]]"
-modified: 2026-01-14T20:57:17.336+02:00
+modified: 2026-01-14T18:57:17.336Z
 published: "[[2025-04-25]]"
-cssclasses: ""
 parent: "[[Terraform]]"
 state:
   - evergreen
@@ -19,9 +18,9 @@ To get started with terraform you need to prepare your working directory for oth
 terraform init
 ```
 
-# Create your `main.tf` file 
+# Create your `main.tf` file
 
-Your `main.tf` should only specify terraform configuration as well as [[Terraform - Providers\|provider]] configurations.
+Your `main.tf` should only specify terraform configuration as well as [[Terraform - Providers|provider]] configurations.
 
 ## Example
 

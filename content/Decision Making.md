@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-08-03]]"
-modified: 2026-01-11T15:11:45.929+02:00
+modified: 2026-01-11T13:11:45.929Z
 published: "[[2024-08-03]]"
-cssclasses: ""
 parent: "[[Soft Skills]]"
 state:
   - sapling
@@ -21,12 +20,12 @@ aliases:
 
 # Know What Is Important
 
-- When making a decision on a problem, [[Prioritization\|prioritize]] what actually matters. Separate things into
-	- Must haves
-	- Good to haves
-	- Nice to haves
+- When making a decision on a problem, [[Prioritization|prioritize]] what actually matters. Separate things into
+  - Must haves
+  - Good to haves
+  - Nice to haves
 
-# Prioritize 
+# Prioritize
 
 - Make an [[Impact x Effort Matrix]]
 - Based on it, prioritize accordingly

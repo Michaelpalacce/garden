@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-05-03]]"
-modified: 2026-01-09T13:58:23.889+02:00
+modified: 2026-01-29T07:00:59.131Z
 published: "[[2022-05-03]]"
-cssclasses: ""
 parent: "[[Dataview - Grouping]]"
 state:
   - evergreen
@@ -31,6 +30,7 @@ for (let group of groups) {
     dv.list( sanitizedGroup )
 }
 ```
+
 When you use the `groupBy` and provide a filter, you get the following Object:
 
 ```ts

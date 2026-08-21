@@ -2,9 +2,8 @@
 publish: true
 description: CI/CD of github
 created: "[[2025-10-14]]"
-modified: 2026-01-15T12:52:28.273+02:00
+modified: 2026-01-15T10:52:28.273Z
 published: "[[2025-10-14]]"
-cssclasses: ""
 parent: "[[Github]]"
 state:
   - evergreen
@@ -20,23 +19,23 @@ relates:
 # Map Of Content
 
 - Getting Started
-	- [[Github Actions - Stages]]
-	- [[Github Actions - Steps]]
-	- [[Github Actions - Workflow Structure]]
+  - [[Github Actions - Stages]]
+  - [[Github Actions - Steps]]
+  - [[Github Actions - Workflow Structure]]
 - Basic
-	- [[Github Actions - Inputs]]
-	- [[Github Actions - Outputs]]
-	- [[Github Actions - Triggers]]
-	- [[Github Actions - Workflows]]
+  - [[Github Actions - Inputs]]
+  - [[Github Actions - Outputs]]
+  - [[Github Actions - Triggers]]
+  - [[Github Actions - Workflows]]
 - Advanced
-	- [[Github Actions - Self-Hosted Runner]]
-	- [[Github Actions - Github-Hosted Runner]]
-	- [[Github Actions - Running Inside Containers]]
-	- [[Github Actions - Concurrency Control]]
+  - [[Github Actions - Self-Hosted Runner]]
+  - [[Github Actions - Github-Hosted Runner]]
+  - [[Github Actions - Running Inside Containers]]
+  - [[Github Actions - Concurrency Control]]
 - Tips And Tricks
-	- [[Github Actions - Controlling Stage Executions]]
-	- [[Github Actions - Connecting Containers To A Different Docker Network]]
-	- [[Github Actions - Execute Post Step]]
+  - [[Github Actions - Controlling Stage Executions]]
+  - [[Github Actions - Connecting Containers To A Different Docker Network]]
+  - [[Github Actions - Execute Post Step]]
 - Troubleshooting
-	- [[Github - SSH key verification issues for containers]]
-	- 
+  - [[Github - SSH key verification issues for containers]]
+  -

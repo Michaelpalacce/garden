@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-03-09]]"
-modified: 2026-01-11T20:46:26.435+02:00
+modified: 2026-01-11T18:46:26.435Z
 published: "[[2024-03-09]]"
-cssclasses: ""
 parent: "[[Networking]]"
 relates:
 opposes:

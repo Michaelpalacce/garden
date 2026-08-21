@@ -5,9 +5,8 @@ aliases:
   - Consistency Availability Partition Tolerance
 description: A theorem of the shortcomings of distributed systems.
 created: "[[2024-09-07]]"
-modified: 2026-02-01T00:17:28.221+02:00
+modified: 2026-01-31T22:17:28.221Z
 published: "[[2024-09-07]]"
-cssclasses: ""
 parent: "[[System Design]]"
 state:
   - evergreen
@@ -24,10 +23,10 @@ relates:
 
 - [[Consistency]]: when reading data, every request receives the _most recent_ data or an error is returned
 - [[Availability]]: when reading data, every request receives _a non error response_, without the guarantee that it is the _most recent_ data
-- [[Partition Tolerance]]: when an arbitrary number of network requests between nodes fail, the system continues to operate as expected. 
+- [[Partition Tolerance]]: when an arbitrary number of network requests between nodes fail, the system continues to operate as expected.
 
 ![[Assets/1-CAP Theorem Example.png|600]]
 
 # Reasoning
 
-The core of the reasoning is as follows. It is impossible to guarantee that a network partition will not occur (see [[The Fallacies of Distributed Computing]]). Therefore in the case of a partition we can either cancel the operation (increasing consistency and decreasing availability) or proceed (increasing availability but decreasing consistency). 
+The core of the reasoning is as follows. It is impossible to guarantee that a network partition will not occur (see [[The Fallacies of Distributed Computing]]). Therefore in the case of a partition we can either cancel the operation (increasing consistency and decreasing availability) or proceed (increasing availability but decreasing consistency).

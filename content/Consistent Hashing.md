@@ -2,9 +2,8 @@
 publish: true
 description: A way to recalculate partitions in an event of a node failure.
 created: "[[2024-09-06]]"
-modified: 2026-02-01T00:16:09.249+02:00
+modified: 2026-01-31T22:16:09.249Z
 published: "[[2024-09-06]]"
-cssclasses: ""
 parent:
   - "[[System Design]]"
   - "[[Algorithms]]"
@@ -21,6 +20,6 @@ aliases:
 ---
 
 > [!info]+
-> Consistent Hashing is an algorithm of partitioning and storing data in a distributed manner with limited disruption of the service. [[Cassandra]] does this during [[Cassandra - Partitioning\|Partitioning]]. When we say consistent Hashing, we mean an **algorithm where in an event of node failure, we won't recalculate all of the hashes, but just a part**.
+> Consistent Hashing is an algorithm of partitioning and storing data in a distributed manner with limited disruption of the service. [[Cassandra]] does this during [[Cassandra - Partitioning|Partitioning]]. When we say consistent Hashing, we mean an **algorithm where in an event of node failure, we won't recalculate all of the hashes, but just a part**.
 
 Hashes are calculated based on a primary key. Data is distributed in a ring of nodes. In the event of a node failure, we will recalculate only that specific part of the ring.

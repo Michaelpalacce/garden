@@ -4,9 +4,8 @@ aliases:
   - cnpg - Importing Postgres Databases
 description: A simple YAML that can be used to import an external postgres database
 created: "[[2026-01-19]]"
-modified: 2026-01-20T00:42:24.375+02:00
+modified: 2026-01-26T18:25:11.752Z
 published: "[[2026-01-19]]"
-cssclasses: ""
 parent: "[[cnpg]]"
 state:
   - evergreen

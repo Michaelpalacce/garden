@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-08-29]]"
-modified: 2026-01-10T17:17:23.317+02:00
+modified: 2026-01-10T15:17:23.317Z
 published: "[[2022-08-29]]"
-cssclasses: ""
 parent: "[[Velero]]"
 state: evergreen
 links:
@@ -13,7 +12,7 @@ relates:
 ---
 
 > [!success] ~ What ? ~
-> Velero uses a **schedule to do automatic backups** of data. The schedule is a simple [[Kubernetes - CRD\|CRD]] that has specifications on **what and how should be backed up**. 
+> Velero uses a **schedule to do automatic backups** of data. The schedule is a simple [[Kubernetes - CRD|CRD]] that has specifications on **what and how should be backed up**.
 
 ```yaml
 apiVersion: velero.io/v1
@@ -41,4 +40,3 @@ spec:
         ttl: 72h0m0s # How long will the backup be kept
     useOwnerReferencesInBackup: false 
 ```
-

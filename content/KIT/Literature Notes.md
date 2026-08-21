@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-09-01]]"
-modified: 2026-01-09T13:58:24.541+02:00
+modified: 2026-01-09T11:58:24.541Z
 published: "[[2024-09-01]]"
-cssclasses: ""
 parent: "[[Framework]]"
 state:
   - evergreen
@@ -14,9 +13,9 @@ description:
 ---
 
 > [!info]+
-> Literature note is a single note containing references to all the interesting passages in a book (or other piece of media) that you encounter. 
+> Literature note is a single note containing references to all the interesting passages in a book (or other piece of media) that you encounter.
 
-# Map Of Content 
+# Map Of Content
 
 ```dataview
 TABLE info as "Info"

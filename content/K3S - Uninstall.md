@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-01-19]]"
-modified: 2026-01-12T22:36:31.439+02:00
+modified: 2026-01-12T20:36:31.439Z
 published: "[[2025-01-19]]"
-cssclasses: ""
 parent: "[[K3S]]"
 state:
   - evergreen
@@ -12,7 +11,7 @@ links:
   - https://docs.k3s.io/installation/uninstall
 ---
 
-Process is simple, just run the scripts on the servers. 
+Process is simple, just run the scripts on the servers.
 
 # Servers
 

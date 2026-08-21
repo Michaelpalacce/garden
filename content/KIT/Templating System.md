@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-06-09]]"
-modified: 2026-01-09T13:58:25.025+02:00
+modified: 2026-01-26T18:25:22.548Z
 published: "[[2024-06-09]]"
-cssclasses: ""
 parent: "[[Framework]]"
 state: evergreen
 date: "[[2024-06-09]]"
@@ -11,7 +10,7 @@ date: "[[2024-06-09]]"
 
 # Overview
 
-Always use templates when creating a new note. 
+Always use templates when creating a new note.
 
 ## Introduce more templates as needed
 

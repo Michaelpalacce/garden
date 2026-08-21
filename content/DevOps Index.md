@@ -4,9 +4,8 @@ aliases:
   - SysAdmin
 description: Developer Operations
 created: "[[2024-09-05]]"
-modified: 2026-01-15T08:20:58.911+02:00
+modified: 2026-01-15T06:20:58.911Z
 published: "[[2024-09-05]]"
-cssclasses: ""
 parent: "[[Forest]]"
 state:
   - evergreen
@@ -18,63 +17,63 @@ relates:
 # Map Of Content
 
 - [[Storage]]
-- [[Cloud]] - the cloud ☁️ 
+- [[Cloud]] - the cloud ☁️
 - Automation
-	- [[Automation Maturity]]
-	- [[Jenkins]] | [[Github - Actions]]
-	- [[GitOps\|GitOps]] is a methodology in DevOps for managing infrastructure and application deployment 
-	- [[CICD]] Continuous Integration and Continuous Delivery/Deployment
+  - [[Automation Maturity]]
+  - [[Jenkins]] | [[Github - Actions]]
+  - [[GitOps|GitOps]] is a methodology in DevOps for managing infrastructure and application deployment
+  - [[CICD]] Continuous Integration and Continuous Delivery/Deployment
 - Networking 🌐
-	- [[IPAM]]
-	- [[NSX]]
-	- [[Networking]]
-	- Proxies 
-		- [[Reverse Proxy]]
-		- [[Forward Proxy]]
-- Practices 
-	- [[Disaster Recovery]]
-	- [[Zero Downtime Deployments]]
-	- [[Canary Release]]
-	- [[Blue Green Deployment]]
+  - [[IPAM]]
+  - [[NSX]]
+  - [[Networking]]
+  - Proxies
+    - [[Reverse Proxy]]
+    - [[Forward Proxy]]
+- Practices
+  - [[Disaster Recovery]]
+  - [[Zero Downtime Deployments]]
+  - [[Canary Release]]
+  - [[Blue Green Deployment]]
 - Containers ⛴️
-	- [[Containers]] - This is where you can find more information about container s. docker and dockercompose 
-	- [[Kubernetes]] - Everything related to kubernetes
+  - [[Containers]] - This is where you can find more information about container s. docker and dockercompose
+  - [[Kubernetes]] - Everything related to kubernetes
 - [[Unikernel]] - Specialized in running a single piece of software
 - SCM
-	- [[Bitbucket]]
-	- [[Gitlab]]
-	- [[Gitea]]
-	- [[Github]]
+  - [[Bitbucket]]
+  - [[Gitlab]]
+  - [[Gitea]]
+  - [[Github]]
 - [[Infrastructure As Code]]
-- Operating Systems 
-	- [[Linux]]
-	- [[Windows]]
+- Operating Systems
+  - [[Linux]]
+  - [[Windows]]
 - [[Security]] 🔐
-	- [[Personal Access Token]] a way to access content and do different automation tasks
+  - [[Personal Access Token]] a way to access content and do different automation tasks
 - Tools 🛠️
-	- [[openssl]] - Working with certificates [[bash]] - The internet's duct-tape
-	- [[tar]] - archiving tool
+  - [[openssl]] - Working with certificates [[bash]] - The internet's duct-tape
+  - [[tar]] - archiving tool
 - Artifact Managers
-	- [[Artifactory]] - docker, java, node
-	- [[Sonatype Nexus Repository Manager]] - mvn
+  - [[Artifactory]] - docker, java, node
+  - [[Sonatype Nexus Repository Manager]] - mvn
 - Metrics
-	- [[Aria Operations]]
-	- [[Grafana]]
-	- [[Tanzu Observability]]
-- Log Aggregation 
-	- [[Elasticsearch]]
-	- [[Grafana Loki]]
-	- [[AWS Cloudwatch]]
-- Hypervisors 
-	- [[ESXi]] 
-	- [[vSphere]]
+  - [[Aria Operations]]
+  - [[Grafana]]
+  - [[Tanzu Observability]]
+- Log Aggregation
+  - [[Elasticsearch]]
+  - [[Grafana Loki]]
+  - [[AWS Cloudwatch]]
+- Hypervisors
+  - [[ESXi]]
+  - [[vSphere]]
 - Configuration Management
-	- [[cloud-init]]
-	- [[Ansible]]
+  - [[cloud-init]]
+  - [[Ansible]]
 - [[Message Broker]]s
-	- [[Kafka]]
-	- [[Redis]]
+  - [[Kafka]]
+  - [[Redis]]
 - Best Practices
-	- [[Build Systems Not Heroes]]
-	- [[Reliability And Availability Of Data Storage Systems]]
+  - [[Build Systems Not Heroes]]
+  - [[Reliability And Availability Of Data Storage Systems]]
 - [[Linting]]

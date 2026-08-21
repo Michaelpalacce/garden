@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-04-16]]"
-modified: 2026-01-11T20:41:01.935+02:00
+modified: 2026-01-11T18:41:01.935Z
 published: "[[2025-04-16]]"
-cssclasses: ""
 parent: "[[DevOps Index]]"
 state:
   - evergreen
@@ -35,8 +34,3 @@ aliases:
 | **Cost**          | Varies                          | Generally more expensive             | Often cost-effective for large scale                      |
 | **Complexity**    | Relatively simple to manage     | More complex, requires OS formatting | Can be more complex for initial integration               |
 | **Best For**      | File sharing, general-purpose   | Databases, VMs, transactional apps   | Unstructured data, backups, cloud storage                 |
-
-
-
-
-

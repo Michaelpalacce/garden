@@ -4,9 +4,8 @@ aliases:
   - Caching
 description: The process of saving information for later use, usually in memory
 created: "[[2025-09-03]]"
-modified: 2026-01-25T10:01:34.427+02:00
+modified: 2026-01-25T08:01:34.427Z
 published: "[[2025-09-03]]"
-cssclasses: ""
 parent: "[[Performance]]"
 state:
   - evergreen

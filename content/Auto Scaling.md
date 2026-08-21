@@ -5,9 +5,8 @@ aliases:
   - Reactive Auto Scaling
 description: Scaling of resources to match the growing needs of our service
 created: "[[2024-09-18]]"
-modified: 2026-01-11T15:38:29.448+02:00
+modified: 2026-01-11T13:38:29.448Z
 published: "[[2024-09-18]]"
-cssclasses: ""
 parent: "[[System Design]]"
 state:
   - sapling
@@ -31,4 +30,4 @@ links:
 # Reactive Auto Scaling
 
 > [!info]+
-> Auto Scaling of resources based on metrics. 
+> Auto Scaling of resources based on metrics.

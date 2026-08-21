@@ -4,9 +4,8 @@ aliases:
   - Elaborate
 description: Process of giving information new meaning by writing it down in your own words and connecting it with what you already know.
 created: "[[2025-04-26]]"
-modified: 2026-01-09T13:58:24.047+02:00
+modified: 2026-01-09T11:58:24.047Z
 published: "[[2025-04-26]]"
-cssclasses: ""
 parent: "[[How To Retain Knowledge]]"
 state:
   - evergreen
@@ -26,4 +25,4 @@ When **data is extracted** from your surrounding world, that information **shoul
 
 # Why Elaborate?
 
-[[KIT/Write notes to your future self\|Write Notes To You]]! After all, notes are meant to be useful for you. 
+[[Write notes to your future self|Write Notes To You]]! After all, notes are meant to be useful for you.

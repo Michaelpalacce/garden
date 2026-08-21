@@ -2,9 +2,8 @@
 publish: true
 description: Repairing stake data during read
 created: "[[2024-09-06]]"
-modified: 2026-01-10T23:37:20.634+02:00
+modified: 2026-01-10T21:37:20.634Z
 published: "[[2024-09-06]]"
-cssclasses: ""
 parent: "[[Error Resiliency]]"
 state:
   - sapling
@@ -16,4 +15,3 @@ research: true
 
 > [!info]+
 > The process of repairing stale data in nodes when reading them, as that is the most opportune time to do so, given that we've already performed the read.
-

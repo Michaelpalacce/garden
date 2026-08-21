@@ -4,9 +4,8 @@ aliases:
   - Cloud-Native Postgres
 description: A kubernetes controller for managing the lifecycle of postgres databases in Kubernetes
 created: "[[2026-01-19]]"
-modified: 2026-01-20T00:43:27.512+02:00
+modified: 2026-01-26T18:25:12.045Z
 published: "[[2026-01-19]]"
-cssclasses: ""
 parent: "[[Kubernetes - Operator]]"
 state:
   - sapling
@@ -25,4 +24,4 @@ links:
 - Troubleshooting
 - Tups & Tricks
 - Ops
-	- [[cnpg - Migrating From External Postgres]]
+  - [[cnpg - Migrating From External Postgres]]

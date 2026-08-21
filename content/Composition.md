@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-13]]"
-modified: 2026-01-11T21:00:52.259+02:00
+modified: 2026-01-11T19:00:52.259Z
 published: "[[2023-06-13]]"
-cssclasses: ""
 parent: "[[Software Engineering Index|Software Engineering]]"
 opposes: "[[Inheritance]]"
 state: evergreen
@@ -12,15 +11,15 @@ aliases:
 ---
 
 > [!success] ~ What ? ~
-> Composition is when we use other classes to build more complex classes and there is no parent/child relationship as is with [[Inheritance\|Inheritance]]. Composition represents a **has-a** relationship. ^mc7wor
+> Composition is when we use other classes to build more complex classes and there is no parent/child relationship as is with [[Inheritance|Inheritance]]. Composition represents a **has-a** relationship. ^mc7wor
 
 # Overview
 
-Composition allows us to [[Inheritance#Coupling To The Parent Class\|decouple]] the [[Inheritance#Massive Inheritance Chains\|massive inheritance chains]] that we've created.
+Composition allows us to [[Inheritance#Coupling To The Parent Class|decouple]] the [[Inheritance#Massive Inheritance Chains|massive inheritance chains]] that we've created.
 
-Composition is a very common thing used in [[Go\|Go]], where [[Go - Struct\|structs]] are passed to other structs to use as they see fit directly instead of inheriting the parent's properties.  
+Composition is a very common thing used in [[Go|Go]], where [[Go - Struct|structs]] are passed to other structs to use as they see fit directly instead of inheriting the parent's properties.
 
-If all functions in a composition are [[Pure Functions\|pure]], then the result of the composition is pure so we can derive more complex scenarios from simpler ones.
+If all functions in a composition are [[Pure Functions|pure]], then the result of the composition is pure so we can derive more complex scenarios from simpler ones.
 
 # Example Of Composition
 
@@ -59,7 +58,7 @@ class SvgImage {
 }
 ```
 
-Take a look at the alternative [[Inheritance#Example Of Inheritance Chains\|with inheritance]].
+Take a look at the alternative [[Inheritance#Example Of Inheritance Chains|with inheritance]].
 
 # Abstracting Through Interfaces
 

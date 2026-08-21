@@ -3,9 +3,8 @@ publish: true
 aliases:
   - Javascript Object Notation
 created: "[[2023-05-27]]"
-modified: 2026-01-10T02:20:34.572+02:00
+modified: 2026-01-10T00:20:34.572Z
 published: "[[2023-05-27]]"
-cssclasses: ""
 parent: "[[Serialize|Serialization]]"
 state:
   - sapling
@@ -18,4 +17,4 @@ opposes:
 ---
 
 > [!info]
-> **J**avascript **O**bject **No**tation is a standard that can be used to [[Serialize]] and [[Deserialize]] data. 
+> **J**avascript **O**bject **No**tation is a standard that can be used to [[Serialize]] and [[Deserialize]] data.

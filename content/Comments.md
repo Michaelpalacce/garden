@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-17]]"
-modified: 2026-01-11T00:30:55.882+02:00
+modified: 2026-01-10T22:30:55.882Z
 published: "[[2023-06-17]]"
-cssclasses: ""
 parent: "[[Programming Index]]"
 state:
   - sapling
@@ -12,6 +11,6 @@ relates:
   - "[[Documentation]]"
 ---
 
-# Map Of Content 
+# Map Of Content
 
-- [[Comments - Best Practices\|Best Practices ]]
+- [[Comments - Best Practices|Best Practices ]]

@@ -2,9 +2,8 @@
 publish: true
 description: An extension of buildx
 created: "[[2026-01-26]]"
-modified: 2026-01-29T01:50:48.088+02:00
+modified: 2026-01-28T23:50:48.088Z
 published: "[[2026-01-26]]"
-cssclasses: ""
 parent: "[[Docker]]"
 state:
   - tree
@@ -16,11 +15,12 @@ links:
 ---
 
 > [!info]+
-> Docker bake allows us to efficiently build multiple images at the same time. 
+> Docker bake allows us to efficiently build multiple images at the same time.
 
 # Passing Variables
 
 Given a variable:
+
 ```hcl
 variable "ENV" {
   default = "staging"
@@ -33,7 +33,7 @@ You can change the value of this variable like:
 ENV=production docker bake
 ```
 
-# Groups 
+# Groups
 
 A group of target that can be targeted instead of individual targets one by one:
 
@@ -50,6 +50,7 @@ docker bake TARGET
 # Functions
 
 Example [[Semantic Versioning]] versions:
+
 ```hcl
 function "get_major_version" {
   params = [version]
@@ -85,4 +86,3 @@ target "myapp" {
   platforms = ["linux/amd64", "linux/arm64"]
 }
 ```
-

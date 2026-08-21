@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-07-18]]"
-modified: 2026-01-14T20:57:10.792+02:00
+modified: 2026-01-14T18:57:10.792Z
 published: "[[2025-07-18]]"
-cssclasses: ""
 parent: "[[Terraform]]"
 state:
   - tree

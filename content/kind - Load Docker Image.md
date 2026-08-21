@@ -2,9 +2,8 @@
 publish: true
 description: How to load a docker image in the kind cluster
 created: "[[2026-01-28]]"
-modified: 2026-01-28T17:45:09.471+02:00
+modified: 2026-01-28T09:19:48.078Z
 published: "[[2026-01-28]]"
-cssclasses: ""
 parent: "[[kind]]"
 state:
   - tree
@@ -13,7 +12,6 @@ relates:
   - "[[Docker]]"
   - "[[ContainerD]]"
 ---
-
 
 ```sh
 kind load docker-image IMAGENAME --name KIND_CLUSTER_NAME

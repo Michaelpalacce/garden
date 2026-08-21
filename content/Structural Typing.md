@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-03-20]]"
-modified: 2026-01-10T02:20:02.480+02:00
+modified: 2026-01-10T00:20:02.480Z
 published: "[[2024-03-20]]"
-cssclasses: ""
 parent: "[[Programming Index|Development]]"
 relates:
   - "[[Interface]]"
@@ -16,7 +15,7 @@ date: "[[2024-03-20]]"
 ---
 
 > [!info]
-> Structural Typing is when the **objects interface is determined by the methods and attributes it actually contains** rather than explicit extends. 
+> Structural Typing is when the **objects interface is determined by the methods and attributes it actually contains** rather than explicit extends.
 
 ```ts
 class PngImage {
@@ -41,4 +40,3 @@ interface ResizableImage {
 // The client should not be forced to implement methods it does not use
 function drawImage(image: Image) { image.draw(); }
 ```
-	

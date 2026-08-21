@@ -3,9 +3,8 @@ publish: true
 aliases:
   - 
 created: "[[2024-09-13]]"
-modified: 2026-01-13T00:10:33.098+02:00
+modified: 2026-01-12T22:10:33.098Z
 published: "[[2024-09-13]]"
-cssclasses: ""
 parent: "[[Linux]]"
 state:
   - tree

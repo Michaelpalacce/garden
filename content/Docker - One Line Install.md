@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-09-12]]"
-modified: 2026-01-14T20:53:29.744+02:00
+modified: 2026-01-14T18:53:29.744Z
 published: "[[2022-09-12]]"
-cssclasses: ""
 state:
   - evergreen
 parent: "[[Docker]]"

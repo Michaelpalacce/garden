@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-03-20]]"
-modified: 2026-01-10T02:21:45.452+02:00
+modified: 2026-01-10T00:21:45.452Z
 published: "[[2024-03-20]]"
-cssclasses: ""
 parent: "[[Programming Index|Development]]"
 state:
   - evergreen
@@ -14,11 +13,11 @@ opposes:
 date: "[[2024-03-20]]"
 ---
 
-# Types 
+# Types
 
-## Constructor Injection 
+## Constructor Injection
 
-Most common way of doing Dependency Injection. 
+Most common way of doing Dependency Injection.
 
 ```ts
 class UserService {
@@ -38,9 +37,9 @@ class UserRepository {
 const userService = new UserService(new UserRepository());
 ```
 
-## Property Injection 
+## Property Injection
 
-Dependencies are injected through public properties of a class. 
+Dependencies are injected through public properties of a class.
 
 ```ts
 class AuthService {
@@ -59,4 +58,4 @@ const authService = new AuthService();
 authService.userRepository = new UserRepository();
 ```
 
-While possible, this does make things harder to track. I also dislike objects that are unusable after they have been constructed. 
+While possible, this does make things harder to track. I also dislike objects that are unusable after they have been constructed.

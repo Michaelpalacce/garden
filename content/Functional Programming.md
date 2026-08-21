@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-13]]"
-modified: 2026-01-11T15:29:45.436+02:00
+modified: 2026-01-11T13:29:45.436Z
 published: "[[2023-06-13]]"
-cssclasses: ""
 parent: "[[Software Design#Software Design Paradigms|Software Design Paradigm]]"
 state:
   - sapling
@@ -19,10 +18,10 @@ date: "[[2023-06-13]]"
 
 - Getting Started
 - Principles
-	- [[Pure Functions\|Pure Functions]]
-	- [[Immutability\|Immutability]]
-	- [[Composition\|Composition]]
-- Methodologies 
-	- [[Partial Application]]
-	- [[Pattern Matching]]
-	- [[Monad]]
+  - [[Pure Functions|Pure Functions]]
+  - [[Immutability|Immutability]]
+  - [[Composition|Composition]]
+- Methodologies
+  - [[Partial Application]]
+  - [[Pattern Matching]]
+  - [[Monad]]

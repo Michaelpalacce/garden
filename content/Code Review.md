@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-10-09]]"
-modified: 2026-01-11T15:41:15.396+02:00
+modified: 2026-01-11T13:41:15.396Z
 published: "[[2024-10-09]]"
-cssclasses: ""
 parent: "[[Software Engineering Index]]"
 state:
   - sapling
@@ -20,7 +19,7 @@ aliases:
 
 # Focus on what is important
 
-# Big PRs should be split up 
+# Big PRs should be split up
 
 # Stick to what the PR should be
 

@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-08-28]]"
-modified: 2026-01-11T20:43:25.135+02:00
+modified: 2026-01-11T18:43:25.135Z
 published: "[[2022-08-28]]"
-cssclasses: ""
 parent: "[[DevOps Index|DevOps]]"
 state:
   - sapling
@@ -19,6 +18,6 @@ opposes:
 # Map Of Content
 
 - CI/CD
-	- [[Github - Actions]]
+  - [[Github - Actions]]
 - Tips and Tricks
-	- [[Github - Get Latest Tag From Repo]]
+  - [[Github - Get Latest Tag From Repo]]

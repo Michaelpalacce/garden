@@ -2,9 +2,8 @@
 publish: true
 description: Data structure for managing and tracking work items.
 created: "[[2024-08-07]]"
-modified: 2026-02-01T12:20:16.159+02:00
+modified: 2026-02-01T10:20:16.159Z
 published: "[[2024-08-07]]"
-cssclasses: ""
 parent: "[[Kubernetes - Operator]]"
 state:
   - evergreen
@@ -16,20 +15,20 @@ links:
 > [!info]+
 > A data structure used to manage and track work items that need to be processed.
 
-It contributes to [[Asynchronous\|Asynchronicity]] ensuring efficient managing of resources.
+It contributes to [[Asynchronous|Asynchronicity]] ensuring efficient managing of resources.
 
 # Key Characteristics
 
 - [[Rate Limiting]]
 - [[Deduplication]]
-- [[Retry Mechanism\|Retries]]
+- [[Retry Mechanism|Retries]]
 - [[Concurrency]]
 
 # How Work Queues Work in Kubernetes Operators:
 
 1. **Event Handling:** When an event (creation, update, or deletion of a [[Custom Resource]]) occurs, the operator’s controller watches for these events.
-2. **Queueing the Work:** The event triggers the addition of a work item to the work queue. 
-3. **Processing the Work:** Worker threads dequeue work items and process them. 
+2. **Queueing the Work:** The event triggers the addition of a work item to the work queue.
+3. **Processing the Work:** Worker threads dequeue work items and process them.
 4. **Retries and Errors:** If processing a work item fails, the item can be requeued with a delay, allowing the operator to retry processing after a specified interval.
 5. **Deduplication**: A CR can be processed at most by a single process at a time to prevent [[Race Condition]]
 

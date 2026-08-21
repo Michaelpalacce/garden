@@ -4,9 +4,8 @@ aliases:
   - How To Be Productive
   - How To Motivate Myself
 created: "[[2022-06-01]]"
-modified: 2026-01-11T18:20:39.403+02:00
+modified: 2026-01-11T16:20:39.403Z
 published: "[[2022-06-01]]"
-cssclasses: ""
 parent:
   - "[[Forest]]"
 state:
@@ -17,15 +16,15 @@ date: "[[2022-06-01]]"
 # Map Of Content
 
 - Encouraging Productivity
-	- Start with doing one simple thing and that will promote more productivity 
-	- Achieving a [[Flow\|flow state]]
-	- Better [[Time Management]] to [[Time Saving\|save time]]
-	- [[Tolerate Boredom]]
+  - Start with doing one simple thing and that will promote more productivity
+  - Achieving a [[Flow|flow state]]
+  - Better [[Time Management]] to [[Time Saving|save time]]
+  - [[Tolerate Boredom]]
 - Ruining Productivity
-	- [[Ruining Development Flow]]
-	- [[Context Switching]] is the fastest way to get you out of the flow state. With the tendency of being the thing that most often does so.
-	- [[Multitasking]]
+  - [[Ruining Development Flow]]
+  - [[Context Switching]] is the fastest way to get you out of the flow state. With the tendency of being the thing that most often does so.
+  - [[Multitasking]]
 - Day-To-Day
-	- [[How To Schedule Your Day\|Better scheduling of your day]]
+  - [[How To Schedule Your Day|Better scheduling of your day]]
 - Thoughts
-	- [[Productivity VS Motivation]]
+  - [[Productivity VS Motivation]]

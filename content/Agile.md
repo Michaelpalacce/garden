@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-19]]"
-modified: 2026-01-11T15:40:40.640+02:00
+modified: 2026-01-11T13:40:40.640Z
 published: "[[2023-06-19]]"
-cssclasses: ""
 parent: "[[Software Engineering Index|Software Engineering]]"
 state:
   - evergreen
@@ -16,13 +15,13 @@ date: "[[2023-06-19]]"
 # Map Of Content
 
 - Getting Started
-	- [[Sprint]]
-	- [[User Stories]]
-	- [[Story Points]] as the savior of agile
-	- [[Daily Stand Up]]
+  - [[Sprint]]
+  - [[User Stories]]
+  - [[Story Points]] as the savior of agile
+  - [[Daily Stand Up]]
 - Processes
-	- [[Estimating Tasks]]
-	- [[Work Breakdown Structure]]
+  - [[Estimating Tasks]]
+  - [[Work Breakdown Structure]]
 - Problems
-	- [[Task Bloating]] is when developers overestimate a task due to fear that they will be **held accountable for not reaching deadlines**.
-	- [[Ruining Development Flow]] as a result of agile deadlines and task reporting.
+  - [[Task Bloating]] is when developers overestimate a task due to fear that they will be **held accountable for not reaching deadlines**.
+  - [[Ruining Development Flow]] as a result of agile deadlines and task reporting.

@@ -2,9 +2,8 @@
 publish: true
 description: How to control the concurrency of a workflow
 created: "[[2026-01-15]]"
-modified: 2026-01-15T12:54:56.612+02:00
+modified: 2026-01-26T18:25:04.748Z
 published: "[[2026-01-15]]"
-cssclasses: ""
 parent: "[[Github - Actions]]"
 state:
   - sapling

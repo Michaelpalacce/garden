@@ -1,20 +1,19 @@
 ---
 publish: true
 created: "[[2026-01-14]]"
-modified: 2026-01-14T20:53:55.880+02:00
+modified: 2026-01-14T18:53:55.880Z
 published: "[[2026-01-14]]"
-cssclasses: ""
 parent: "[[Docker Compose]]"
 state: evergreen
 aliases:
 date: "[[2026-01-14]]"
 ---
 
-This is an example 
+This is an example
 
-docker-compose.yaml file that installs the *arr stack
+docker-compose.yaml file that installs the \*arr stack
 
-~~~yaml
+```yaml
 version: '3.6'
 
 services:
@@ -71,4 +70,4 @@ services:
             - ./shows:/data/shows
         restart: always
 
-~~~
+```

@@ -3,9 +3,8 @@ publish: true
 aliases:
   - How To Name Components
 created: "[[2023-06-30]]"
-modified: 2026-01-11T00:43:32.082+02:00
+modified: 2026-01-10T22:43:32.082Z
 published: "[[2023-06-30]]"
-cssclasses: ""
 parent: "[[Programming Index]]"
 state:
   - evergreen
@@ -20,8 +19,8 @@ They don't tell us anything about the code.
 let i = "Test";
 ```
 
-> [!tip]+ In [[Go]]? 
-> In Go it's common practice to use single letter variables for [[Go - Value Receivers\|value]] and [[Go - Pointer Receiver\|pointer]] receivers. 
+> [!tip]+ In [[Go]]?
+> In Go it's common practice to use single letter variables for [[Go - Value Receivers|value]] and [[Go - Pointer Receiver|pointer]] receivers.
 
 # Don't Abbreviate
 
@@ -35,14 +34,14 @@ They rely on context, that you in the future you, or another developer, may not 
 
 # Put Units In The Variable Name
 
-Think about the variable `timeout`. The variable fails to convey a very important piece of information and that is the unit. Is it seconds, milliseconds, nanoseconds? 
+Think about the variable `timeout`. The variable fails to convey a very important piece of information and that is the unit. Is it seconds, milliseconds, nanoseconds?
 
 `timeout` -> `timeoutSeconds`
 `remainingTime` -> `remainingTimeInMilliseconds`
 
 # Types In Types
 
-We shouldn't need to convey the type of a type this way. Let our [[IDE\|IDEs]] help us. Furthermore, you are working with a struct, so does it really matter if it's an interface or not? 
+We shouldn't need to convey the type of a type this way. Let our [[IDE|IDEs]] help us. Furthermore, you are working with a struct, so does it really matter if it's an interface or not?
 
 ```ts
 interface IAnimal {}

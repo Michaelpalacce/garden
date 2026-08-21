@@ -2,9 +2,8 @@
 publish: true
 description: Focusing on the proposed solution rather than the actual problem.
 created: "[[2024-10-11]]"
-modified: 2026-01-11T15:13:49.849+02:00
+modified: 2026-01-11T13:13:49.849Z
 published: "[[2024-10-11]]"
-cssclasses: ""
 parent: "[[Troubleshooting]]"
 state:
   - evergreen

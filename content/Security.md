@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-05-27]]"
-modified: 2026-01-11T18:20:39.415+02:00
+modified: 2026-01-11T16:20:39.415Z
 published: "[[2023-05-27]]"
-cssclasses: ""
 parent: "[[Forest]]"
 state:
   - evergreen
@@ -13,42 +12,42 @@ date: "[[2023-05-27]]"
 # Map Of Content
 
 - Introduction
-	- Explanation of the importance of online security
-	- Overview of common online threats
-- Why should [[Data Ownership]] be important for everyone? 
-	- ![[Data Ownership#Pros]]
+  - Explanation of the importance of online security
+  - Overview of common online threats
+- Why should [[Data Ownership]] be important for everyone?
+  - ![[Data Ownership#Pros]]
 - Passwords
-	- [[Identity Providers\|IDP]] - identity providers are used to store user identity information. 
-	- Best practices for creating strong passwords
-	- Tips for storing and managing passwords securely
-	- How to use password managers effectively
+  - [[Identity Providers|IDP]] - identity providers are used to store user identity information.
+  - Best practices for creating strong passwords
+  - Tips for storing and managing passwords securely
+  - How to use password managers effectively
 - Authentication
-	- [[JSON Web Token\|JWT]] - [[JSON\|JSON]]  Web Tokens are widely used as a secure way of keeping user session and giving them permissions.
-	- [[Personal Access Token\|Personal Access Tokens]] are used to protect user's credentials and provide a fine grained permissions capabilities to administrators.
+  - [[JSON Web Token|JWT]] - [[JSON|JSON]]  Web Tokens are widely used as a secure way of keeping user session and giving them permissions.
+  - [[Personal Access Token|Personal Access Tokens]] are used to protect user's credentials and provide a fine grained permissions capabilities to administrators.
 - [[Phishing]]
-	- Definition and explanation of phishing scams
-	- How to identify phishing emails and websites
-	- Tips for avoiding falling victim to phishing scams
-- [[Malware]] and [[Virus\|Viruses]]
-	- Overview of different types of malware and viruses 
-	- How to protect devices from malware and viruses 
-	- Steps to take if a device becomes infected with malware or a virus 
-- Public WiFi Networks 
-	- Risks associated with public Wi-Fi  networks 
-	- Best practices for using public WiFi safely 
-	- Alternatives to public WiFi 
+  - Definition and explanation of phishing scams
+  - How to identify phishing emails and websites
+  - Tips for avoiding falling victim to phishing scams
+- [[Malware]] and [[Virus|Viruses]]
+  - Overview of different types of malware and viruses
+  - How to protect devices from malware and viruses
+  - Steps to take if a device becomes infected with malware or a virus
+- Public WiFi Networks
+  - Risks associated with public Wi-Fi  networks
+  - Best practices for using public WiFi safely
+  - Alternatives to public WiFi
 - [[Two-Factor Authentication]]
-	- Explanation of two-factor authentication (2FA) 
-	- Benefits and drawbacks of 2FA 
-	- How to set up 2FA for various accounts 
-- Social Engineering Attacks 
-	- Definition and explanation of social engineering attacks 
-	- Examples of social engineering attacks 
-	- Tips for avoiding falling victim to social engineering attacks 
+  - Explanation of two-factor authentication (2FA)
+  - Benefits and drawbacks of 2FA
+  - How to set up 2FA for various accounts
+- Social Engineering Attacks
+  - Definition and explanation of social engineering attacks
+  - Examples of social engineering attacks
+  - Tips for avoiding falling victim to social engineering attacks
 - Access
-	- [[Least Privilege Principle]]
+  - [[Least Privilege Principle]]
 - Attacks
-	- [[DDoS Protection]]
+  - [[DDoS Protection]]
 - Logs
-	- [[SIEM]]
+  - [[SIEM]]
 - [[Cryptography]]

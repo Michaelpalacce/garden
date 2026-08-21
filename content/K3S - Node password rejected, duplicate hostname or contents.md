@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-07-21]]"
-modified: 2026-01-12T22:36:36.623+02:00
+modified: 2026-01-12T20:36:36.623Z
 published: "[[2025-07-21]]"
-cssclasses: ""
 parent: "[[K3S]]"
 state:
   - evergreen

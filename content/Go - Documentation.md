@@ -3,9 +3,8 @@ publish: true
 aliases:
   - godoc
 created: "[[2024-09-05]]"
-modified: 2026-01-11T00:33:50.994+02:00
+modified: 2026-01-10T22:33:50.994Z
 published: "[[2024-09-05]]"
-cssclasses: ""
 parent:
   - "[[Go]]"
   - "[[Documentation]]"
@@ -20,7 +19,6 @@ links:
 
 > [!info]+
 > In Go, documentation is just normal code comments. If you want to document a var,struct,const,type,package, then just add a `//` before it and write as much as you need.
-
 
 # Where to put package documentation
 

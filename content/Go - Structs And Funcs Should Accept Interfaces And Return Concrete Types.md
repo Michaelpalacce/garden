@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-09-05]]"
-modified: 2026-01-11T15:29:02.160+02:00
+modified: 2026-01-11T13:29:02.160Z
 published: "[[2024-09-05]]"
-cssclasses: ""
 parent: "[[Go - Best Practices]]"
 state:
   - evergreen
@@ -14,9 +13,9 @@ relates:
 
 > [!info]+
 > When working with struct definitions, functions, interfaces and such, always try to work with interfaces, rather than concrete types.
-> Accept [[Go - Interface\|Interfaces]], return concrete structs. 
+> Accept [[Go - Interface|Interfaces]], return concrete structs.
 
-# Example 
+# Example
 
 ```go
 package main

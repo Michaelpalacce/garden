@@ -2,9 +2,8 @@
 publish: true
 description: From the Kingkiller chronicles
 created: "[[2026-01-08]]"
-modified: 2026-01-09T13:59:18.917+02:00
+modified: 2026-01-09T11:59:18.917Z
 published: "[[2026-01-08]]"
-cssclasses: ""
 parent:
   - "[[Quotes]]"
 state:

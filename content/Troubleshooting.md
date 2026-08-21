@@ -3,15 +3,14 @@ publish: true
 aliases:
   - Problem Solving
 created: "[[2024-10-11]]"
-modified: 2026-01-11T15:13:42.629+02:00
+modified: 2026-01-11T13:13:42.629Z
 published: "[[2024-10-11]]"
-cssclasses: ""
 parent: "[[Soft Skills]]"
 state:
   - evergreen
 date: "[[2024-10-11]]"
 relates:
-  - "[[KIT/Learning By Troubleshooting]]"
+  - "[[Learning By Troubleshooting]]"
 ---
 
 > [!info]+
@@ -21,4 +20,4 @@ relates:
 
 - [[Learning By Troubleshooting]]
 - Start
-	- [[The XY Problem]]
+  - [[The XY Problem]]

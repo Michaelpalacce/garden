@@ -5,9 +5,8 @@ aliases:
   - Kubernetes - TSC
 description: How to distribute where your apps go based on external factors like geo location
 created: "[[2025-05-26]]"
-modified: 2026-01-14T11:23:48.984+02:00
+modified: 2026-01-14T09:23:48.984Z
 published: "[[2025-05-26]]"
-cssclasses: ""
 parent: "[[Kubernetes]]"
 state:
   - tree

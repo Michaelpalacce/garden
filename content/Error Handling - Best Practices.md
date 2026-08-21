@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-02-01]]"
-modified: 2026-01-10T23:27:15.490+02:00
+modified: 2026-01-10T21:27:15.490Z
 published: "[[2023-02-01]]"
-cssclasses: ""
 parent: "[[Error Handling]]"
 state: evergreen
 date: "[[2023-02-01]]"
@@ -39,9 +38,9 @@ Integration tests also play a role here, by testing how different systems or com
 > [!info] ~ What ? ~
 > Logic errors, or bugs, occur when the program's logic is flawed, leading to unintended or incorrect behavior.
 
-Unit tests play a small role in detecting runtime errors, but not as much as Integration tests do. [[Testing - Integration Tests\|Integration tests]] can prevent regressions, test how components integrate and such.
+Unit tests play a small role in detecting runtime errors, but not as much as Integration tests do. [[Testing - Integration Tests|Integration tests]] can prevent regressions, test how components integrate and such.
 
-[[Code Review\|Code reviews]] are a great way to discover logic errors, if the reviewer is careful.
+[[Code Review|Code reviews]] are a great way to discover logic errors, if the reviewer is careful.
 
 ## Handle Errors At An Appropriate Time
 
@@ -51,6 +50,7 @@ Unit tests play a small role in detecting runtime errors, but not as much as Int
 Delegate error handling to the caller when possible. Give ability to handle errors ( without the use of try catch ) to the caller.
 
 Instead of:
+
 ```ts
 class PersonManager {  
    private people = {  
@@ -81,6 +81,7 @@ catch(e){
 ```
 
 Do:
+
 ```ts
 class PersonManager {  
    private people = {  
@@ -119,16 +120,18 @@ if ( manager.hasPerson(person)){
 
 ## Meaningful Error Messages
 
-When writing error messages, make sure they are easily identifiable. 
+When writing error messages, make sure they are easily identifiable.
 
 When you encounter an error the first thing you as a developer would do is look the message up in the code. The faster you can find where the problem originated, the easier your job would be.
 
 Avoid writing error messages that give off little information like:
+
 ```ts
 throw new Error(`input: ${JSON.stringify(input)}`);
 ```
 
 Write more meaningful error messages like this:
+
 ```ts
 throw new Error(`Missing username key, but was required to register user. Input was: ${JSON.stringify(input)}`);
 ```
@@ -153,11 +156,12 @@ Imagine you have a "logging" component that sends usage/analytics to an external
 
 ### No Giant Try Catch Statements
 
-Avoid writing complex logic in a try catch, instead if that is needed, move all the logic inside a different method to make the code more readable and maintainable. 
+Avoid writing complex logic in a try catch, instead if that is needed, move all the logic inside a different method to make the code more readable and maintainable.
 
 "Giant" try catch statements often lead to developers getting lazy with error handling and "relying" that any errors will be handled by it, which is not a good practice.
 
 Consider the following example:
+
 ```ts
 class Authenticator {  
    bearerToken = null  
@@ -184,6 +188,7 @@ class Authenticator {
 ### Little To No Logic In Catch Block
 
 When writing a catch statement there are a few possibilities:
+
 1. Log the error and continue for non fatal errors
 2. Rethrow with additional information
 3. Catch and set a flag for rollback
@@ -202,6 +207,7 @@ This goes back to delegation of error handling. Instead of relying on a throw, c
 If you catch an error and you decide to do something with it and rethrow it, do not discard the original error. Fetch as much information FROM it as possible and even include it as part of the rethrown error.
 
 Instead of:
+
 ```ts
 function test() {  
    try{  
@@ -214,6 +220,7 @@ function test() {
 ```
 
 Do:
+
 ```ts
 function test() {
 
@@ -234,21 +241,24 @@ How can we design our code better so we can avoid errors, or handle errors more 
 
 ### Idempotency
 
-What is [[Idempotent\|Idempotency]]? In programming this is when you execute an operation and no matter how many times that same operation is executed the results will be the same.
+What is [[Idempotent|Idempotency]]? In programming this is when you execute an operation and no matter how many times that same operation is executed the results will be the same.
 
 A great example for this is a simple DELETE HTTP request.
 
 Imagine you are trying to delete an element:
+
 1. Element gets deleted and we get a response with "OK" and 200 status code.
 2. We try to delete the element again
 3. The element does not exist, so we return another response with "OK" and 200 status code.
 
-This way you get more resilient code that you can inject into long and complex pipelines. Examples 
+This way you get more resilient code that you can inject into long and complex pipelines. Examples
+
 - VM Commissioning workflow, tasks that were already executed, can be re-executed  before, with check if they've already been done
 - VM Decommissioning workflow, same as the commissioning one.
 - Configuration workflow, when you've configured something, it does not need reconfiguring at a later stage, so we can add a check. ( e.g. Ansible playbooks )
 
 Instead of:
+
 ```ts
 class Api {  
    private departments = {  
@@ -273,6 +283,7 @@ api.deleteUser("Dave", "development");
 ```
 
 Better example:
+
 ```ts
 class Api {  
    private departments = {  
@@ -314,6 +325,7 @@ Assume anything and everything will fail. Assume that users will input incorrect
 The main idea of this is to be able to throw a more meaningful error. Errors like: `cannot read key "properties" of undefined` are not as helpful as `Cannot find user with name: Dave` for example.
 
 Instead of:
+
 ```ts
 class PersonManager {  
    private people = {  
@@ -340,6 +352,7 @@ console.log(manager.getSalary(person));
 ```
 
 Do:
+
 ```ts
 class PersonManager {  
    private people = {  
@@ -377,11 +390,12 @@ When possible, attempt retries. If your code is structured in a way where they u
 
 ### Check For Errors First
 
-Always do validation first. Get everything needed to validate your result. 
+Always do validation first. Get everything needed to validate your result.
 
 This will simplify your code so
 
 instead of:
+
 ```ts
 const users = {};  
   
@@ -415,6 +429,7 @@ function registerUser(user: string) {
 ```
 
 Do:
+
 ```ts
 const users = {};  
   
@@ -445,11 +460,10 @@ function registerUser(user: string) {
 }
 ```
 
-## Rollback During Errors 
+## Rollback During Errors
 
-When an error occurs, developers need to think if the state was polluted in any way. Was my database affected? Did I insert/update/delete something that should be restored? Did I release an IP? 
+When an error occurs, developers need to think if the state was polluted in any way. Was my database affected? Did I insert/update/delete something that should be restored? Did I release an IP?
 
 - Always clean up any mess you've done where applicable
 - Try to use/write Atomic Operations when possible (Transaction SQL statements to name one)
 - Write resilient rollbacks. Keep in mind the worst case scenario has happened, there was an error in our code, so we need to salvage as much as possible. We don't want our rollbacks to fail. If there is an error during cleanup, **log the error**, manual intervention may be needed and we need to know how far we got.
-

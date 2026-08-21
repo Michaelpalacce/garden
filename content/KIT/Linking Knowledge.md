@@ -3,9 +3,8 @@ publish: true
 aliases:
   - How to make good links in obsidian
 created: "[[2025-02-20]]"
-modified: 2026-01-09T13:58:24.450+02:00
+modified: 2026-01-09T11:58:24.450Z
 published: "[[2025-02-20]]"
-cssclasses: ""
 parent: "[[Linking Your Thinking]]"
 state:
   - evergreen
@@ -14,7 +13,7 @@ date: "[[2025-02-20]]"
 
 # Whole Files
 
-Prefer using whole files by default, so you can easily dig deeper into the problem only if needed. 
+Prefer using whole files by default, so you can easily dig deeper into the problem only if needed.
 
 ```
 [[Some Note]] 

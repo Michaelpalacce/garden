@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-09-17]]"
-modified: 2026-01-21T09:25:37.602+02:00
+modified: 2026-01-21T07:25:37.602Z
 published: "[[2025-09-17]]"
-cssclasses: ""
 parent: "[[Security]]"
 state:
   - sapling
@@ -18,5 +17,5 @@ relates:
 - [[Assymetric Cryptography]]
 - [[Symmetric Cryptography]]
 - Software
-	- [[Age (Encryption)]]
-	- [[SOPS]]
+  - [[Age (Encryption)]]
+  - [[SOPS]]

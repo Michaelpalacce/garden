@@ -2,9 +2,8 @@
 publish: true
 description: The stages that a company will go through as it expands its internal automation
 created: "[[2025-10-06]]"
-modified: 2026-01-21T14:22:41.742+02:00
+modified: 2026-01-21T12:22:41.742Z
 published: "[[2025-10-06]]"
-cssclasses: ""
 parent:
   - "[[Automation]]"
   - "[[DevOps Index]]"
@@ -22,7 +21,7 @@ links:
 # Stage One - Manual
 
 - Automation doesn't exist, or if it does it's not heavily used
-	- Potentially used by limited few with access
+  - Potentially used by limited few with access
 - Bottlenecks come up
 - Innovation is slow
 - Regressions are common
@@ -30,9 +29,9 @@ links:
 # Stage Two - Siloed
 
 - Teams are starting to use automation
-- Few individuals actually innovate, most just benefit. 
-- There is still an over-reliance on tickets and manual work. 
-- 
+- Few individuals actually innovate, most just benefit.
+- There is still an over-reliance on tickets and manual work.
+-
 
 # Stage Three - Centralized
 
@@ -48,4 +47,4 @@ links:
 
 - Automation is ruining in the background responding to incidents, events and other occurrences
 - Actions are actively taken autonomously in the background
-- In this stage maybe [[Artificial Intelligence\|AI]] agents can help, as operators would explain what they require and agents would make it happen. *What a world we live in*
+- In this stage maybe [[Artificial Intelligence|AI]] agents can help, as operators would explain what they require and agents would make it happen. _What a world we live in_

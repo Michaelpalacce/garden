@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-01-24]]"
-modified: 2026-01-12T22:28:24.639+02:00
+modified: 2026-01-12T20:28:24.639Z
 published: "[[2024-01-24]]"
-cssclasses: ""
 parent: "[[Go|Golang]]"
 state:
   - evergreen
@@ -61,9 +60,10 @@ func createDefaultClient() (*http.Client, error) {
 # 2. Unnecessary nested code
 
 > [!info] TL;DR
-> Think if you actually need to nest code. I am a [[Never Nester]]. 
+> Think if you actually need to nest code. I am a [[Never Nester]].
 
 Instead of doing something like this:
+
 ```go
 if foo() {
     // ...
@@ -74,6 +74,7 @@ if foo() {
 ```
 
 Do this
+
 ```go
 if foo() {
     // ...
@@ -82,7 +83,7 @@ if foo() {
 // ...
 ```
 
-The same can be applied to errors. Try to handle errors first. [[Error Handling - Best Practices#Check For Errors First\|See here]] for more details.
+The same can be applied to errors. Try to handle errors first. [[Error Handling - Best Practices#Check For Errors First|See here]] for more details.
 
 # 3. Misusing init functions
 
@@ -92,7 +93,6 @@ The same can be applied to errors. Try to handle errors first. [[Error Handling 
 An init function is a `func() {}` that takes no arguments and returns nothing. It is used to initialize the state of some applications.
 
 Init functions will limit error handling and will hinder testing.
-
 
 # 4. Overusing getters and setters
 
@@ -108,7 +108,7 @@ Getters and setters provide Data encapsulation and in some cases they may be nee
 > [!info] TL;DR
 > [[Abstractions should be discovered, not created]]. Go doesn't support `implements` syntax but relies on interfaces a lot. Use interfaces only when they are deemed necessary or when you have a vision that they will be absolutely necessary.
 
-Overusing [[Go - Interface\|Interfaces]] will lead to code that is harder to read and understand. Try to keep things simple with Go.
+Overusing [[Go - Interface|Interfaces]] will lead to code that is harder to read and understand. Try to keep things simple with Go.
 
 > [!quote] Rob Pike
 > Don’t design with interfaces, discover them.
@@ -124,6 +124,7 @@ Interfaces are implicitly satisfied, so we don't need to define what our interfa
 > In case when we **know** that an abstraction will be helpful for consumers, we can create the interface.
 
 `store.go` contains the business logic.
+
 ```go
 package store
 
@@ -140,6 +141,7 @@ type Customer struct{}
 ```
 
 `client.go` wants to be able to retrieve something from the `CustomerStorage`, they only need the `GetAllCustomers` method.
+
 ```go
 package client
 
@@ -161,7 +163,6 @@ This can make our design more complex due to package dependencies and can restri
 
 > [!info] TL;DR
 > `any` doesn't give you meaningful information and can lead easily to compile time or runtime issues. Use `any` for example when working with `json.Marshal` and such, but nowhere else.
-
 
 # 11. Not using the functional options pattern
 

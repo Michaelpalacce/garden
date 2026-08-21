@@ -2,9 +2,8 @@
 publish: true
 description: With the help of curl
 created: "[[2024-11-18]]"
-modified: 2026-01-11T20:43:29.955+02:00
+modified: 2026-01-11T18:43:29.955Z
 published: "[[2024-11-18]]"
-cssclasses: ""
 parent: "[[Github]]"
 state:
   - evergreen

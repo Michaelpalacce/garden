@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-18]]"
-modified: 2026-01-11T15:29:23.396+02:00
+modified: 2026-01-11T13:29:23.396Z
 published: "[[2023-06-18]]"
-cssclasses: ""
 parent: "[[SOLID]]"
 state: sapling
 aliases:
@@ -11,7 +10,7 @@ date: "[[2023-06-18]]"
 ---
 
 > [!success] ~ What ? ~
-> Our modules should need to know about functionality they don't use. 
+> Our modules should need to know about functionality they don't use.
 
 We need to split our modules into smaller abstractions, like interfaces.
 

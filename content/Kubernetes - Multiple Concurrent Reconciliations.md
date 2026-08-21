@@ -4,9 +4,8 @@ aliases:
   - Kubernetes Operator - Race Conditions
 description: How to scale your operator to handle more requests
 created: "[[2026-02-01]]"
-modified: 2026-02-01T12:29:30.659+02:00
+modified: 2026-02-02T07:34:59.484Z
 published: "[[2026-02-01]]"
-cssclasses: ""
 parent: "[[Kubernetes - Operator]]"
 state:
   - sapling
@@ -16,7 +15,7 @@ relates:
   - "[[Kubernetes - Concurrency Control And Consistency]]"
 ---
 
-# How? 
+# How?
 
 If you are using the [[controller-runtime]], it's easy:
 
@@ -33,7 +32,7 @@ func (r *SomeReconciler) SetupWithManager(mgr ctrl.Manager) error {
 
 ```
 
-Internally [go work queue](https://pkg.go.dev/k8s.io/client-go/util/workqueue) is used. 
+Internally [go work queue](https://pkg.go.dev/k8s.io/client-go/util/workqueue) is used.
 
 If not, the documentation of the work queue package explains it best what is needed:
 
@@ -48,8 +47,8 @@ Package workqueue provides a simple queue that supports the following features:
 
 # Race Conditions
 
-The are multiple stages for preventing [[Race Condition\|race conditions]] from happening. 
+The are multiple stages for preventing [[Race Condition|race conditions]] from happening.
 
-1. [[Kubernetes - Work Queue\|Work Queues]] are used internally by the [[controller-runtime]]
-2. [[Kubernetes - Concurrency Control And Consistency#resourceVersion\|With the help of resourceVersion]] to prevent updates on stale resources
-3. Following an [[Idempotent]] approach to writing operator logic. 
+1. [[Kubernetes - Work Queue|Work Queues]] are used internally by the [[controller-runtime]]
+2. [[Kubernetes - Concurrency Control And Consistency#resourceVersion|With the help of resourceVersion]] to prevent updates on stale resources
+3. Following an [[Idempotent]] approach to writing operator logic.

@@ -4,9 +4,8 @@ aliases:
   - K8S
 description: Distributed, fault-tolerant, highly available customizable extensible platform for managing container workflows.
 created: "[[2022-05-02]]"
-modified: 2026-01-31T23:42:06.805+02:00
+modified: 2026-01-31T21:42:06.805Z
 published: "[[2022-05-02]]"
-cssclasses: ""
 parent: "[[DevOps Index|DevOps]]"
 state:
   - evergreen
@@ -19,107 +18,106 @@ relates:
 date: "[[2022-05-02]]"
 ---
 
-Kubernetes is a distributed, fault-tolerant, highly-available, customizable, extensible platform for managing container ([[Containers]]) workflows. 
+Kubernetes is a distributed, fault-tolerant, highly-available, customizable, extensible platform for managing container ([[Containers]]) workflows.
 
 # Map Of Content
 
 - Flavors
-	- [[K3S\|K3S]] - a lightweight K8S distribution
-	- [[Tanzu\|Tanzu]] - VMware kubernetes implementation
-	- [[Talos Linux\|Talos Linux]]
-	- [[OpenShift]]
-	- [[kind]]
+  - [[K3S|K3S]] - a lightweight K8S distribution
+  - [[Tanzu|Tanzu]] - VMware kubernetes implementation
+  - [[Talos Linux|Talos Linux]]
+  - [[OpenShift]]
+  - [[kind]]
 - CSI - Container Storage Interface
-	- [[Longhorn\|Longhorn]] Distributed hyper-converged storage solution by the people behind K3S
+  - [[Longhorn|Longhorn]] Distributed hyper-converged storage solution by the people behind K3S
 - CNIs - Container Networking Interface
-	- [[Calico Cni\|Calico]] - Calico is an amazing CNI that has all the features one might need with a bunch of flexibility.
-- [[GitOps]] 
-	- [[FluxCD2\|FluxCD2]] | [[ArgoCD]]
+  - [[Calico Cni|Calico]] - Calico is an amazing CNI that has all the features one might need with a bunch of flexibility.
+- [[GitOps]]
+  - [[FluxCD2|FluxCD2]] | [[ArgoCD]]
 - Backup Solutions
-	- [[Velero\|Velero]]
-- [[Kubernetes - Operator\|Operator]] - Software operator for managing [[Statefull]] applications 
+  - [[Velero|Velero]]
+- [[Kubernetes - Operator|Operator]] - Software operator for managing [[Statefull]] applications
 - Tools
-	- [[kubectl\|kubectl]] - Kubectl is used to administer the Kubernetes cluster(s)
-	- [[Helm\|Helm]] - used to package and deploy applications
-	- [[kube-vip\|kube-vip]]
-	- [[Kyverno]]
+  - [[kubectl|kubectl]] - Kubectl is used to administer the Kubernetes cluster(s)
+  - [[Helm|Helm]] - used to package and deploy applications
+  - [[kube-vip|kube-vip]]
+  - [[Kyverno]]
 - Manifests
-	- [[Kubernetes - Generation Field]]
-	- [[Kubernetes - Labels, Annotations, Selectors]]
-	- [[Kubernetes - Owners And Dependents]]
+  - [[Kubernetes - Generation Field]]
+  - [[Kubernetes - Labels, Annotations, Selectors]]
+  - [[Kubernetes - Owners And Dependents]]
 - Lifecycle
-	- [[Kubernetes - Ready Status]]
+  - [[Kubernetes - Ready Status]]
 - Advanced
-	- [[Kubernetes - Concurrency Control And Consistency]]
-	- [[Kubernetes - Deletion]]
-	- [[Kubernetes - Multi Cluster Communication]]
-	- [[ContainerD - Manually Importing Images Into Kubernetes]]
+  - [[Kubernetes - Concurrency Control And Consistency]]
+  - [[Kubernetes - Deletion]]
+  - [[Kubernetes - Multi Cluster Communication]]
+  - [[ContainerD - Manually Importing Images Into Kubernetes]]
 - Networking
-	- [[Kubernetes - Ingress Nginx]]
-	- [[Kubernetes - Gateway API]]
-	- [[Kubernetes - EndpointSlices]]
-	- [[Kubernetes - Service]]
-	- [[Kubernetes - Topology Aware Routing]]
-	- [[Konnectivity]]
+  - [[Kubernetes - Ingress Nginx]]
+  - [[Kubernetes - Gateway API]]
+  - [[Kubernetes - EndpointSlices]]
+  - [[Kubernetes - Service]]
+  - [[Kubernetes - Topology Aware Routing]]
+  - [[Konnectivity]]
 - Security
-	- [[Kubernetes - Allow Anonymous Access To Specific Endpoints]]
-	- [[Kubernetes - Security Context]]
-	- [[Kubernetes - Certificates And Certificate Signing Requests]]
-	- [[Kubernetes - Service Account]]
+  - [[Kubernetes - Allow Anonymous Access To Specific Endpoints]]
+  - [[Kubernetes - Security Context]]
+  - [[Kubernetes - Certificates And Certificate Signing Requests]]
+  - [[Kubernetes - Service Account]]
 - Architecture
-	- [[etcd]]
-	- [[Kubernetes - kube-controller-manager]]
-	- [[Kubernetes - cloud-controller manager]]
-	- [[Kubernetes - kube-scheduler]]
-	- [[Kubernetes - kube-apiserver]]
-	- [[Kubernetes - kube-proxy]]
+  - [[etcd]]
+  - [[Kubernetes - kube-controller-manager]]
+  - [[Kubernetes - cloud-controller manager]]
+  - [[Kubernetes - kube-scheduler]]
+  - [[Kubernetes - kube-apiserver]]
+  - [[Kubernetes - kube-proxy]]
 - Placement
-	- [[Kubernetes - Topology Spread Constraints\|Topology Spread Constraints]]
+  - [[Kubernetes - Topology Spread Constraints|Topology Spread Constraints]]
 - SRE
-	- [[Kubernetes - Requests And Limits\|Requests And Limits]]
-	- [[Kubernetes - Horizontal Pod Autoscaler\|Horizontal Pod Autoscaler]]
-	- [[Kubernetes - Vertical Pod Autoscaler\|Vertical Pod Autoscaler]]
-	- [[Kubernetes - Node Autoscaler\|Node Autoscaler]]
-	- [[Kubernetes - High Availability]]
-	- [[Kubernetes - Observability]]
+  - [[Kubernetes - Requests And Limits|Requests And Limits]]
+  - [[Kubernetes - Horizontal Pod Autoscaler|Horizontal Pod Autoscaler]]
+  - [[Kubernetes - Vertical Pod Autoscaler|Vertical Pod Autoscaler]]
+  - [[Kubernetes - Node Autoscaler|Node Autoscaler]]
+  - [[Kubernetes - High Availability]]
+  - [[Kubernetes - Observability]]
 - [[Kubernetes - Admission Controllers]]
 - [[Kubernetes - Downard API]]
 - Tips And Tricks
-	- [[Kubernetes - Delete All Empty Replicasets]]
-	- [[Kubernetes - Get Logs Of All Containers In Namespace]]
+  - [[Kubernetes - Delete All Empty Replicasets]]
+  - [[Kubernetes - Get Logs Of All Containers In Namespace]]
 
 # Components Map Of Content
 
 - Compute
-	- [[Kubernetes - Node\|Node]]
+  - [[Kubernetes - Node|Node]]
 - Administration
-	- [[Kubernetes - PriorityClass]]
-	- [[Kubernetes - Pod Disruption Budget]]
+  - [[Kubernetes - PriorityClass]]
+  - [[Kubernetes - Pod Disruption Budget]]
 - RBAC
-	- [[Kubernetes - RoleBinding\|RoleBindings]]
-	- [[Kubernetes - ClusterRoleBinding\|ClusterRoleBindings]]
-- [[Kubernetes - ConfigMap\|ConfigMap]]
-- [[Kubernetes - Secret\|Secrets]]
-- [[Kubernetes - CRD\|CRD]]
+  - [[Kubernetes - RoleBinding|RoleBindings]]
+  - [[Kubernetes - ClusterRoleBinding|ClusterRoleBindings]]
+- [[Kubernetes - ConfigMap|ConfigMap]]
+- [[Kubernetes - Secret|Secrets]]
+- [[Kubernetes - CRD|CRD]]
 - [[Kubernetes - Finalizer]]
 - Workload
-	- [[Kubernetes - Pod]]
-	- [[Kubernetes - Deployment]]
-	- [[Kubernetes - Daemonset]]
-	- [[Kubernetes - Statefulset]]
-	- [[Kubernetes - Update Strategy]]
+  - [[Kubernetes - Pod]]
+  - [[Kubernetes - Deployment]]
+  - [[Kubernetes - Daemonset]]
+  - [[Kubernetes - Statefulset]]
+  - [[Kubernetes - Update Strategy]]
 - [[Kubernetes - Namespace]]
 
 # Troubleshooting
 
 - High CPU
-	- [[Kubernetes - High CPU orphaned pods]] - Sometimes some pods cannot be cleaned up, so they need a bit of help
+  - [[Kubernetes - High CPU orphaned pods]] - Sometimes some pods cannot be cleaned up, so they need a bit of help
 - General
-	- [[Kubernetes - Namespace Stuck In Terminating]] - Happens sometimes if you force delete resources or delete them too fast.
-	- [[Kuberentes - The Server Has Asked For The Client To Provide Credentials]]
-	- [[Kubernetes - You must be logged in to the server (Unauthorized)]]
+  - [[Kubernetes - Namespace Stuck In Terminating]] - Happens sometimes if you force delete resources or delete them too fast.
+  - [[Kuberentes - The Server Has Asked For The Client To Provide Credentials]]
+  - [[Kubernetes - You must be logged in to the server (Unauthorized)]]
 - PVC
-	- [[Kubernetes - volume attachment is being deleted]]
+  - [[Kubernetes - volume attachment is being deleted]]
 - Networking
-	- [[Kubernetes - Networking Problems]]
-
+  - [[Kubernetes - Networking Problems]]

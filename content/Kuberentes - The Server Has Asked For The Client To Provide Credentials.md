@@ -3,9 +3,8 @@ publish: true
 aliases:
   - k3s memcache.go:265] couldn't get current server API group list the server has asked for the client to provide credentials
 created: "[[2023-07-16]]"
-modified: 2026-01-23T12:30:26.191+02:00
+modified: 2026-01-23T10:30:26.191Z
 published: "[[2023-07-16]]"
-cssclasses: ""
 parent:
   - "[[Kubernetes]]"
 state: evergreen
@@ -20,7 +19,7 @@ The certificates have been rotated and you need to fetch the new config.
 
 ## K3S
 
-1. Copy `/etc/rancher/k3s/k3s.yaml` 
+1. Copy `/etc/rancher/k3s/k3s.yaml`
 
 ## oc
 

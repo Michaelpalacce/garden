@@ -2,9 +2,8 @@
 publish: true
 description: Replacement for sync.WaitGroups
 created: "[[2025-10-06]]"
-modified: 2026-01-12T22:27:41.167+02:00
+modified: 2026-01-12T20:27:41.167Z
 published: "[[2025-10-06]]"
-cssclasses: ""
 parent: "[[Go]]"
 state:
   - evergreen

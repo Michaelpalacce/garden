@@ -4,9 +4,8 @@ aliases:
   - Github Actions - Execute Cleanup Step
   - Github Actions - Execute Step On Failure
 created: "[[2026-01-12]]"
-modified: 2026-01-12T10:02:26.681+02:00
+modified: 2026-01-12T08:02:26.681Z
 published: "[[2026-01-12]]"
-cssclasses: ""
 parent: "[[Github - Actions]]"
 state:
   - evergreen

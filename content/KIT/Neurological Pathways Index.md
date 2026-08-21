@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-15]]"
-modified: 2026-01-11T21:06:44.123+02:00
+modified: 2026-01-11T16:29:31.851Z
 published: "[[2023-06-15]]"
-cssclasses: ""
 parent: "[[Command & Control Center Index|Command & Control Center]]"
 state:
   - evergreen
@@ -13,10 +12,11 @@ date: "[[2023-06-15]]"
 ---
 
 > [!success] ~ What ? ~
-> Each forest contains pathways that animals take. Shortcuts and well trodden paths that connect different parts of the whole. Just like the [[Neurological\|neurological]] pathways in your [[Brain]]. 
-> - This is where you will find these pathways and more importantly their intersections. By discovering these intersections you can decide on what you should expand on. 
+> Each forest contains pathways that animals take. Shortcuts and well trodden paths that connect different parts of the whole. Just like the [[Neurological|neurological]] pathways in your [[Brain]].
+>
+> - This is where you will find these pathways and more importantly their intersections. By discovering these intersections you can decide on what you should expand on.
 
-# Unformed Pathways 
+# Unformed Pathways
 
 ## Notes that have not been created yet, TOP 50
 

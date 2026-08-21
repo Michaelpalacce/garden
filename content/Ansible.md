@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-10-22]]"
-modified: 2026-01-14T20:57:39.224+02:00
+modified: 2026-01-14T18:57:39.224Z
 published: "[[2025-10-22]]"
-cssclasses: ""
 parent: "[[Infrastructure As Code]]"
 state: sapling
 date: "[[2025-10-22]]"
@@ -13,10 +12,10 @@ date: "[[2025-10-22]]"
 
 - Getting Started
 - Basic
-	- [[Ansible - Roles]]
-	- [[Ansible - Playbook]]
-	- [[Ansible - Task]]
-	- [[Ansible - Handler]]
+  - [[Ansible - Roles]]
+  - [[Ansible - Playbook]]
+  - [[Ansible - Task]]
+  - [[Ansible - Handler]]
 - Advanced
 - Functions
-	- [[Ansible - regex_search]]
+  - [[Ansible - regex_search]]

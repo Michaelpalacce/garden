@@ -2,9 +2,8 @@
 publish: true
 description: What are the responsibilities of operators to ensure that distributed systems can be updated correctly.
 created: "[[2026-01-31]]"
-modified: 2026-02-01T00:00:47.961+02:00
+modified: 2026-02-02T07:34:58.899Z
 published: "[[2026-01-31]]"
-cssclasses: ""
 parent: "[[Kubernetes - Operator]]"
 state:
   - tree
@@ -28,12 +27,12 @@ opposes:
 
 # Step 2: Partition
 
-If working with [[Kubernetes - Statefulset\|StatefulSets]], use [[Kubernetes - Update Strategy#Partitioned Rolling Updates In Kubernetes - Statefulset StatefulSets\|partitioned]] rolling update. Update one by one and wait for stability before continuing the update. Even taking a minute or so between each update, so the nodes have time to replicate missed data is important. 
+If working with [[Kubernetes - Statefulset|StatefulSets]], use [[Kubernetes - Update Strategy#Partitioned Rolling Updates In Kubernetes - Statefulset StatefulSets|partitioned]] rolling update. Update one by one and wait for stability before continuing the update. Even taking a minute or so between each update, so the nodes have time to replicate missed data is important.
 
 # Step 3: Ensure system stability by performing checks
 
-Monitor and wait for the distributed system to report healthy and caught up before continuing updates. 
+Monitor and wait for the distributed system to report healthy and caught up before continuing updates.
 
 # Step 4: Continue Partitioning
 
-Repeat steps 1-3 for the next node. 
+Repeat steps 1-3 for the next node.

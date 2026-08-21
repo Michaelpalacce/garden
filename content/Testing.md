@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-19]]"
-modified: 2026-01-11T01:11:28.310+02:00
+modified: 2026-01-10T23:11:28.310Z
 published: "[[2023-06-19]]"
-cssclasses: ""
 parent: "[[Programming Index]]"
 state:
   - tree
@@ -12,22 +11,21 @@ relates:
 date: "[[2023-06-19]]"
 ---
 
-# Map Of Content 
+# Map Of Content
 
-- Getting Started 
-	- [[Testability]]
-	- [[Testing - Writing Good Tests\|Writing Good Tests]]
+- Getting Started
+  - [[Testability]]
+  - [[Testing - Writing Good Tests|Writing Good Tests]]
 - Methodologies
-	- [[Test Driven Development\|TDD]]
-	- [[The Humble Object Pattern]]
+  - [[Test Driven Development|TDD]]
+  - [[The Humble Object Pattern]]
 - Types
-	- [[Testing - Unit Tests\|Unit Tests]]
-	- [[Testing - Integration Tests\|Integration Tests]]
-	- [[Testing - End To End Tests\|End To End Tests]]
- 
+  - [[Testing - Unit Tests|Unit Tests]]
+  - [[Testing - Integration Tests|Integration Tests]]
+  - [[Testing - End To End Tests|End To End Tests]]
 
-# Structure 
+# Structure
 
-Tests usually have a given/when/then structure. 
+Tests usually have a given/when/then structure.
 
-**Given** certain conditions are met, **when** a certain action happens, **then** a certain output is expected. 
+**Given** certain conditions are met, **when** a certain action happens, **then** a certain output is expected.

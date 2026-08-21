@@ -2,9 +2,8 @@
 publish: true
 description: There is a limit of how many open files can exist. This is how to increase it.
 created: "[[2024-08-27]]"
-modified: 2026-01-13T00:08:52.918+02:00
+modified: 2026-01-12T22:08:52.918Z
 published: "[[2024-08-27]]"
-cssclasses: ""
 parent: "[[Linux]]"
 state:
   - evergreen
@@ -22,7 +21,7 @@ sudo vi /etc/systemd/system.conf
 sudo vi /etc/systemd/user.conf
 ```
 
-Look for the `DefaultLimitNOFILE` and remove the `#`. 
+Look for the `DefaultLimitNOFILE` and remove the `#`.
 Increase the limit to `DefaultLimitNOFILE=65536:524288`
 
 Also in the `/etc/security/limits.conf`, at the bottom of the file add:

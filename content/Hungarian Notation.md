@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-07-01]]"
-modified: 2026-01-11T00:44:56.302+02:00
+modified: 2026-01-10T22:44:56.302Z
 published: "[[2023-07-01]]"
-cssclasses: ""
 parent: "[[Bad Practices]]"
 state:
   - evergreen
@@ -25,4 +24,4 @@ const sUserName: string = "Stefan";
 
 # Origin
 
-This practice originates from [[C\|C]], before standard types existed.
+This practice originates from [[C|C]], before standard types existed.

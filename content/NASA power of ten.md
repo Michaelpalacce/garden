@@ -2,9 +2,8 @@
 publish: true
 description: NASA Rules for developing safely critical code
 created: "[[2025-02-17]]"
-modified: 2026-01-10T02:22:43.656+02:00
+modified: 2026-01-10T00:22:43.656Z
 published: "[[2025-02-17]]"
-cssclasses: ""
 parent: "[[Best Practices]]"
 state:
   - evergreen
@@ -32,7 +31,7 @@ In reality, this is what we expect—everything has a limit. For example, all lo
 
 Unlike operating errors, which are expected and which must be handled, assertion failures are unexpected. The only correct way to handle corrupt code is to crash. Assertions downgrade catastrophic correctness bugs into liveness bugs. Assertions are a force multiplier for discovering bugs by fuzzing.
 
-- Assert all function arguments and return values, pre/postconditions and invariants. A function must not operate blindly on data it has not checked. The purpose of a function is to increase the probability that a program is correct. Assertions within a function are part of how functions serve this purpose. The assertion density of the code must average a minimum of two assertions per function. 
+- Assert all function arguments and return values, pre/postconditions and invariants. A function must not operate blindly on data it has not checked. The purpose of a function is to increase the probability that a program is correct. Assertions within a function are part of how functions serve this purpose. The assertion density of the code must average a minimum of two assertions per function.
 - Pair assertions. For every property you want to enforce, try to find at least two different code paths where an assertion can be added. For example, assert validity of data right before writing it to disk, and also immediately after reading from disk.
 - Split compound assertions: prefer assert(a); assert(b); over assert(a and b);. The former is simpler to read, and provides more precise information if the condition fails.
 
@@ -57,4 +56,3 @@ Similarly, centralize state manipulation. Let the parent function keep all relev
 ## Whenever your program has to interact with external entities, don't do things directly in reaction to external events
 
 Instead, your program should run at its own pace. Not only does this make your program safer by keeping the control flow of your program under your control, it also improves performance for the same reason (you get to batch, instead of context switching on every event). Additionally, this makes it easier to maintain bounds on work done per time period.
-

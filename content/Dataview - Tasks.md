@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2022-05-11]]"
-modified: 2026-01-09T13:58:23.994+02:00
+modified: 2026-01-29T07:01:02.168Z
 published: "[[2022-05-11]]"
-cssclasses: ""
 parent:
   - "[[Dataview]]"
 state: evergreen
@@ -15,7 +14,7 @@ links:
 [[Dataview]]
 
 > [!done] What is this?
-> 
+>
 > This is an example on how to create a dynamic `taskList` with the current date tasks.
 
 ```dataviewjs

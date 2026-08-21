@@ -2,9 +2,8 @@
 publish: true
 description: How to write performant code
 created: "[[2024-10-10]]"
-modified: 2026-01-11T15:41:48.308+02:00
+modified: 2026-01-11T13:41:48.308Z
 published: "[[2024-10-10]]"
-cssclasses: ""
 parent: "[[Software Engineering Index]]"
 state:
   - evergreen
@@ -25,12 +24,12 @@ links:
 - [[Stack]]
 - [[Heap]]
 - Mechanisms For Caching
-	- [[Cache]]
-	- [[Bloom Filter]]
+  - [[Cache]]
+  - [[Bloom Filter]]
 
 # When and what to optimise
 
-Every piece of optimisation comes with downsides. Cognitive load, [[Cyclomatic Complexity\|code complexity]], development time are some of these downsides. 
+Every piece of optimisation comes with downsides. Cognitive load, [[Cyclomatic Complexity|code complexity]], development time are some of these downsides.
 
 Consider if the piece of code you are trying to optimise is really worth it.
 
@@ -49,11 +48,11 @@ Inspect your specific use case and go for the [[Low Hanging Fruits]] first. The 
 These sorts of changes are useful when the data you need is cheap to store and easy to keep up-to-date.
 
 - Extra fields
-	- You can for example store the value of length of a linked list instead of getting it every time.
+  - You can for example store the value of length of a linked list instead of getting it every time.
 - Extra Search Indexes
-	- For queries, you may want to have not only a primary key but a secondary key to index the data by it if searching is needed
+  - For queries, you may want to have not only a primary key but a secondary key to index the data by it if searching is needed
 - Extra information about elements
-	- Keeping a [[Bloom Filter]] can let you quickly return a no-match for lookups.
+  - Keeping a [[Bloom Filter]] can let you quickly return a no-match for lookups.
 - Add [[Caching]] if queries are expensive.
 
 These are all clear examples of "do less work" at the data structure level. They all cost space. Most of the time if you're optimizing for CPU, your program will use more memory. This is the classic [[Space-time Tradeoff]].
@@ -67,6 +66,7 @@ This is how software becomes slow. Structures originally designed for one use is
 It's important to have an intuitive grasp of the different big-O levels. Choose the right data structure for your problem. You don't have to always shave cycles, but this just prevents dumb performance issues that might not be noticed until much later.
 
 - ![[Big O Notation]]
+
 # Garbage Collection
 
 - ![[Garbage Collection]]

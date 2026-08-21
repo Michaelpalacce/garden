@@ -4,9 +4,8 @@ aliases:
   - tfctl
 description: Terraform managed by kubernetes
 created: "[[2026-01-15]]"
-modified: 2026-01-15T02:34:42.392+02:00
+modified: 2026-01-26T18:25:02.669Z
 published: "[[2026-01-15]]"
-cssclasses: ""
 parent: "[[Kubernetes - Operator]]"
 state:
   - evergreen
@@ -18,8 +17,7 @@ links:
 ---
 
 > [!info]+
-> `tofu-controller` is a [[Terraform]]/[[open-tofu]] operator that follows [[GitOps]] principles and works together with [[FluxCD2]]. 
-
+> `tofu-controller` is a [[Terraform]]/[[open-tofu]] operator that follows [[GitOps]] principles and works together with [[FluxCD2]].
 
 # Installing tfctl
 
@@ -98,7 +96,7 @@ kubectl create secret \
   > tfstate-${WORKSPACE}-${NAME}.yaml
 
 kubectl apply -f tfstate-${WORKSPACE}-${NAME}.yaml
-``` 
+```
 
 # Add Alerts
 

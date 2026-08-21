@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-08-01]]"
-modified: 2026-01-12T22:39:11.155+02:00
+modified: 2026-01-12T20:39:11.155Z
 published: "[[2024-08-01]]"
-cssclasses: ""
 parent: "[[Kubernetes]]"
 state:
   - sapling
@@ -17,11 +16,11 @@ aliases:
 ---
 
 > [!info]+
-> `Finalizers` are a way for Kubernetes [[Kubernetes - Operator\|Operators]] to attach extra protection for volumes.
+> `Finalizers` are a way for Kubernetes [[Kubernetes - Operator|Operators]] to attach extra protection for volumes.
 
-For example: 
+For example:
+
 - You are writing a CSI and you want to attach to the `pvc` deletion and before a `pvc` is deleted, to actually clean up the data
-
 
 # Custom Finalizer
 
@@ -39,5 +38,3 @@ spec:
     requests:
       storage: 1Gi
 ```
-
-

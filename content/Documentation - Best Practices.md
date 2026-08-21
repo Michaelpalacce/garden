@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-06-17]]"
-modified: 2026-01-11T00:34:25.926+02:00
+modified: 2026-01-10T22:34:25.926Z
 published: "[[2023-06-17]]"
-cssclasses: ""
 parent: "[[Documentation]]"
 links: https://youtu.be/Bf7vDBBOBUA
 state:
@@ -14,12 +13,11 @@ relates:
   - "[[Best Practices]]"
 ---
 
-
-What are the similarities and between documentation and [[Comments\|Comments]]? 
+What are the similarities and between documentation and [[Comments|Comments]]?
 
 # Map Of Content
 
-- [[Go - Documentation\|godoc]]
+- [[Go - Documentation|godoc]]
 
 # Self Documenting Code
 
@@ -29,9 +27,10 @@ What are the similarities and between documentation and [[Comments\|Comments]]?
 # [[Examples Are The Best Documentation]]
 
 - Examples are what most of the documentation readers look for
-- *I personally always look for the telltale signs of a code block when reading documentation*
+- _I personally always look for the telltale signs of a code block when reading documentation_
 
 Consider the following example:
+
 ```
 max(4, 6) # → 6
 

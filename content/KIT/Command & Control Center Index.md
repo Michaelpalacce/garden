@@ -3,21 +3,22 @@ publish: true
 aliases:
   - C3
   - CCC
-created: 2023-05-21T09:26:08.764+03:00
-modified: 2026-01-11T21:05:54.589+02:00
-published: 2026-01-11T21:05:54.589+02:00
-cssclasses: ""
+created: 2026-01-14T13:55:24.621Z
+modified: 2026-01-11T19:05:54.589Z
+published: 2026-01-11T19:05:54.589Z
 parent: "[[+ Home]]"
 state:
   - evergreen
 ---
 
 > Consolidates all the tasks you have as well as a list of notes that need your attention.
-> - Head over to the [[KIT/000 Nursery Index\|Nursery]] to nurture your notes further.
-> - Go to the [[KIT/Workbench\|Workbench]] as well and check out work in progress. 
-> - Find [[Emergance\|emerging ideas]] in the [[KIT/Neurological Pathways Index\|Pathways]]
+>
+> - Head over to the [[000 Nursery Index|Nursery]] to nurture your notes further.
+> - Go to the [[Workbench|Workbench]] as well and check out work in progress.
+> - Find [[Emergance|emerging ideas]] in the [[Neurological Pathways Index|Pathways]]
 
 ---
+
 ![[Ephemeral.base]]
 ![[Detached.base]]
 
@@ -26,6 +27,7 @@ state:
 ![[Research.base]]
 
 ---
+
 ```dataviewjs
 const TREE_KEY = 'tree';
 const SEED_KEY = 'seed';

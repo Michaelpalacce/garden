@@ -3,9 +3,8 @@ publish: true
 aliases:
   - ssh-copy-id
 created: "[[2024-08-23]]"
-modified: 2026-01-11T20:46:51.247+02:00
+modified: 2026-01-11T18:46:51.247Z
 published: "[[2024-08-23]]"
-cssclasses: ""
 parent: "[[ssh]]"
 state:
   - evergreen

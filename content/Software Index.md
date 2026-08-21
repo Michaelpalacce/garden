@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-09-13]]"
-modified: 2026-01-15T08:17:46.039+02:00
+modified: 2026-01-15T06:17:46.039Z
 published: "[[2024-09-13]]"
-cssclasses: ""
 parent: "[[Forest]]"
 state:
   - evergreen
@@ -14,47 +13,47 @@ date: "[[2024-09-13]]"
 
 - [[Open Source]]
 - Event Brokers
-	- [[Kafka\|Kafka]] - Event Broker and message queue
+  - [[Kafka|Kafka]] - Event Broker and message queue
 - APIs
-	- [[Swagger\|Swagger]] - API Generator
-	- [[Openapi Generator CLI]]
+  - [[Swagger|Swagger]] - API Generator
+  - [[Openapi Generator CLI]]
 - Package Managers
-	- [[mvn\|mvn]] - java | [[npm\|npm]] - nodejs | [[composer\|composer]] - php 
-	- [[pip\|pip]] - python  
+  - [[mvn|mvn]] - java | [[npm|npm]] - nodejs | [[composer|composer]] - php
+  - [[pip|pip]] - python
 - CLIs
-	- [[grep\|grep]] is a pattern matching command line tool
-	- [[sed\|sed]] is a stream editor
-	- [[awk\|awk]] is a scripting tool used for data extraction.
-	- [[cut]] is a tool used to cut out sections of a file/string/stdout/stdin
-	- [[yq]] for working with [[YAML]]
-	- [[jq]] for working with [[JSON]]
+  - [[grep|grep]] is a pattern matching command line tool
+  - [[sed|sed]] is a stream editor
+  - [[awk|awk]] is a scripting tool used for data extraction.
+  - [[cut]] is a tool used to cut out sections of a file/string/stdout/stdin
+  - [[yq]] for working with [[YAML]]
+  - [[jq]] for working with [[JSON]]
 - Storage
-	- [[Syncthing\|Syncthing]] is a tool for syncing folders between devices
-- File System 
-	- [[find\|find]] can be used to locate files on the fs. 
+  - [[Syncthing|Syncthing]] is a tool for syncing folders between devices
+- File System
+  - [[find|find]] can be used to locate files on the fs.
 - Security
-	- [[openssl]] - Generate certificates and perform other certficiate related tasks
-	- [[SOPS\|Mozilla SOPS]]
+  - [[openssl]] - Generate certificates and perform other certficiate related tasks
+  - [[SOPS|Mozilla SOPS]]
 - Network
-	- [[curl]]
-	- [[netstat]]
+  - [[curl]]
+  - [[netstat]]
 - Archives
-	- [[tar\|tar]] a compression and archival utility
+  - [[tar|tar]] a compression and archival utility
 - SCM
-	- [[git\|git]] a scm cli tool
+  - [[git|git]] a scm cli tool
 - Terminal
-	- [[tmux\|tmux]]
-- [[Service Mesh\|Service Mesh]]
-- [[SaaS\|SaaS]]
-- [[VPN\|VPN]] for security and avoiding [[Geo-Blocking]]
-- [[IDE\|IDE]]s for development 
+  - [[tmux|tmux]]
+- [[Service Mesh|Service Mesh]]
+- [[SaaS|SaaS]]
+- [[VPN|VPN]] for security and avoiding [[Geo-Blocking]]
+- [[IDE|IDE]]s for development
 - Project Management
-	- [[Atlassian\|Atlassian]] provides software management tools
+  - [[Atlassian|Atlassian]] provides software management tools
 - Services
-	- [[End Of Life]]
+  - [[End Of Life]]
 - Search
-	- [[rg]]
+  - [[rg]]
 - Media
-	- [[Tdarr]]
+  - [[Tdarr]]
 - Development
-	- [[Make]]
+  - [[Make]]

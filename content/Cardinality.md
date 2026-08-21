@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-08-07]]"
-modified: 2026-01-11T15:39:17.868+02:00
+modified: 2026-01-11T13:39:17.868Z
 published: "[[2024-08-07]]"
-cssclasses: ""
 parent: "[[System Design]]"
 state:
   - sapling
@@ -16,7 +15,7 @@ aliases:
 ---
 
 > [!info]+
-> Defines the nature of relationship between different objects. 
+> Defines the nature of relationship between different objects.
 
 Examples to this are:
 

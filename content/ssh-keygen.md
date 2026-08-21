@@ -5,9 +5,8 @@ aliases:
   - ssh - Generate key
 description: Generate ssh key
 created: "[[2025-03-25]]"
-modified: 2026-01-11T20:46:58.495+02:00
+modified: 2026-01-11T18:46:58.495Z
 published: "[[2025-03-25]]"
-cssclasses: ""
 parent: "[[ssh]]"
 state:
   - evergreen
@@ -17,14 +16,16 @@ links:
 ---
 
 # Overview
-The `ssh-keygen` util is used to generate a new ssh key to be used for authentication. 
+
+The `ssh-keygen` util is used to generate a new ssh key to be used for authentication.
 
 ```sh
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
 # Legacy Systems
-For legacy systems that do not support ed25519, you can use 
+
+For legacy systems that do not support ed25519, you can use
 
 ```sh
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"

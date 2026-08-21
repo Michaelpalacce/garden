@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-06-26]]"
-modified: 2026-01-11T00:53:01.310+02:00
+modified: 2026-01-10T22:53:01.310Z
 published: "[[2025-06-26]]"
-cssclasses: ""
 parent: "[[DevOps Index]]"
 state:
   - tree
@@ -22,20 +21,20 @@ description:
 
 # [[Backup]] and Recovery Strategies
 
-- Defining clear [[Recovery Time Objective\|RTO]] and [[Recovery Point Objective\|RPO]] targets
+- Defining clear [[Recovery Time Objective|RTO]] and [[Recovery Point Objective|RPO]] targets
 - Automated backups and automated recovery procedures
 - Regular testing restore procedures to ensure their efficacy
 
 # [[Monitoring]] and [[Alerting]]
 
 - Monitor key metrics
-	- IOPS
-	- Latency
-	- Storage
-	- Conencctions
-	- Error Rates
-	- CPU
-	- Memory
+  - IOPS
+  - Latency
+  - Storage
+  - Conencctions
+  - Error Rates
+  - CPU
+  - Memory
 - Setting up alerts for anomalies and threshold breaches allows for proactive intervention before na incident impacts users
 
 # Performance Optimization
@@ -47,4 +46,4 @@ description:
 # Security
 
 - Encrypt at rest and in transit.
-- RBAC with [[Least Privilege Principle]] 
+- RBAC with [[Least Privilege Principle]]

@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-02-02]]"
-modified: 2026-01-11T00:30:33.482+02:00
+modified: 2026-01-10T22:30:33.482Z
 published: "[[2023-02-02]]"
-cssclasses: ""
 parent: "[[Logging]]"
 state:
   - evergreen
@@ -17,7 +16,8 @@ date: "[[2023-02-02]]"
 Lets look at log levels provided by vRO:
 
 ### Debug
-Verbose logging. Feel free to log any extra arguments that may be needed later on to debug the execution/failure of a workflow. 
+
+Verbose logging. Feel free to log any extra arguments that may be needed later on to debug the execution/failure of a workflow.
 
 Example:
 
@@ -26,13 +26,15 @@ logger.debug(`Executing getDnsRecord for vm: ${JSON.stringify(vmSpecObject)}`)
 ```
 
 ### INFO
+
 Progress specific logs that contain some context, so we can trace what happened during a workflow execution.
 
 ```ts
 logger.info(`Executing getDnsRecord for vm: ${vm.name}`);
 ```
 
-### WARN 
+### WARN
+
 These are non fatal errors. These can be failure to do non important tasks like analytics and metrics or for example when a task was successfully executed, however we cannot be sure that the end result is as we expected it to be. Don't forget to add context to the warnings as well.
 
 ```ts
@@ -40,6 +42,7 @@ logger.warn(`Could not release lock: ${lockId}, investigation needed!`);
 ```
 
 ### ERROR
+
 Errors during code execution should be logged here. Error logs are used to provide additional information, for example when you want to rollback, you still want to log the original error that resulted in the rollback.
 
 ```ts
@@ -47,13 +50,16 @@ logger.error(`Could not getDnsRecord for vm: ${vm.name}, error was: ${errorMessa
 ```
 
 ### Others
+
 In other cases, there may be added levels of logging, however they are vendor specific
+
 - Critical/Fatal - popular log levels which are usually used when an application crash occurs.
 
 ## Meaningful Log Messages/Log Messages With Context
 
 ### Context
-As outlined in the [[Logging - Best Practices#Understanding Log Levels\|Understanding Log Levels]] section, context is crucial. Logs like:
+
+As outlined in the [[#Understanding Log Levels|Understanding Log Levels]] section, context is crucial. Logs like:
 
 ```
 Vm Provisioning Done
@@ -74,7 +80,9 @@ As a general best practice, logs are prefixed with a **UTC** timestamp, this way
 ```ts
 logger.info("Some Log");
 ```
+
 Will look like:
+
 ```
 2023-02-02 16:00:00 Some Log
 ```
@@ -89,18 +97,18 @@ function getDnsRecord(vmId: string) {
 }
 ```
 
-
 ### Descriptive logs
 
-Doing short messages for logs are not necessarily better. 
+Doing short messages for logs are not necessarily better.
 
 Consider that these logs will be read by other people. Also consider the fact that they may not have the same context as you do while writing the code.
 
 Consider the following:
 
-```ts 
+```ts
 logger.info(`${vmId} provisioned successfully in ${vcenterId}`);
 ```
+
 Looks pretty good right? I mean you have the nice descriptive variables and the surrounding function to give you context.
 
 However when logged it the resulting log will be like:
@@ -109,13 +117,14 @@ However when logged it the resulting log will be like:
 512-f12ab-21 provisioned successfully in 123-f21-213
 ```
 
-Now that is not very easy to read. 
+Now that is not very easy to read.
 
 Rephrase it like so:
 
 ```ts
 logger.info(`Virtual machine with id: "${vmId}" was provissioned successfully in vCenter: "${vcenterId}"`);
 ```
+
 Output:
 
 ```
@@ -241,8 +250,8 @@ class UserManager{
 
 This logging strategy just ends up polluting our logging aggregator. And while it's not bad to be verbose, no need to log duplicate information.
 
-
 And with too little:
+
 ```ts
 class UserManager{  
    users = {};  
@@ -311,12 +320,14 @@ This can be extended even further.
  "message": "User with id: ${id} could not be found in the database" 
 }
 ```
+
 And so forth. By utilizing a custom logging mechanism like this, you can attach as many properties as needed, so they can later on be parsed.
 
 ## Be Mindful Of PII/Sensitive Information
 
-When it comes to deciding what information you should log, you should familiarize yourself with your company's policy and what is classified as PII/Sensitive Information. Do keep in mind that if names, emails, numbers etc are logged in the logging system, that would make it harder for developers to get access to those logs. 
+When it comes to deciding what information you should log, you should familiarize yourself with your company's policy and what is classified as PII/Sensitive Information. Do keep in mind that if names, emails, numbers etc are logged in the logging system, that would make it harder for developers to get access to those logs.
 
 Example of this would be
+
 - Log `userId` instead of `username`.
 - Never log passwords, but if needed, log it after hashing using a strong hashing algorithm like `sha256`

@@ -2,9 +2,8 @@
 publish: true
 description: Distributing data on multiple servers
 created: "[[2024-09-06]]"
-modified: 2026-01-31T23:31:07.737+02:00
+modified: 2026-01-31T21:31:07.737Z
 published: "[[2024-09-06]]"
-cssclasses: ""
 parent: "[[Databases]]"
 state:
   - sapling
@@ -23,4 +22,4 @@ relates:
 Most commonly, sharding spans multiple servers, unlike [[Partitioning]], which happens within a single server.
 
 > [!quote]+
-> Every shard is a [[Partitioning\|partition]], but not every partition is a shard. ^quote
+> Every shard is a [[Partitioning|partition]], but not every partition is a shard. ^quote

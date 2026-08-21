@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-04-15]]"
-modified: 2026-01-29T01:33:48.322+02:00
+modified: 2026-06-21T15:43:05.439Z
 published: "[[2024-04-15]]"
-cssclasses: ""
 parent: "[[Projects]]"
 state:
   - evergreen
@@ -17,18 +16,15 @@ links:
 
 # Map Of Content
 
-- [[HomeLab - Network Details\|Network Details]] - Information on how the Networking is setup
-- [[HomeLab - K3S Details\|K3S Details]] - Information about the K3S Setup
-- [[Velero\|Velero]] - My backup and restore solution
-- [[Plex - Docker Compose\|Plex Setup]] for watching stuff at home
+- [[HomeLab - Network Details|Network Details]] - Information on how the Networking is setup
+- [[HomeLab - K3S Details|K3S Details]] - Information about the K3S Setup
+- [[Velero|Velero]] - My backup and restore solution
+- [[Plex - Docker Compose|Plex Setup]] for watching stuff at home
 
 # Action Items
 
-- [ ] Fix Paperless
-- [ ] Firefly fix for subscriptions 
-- [ ] Better [[Kubernetes - NetworkPolicy\|network policies]]
-- [x] Fix Shelfmark
-- [ ] Tofu-controller needing restart 
+- Fix Paperless
+- Firefly fix for subscriptions
 
 # Withered
 

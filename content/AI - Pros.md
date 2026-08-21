@@ -4,9 +4,8 @@ aliases:
   - Artificial Intelligence - Pros
 description: Pros of AI
 created: "[[2025-04-16]]"
-modified: 2026-01-10T00:57:49.072+02:00
+modified: 2026-01-09T22:57:49.072Z
 published: "[[2025-04-16]]"
-cssclasses: ""
 parent: "[[Artificial Intelligence]]"
 state:
   - sapling
@@ -21,4 +20,4 @@ While this may be a pro, we need to consider potential downsides, as what the au
 
 # When you just don't want to learn something
 
-Imagine working on a third-party [[Open Source]] project and you just want to do something fast... You should remember that [[KIT/I Read To Forget\|You Can't Consume Everything]].
+Imagine working on a third-party [[Open Source]] project and you just want to do something fast... You should remember that [[I Read To Forget|You Can't Consume Everything]].

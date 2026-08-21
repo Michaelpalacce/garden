@@ -5,9 +5,8 @@ aliases:
   - How To Talk To People
   - Talking To People
 created: "[[2023-07-20]]"
-modified: 2026-01-12T23:41:00.173+02:00
+modified: 2026-01-12T21:41:00.173Z
 published: "[[2023-07-20]]"
-cssclasses: ""
 parent: "[[Soft Skills]]"
 state:
   - evergreen
@@ -18,14 +17,14 @@ date: "[[2023-07-20]]"
 
 - [[Rules of negotiating for a job]]
 - Types
-	- [[Written Communication]]
-	- [[Verbal Communication]]
-	- [[Visual Communication]]
+  - [[Written Communication]]
+  - [[Verbal Communication]]
+  - [[Visual Communication]]
 - Advice
-	- [[Presenting Your Ideas]]
-	- [[Explaining Complexity Clearly]]
-	- [[Active Listening]]
-- [[Meetings]] - how to have successful and productive meetings online and offline 
+  - [[Presenting Your Ideas]]
+  - [[Explaining Complexity Clearly]]
+  - [[Active Listening]]
+- [[Meetings]] - how to have successful and productive meetings online and offline
 
 # Rules
 

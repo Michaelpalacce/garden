@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-09-06]]"
-modified: 2026-01-11T15:38:01.560+02:00
+modified: 2026-01-11T13:38:01.560Z
 published: "[[2024-09-06]]"
-cssclasses: ""
 parent: "[[Failover]]"
 state:
   - evergreen
@@ -23,10 +22,10 @@ Alternatively, **one can be in standby mode** and only turn on when the first on
 # Pros and cons
 
 - Pros
-	- [[High Availability]] is achieved 
-	- No interruption for clients or users
-	- Needed for mission critical systems
+  - [[High Availability]] is achieved
+  - No interruption for clients or users
+  - Needed for mission critical systems
 - Cons
-	- More complex to setup
-	- More expensive in a [[Pay As You Go]] model
-	- Harder to trace errors
+  - More complex to setup
+  - More expensive in a [[Pay As You Go]] model
+  - Harder to trace errors

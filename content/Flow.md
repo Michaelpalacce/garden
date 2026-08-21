@@ -3,9 +3,8 @@ publish: true
 aliases:
   - Flow State
 created: "[[2023-06-14]]"
-modified: 2026-01-09T13:59:18.808+02:00
+modified: 2026-01-09T11:59:18.808Z
 published: "[[2023-06-14]]"
-cssclasses: ""
 parent: "[[Productivity]]"
 state:
   - evergreen
@@ -15,22 +14,22 @@ date: "[[2023-06-14]]"
 ---
 
 > [!success] ~ What ? ~
-> Flow is a state of extreme concentration that can help you accomplish all your [[Goals\|Goals]]. When you are so concentrated on the task at hand and your brain is working on full power to complete it. 
+> Flow is a state of extreme concentration that can help you accomplish all your [[Goals|Goals]]. When you are so concentrated on the task at hand and your brain is working on full power to complete it.
 
 > [!video]- YouTube Video
-> https://www.youtube.com/watch?v=l86xggdQcKQ&t=260s
+> https://www.youtube.com/watch?v=l86xggdQcKQ\&t=260s
 
 [[@Mihaly Csikszentmihalyi]] the godfather of Flow, first coined the term.
-[[@Steven Kotler]] has identified even more flow triggers. He focuses on the [[Neurobiology\|neurobiological]] side of flow.
+[[@Steven Kotler]] has identified even more flow triggers. He focuses on the [[Neurobiology|neurobiological]] side of flow.
 
-# Flow Blockers 
+# Flow Blockers
 
-**Loud and noisy environments** can lead to your [[Brain]] being extremely overloaded with information and not able to concentrate on the tasks at hand. 
+**Loud and noisy environments** can lead to your [[Brain]] being extremely overloaded with information and not able to concentrate on the tasks at hand.
 
-**Social media** is full of [[Procrastination]] pits. 
+**Social media** is full of [[Procrastination]] pits.
 
 > [!quote]
-> Most people check social media in the first 15 minutes after waking up. 
+> Most people check social media in the first 15 minutes after waking up.
 
 [[Ruining Development Flow]] is an integral problem for me, as a developer.
 
@@ -38,33 +37,35 @@ date: "[[2023-06-14]]"
 
 Get to **work within 90 seconds of waking up.**
 
-This seems like an extreme [[Workaholic\|workaholic]] thing to do.
+This seems like an extreme [[Workaholic|workaholic]] thing to do.
 
 # Flow Triggers
 
 Flow triggers contribute to:
+
 1. How fast you enter flow
 2. How deep you enter flow
 3. How long you stay in flow
 
 There are many triggers that let you enter a Flow state. Things like:
-- **Gaming** *for me*
+
+- **Gaming** _for me_
 - Adrenaline Activities
-- **Reading**  *for me*
+- **Reading**  _for me_
 - Playing An Instrument
-- **Programming** *for me*
+- **Programming** _for me_
 
 [[Clear Goals]] would let you keep a state of flow, since you have a clear "map" of what needs to be done.
-**Immediate feedback** is crucial as well as the results are **immediately visible**. *This reminds me of [[Gambling\|gambling]]. Like those addictive phone games?*
+**Immediate feedback** is crucial as well as the results are **immediately visible**. _This reminds me of [[Gambling|gambling]]. Like those addictive phone games?_
 The **task is challenging** but you have **just the amount of skills** to actually tackle it.
 
 # The Flow Cycle
 
-## Struggle 
+## Struggle
 
 The task is challenging. You could be doing something better right now or relaxing. Why not procrastinate?
 
-**Power Through!** You can try [[Attention Span Stretching\|attention span stretching]]. **Do the work/activity** even if you **don't feel like doing** it. Do it in **increments of a few minutes** and at the end of each increment, **start another** one.
+**Power Through!** You can try [[Attention Span Stretching|attention span stretching]]. **Do the work/activity** even if you **don't feel like doing** it. Do it in **increments of a few minutes** and at the end of each increment, **start another** one.
 
 You can be **stuck in the struggle phase** of the flow cycle for probably most of the time. **This is the hardest part**.
 
@@ -82,5 +83,4 @@ You've **entered the flow state**.
 ## Recovery
 
 > [!abstract] Effects
-> You are replenishing your energy and [[KIT/How To Retain Knowledge\|retaining knowledge.]]
-
+> You are replenishing your energy and [[How To Retain Knowledge|retaining knowledge.]]

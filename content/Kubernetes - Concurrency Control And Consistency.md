@@ -4,9 +4,8 @@ aliases:
   - Kubernetes - resourceVersion
 description: How resourceVersion works for race conditions
 created: "[[2024-08-12]]"
-modified: 2026-02-01T12:22:21.467+02:00
+modified: 2026-02-01T10:22:21.467Z
 published: "[[2024-08-12]]"
-cssclasses: ""
 parent: "[[Kubernetes]]"
 state:
   - tree
@@ -22,6 +21,6 @@ research: false
 # resourceVersion
 
 - `resourceVersion` is a sort of **numerical hash** that is **changed each time the resource is changed**.
-	- The **kubernetes api server uses that** to **determine if your request should be accepted or not**.
+  - The **kubernetes api server uses that** to **determine if your request should be accepted or not**.
 - It's part of the `metadata` stanza
-- It is important to note that while the [[Kubernetes - Generation Field\|generation]] is modified only on spec changes, the `resourceVersion` is **modified always**.
+- It is important to note that while the [[Kubernetes - Generation Field|generation]] is modified only on spec changes, the `resourceVersion` is **modified always**.

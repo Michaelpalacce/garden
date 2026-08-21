@@ -4,9 +4,8 @@ aliases:
   - Recalling Information
 description: Interrupt the process of forgetting
 created: "[[2025-04-26]]"
-modified: 2026-01-09T13:58:23.821+02:00
+modified: 2026-01-09T11:58:23.821Z
 published: "[[2025-04-26]]"
-cssclasses: ""
 parent: "[[Framework]]"
 state:
   - tree

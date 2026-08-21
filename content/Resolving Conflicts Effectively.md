@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2025-04-29]]"
-modified: 2026-01-12T23:39:01.745+02:00
+modified: 2026-01-12T21:39:01.745Z
 published: "[[2025-04-29]]"
-cssclasses: ""
 parent: "[[Tech Lead]]"
 state:
   - tree
@@ -21,7 +20,7 @@ aliases:
 
 - Set an agenda what will be discussed and follow it as closely as possible.
 - Extract examples of where contention was present
-	- Explain how it affected others
+  - Explain how it affected others
 - Consider different perspectives
 - Be neutral
 
@@ -33,10 +32,10 @@ aliases:
 
 - Be calm, start with a clear opening
 - Set ground rules
-	- Be what you want the other person to be. Stay calm and listen
-	- Set some rules for communication
+  - Be what you want the other person to be. Stay calm and listen
+  - Set some rules for communication
 - Make sure everyone is heard
-	- Practice [[Active Listening]]
+  - Practice [[Active Listening]]
 - Address the problematic behavior directly and specifically
 - Focus on solutions and expectations.
 - Take action

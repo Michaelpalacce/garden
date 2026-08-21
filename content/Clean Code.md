@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2023-08-24]]"
-modified: 2026-01-11T20:38:39.719+02:00
+modified: 2026-01-11T18:38:39.719Z
 published: "[[2023-08-24]]"
-cssclasses: ""
 parent: "[[Software Engineering Index|Software Engineering]]"
 state:
   - sapling
@@ -25,4 +24,4 @@ Clean Code allows us to write code that is easy to understand by all
 - Code should not know about the internals of objects it’s working with
 - Functions should be small
 - Functions should do one thing
-- [[DRY\|Don't Repeat Yourself]]
+- [[DRY|Don't Repeat Yourself]]

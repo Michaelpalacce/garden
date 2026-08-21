@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-02-27]]"
-modified: 2026-01-10T17:19:53.563+02:00
+modified: 2026-01-10T15:19:53.563Z
 published: "[[2024-02-27]]"
-cssclasses: ""
 parent: "[[HomeLab]]"
 state:
   - evergreen
@@ -12,7 +11,8 @@ date: "[[2024-02-27]]"
 ---
 
 We are using [SWAG](https://docs.linuxserver.io/general/swag/) for reverse proxy
-# Docker Compose File 
+
+# Docker Compose File
 
 ```yaml
 version: "2.1"
@@ -39,6 +39,7 @@ services:
       - 443:443
         #- 80:80
 ```
+
 # Crowdsec
 
 https://www.linuxserver.io/blog/blocking-malicious-connections-with-crowdsec-and-swag

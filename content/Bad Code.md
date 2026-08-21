@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-08-15]]"
-modified: 2026-01-11T20:39:31.791+02:00
+modified: 2026-01-11T18:39:31.791Z
 published: "[[2024-08-15]]"
-cssclasses: ""
 parent: "[[Software Engineering Index]]"
 state:
   - evergreen
@@ -17,7 +16,7 @@ links:
 ---
 
 > [!info]+
-> Bad code is **code that is difficult to read, understand, and maintain** for people familiar with the language and problem. It can be a result of poor design, lack of documentation, or bad practices. 
+> Bad code is **code that is difficult to read, understand, and maintain** for people familiar with the language and problem. It can be a result of poor design, lack of documentation, or bad practices.
 >
 > Bad code doesn't do what it should.
 

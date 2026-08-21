@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-10-13]]"
-modified: 2026-01-11T20:30:02.747+02:00
+modified: 2026-01-11T18:30:02.747Z
 published: "[[2024-10-13]]"
-cssclasses: ""
 parent: "[[System Design]]"
 state:
   - sapling
@@ -15,7 +14,7 @@ links:
 description:
 ---
 
-# Map Of Content 
+# Map Of Content
 
 - [[Eventual Consistency]]
 - [[Immediate Consistency]]

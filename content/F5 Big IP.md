@@ -2,9 +2,8 @@
 publish: true
 description: Load balancing using F5 Networks' suite of LB products, most notably their `BIG-IP` platform.
 created: "[[2025-01-21]]"
-modified: 2026-01-11T15:36:55.812+02:00
+modified: 2026-01-11T13:36:55.812Z
 published: "[[2025-01-21]]"
-cssclasses: ""
 parent: "[[Load Balancing]]"
 state:
   - evergreen
@@ -18,8 +17,8 @@ aliases:
 
 # Map Of Content
 
-- [[F5 Networks - API\|API]] explanations
-- [[F5 Networks - Pools\|Pools]]
+- [[F5 Networks - API|API]] explanations
+- [[F5 Networks - Pools|Pools]]
 
 # Types Of F5 Load Balancing
 

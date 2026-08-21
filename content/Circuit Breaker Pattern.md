@@ -1,9 +1,8 @@
 ---
 publish: true
 created: "[[2024-06-16]]"
-modified: 2026-01-11T15:39:06.944+02:00
+modified: 2026-01-11T13:39:06.944Z
 published: "[[2024-06-16]]"
-cssclasses: ""
 parent: "[[System Design]]"
 state:
   - evergreen
@@ -14,7 +13,6 @@ relates:
 
 > [!info]+
 > A Pattern of [[Error Handling]] where after too many failed attempts to perform an action, attempts will be stopped altogether and instead a cached or default response will be returned.
-
 
 # Example
 
