@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-01-29T07:01:04.068Z
-modified: 2026-01-29T07:01:05.644Z
-published: 2026-01-29T07:01:05.644Z
+created: 2026-02-03T20:19:58.374+02:00
+modified: 2026-02-03T20:19:58.692+02:00
+published: 2026-02-03T20:19:58.692+02:00
 parent: "[[000 Obsidian Index]]"
 state:
   - evergreen

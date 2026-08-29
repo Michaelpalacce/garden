@@ -4,7 +4,7 @@ aliases:
   - AVI Load Balancer
 description: A Load Balancer by VMware
 created: "[[2025-01-22]]"
-modified: 2026-01-11T13:37:08.468Z
+modified: 2026-01-11T15:37:08.468+02:00
 published: "[[2025-01-22]]"
 parent: "[[Load Balancing]]"
 state:

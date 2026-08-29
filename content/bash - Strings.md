@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2025-09-23]]"
-modified: 2026-01-12T22:11:14.590Z
+modified: 2026-01-13T00:11:14.590+02:00
 published: "[[2025-09-23]]"
 parent: "[[bash]]"
 state: evergreen

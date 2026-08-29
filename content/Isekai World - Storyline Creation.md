@@ -2,7 +2,7 @@
 publish: true
 description: Prompts for creating storylines
 created: "[[2026-08-12]]"
-modified: 2026-08-20T22:41:30.041Z
+modified: 2026-08-29T12:01:33.790+03:00
 published: "[[2026-08-12]]"
 parent: "[[Isekai World]]"
 state:
@@ -25,9 +25,12 @@ relates:
 AI Output Reminder
 
 ```
-realism_engine, sex_engine are mandatory and always enforced;
-no monologues/interruptions;
-match {{user}}'s speech in response based on their personality;
+style_engine, realism_engine, world_engine, grounding_engine, story_engine are always enforced
+be perverted;
+
+*SENTENCES:focused/punchy (max ~15 word). 
+*If yap:~40% dialogue.
+
 Start every response with <t>MMM DD, ddd, HH:mm | location</t>.
 ```
 

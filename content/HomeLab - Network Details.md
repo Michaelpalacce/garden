@@ -2,7 +2,7 @@
 publish: true
 description: How my internal home network is setup and configured for security
 created: "[[2024-02-21]]"
-modified: 2026-01-10T15:13:08.822Z
+modified: 2026-01-10T17:13:08.822+02:00
 published: "[[2024-02-21]]"
 parent:
   - "[[HomeLab]]"

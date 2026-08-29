@@ -2,7 +2,7 @@
 publish: true
 description: Emphasize the important parts.
 created: "[[2025-05-02]]"
-modified: 2026-01-09T11:58:24.074Z
+modified: 2026-01-09T13:58:24.074+02:00
 published: "[[2025-05-02]]"
 parent: "[[How To Retain Knowledge]]"
 state:

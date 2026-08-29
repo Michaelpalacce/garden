@@ -4,7 +4,7 @@ aliases:
   - Personal Knowledge Management
   - Second Brain
 created: "[[2023-06-15]]"
-modified: 2026-01-09T11:58:24.897Z
+modified: 2026-01-09T13:58:24.897+02:00
 published: "[[2023-06-15]]"
 parent: "[[Framework]]"
 state:

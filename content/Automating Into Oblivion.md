@@ -2,7 +2,7 @@
 publish: true
 description: At what point will automation take our livelihood?
 created: "[[2026-01-21]]"
-modified: 2026-01-26T18:25:25.512Z
+modified: 2026-01-25T16:30:27.327+02:00
 published: "[[2026-01-21]]"
 parent:
   - "[[index]]"

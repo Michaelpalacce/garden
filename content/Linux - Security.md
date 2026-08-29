@@ -4,7 +4,7 @@ aliases:
   - Security
   - Linux Security
 created: "[[2022-08-26]]"
-modified: 2026-01-12T22:09:19.462Z
+modified: 2026-01-13T00:09:19.462+02:00
 published: "[[2022-08-26]]"
 parent: "[[Linux]]"
 state:

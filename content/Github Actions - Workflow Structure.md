@@ -3,7 +3,7 @@ publish: true
 aliases:
   - 
 created: "[[2025-10-16]]"
-modified: 2026-01-11T18:43:19.179Z
+modified: 2026-01-11T20:43:19.179+02:00
 published: "[[2025-10-16]]"
 parent: "[[Github - Actions]]"
 state: seed

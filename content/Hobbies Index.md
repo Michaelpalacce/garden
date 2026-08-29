@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2022-05-14]]"
-modified: 2026-01-11T16:23:10.655Z
+modified: 2026-01-11T18:23:10.655+02:00
 published: "[[2022-05-14]]"
 parent:
   - "[[Pathways]]"

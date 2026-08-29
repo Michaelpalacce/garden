@@ -6,7 +6,7 @@ aliases:
   - How To Write Maintainable Code
 description: How easy is it for a maintainer to fix a piece of code.
 created: "[[2023-06-30]]"
-modified: 2026-01-11T18:28:53.731Z
+modified: 2026-01-11T20:28:53.731+02:00
 published: "[[2023-06-30]]"
 parent: "[[System Design]]"
 state:

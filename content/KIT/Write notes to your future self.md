@@ -4,7 +4,7 @@ aliases:
   - Write Notes To You
 description: Notes exist for yourself, not for someone else.
 created: "[[2024-06-13]]"
-modified: 2026-01-09T11:58:25.198Z
+modified: 2026-01-09T13:58:25.198+02:00
 published: "[[2024-06-13]]"
 parent: "[[Framework]]"
 state:

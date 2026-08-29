@@ -2,7 +2,7 @@
 publish: true
 description: An extension of buildx
 created: "[[2026-01-26]]"
-modified: 2026-01-28T23:50:48.088Z
+modified: 2026-01-29T01:50:48.088+02:00
 published: "[[2026-01-26]]"
 parent: "[[Docker]]"
 state:

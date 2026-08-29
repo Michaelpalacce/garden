@@ -2,7 +2,7 @@
 publish: true
 description: Efficiently handling service degradation.
 created: "[[2024-06-16]]"
-modified: 2026-01-10T21:36:24.314Z
+modified: 2026-01-10T23:36:24.314+02:00
 published: "[[2024-06-16]]"
 parent: "[[Error Resiliency]]"
 state:

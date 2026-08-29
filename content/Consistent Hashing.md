@@ -2,7 +2,7 @@
 publish: true
 description: A way to recalculate partitions in an event of a node failure.
 created: "[[2024-09-06]]"
-modified: 2026-01-31T22:16:09.249Z
+modified: 2026-02-01T00:16:09.249+02:00
 published: "[[2024-09-06]]"
 parent:
   - "[[System Design]]"

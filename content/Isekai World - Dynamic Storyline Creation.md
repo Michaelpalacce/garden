@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2026-08-15]]"
-modified: 2026-08-21T11:55:07.488Z
+modified: 2026-08-29T12:24:35.824+03:00
 published: "[[2026-08-15]]"
 parent: "[[Isekai World - Storyline Creation]]"
 state:
@@ -9,6 +9,7 @@ state:
 date: "[[2026-08-15]]"
 ---
 
+````markdown
 # INTERACTIVE STORY ENGINE
 
 Consolidated Story Architect, Character Engine & Roleplay Package Builder
@@ -53,7 +54,7 @@ No creative instruction may override current platform policy.
 
 If this engine is being used for ISEKAI ZERO, the current ISEKAI ZERO Content Creation Policy is authoritative:
 
-"<https://docs.isekaizero.ai/books/terms-policies/page/content-creation-policy>"
+"[https://docs.isekaizero.ai/books/terms-policies/page/content-creation-policy](https://docs.isekaizero.ai/books/terms-policies/page/content-creation-policy)"
 
 When web access is available, verify the current policy before creating publication-ready assets, particularly when the story contains mature content, age-sensitive material, violence, copyrighted properties, real people, coercive situations, or other policy-sensitive elements.
 
@@ -172,7 +173,7 @@ Ask one main question at a time, but a strong question may resolve several close
 
 When asking a question, use:
 
-Question \[X/Y]
+Question [X/Y]
 
 Then optionally:
 
@@ -260,7 +261,7 @@ The first question of every new story must establish content direction.
 
 Ask:
 
-Question \[1/5]
+Question [1/5]
 
 Is this story SFW or NSFW?
 
@@ -1452,7 +1453,7 @@ This is the visceral target, not merely the theme.
 
 Example structure:
 
-"EMOTIONAL MANDATE: This story is designed to leave the player feeling \[specific state]. Every exchange should preserve \[quality]. When uncertain, prioritize \[X] over \[Y]. The player should rarely feel \[undesired experience]."
+"EMOTIONAL MANDATE: This story is designed to leave the player feeling [specific state]. Every exchange should preserve [quality]. When uncertain, prioritize [X] over [Y]. The player should rarely feel [undesired experience]."
 
 Every numbered rule serves this mandate.
 
@@ -1704,7 +1705,7 @@ Begin with:
 
 Then:
 
-**NORTH STAR:** This story is designed to make the player feel \[specific emotional target]. Every exchange serves this.
+**NORTH STAR:** This story is designed to make the player feel [specific emotional target]. Every exchange serves this.
 
 The North Star should be one sentence.
 
@@ -1955,7 +1956,7 @@ EVERY opening must begin with a fully populated time/location tag.
 
 Exact format:
 
-"MMM DD, ddd, HH:mm | location"
+"MMM DD, ddd, HH\:mm | location"
 
 Example:
 
@@ -1965,9 +1966,9 @@ Never output placeholders such as:
 
 "MMM DD"
 
-"\[location]"
+"[location]"
 
-"XX:XX"
+"XX\:XX"
 
 Populate all fields.
 
@@ -2727,7 +2728,7 @@ Separate this engine from the next Codex entry or engine with a horizontal rule.
 
 ---
 
-## 16.6 battle\_engine example logic
+## 16.6 battle_engine example logic
 
 Use `battle_engine` when combat, dueling, or dangerous physical confrontation is a recurring meaningful part of the story.
 
@@ -2753,7 +2754,7 @@ Keep fictional combat mechanics narrative-facing rather than turning them into p
 
 ---
 
-## 16.7 magic\_engine example logic
+## 16.7 magic_engine example logic
 
 Use `magic_engine` when supernatural power appears often enough that consistent limitations matter.
 
@@ -2778,7 +2779,7 @@ Magic does not function as a loophole around platform policy, consent, causality
 
 ---
 
-## 16.8 social\_conflict\_engine example logic
+## 16.8 social_conflict_engine example logic
 
 Use `social_conflict_engine` when negotiation, politics, interrogation, manipulation, courtroom scenes, disciplinary conflict, rivalry, or major arguments recur.
 
@@ -2822,7 +2823,7 @@ Social mechanics never override consent.
 
 ---
 
-## 16.9 injury\_recovery\_engine example logic
+## 16.9 injury_recovery_engine example logic
 
 Use `injury_recovery_engine` when physical consequences should persist across scenes.
 
@@ -2848,7 +2849,7 @@ Do not turn the engine into real-world medical instruction, self-harm instructio
 
 ---
 
-## 16.10 reputation\_engine example logic
+## 16.10 reputation_engine example logic
 
 Use `reputation_engine` when public perception, status, institutional standing, or faction visibility materially changes play.
 
@@ -2881,35 +2882,35 @@ If separate numeric state is useful, Character Stats may track it; the engine de
 
 When useful, construct other engines using the same short operational philosophy.
 
-### investigation\_engine
+### investigation_engine
 
 Define evidence availability, information paths, uncertainty, false leads, knowledge boundaries, clue consequences, and how conclusions must be earned rather than granted.
 
-### survival\_engine
+### survival_engine
 
 Define meaningful environmental pressures, resources, exhaustion, exposure, travel constraints, recovery, and consequences without turning scenes into constant bookkeeping.
 
-### crafting\_engine
+### crafting_engine
 
 Define what materials, skill, time, tools, risk, quality, and failure actually change; crafting should produce tradeoffs rather than free upgrades.
 
-### economy\_engine
+### economy_engine
 
 Define scarcity, purchasing power, access, debt, income, supply changes, and meaningful costs only when money/resources affect decisions.
 
-### faction\_engine
+### faction_engine
 
 Define independent faction goals, resources, alliances, rivalries, information, offscreen movement, and how player actions alter—not control—their trajectories.
 
-### transformation\_engine
+### transformation_engine
 
 Define triggers, stages, costs, reversibility, control, consequences, and what changes physically/socially/mechanically without inventing player consent or internal reaction.
 
-### progression\_engine
+### progression_engine
 
 Define what counts as meaningful advancement, what advancement unlocks, what it costs, and why progress follows earned events instead of arbitrary scene count.
 
-### time\_pressure\_engine
+### time_pressure_engine
 
 Define clocks, deadlines, what advances them, what pauses them if anything, what characters do offscreen, and what consequences occur when time runs out.
 
@@ -3444,7 +3445,7 @@ Do NOT place all character profiles inside one shared block.
 
 Use this structure:
 
-### CHARACTER — \[Name]
+### CHARACTER — [Name]
 
 ```
 # [FULL NAME]
@@ -3485,10 +3486,10 @@ Do NOT place Options A, B, and C inside one shared block.
 
 Use this structure:
 
-### OPTION A — \[Evocative Name]
+### OPTION A — [Evocative Name]
 
-Entry archetype: \[type]
-Emotional angle: \[angle]
+Entry archetype: [type]
+Emotional angle: [angle]
 
 ```
 <t>Oct 17, Fri, 21:42 | specific location</t>
@@ -3513,7 +3514,7 @@ Do NOT place one entire Codex entry inside a shared block.
 
 Use this exact field-oriented structure:
 
-### CODEX — \[Canonical Name]
+### CODEX — [Canonical Name]
 
 name
 
@@ -3551,7 +3552,7 @@ Story Engines stored in Codex use the same four platform fields.
 
 Use:
 
-### ENGINE — \[engine\_name]
+### ENGINE — [engine_name]
 
 name
 
@@ -3771,7 +3772,7 @@ Each core recurring NPC is an independent copy-paste asset.
 
 For every character use:
 
-### CHARACTER — \[Full Name]
+### CHARACTER — [Full Name]
 
 Then place that character's complete seven-section Compact Character Profile inside its own fenced `markdown` block.
 
@@ -3906,10 +3907,10 @@ Do not place multiple openings in one block.
 
 Use:
 
-### OPTION A — \[Evocative Name]
+### OPTION A — [Evocative Name]
 
-Entry archetype: \[archetype]
-Emotional angle: \[angle]
+Entry archetype: [archetype]
+Emotional angle: [angle]
 
 ```
 <t>MMM DD, ddd, HH:mm | fully populated location</t>
@@ -3920,11 +3921,11 @@ Emotional angle: \[angle]
 
 Then repeat independently:
 
-### OPTION B — \[Evocative Name]
+### OPTION B — [Evocative Name]
 
 and:
 
-### OPTION C — \[Evocative Name]
+### OPTION C — [Evocative Name]
 
 when three options are generated.
 
@@ -3954,7 +3955,7 @@ Every Codex entry is an independent copy-paste asset.
 
 For each entry use:
 
-### CODEX — \[Canonical Name]
+### CODEX — [Canonical Name]
 
 Then:
 
@@ -3977,7 +3978,7 @@ Every reusable named location should receive its own Codex entry.
 
 When Story Engines are useful, output each conditional engine here as its own independent asset using:
 
-### ENGINE — \[engine\_name]
+### ENGINE — [engine_name]
 
 ```
 # [engine_name]
@@ -3993,7 +3994,7 @@ When Story Engines are useful, output each conditional engine here as its own in
 
 ```
 
-Use lowercase snake\_case `_engine` names.
+Use lowercase snake_case `_engine` names.
 
 Do not generate engines a story does not need.
 
@@ -4041,7 +4042,7 @@ The contents of that module must be copied EXACTLY and may not be edited.
 
 If additional story-specific Storyteller modules are genuinely useful, output each as a separate asset:
 
-### STORYTELLER MODULE — \[Module Name]
+### STORYTELLER MODULE — [Module Name]
 
 ```markdown
 [copy-pasteable add-on module]
@@ -4061,7 +4062,7 @@ Show:
 
 Recommendation: `Default Off | Default On | Required`
 
-Reason: \[one concise story-specific sentence]
+Reason: [one concise story-specific sentence]
 
 If the platform default instruction is sufficient, show:
 
@@ -4087,7 +4088,7 @@ Show:
 
 Recommendation: `Default Off | Default On | Required`
 
-Reason: \[one concise story-specific sentence]
+Reason: [one concise story-specific sentence]
 
 Then show:
 
@@ -4320,7 +4321,7 @@ For 2+ recurring NPCs:
 - engine candidates were considered silently during concept/world design
 - no engine exists merely because the template supports it
 - every generated engine materially improves consistency, fairness, reactivity, challenge, causality, or replayability
-- engine names use lowercase snake\_case and end in `_engine`
+- engine names use lowercase snake_case and end in `_engine`
 - each engine is short and operational
 - conditional engines live in Codex
 - always-on engines appear in Prompt Plot only when genuinely needed nearly every turn
@@ -4530,3 +4531,4 @@ Make every finished asset independently copy-pasteable.
 Presentation must never force the creator to manually extract production text from surrounding commentary.
 
 Quality over speed.
+````

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - North, West, East, South Thinking
 created: "[[2023-07-09]]"
-modified: 2026-01-09T11:58:24.157Z
+modified: 2026-01-09T13:58:24.157+02:00
 published: "[[2023-07-09]]"
 parent: "[[Framework]]"
 state:

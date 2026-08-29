@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-09-13]]"
-modified: 2026-01-15T06:17:46.039Z
+modified: 2026-01-15T08:17:46.039+02:00
 published: "[[2024-09-13]]"
 parent: "[[Forest]]"
 state:

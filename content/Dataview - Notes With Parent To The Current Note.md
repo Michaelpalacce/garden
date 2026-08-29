@@ -2,7 +2,7 @@
 publish: true
 description: Contains a dataview query to display a table with notes that have a parent set to the current note.
 created: "[[2024-06-09]]"
-modified: 2026-01-29T07:01:02.946Z
+modified: 2026-02-03T20:19:58.356+02:00
 published: "[[2024-06-09]]"
 parent: "[[Dataview]]"
 state:

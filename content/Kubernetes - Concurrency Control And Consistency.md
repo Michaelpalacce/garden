@@ -4,7 +4,7 @@ aliases:
   - Kubernetes - resourceVersion
 description: How resourceVersion works for race conditions
 created: "[[2024-08-12]]"
-modified: 2026-02-01T10:22:21.467Z
+modified: 2026-02-01T12:22:21.467+02:00
 published: "[[2024-08-12]]"
 parent: "[[Kubernetes]]"
 state:

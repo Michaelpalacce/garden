@@ -2,7 +2,7 @@
 publish: true
 description: Taking a broadened look into a topic helps with learning.
 created: "[[2025-04-27]]"
-modified: 2026-01-09T11:58:24.923Z
+modified: 2026-01-09T13:58:24.923+02:00
 published: "[[2025-04-27]]"
 parent: "[[Framework]]"
 state:

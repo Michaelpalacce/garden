@@ -2,7 +2,7 @@
 publish: true
 description: Don't be lazy when learning
 created: "[[2026-01-20]]"
-modified: 2026-01-29T08:34:13.983Z
+modified: 2026-01-29T10:34:13.983+02:00
 published: "[[2026-01-20]]"
 parent:
   - "[[How To Retain Knowledge]]"

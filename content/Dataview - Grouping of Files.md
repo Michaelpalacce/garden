@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2022-05-03]]"
-modified: 2026-01-29T07:00:59.131Z
+modified: 2026-02-03T20:19:57.924+02:00
 published: "[[2022-05-03]]"
 parent: "[[Dataview - Grouping]]"
 state:

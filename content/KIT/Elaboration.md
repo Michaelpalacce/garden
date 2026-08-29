@@ -4,7 +4,7 @@ aliases:
   - Elaborate
 description: Process of giving information new meaning by writing it down in your own words and connecting it with what you already know.
 created: "[[2025-04-26]]"
-modified: 2026-01-09T11:58:24.047Z
+modified: 2026-01-09T13:58:24.047+02:00
 published: "[[2025-04-26]]"
 parent: "[[How To Retain Knowledge]]"
 state:

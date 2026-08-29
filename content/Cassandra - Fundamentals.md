@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Fundamentals
 created: "[[2023-03-04]]"
-modified: 2026-01-12T20:43:19.653Z
+modified: 2026-01-12T22:43:19.653+02:00
 published: "[[2023-03-04]]"
 parent:
   - "[[Cassandra]]"

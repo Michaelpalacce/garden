@@ -3,7 +3,7 @@ publish: true
 aliases:
   - K3S - Sizing
 created: "[[2025-04-19]]"
-modified: 2026-01-12T20:36:13.107Z
+modified: 2026-01-12T22:36:13.107+02:00
 published: "[[2025-04-19]]"
 parent: "[[K3S]]"
 state:

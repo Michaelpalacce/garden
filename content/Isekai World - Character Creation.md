@@ -2,7 +2,7 @@
 publish: true
 description: Hold Character creation prompts
 created: "[[2026-08-12]]"
-modified: 2026-08-20T23:03:04.968Z
+modified: 2026-08-29T12:01:33.543+03:00
 published: "[[2026-08-12]]"
 parent: "[[Isekai World]]"
 state:

@@ -2,7 +2,7 @@
 publish: true
 description: A process of restoring data and service operations after a disaster (total data loss) ocurrs.
 created: "[[2024-09-14]]"
-modified: 2026-01-14T18:59:11.556Z
+modified: 2026-01-14T20:59:11.556+02:00
 published: "[[2024-09-14]]"
 parent: "[[DevOps Index]]"
 state:

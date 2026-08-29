@@ -4,7 +4,7 @@ aliases:
   - SysAdmin
 description: Developer Operations
 created: "[[2024-09-05]]"
-modified: 2026-01-15T06:20:58.911Z
+modified: 2026-01-15T08:20:58.911+02:00
 published: "[[2024-09-05]]"
 parent: "[[Forest]]"
 state:

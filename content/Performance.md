@@ -2,7 +2,7 @@
 publish: true
 description: How to write performant code
 created: "[[2024-10-10]]"
-modified: 2026-01-11T13:41:48.308Z
+modified: 2026-01-11T15:41:48.308+02:00
 published: "[[2024-10-10]]"
 parent: "[[Software Engineering Index]]"
 state:

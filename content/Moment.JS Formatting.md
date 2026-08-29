@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2022-05-10]]"
-modified: 2026-01-29T07:01:03.011Z
+modified: 2026-02-03T20:19:58.503+02:00
 published: "[[2022-05-10]]"
 parent: "[[000 Obsidian Index]]"
 state:

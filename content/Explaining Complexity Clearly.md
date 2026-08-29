@@ -2,7 +2,7 @@
 publish: true
 description: How to effectively explain complex topics to different audiences.
 created: "[[2025-04-28]]"
-modified: 2026-01-11T13:12:23.989Z
+modified: 2026-01-11T15:12:23.989+02:00
 published: "[[2025-04-28]]"
 parent: "[[Communication]]"
 state:

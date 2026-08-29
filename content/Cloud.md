@@ -4,7 +4,7 @@ aliases:
   - Cloud Providers
 description: Cloud Resources and providers
 created: "[[2022-09-13]]"
-modified: 2026-01-11T18:41:17.143Z
+modified: 2026-01-11T20:41:17.143+02:00
 published: "[[2022-09-13]]"
 parent: "[[DevOps Index]]"
 state:

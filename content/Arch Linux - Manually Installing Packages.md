@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2025-08-15]]"
-modified: 2026-01-12T22:10:08.722Z
+modified: 2026-01-13T00:10:08.722+02:00
 published: "[[2025-08-15]]"
 parent: "[[Arch Linux]]"
 state:

@@ -4,9 +4,9 @@ aliases:
   - Learning System
   - How I Learn
 description: My framework for writing notes
-created: 2026-01-14T13:55:25.914Z
-modified: 2026-01-29T00:04:55.288Z
-published: 2026-01-29T00:04:55.288Z
+created: 2026-01-09T13:58:24.184+02:00
+modified: 2026-01-29T02:04:55.288+02:00
+published: 2026-01-29T02:04:55.288+02:00
 parent:
   - "[[000 Obsidian Index]]"
 state:

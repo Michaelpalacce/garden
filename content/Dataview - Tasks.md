@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2022-05-11]]"
-modified: 2026-01-29T07:01:02.168Z
+modified: 2026-02-03T20:19:58.264+02:00
 published: "[[2022-05-11]]"
 parent:
   - "[[Dataview]]"

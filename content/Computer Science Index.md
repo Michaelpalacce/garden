@@ -2,7 +2,7 @@
 publish: true
 description: Computer science topics
 created: "[[2024-10-13]]"
-modified: 2026-01-14T12:26:58.987Z
+modified: 2026-01-14T14:26:58.987+02:00
 published: "[[2024-10-13]]"
 parent: "[[Forest]]"
 state:

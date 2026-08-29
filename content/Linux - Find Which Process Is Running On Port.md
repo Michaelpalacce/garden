@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2025-09-26]]"
-modified: 2026-01-12T22:08:33.526Z
+modified: 2026-01-13T00:08:33.526+02:00
 published: "[[2025-09-26]]"
 parent: "[[Linux]]"
 state:

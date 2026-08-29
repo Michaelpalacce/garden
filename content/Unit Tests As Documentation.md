@@ -2,7 +2,7 @@
 publish: true
 description: Writing unit tests with descriptive names and explicit outcomes can serve as documentation for the method.
 created: "[[2025-02-21]]"
-modified: 2026-01-10T22:40:08.906Z
+modified: 2026-01-11T00:40:08.906+02:00
 published: "[[2025-02-21]]"
 parent:
   - "[[Testing - Unit Tests]]"
