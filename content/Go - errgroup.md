@@ -2,7 +2,7 @@
 publish: true
 description: Replacement for sync.WaitGroups
 created: "[[2025-10-06]]"
-modified: 2026-01-12T20:27:41.167Z
+modified: 2026-01-12T21:58:18.368Z
 published: "[[2025-10-06]]"
 parent: "[[Go]]"
 state:

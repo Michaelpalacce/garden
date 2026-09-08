@@ -4,9 +4,9 @@ aliases:
   - Dataview
   - DataviewJS
 description: Seeded [[2022-05-01]]
-created: 2026-01-29T07:00:57.208Z
-modified: 2026-01-29T07:00:57.837Z
-published: 2026-01-29T07:00:57.837Z
+created: 2023-04-27T19:26:06.546Z
+modified: 2026-01-29T04:36:50.593Z
+published: 2026-01-29T04:36:50.593Z
 parent: "[[000 Obsidian Index]]"
 state:
   - evergreen

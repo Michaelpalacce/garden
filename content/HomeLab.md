@@ -23,8 +23,8 @@ links:
 
 # Action Items
 
-- Fix Paperless
-- Firefly fix for subscriptions
+- [ ] Fix Paperless
+- [ ] Firefly fix for subscriptions
 
 # Withered
 

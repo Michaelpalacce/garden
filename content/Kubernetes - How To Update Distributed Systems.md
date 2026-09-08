@@ -2,7 +2,7 @@
 publish: true
 description: What are the responsibilities of operators to ensure that distributed systems can be updated correctly.
 created: "[[2026-01-31]]"
-modified: 2026-02-02T07:34:58.899Z
+modified: 2026-01-31T22:03:13.620Z
 published: "[[2026-01-31]]"
 parent: "[[Kubernetes - Operator]]"
 state:

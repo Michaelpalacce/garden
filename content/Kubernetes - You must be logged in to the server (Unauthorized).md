@@ -3,7 +3,7 @@ publish: true
 aliases:
   - 
 created: "[[2023-10-24]]"
-modified: 2026-08-29T12:09:24.114+03:00
+modified: 2026-08-29T09:09:24.114Z
 published: "[[2023-10-24]]"
 parent:
   - "[[Kubernetes]]"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2025-05-08T07:54:59.457+03:00
-modified: 2026-01-29T01:55:51.636+02:00
-published: 2026-01-29T01:55:51.636+02:00
+created: 2023-05-21T06:21:40.733Z
+modified: 2026-01-28T23:55:51.636Z
+published: 2026-01-28T23:55:51.636Z
 parent:
   - "[[Docker]]"
 state: evergreen

@@ -2,7 +2,7 @@
 publish: true
 description: Distributing data on multiple servers
 created: "[[2024-09-06]]"
-modified: 2026-01-31T21:31:07.737Z
+modified: 2026-01-31T20:07:57.579Z
 published: "[[2024-09-06]]"
 parent: "[[Databases]]"
 state:

@@ -4,9 +4,9 @@ aliases:
   - Blog
   - Garden
 title: Home
-created: 2026-01-09T14:13:01.782+02:00
-modified: 2026-01-29T01:59:54.044+02:00
-published: 2026-01-29T01:59:54.044+02:00
+created: 2026-01-07T19:40:31.994Z
+modified: 2026-01-28T23:59:54.044Z
+published: 2026-01-28T23:59:54.044Z
 state:
   - evergreen
 ---

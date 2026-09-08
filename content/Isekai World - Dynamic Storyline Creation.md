@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2026-08-15]]"
-modified: 2026-08-29T12:24:35.824+03:00
+modified: 2026-09-08T10:57:58.737Z
 published: "[[2026-08-15]]"
 parent: "[[Isekai World - Storyline Creation]]"
 state:
@@ -2040,123 +2040,557 @@ unless the surrounding situation already creates a very specific choice.
 
 ---
 
-# 15. HTML STORY BANNER
+# 15. HTML STORY BANNER — COMPACT ILLUSTRATED PROLOGUE
 
-A polished HTML story banner is a mandatory final deliverable.
+A polished HTML Story Banner is a mandatory final deliverable.
 
 It is user-facing.
 
 It is NOT the Prompt Plot.
 
-It should make someone understand the story, its atmosphere, its important characters, and why they want to play within seconds.
+It is NOT a miniature documentation page.
 
-The banner should feel like a compact illustrated story pitch rather than a miniature documentation page.
+It is NOT merely an advertisement.
+
+The banner should function as a:
+
+**COMPACT ILLUSTRATED PROLOGUE**
+
+Its job is to make the player feel that a story was already moving before the first roleplay message — and that they are arriving at the exact moment something is about to change.
+
+The banner should tell a short, readable story:
+
+**what was true before → what changed → how the current situation formed → who matters now → what pressures wait ahead → where play begins**
+
+This sequence is conceptual, not a mandatory set of literal headings.
+
+Adapt it to the story.
+
+A survival story may describe how a refuge was built.
+
+A romance may describe how two lives became entangled.
+
+A mystery may describe the ordinary situation before the first impossible clue.
+
+A crime story may describe the deal, mistake, debt, or betrayal that created the present pressure.
+
+A workplace story may describe the old routine, the new arrival, and the complication nobody can ignore.
+
+A fantasy or science-fiction story may describe the established world, the disruption, and the new reality the cast must now navigate.
+
+The banner should feel like someone opened an illustrated storybook, dossier, memory album, case file, travel journal, mission brief, family history, or cinematic prologue appropriate to the genre.
+
+It must still remain compact.
 
 ---
 
-## 15.1 Banner purpose
+## 15.1 CORE PURPOSE — TELL HOW WE GOT HERE
 
-The banner should communicate:
+The banner should answer, in a story-shaped order:
 
-- story hook
-- genre/tone
-- world premise
-- central relationship/conflict
-- the 2–4 most important characters
-- what sorts of scenes the story naturally generates
-- the immediate social/emotional situation
-- immediate opening context
-- enabled story functions/systems when any are active, including why they are enabled and whether any are required
-- active narrative/story engines when any are in place, described briefly without exposing hidden operational detail
+- What was normal before this story?
+- What changed?
+- What happened because of that change?
+- How did the important people become connected to the current situation?
+- What is true now?
+- What pressures, desires, dangers, obligations, mysteries, or opportunities are beginning to move?
+- Why does interactive play begin at this moment rather than yesterday or next month?
 
-The banner should give the player slightly more than a one-paragraph teaser.
+The player should finish the banner with the feeling:
 
-It should establish enough texture that the story already feels inhabited before the first roleplay message begins.
+**"I understand how this situation came to exist, who matters, and what kind of story is waiting for me."**
 
-Only include information the player can reasonably know near the beginning unless the creator explicitly requests a reader-facing spoiler.
+Do not dump every fact.
+
+Choose only the chain of events that makes the starting situation emotionally and causally legible.
+
+Prefer:
+
+**cause → consequence → new condition**
+
+over disconnected lore.
+
+Example logic:
+
+"She took the job."
+
+"That put her in the same office as him."
+
+"The merger made them rivals."
+
+"Now they have to lead the same project."
+
+This is stronger than separately listing:
+
+- occupation
+- company
+- rivalry
+- project
+
+The banner should tell the relationship between facts.
+
+---
+
+## 15.2 BYOC / PLAYER-HISTORY SAFETY
+
+The Compact Illustrated Prologue must respect "{{user}}" as BYOC.
+
+Do not invent a personal history for "{{user}}" merely to make the prologue feel complete.
+
+Do not invent:
+
+- childhood
+- family
+- appearance
+- personality
+- prior relationships
+- emotional reactions
+- private motives
+- important past choices
+- dialogue
+- attraction
+- unestablished accomplishments
+- unestablished crimes, trauma, promises, loyalties, or beliefs
+
+unless those facts were explicitly established by the creator as part of the playable premise.
+
+When the premise DOES establish a required player-facing past fact, the banner may use it.
+
+Examples:
+
+- "{{user}} has already accepted the dangerous contract."
+- "{{user}} inherited the house."
+- "{{user}} is the new teacher at the academy."
+- "{{user}} survived the crash."
+- "{{user}} has served in this unit for six months."
+
+Use only the minimum established history required to explain the present.
+
+If no protagonist history is established, tell the prologue through:
+
+- the world
+- NPC history
+- public events
+- institutional changes
+- environmental conditions
+- the immediate situation
+- what has just happened around "{{user}}"
+
+The banner may say:
+
+"The hotel was quiet until three guests vanished."
+
+It should not invent:
+
+"You have always hated hotels."
+
+---
+
+## 15.3 PLAYER-FACING KNOWLEDGE / SPOILER RULE
+
+The prologue may explain past events only when the player can reasonably know them at or near the beginning.
 
 Do not reveal:
 
 - secret plans
+- hidden loyalties
 - future betrayals
 - future confessions
-- hidden motivations
+- private NPC thoughts
+- concealed identities
+- unrevealed supernatural truths
 - possible endings
 - undiscovered lore
 - twists whose discovery is part of play
 
+If an important causal event is hidden from the player, describe only its visible consequence.
+
+Prefer:
+
+"Three shipments vanished on the northern road."
+
+Not:
+
+"The quartermaster secretly sold them to the enemy."
+
+The prologue should clarify the starting situation without stealing discoveries from the story.
+
 ---
 
-## 15.2 Banner size target
+## 15.4 NARRATIVE SHAPE — USE STORY BEATS, NOT DOCUMENTATION
+
+The banner should normally contain a short chain of narrative sections before and around the character cards.
+
+Use **story beats**.
+
+Do not default to generic information headings such as:
+
+- Premise
+- Setting
+- Conflict
+- Characters
+- Mechanics
+
+when more evocative narrative headings would fit.
+
+Prefer headings such as:
+
+- Before the Door Opened
+- The Summer Before
+- Then the Calls Started
+- The Night Everything Changed
+- Three Weeks Later
+- How They Ended Up Here
+- The House Now
+- People at the Center of It
+- What Waits Outside
+- Tomorrow Has Teeth
+- Where the Story Begins
+
+These are examples only.
+
+Generate headings from the actual story.
+
+Do not reuse the same headings across unrelated stories.
+
+The banner should read like a miniature narrative, not a form with filled fields.
+
+---
+
+## 15.5 ADAPTIVE PROLOGUE SEQUENCE
+
+Use the smallest sequence that makes the current situation feel earned.
+
+A strong default sequence is:
+
+### BEAT A — THE OLD NORMAL
+
+Briefly establish the world, relationship, routine, institution, household, mission, town, crew, family, or social arrangement before the inciting change.
+
+Answer:
+
+"What did life look like before this became a story?"
+
+Keep it short.
+
+### BEAT B — THE CHANGE
+
+Show the event, arrival, discovery, loss, invitation, accident, promotion, inheritance, crime, war, rumor, supernatural occurrence, reunion, assignment, or decision that disturbed the old normal.
+
+Answer:
+
+"What made the old situation impossible to continue unchanged?"
+
+### BEAT C — THE CHAIN OF CONSEQUENCES
+
+Use one or more short sections when needed.
+
+Show what followed.
+
+This is the heart of the compact prologue.
+
+Examples:
+
+- the stranger was taken in
+- the deal was signed
+- the body was found
+- the team was assembled
+- the family returned home
+- the station lost contact
+- the wedding party arrived
+- the rivalry worsened
+- the secret became a rumor
+- the city entered lockdown
+- the expedition crossed the point of no return
+
+Prefer 1–3 causal beats.
+
+Do not summarize an entire lifetime.
+
+### BEAT D — THE PRESENT CONDITION
+
+Establish what exists now because of those events.
+
+Examples:
+
+- a fragile household
+- a divided team
+- an uneasy partnership
+- an occupied city
+- a new school term
+- a damaged ship
+- a growing settlement
+- a wedding full of unresolved history
+- a case nobody can explain
+- a relationship that has crossed into dangerous territory
+
+Answer:
+
+"What is the player stepping into?"
+
+### BEAT E — THE PEOPLE WHO MATTER
+
+Use mandatory character cards.
+
+Character cards should feel like part of the story's progression, not an interruption for reference material.
+
+Where useful, divide characters by narrative state.
+
+Examples:
+
+- Here Now
+- The Family
+- The Crew
+- The Suspects
+- The House
+- The Court
+- Already Involved
+- People You Have Met
+- People the Story May Bring In
+
+Only use a future/later-character group when the creator wants those characters player-facing before they appear and doing so does not spoil discovery.
+
+### BEAT F — WHAT WAITS AHEAD
+
+Show the forces that will naturally generate play.
+
+These are not always literal dangers.
+
+Depending on genre, they may be:
+
+- predators
+- war
+- debt
+- jealousy
+- family expectations
+- deadlines
+- investigation
+- political pressure
+- social scrutiny
+- resource shortage
+- secrets
+- supernatural escalation
+- professional competition
+- conflicting loyalties
+- travel
+- intimacy
+- grief
+- responsibility
+- moral choices
+- changing relationships
+- the consequences of success
+
+Answer:
+
+"What will keep this story moving?"
+
+### BEAT G — THE THRESHOLD
+
+End with the mandatory Story Begins block.
+
+The banner stops just before active roleplay.
+
+---
+
+## 15.6 GENRE ADAPTATION
+
+Do not force every story into a danger/survival structure.
+
+Translate the prologue shape into the story's actual genre.
+
+### Romance / relationship story
+
+Emphasize:
+
+- prior relationship state
+- what changed between people
+- why proximity or tension now exists
+- social constraints
+- unresolved wants
+- the immediate occasion bringing them together
+
+"Pressure" may be emotional rather than physical.
+
+### Mystery / horror
+
+Emphasize:
+
+- the ordinary pattern
+- the first wrong thing
+- accumulating signs
+- who is trapped, involved, missing, suspected, or responsible
+- what remains unknown
+
+Do not solve the mystery in the banner.
+
+### Action / survival / adventure
+
+Emphasize:
+
+- prior security
+- rupture
+- losses or alliances
+- current resources or position
+- external threats
+- next survival or mission pressure
+
+### Slice-of-life / workplace / domestic
+
+Emphasize:
+
+- routine
+- relationships
+- responsibilities
+- recent change
+- upcoming event or obligation
+- recurring social friction
+
+Do not manufacture villains merely to create stakes.
+
+### Political / crime / court drama
+
+Emphasize:
+
+- existing power arrangement
+- destabilizing move
+- debts, alliances, reputation, leverage, or scrutiny
+- the people who can change the situation
+- the next public or private confrontation
+
+### Fantasy / science fiction
+
+Emphasize:
+
+- only the world rule needed to understand the premise
+- the protagonist's established place in that world, if creator-defined
+- the disruption
+- the current group/location/mission
+- the larger pressure now beginning to move
+
+Do not turn the banner into a setting encyclopedia.
+
+---
+
+## 15.7 NARRATIVE VOICE
+
+The banner's prose should feel like the story.
+
+Do not write every banner in the same neutral promotional voice.
+
+Match the selected tone and setting.
+
+Possible approaches include:
+
+- warm and intimate
+- terse and dangerous
+- elegant and political
+- melancholy and reflective
+- playful and romantic
+- procedural and clinical
+- mythic and restrained
+- pulpy and adventurous
+- eerie and uncertain
+
+Use simple language when the viewpoint or story calls for it.
+
+Use refined language when the setting calls for it.
+
+The banner does not need to imitate "{{user}}"'s private thoughts or voice.
+
+Prefer concrete verbs and images.
+
+Prefer:
+
+"The elevator stopped on the thirteenth floor. The building only has twelve."
+
+over:
+
+"A mysterious and ominous event began to unfold."
+
+Use occasional short standalone lines for emphasis.
+
+Do not overuse them.
+
+---
+
+## 15.8 KEEP IT LIGHT — INFORMATION DENSITY
+
+The banner should feel substantial without becoming exhausting.
 
 Target approximately:
 
-**300–500 visible words.**
+**450–700 visible words.**
 
-This is a guideline rather than a quota.
+This is a guideline, not a quota.
 
-Very simple stories may stay slightly shorter.
+Very simple stories may be shorter.
 
-Stories with several important characters may naturally approach the upper end.
+Complex ensembles may be somewhat longer when necessary.
 
 Use approximately:
 
-**6–9 meaningful content sections.**
+**7–11 meaningful visual sections**, including character-card groups.
 
-The banner should be somewhat richer than a brief advertisement while remaining substantially smaller than the Prompt Plot.
+Do not make every section the same size.
 
-Do not pad the banner with generic atmosphere simply to make it longer.
+Most narrative sections should contain roughly:
 
-Every section should answer at least one useful player-facing question:
+- one short heading
+- optional eyebrow/subheading
+- 1–3 compact paragraphs
+- or a few small visual beats
 
-- Where am I?
-- What is happening?
-- Who matters?
-- What is the central tension?
-- What kind of experience will this story produce?
-- Why does the story begin now?
+Avoid walls of text.
 
-Do not reproduce character profiles.
+As a default:
 
-Do not reproduce the Prompt Plot.
+- narrative paragraph: 25–70 words
+- character-card copy: 35–80 words
+- experience/pressure section: 40–100 words
+- Story Begins block: 25–70 words
 
-Do not turn the banner into a lore encyclopedia.
+These are soft targets.
+
+Use line breaks, cards, small labels, separators, and compact callouts to create breathing room.
+
+Do not solve density problems by deleting the causal story.
+
+Compress wording before deleting narrative structure.
 
 ---
 
-## 15.3 Recommended banner anatomy
+## 15.9 RECOMMENDED BANNER ANATOMY
 
-Use only sections that materially help the story, but the banner should normally contain enough structure to feel substantial.
+Use only what materially helps, but a strong banner will usually contain:
 
-Recommended anatomy:
-
-1. atmospheric hook / eyebrow line
+1. atmospheric eyebrow / small context line
 2. maximum 3 genre/tone tags
 3. story title
-4. premise / world situation
-5. central dynamic or conflict
-6. mandatory character cards
-7. short "What This Story Is About" / "What Awaits" / equivalent experience section
-8. compact "Systems & Engines" section when functions or narrative/story engines are active
-9. opening-point / "Story Begins" block
+4. one short hook line
+5. 2–4 compact narrative prologue beats explaining how the current situation formed
+6. mandatory character-card section
+7. present-day condition / "where things stand now" when not already clear
+8. "What Awaits" / pressure / experience section
+9. compact Systems & Engines section only when player-facing functions or systems matter
+10. mandatory Story Begins block
 
-Sections may be combined where doing so produces a cleaner design.
+The narrative beats are more important than rigid adherence to this numbered order.
 
-The title/premise portion should establish the story.
+Character cards may appear earlier when a person is the inciting event.
 
-The character-card portion should establish the people.
+A mystery may place cards after the first unexplained event.
 
-The final sections should establish the experience, active systems when relevant, and immediate starting point.
+A romance may interleave the two central characters with the relationship history.
 
-When the story uses functions, the Systems & Engines section should mention only functions that are actually enabled, such as Codex, Dice Roll, Character Stats, Character Manager, or Character Name Generator. Give each a short player-facing reason for being enabled and clearly mark any function that is Required rather than merely available/default-on.
+A survival story may place the current refuge before the larger cast.
 
-When Story Engines or Storyteller Narrative Engine modules are active, mention them briefly in player-facing language and explain what they contribute to consistency or play. Do not dump internal prompt rules.
+Use narrative logic.
 
-Avoid unnecessary repeated cards or repeated explanations of the same premise.
+Do not use a template-shaped order when another order tells the story better.
 
 ---
 
-## 15.4 MANDATORY CHARACTER CARDS
+## 15.10 CHARACTER CARDS — MANDATORY
 
 Every HTML Story Banner MUST contain character cards.
 
@@ -2166,17 +2600,34 @@ Do not replace the character-card section with a plain paragraph listing names.
 
 Normally create cards for the **2–4 core characters most important to understanding the starting story**.
 
-For unusually focused one-NPC stories, one substantial character card is sufficient.
+For an unusually focused one-NPC story, one substantial card is sufficient.
 
-For larger ensembles, do not attempt to reproduce the entire cast unless all of them are essential to the initial player-facing premise.
+For larger ensembles:
+
+- feature the characters required to understand the starting situation
+- optionally create a secondary compact group for additional player-facing characters
+- do not reproduce the entire cast merely because profiles exist
 
 Each character card must contain:
 
 - character name
 - compact role / archetype / identifying label
-- a concise visual or social impression that preserves the character's exceptionally attractive or otherwise striking design
-- 1–3 short sentences explaining why this person matters in the story
-- their player-facing relationship or immediate dynamic with the protagonist when relevant
+- concise visual or social impression
+- 1–3 short sentences explaining why this person matters
+- their immediate player-facing dynamic or current story position when relevant
+- optionally, one compact "how they came into this situation" line when it strengthens the prologue
+
+That final history line is especially useful when the banner is telling how the current group formed.
+
+Examples:
+
+- "How she got here:"
+- "Why he's involved:"
+- "Before tonight:"
+- "What changed:"
+- "Now:"
+
+Do not mechanically use the same label on every card.
 
 Character cards should communicate personality through concrete impression rather than full psychological explanation.
 
@@ -2189,11 +2640,12 @@ Good card information includes:
 - public reputation
 - visible contradiction
 - relationship context
-- what kind of scenes they tend to create
+- what kind of scenes they naturally create
+- a concise player-known arrival/history hook
 
 Do NOT include:
 
-- complete backstory
+- complete biography
 - secret motives
 - hidden future developments
 - detailed competence lists
@@ -2202,13 +2654,39 @@ Do NOT include:
 - private information the player should not know
 - every relationship in the NPC Social Web
 
-Character cards supplement the Compact Character Profiles.
+Character cards supplement Compact Character Profiles.
 
 They do not replace them.
 
 ---
 
-## 15.5 CHARACTER CARD IMAGE RULE — MANDATORY WHEN IMAGES ARE SUPPLIED
+## 15.11 CHARACTER GROUPING
+
+When the cast has different narrative states, group cards clearly.
+
+Useful distinctions include:
+
+- core cast vs supporting cast
+- present now vs arriving later
+- family vs outsiders
+- crew vs rivals
+- known suspects vs unknown figures
+- allies vs institutional powers
+- house residents vs visitors
+
+Only create a separate "later" or "future" group when:
+
+- those characters are intentionally player-facing before their arrival
+- their existence is not meant to be discovered in play
+- previewing them helps communicate the broader story experience
+
+Do not promise that a future character will definitely become a lover, ally, recruit, victim, villain, or permanent companion unless that outcome is already fixed by the premise.
+
+Describe possibility without pre-resolving agency.
+
+---
+
+## 15.12 CHARACTER CARD IMAGE RULE — MANDATORY WHEN IMAGES ARE SUPPLIED
 
 If the creator supplies an exact image URL for a core character included in the banner:
 
@@ -2226,13 +2704,17 @@ If images exist for only some characters:
 
 - characters with supplied images receive image-backed character cards
 - characters without supplied images still receive text-only character cards
-- keep the visual language consistent enough that the cards still feel like one cast section
+- keep the visual language consistent enough that the cards feel like one cast section
 
 If no images are supplied:
 
 **character cards are STILL mandatory.**
 
-Create styled text-only cards containing the character's name, role, impression, and player-facing story dynamic.
+Create styled text-only cards.
+
+The phrase "illustrated prologue" describes the banner's visual storytelling approach.
+
+It does NOT require invented artwork.
 
 Never generate a fake portrait placeholder unless the creator explicitly requests placeholders.
 
@@ -2248,7 +2730,7 @@ Never place "{{user}}" inside image alt text.
 
 ---
 
-## 15.6 Character card visual hierarchy
+## 15.13 CHARACTER CARD VISUAL HIERARCHY
 
 Image-backed character cards should normally use:
 
@@ -2256,11 +2738,12 @@ Image-backed character cards should normally use:
 2. character name
 3. short role/archetype label
 4. concise descriptive impression
-5. player-facing dynamic or story relevance
+5. player-facing dynamic / story relevance
+6. optional short history or "now" line
 
-Text-only character cards should use the same hierarchy without the image.
+Text-only cards should use the same hierarchy without the image.
 
-Cards should feel visually distinct from ordinary premise paragraphs.
+Cards should feel visually distinct from ordinary narrative paragraphs.
 
 Use:
 
@@ -2269,20 +2752,19 @@ Use:
 - spacing
 - typography
 - compact labels
+- small dividers
 
-to make each card clearly readable as a character unit.
+Do not rely on long text to distinguish characters.
 
-Do not rely exclusively on large amounts of text to distinguish characters.
-
-Avoid making cards excessively tall.
+Avoid excessively tall cards.
 
 Prefer concise card copy with strong specificity.
 
-When multiple cards exist, keep their information density reasonably consistent.
+When multiple cards exist, keep information density reasonably consistent.
 
 ---
 
-## 15.7 HTML compatibility rules
+## 15.14 HTML COMPATIBILITY RULES
 
 Return the banner as one complete HTML block.
 
@@ -2326,7 +2808,7 @@ Every padded or bordered `<div>` should use:
 
 ---
 
-## 15.8 Mobile-first width
+## 15.15 MOBILE-FIRST WIDTH
 
 Design to survive an effective content width around 300px.
 
@@ -2338,7 +2820,7 @@ Do not cap the entire banner to 300px.
 
 Avoid layouts dependent on wide screens.
 
-Prefer vertically stacked sections.
+Prefer vertically stacked narrative sections.
 
 Character cards must remain readable when stacked at narrow widths.
 
@@ -2350,7 +2832,7 @@ When uncertain, stack the cards.
 
 ---
 
-## 15.9 Visual style
+## 15.16 VISUAL STYLE — STORYBOOK, NOT DASHBOARD
 
 Default to:
 
@@ -2362,15 +2844,44 @@ Default to:
 - restrained border radii
 - typography and spacing for hierarchy
 - visually distinct character-card surfaces
+- subtle variation between narrative chapters
 
-The banner should have enough visual hierarchy to feel designed rather than like prose placed inside a dark box.
+The banner should feel like a designed prologue.
 
-Use contrast between:
+It should NOT resemble:
 
-- introductory material
-- premise/dynamic blocks
-- character cards
-- final Story Begins block
+- a statistics dashboard
+- a wiki infobox
+- a technical manual
+- a settings page
+- a game menu full of meters
+- a stack of identical information cards
+
+Use visual hierarchy to imply progression through the prologue.
+
+Useful devices include:
+
+- small numbered chapter markers
+- timeline-like labels
+- eyebrow text
+- chapter subtitles
+- short centered emphasis lines
+- restrained separators
+- compact framed quotations
+- "Then / Now / Next" contrast
+- distinct cast-card sections
+
+Do not make every section a card.
+
+Narrative sections may sit directly on the main background.
+
+Reserve stronger card treatments for:
+
+- characters
+- pivotal moments
+- current-status summaries
+- Story Begins
+- important player-facing systems
 
 Do not use single `border-left` decorative accent bars.
 
@@ -2386,7 +2897,7 @@ The story and characters remain the visual focus.
 
 ---
 
-## 15.10 Tags
+## 15.17 TAGS
 
 Maximum 3 top tags.
 
@@ -2406,7 +2917,7 @@ Do not overtag.
 
 ---
 
-## 15.11 Images
+## 15.18 IMAGES
 
 Use images only if the creator supplies exact image URLs.
 
@@ -2430,9 +2941,15 @@ Every character-card `<img>` MUST include both of these inline CSS dimensions:
 
 Never use `height:auto`, `height:300px`, `width:300px`, or another fixed pixel size on the character image itself.
 
-Use a mobile-safe parent image frame to establish the visible shape. Prefer percentage width plus a stable aspect ratio when supported.
+Use a mobile-safe parent image frame to establish the visible shape.
 
-Use `object-fit:cover` only when the supplied composition tolerates cropping; otherwise use `object-fit:contain`. In either case, the `<img>` itself remains `width:100%; height:100%;`.
+Prefer percentage width plus a stable aspect ratio when supported.
+
+Use `object-fit:cover` only when the supplied composition tolerates cropping; otherwise use `object-fit:contain`.
+
+In either case, the `<img>` itself remains:
+
+`width:100%; height:100%;`
 
 Do not force fixed 600px height.
 
@@ -2444,37 +2961,101 @@ Avoid fragile image-frame combinations that create platform hairlines.
 
 ---
 
-## 15.12 What This Story Generates
+## 15.19 WHAT THIS STORY WILL GENERATE
 
-When useful, include one short section communicating the types of experiences the story naturally produces.
+When useful, include one short section communicating what kinds of situations naturally emerge from the established premise.
 
-This may describe things such as:
+This section should feel like the future opening outward from the prologue.
 
-- tense private conversations
-- social events
+It may describe:
+
+- conversations
+- obligations
 - investigation
 - travel
-- workplace complications
-- political maneuvering
-- domestic downtime
+- domestic life
+- social events
+- competition
 - dangerous encounters
+- political maneuvering
 - awkward proximity
-- rivalry
 - romance
 - secrets
-- recurring rituals or obligations
+- training
+- missions
+- recurring rituals
+- resource pressure
+- changing relationships
+- difficult choices
+- recovery
+- celebration
 
-Do not write this as a feature checklist unless that presentation fits the banner.
+Do not write a generic feature checklist unless that presentation genuinely fits the story.
 
-Prefer concise atmospheric phrasing that helps the player understand the expected rhythm of play.
+Prefer causal, atmospheric phrasing.
 
-This section should describe possibilities without promising predetermined events.
+Example:
+
+"Days will pull the crew between repair work, arguments over dwindling fuel, strange transmissions, and the question of whether the signal ahead is rescue or bait."
+
+This is stronger than:
+
+- repair
+- resource management
+- mystery
+- exploration
+
+Describe likely categories of play without promising fixed future events.
 
 ---
 
-## 15.13 Banner opening point
+## 15.20 SYSTEMS & ENGINES — SECONDARY, NOT THE STORY
 
-End with a visually distinct small:
+When functions or story engines are active, a compact player-facing section may identify them.
+
+This section is optional unless the creator/platform requires system disclosure.
+
+It comes AFTER the narrative and cast have already sold the story.
+
+Do not let mechanics interrupt the prologue.
+
+Mention only systems actually enabled, such as:
+
+- Codex
+- Dice Roll
+- Character Stats
+- Character Manager
+- Character Name Generator
+- active Story Engines
+- Storyteller Narrative Engine modules
+
+For each player-facing function:
+
+- state why it is enabled
+- clearly mark Required when applicable
+- keep explanation to one short line
+
+For Story Engines:
+
+- describe their contribution in ordinary player-facing language
+- do not expose hidden prompt rules
+- do not reproduce operational engine text
+
+Example:
+
+"Investigation Engine — clues persist, suspects act offscreen, and conclusions must follow evidence."
+
+Not:
+
+"[internal rule dump]"
+
+The story remains primary.
+
+---
+
+## 15.21 STORY BEGINS — MANDATORY THRESHOLD BLOCK
+
+End with a visually distinct:
 
 **Story Begins**
 
@@ -2488,17 +3069,68 @@ Include:
 - immediate situation
 - one short hook line, observation, or quote
 
-This block should feel like the final few seconds before the roleplay starts.
+This block should feel like the final few seconds before the first roleplay message.
 
-It should lead naturally into any of the candidate Opening Options.
+It should answer:
 
-Do not resolve the opening tension here.
+"Where are we now, and what is just about to happen?"
+
+Do not resolve the opening tension.
 
 Do not summarize the entire first message.
 
+Do not repeat the whole prologue.
+
 The banner ends at the threshold.
 
-The Opening Option begins the scene.
+The Opening Option begins the live scene.
+
+---
+
+## 15.22 PROLOGUE QUALITY TEST
+
+Before finalizing the HTML banner, silently check:
+
+### STORY
+
+- Does the banner explain how the present situation came to exist?
+- Is there a visible chain of cause and consequence?
+- Does the story feel as if it existed before the first message?
+- Is the current moment clearly different from the old normal?
+- Is it obvious why play begins now?
+
+### PLAYER AGENCY
+
+- Did the banner avoid inventing unnecessary "{{user}}" history?
+- Did it avoid assigning "{{user}}" thoughts, feelings, attraction, or private motives?
+- Are player-known facts distinguished from hidden information?
+
+### CHARACTERS
+
+- Do the essential people have cards?
+- Does each card explain why that person matters now?
+- When useful, does the card connect the person to the prologue rather than merely describe appearance?
+- Are future characters framed as possibilities rather than predetermined outcomes?
+
+### EXPERIENCE
+
+- Does the banner show what kinds of pressures, relationships, obligations, mysteries, dangers, or opportunities will generate scenes?
+- Does it avoid reducing the story to a feature checklist?
+- Does the final section lead naturally into the opening?
+
+### PRESENTATION
+
+- Does it feel like a compact illustrated prologue rather than documentation?
+- Are sections short enough to scan?
+- Is there enough visual variation to guide the eye?
+- Are character cards visually distinct?
+- Is the dark-background contrast readable?
+- Is the design mobile-safe?
+- Is the prose concise enough that the narrative remains enjoyable?
+
+If the banner fails the STORY test, adding more decoration is not the solution.
+
+Fix the causal narrative first.
 
 ---
 
@@ -3277,6 +3909,15 @@ Do not modify, trim, reorder, reword, or "improve" any part of it:
 * avoid repetitive gestures, bloated exposition, generic names, and unnecessary NPCs
 * new meaningful characters get a brief grounded visual introduction
 [/style_engine]
+
+[scene_continuity_engine]
+* Do not have characters ask a question and leave before {{user}} can answer unless interruption is causally necessary.
+* Do not end scenes abruptly while meaningful dialogue, tension, intimacy, or emotional development is still active.
+* Private one-on-one moments should be allowed to breathe and develop naturally.
+* Do not introduce unnecessary interruptions, visitors, emergencies, or scene changes into personal moments.
+* Let characters remain present long enough for responses, follow-up, silence, vulnerability, disagreement, and character growth.
+* End or interrupt a scene only when it feels earned by character intent, circumstance, or established external pressure.
+[/scene_continuity_engine]
 ```
 
 Additional story-specific Storyteller modules may be generated only when they materially improve the story. They must be separate from the required module above.
@@ -4344,35 +4985,58 @@ For 2+ recurring NPCs:
 - inline styles only
 - mobile-safe around 300px effective width
 - fluid outer width
-- banner has enough substance to establish world, tension, characters, experience, and opening context
-- approximately 300–500 visible words when appropriate
-- approximately 6–9 meaningful sections when appropriate
+- banner is treated as a Compact Illustrated Prologue, not a miniature documentation page
+- banner explains how the present situation came to exist
+- banner establishes an old normal, prior condition, or equivalent contextual baseline when useful
+- banner shows the change/disruption that made the story begin
+- banner uses a short causal chain rather than disconnected lore bullets
+- banner establishes the present condition before play begins
+- banner makes it obvious why the story begins now
+- narrative section labels are story-specific rather than recycled template headings
+- structure adapts to genre rather than forcing every story into survival/danger framing
+- "{{user}}" history is used only when explicitly established by the premise
+- no invented "{{user}}" childhood, motives, feelings, attraction, dialogue, or significant past choices
+- player-facing history reveals no hidden plans, secret motives, twists, or undiscovered lore
+- approximately 450–700 visible words when appropriate
+- approximately 7–11 meaningful visual sections when appropriate
+- no walls of text
+- narrative density is reduced through concise prose, spacing, labels, and section rhythm rather than by deleting necessary causal context
 - character-card section exists
 - every core character required to understand the opening has a character card
 - character cards exist even when no images are supplied
+- character cards explain why each person matters to the present situation
+- when useful, cards include a concise player-known arrival/history/"now" hook that connects them to the prologue
+- larger casts are grouped by meaningful narrative state when useful
+- future/later characters are previewed only when intentionally player-facing and non-spoilery
+- future characters are not promised predetermined romantic, allied, villainous, or permanent outcomes unless fixed by premise
 - every supplied core-character image appears in that character's corresponding card
 - characters without images receive styled text-only cards
 - no supplied character image is silently omitted
+- "illustrated prologue" does not cause invented artwork or fake URLs
 - no external assets unless supplied
 - no invented image URLs
 - no modified supplied image URLs
 - no "{{user}}" in image alt text
 - no fake portrait placeholders unless specifically requested
-- no major spoilers
-- central dynamic is obvious
 - character cards summarize rather than reproduce full profiles
 - character cards expose no hidden motivations or future developments
 - banner communicates the kinds of scenes/experiences the story naturally generates
-- banner identifies enabled Codex, Dice Roll, Character Stats, Character Manager, and Character Name Generator functions when they are actually active
+- pressure is genre-appropriate and may be social, emotional, professional, political, mysterious, logistical, romantic, environmental, or physical
+- no villain/danger is manufactured merely because the template expects "stakes"
+- enabled systems/functions appear only when actually active and useful to disclose
 - enabled function blurbs explain why each is used and clearly mark any Required function/setup
-- active Story Engines or Storyteller Narrative Engine modules are mentioned briefly when present
-- banner leads naturally into the opening
-- Story Begins block exists
-- dark/light contrast is readable
+- active Story Engines or Storyteller Narrative Engine modules are mentioned briefly in player-facing language when present
+- mechanics remain secondary to the narrative prologue
+- visual structure feels like a storybook/prologue/dossier appropriate to genre rather than a dashboard
+- narrative sections and character cards use distinct visual hierarchy
 - no single-side decorative border accents
+- dark/light contrast is readable
 - every character-card image uses inline `width:100%; height:100%;`
 - no character-card image uses `height:auto`, fixed 300px dimensions, or another fixed pixel size on the image itself
 - supplied artwork is not unnecessarily cropped
+- Story Begins block exists
+- Story Begins contains immediate location/context and stops at the threshold of active play
+- banner leads naturally into the selected Opening Option
 
 ---
 

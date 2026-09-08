@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2025-01-19]]"
-modified: 2026-01-12T22:36:31.439+02:00
+modified: 2026-01-12T20:36:31.439Z
 published: "[[2025-01-19]]"
 parent: "[[K3S]]"
 state:

@@ -4,7 +4,7 @@ aliases:
   - Kubernetes Operator - Race Conditions
 description: How to scale your operator to handle more requests
 created: "[[2026-02-01]]"
-modified: 2026-02-03T20:20:01.308+02:00
+modified: 2026-02-01T10:30:14.781Z
 published: "[[2026-02-01]]"
 parent: "[[Kubernetes - Operator]]"
 state:

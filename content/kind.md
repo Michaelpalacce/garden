@@ -4,7 +4,7 @@ aliases:
   - Kubernetes In Docker
 description: Kubernetes In Docker For Local Development
 created: "[[2026-01-28]]"
-modified: 2026-02-03T20:19:56.266+02:00
+modified: 2026-01-28T10:06:44.037Z
 published: "[[2026-01-28]]"
 parent: "[[Kubernetes]]"
 state:

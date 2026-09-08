@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Upgrading K3S Version
   - K3S System Upgrader
-created: 2026-01-14T13:55:27.217Z
+created: 2023-04-27T19:28:05.902Z
 modified: 2026-01-12T20:36:17.951Z
 published: 2026-01-12T20:36:17.951Z
 parent: "[[K3S]]"

@@ -4,7 +4,7 @@ aliases:
   - tfctl
 description: Terraform managed by kubernetes
 created: "[[2026-01-15]]"
-modified: 2026-01-26T18:25:02.669Z
+modified: 2026-01-15T01:45:57.632Z
 published: "[[2026-01-15]]"
 parent: "[[Kubernetes - Operator]]"
 state:

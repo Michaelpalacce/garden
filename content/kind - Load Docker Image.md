@@ -2,7 +2,7 @@
 publish: true
 description: How to load a docker image in the kind cluster
 created: "[[2026-01-28]]"
-modified: 2026-01-28T09:19:48.078Z
+modified: 2026-01-28T10:06:43.974Z
 published: "[[2026-01-28]]"
 parent: "[[kind]]"
 state:

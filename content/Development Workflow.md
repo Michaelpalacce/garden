@@ -11,10 +11,10 @@ date: "[[2024-01-14]]"
 
 # Ideas For Improvement
 
-- Migrate to main treesitter branch
-- Better handling of big files
-- Fugitive better placement?
-- Add skills for [[OpenCode]]. See: https://github.com/VoltAgent/awesome-agent-skills
+- [x] Migrate to main treesitter branch
+- [x] Better handling of big files
+- [x] Fugitive better placement?
+- [x] Add skills for [[OpenCode]]. See: https://github.com/VoltAgent/awesome-agent-skills
 
 # Dotfiles
 

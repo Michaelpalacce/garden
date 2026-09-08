@@ -2,7 +2,7 @@
 publish: true
 description: How to control the concurrency of a workflow
 created: "[[2026-01-15]]"
-modified: 2026-01-26T18:25:04.748Z
+modified: 2026-01-15T11:03:18.572Z
 published: "[[2026-01-15]]"
 parent: "[[Github - Actions]]"
 state:

@@ -2,7 +2,7 @@
 publish: true
 description: Hold Character creation prompts
 created: "[[2026-08-12]]"
-modified: 2026-08-29T12:01:33.543+03:00
+modified: 2026-08-30T06:13:19.484Z
 published: "[[2026-08-12]]"
 parent: "[[Isekai World]]"
 state:
@@ -315,7 +315,7 @@ If removing a detail would not meaningfully change how the character speaks, cho
 ## Images
 
 ```
-This is Melodie. I want you to create a batch of 10 separate images in profile orientation with aspect ratio 3:4. The images must be from above hip to head. The background must be checkerbox. Make sure nothing sexual. Each image must portray a different emotion or action. I want you to portray:
+This is Melodie. I want you to create a batch of 10 separate images in profile orientation with aspect ratio 3:4. The images must be from above hip to head. The background must be transparent, no pixels. Each image must portray a different emotion or action. I want you to portray:
 
 - Calm
 - Very Smug

@@ -4,7 +4,7 @@ aliases:
   - 
 description: When you start losing skills, differentiate which matter
 created: "[[2026-01-20]]"
-modified: 2026-01-26T18:25:15.288Z
+modified: 2026-01-20T08:42:10.934Z
 published: "[[2026-01-20]]"
 parent:
   - "[[Self]]"

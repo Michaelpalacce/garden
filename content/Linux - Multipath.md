@@ -1,9 +1,9 @@
 ---
 publish: true
 description: Multipathing allows the combination of multiple physical connections between a server and a storage array into one virtual device
-created: 2026-01-07T23:40:29.543+02:00
-modified: 2026-01-10T16:55:48.872+02:00
-published: 2026-01-10T16:55:48.872+02:00
+created: 2023-04-27T19:25:57.799Z
+modified: 2026-01-10T14:55:48.872Z
+published: 2026-01-10T14:55:48.872Z
 parent: "[[Linux]]"
 state:
   - sapling

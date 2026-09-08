@@ -2,7 +2,7 @@
 publish: true
 description: Interpersonal skills
 created: "[[2025-04-16]]"
-modified: 2026-01-11T18:20:39.447+02:00
+modified: 2026-01-11T16:20:39.447Z
 published: "[[2025-04-16]]"
 parent:
   - "[[Forest]]"

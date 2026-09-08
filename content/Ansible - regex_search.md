@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2022-07-20]]"
-modified: 2026-01-14T20:58:28.128+02:00
+modified: 2026-01-14T18:58:28.128Z
 published: "[[2022-07-20]]"
 parent:
   - "[[Ansible]]"

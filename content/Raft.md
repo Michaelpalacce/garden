@@ -2,7 +2,7 @@
 publish: true
 description: A lightweight and easier to understand replacement of PAXOS. A Consensus Algorithm
 created: "[[2024-09-17]]"
-modified: 2026-02-02T07:34:59.132Z
+modified: 2026-01-31T22:06:56.805Z
 published: "[[2024-09-17]]"
 parent:
   - "[[Consensus Algorithm]]"

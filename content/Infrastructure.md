@@ -2,7 +2,7 @@
 publish: true
 description: Software infrastructure
 created: "[[2025-02-20]]"
-modified: 2026-01-11T15:22:43.748+02:00
+modified: 2026-01-11T13:22:43.748Z
 published: "[[2025-02-20]]"
 parent: "[[Software Architect]]"
 state:

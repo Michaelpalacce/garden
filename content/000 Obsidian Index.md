@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Obsidian
-created: 2026-01-29T07:00:55.934Z
-modified: 2026-01-29T07:00:56.861Z
-published: 2026-01-29T07:00:56.861Z
+created: 2023-05-21T06:26:08.768Z
+modified: 2026-01-29T04:36:50.591Z
+published: 2026-01-29T04:36:50.591Z
 parent:
   - "[[Pathways]]"
 state:

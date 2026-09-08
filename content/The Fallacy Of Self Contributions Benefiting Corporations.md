@@ -2,7 +2,7 @@
 publish: true
 description: Why you should open source your work instead of donating to corporations
 created: "[[2026-01-17]]"
-modified: 2026-01-26T18:25:14.978Z
+modified: 2026-01-20T08:18:57.592Z
 published: "[[2026-01-17]]"
 parent:
   - "[[index]]"

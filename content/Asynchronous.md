@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Asynchronicity
 created: "[[2024-01-28]]"
-modified: 2026-01-11T20:40:11.491+02:00
+modified: 2026-01-11T18:40:11.491Z
 published: "[[2024-01-28]]"
 parent: "[[Software Engineering Index]]"
 state:

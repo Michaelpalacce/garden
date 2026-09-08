@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Artifactory
-created: 2026-01-14T13:53:57.882Z
+created: 2023-04-27T19:31:30.030Z
 modified: 2026-01-14T18:55:19.784Z
 published: 2026-01-14T18:55:19.784Z
 parent:

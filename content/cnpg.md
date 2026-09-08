@@ -4,7 +4,7 @@ aliases:
   - Cloud-Native Postgres
 description: A kubernetes controller for managing the lifecycle of postgres databases in Kubernetes
 created: "[[2026-01-19]]"
-modified: 2026-01-26T18:25:12.045Z
+modified: 2026-01-19T22:43:27.512Z
 published: "[[2026-01-19]]"
 parent: "[[Kubernetes - Operator]]"
 state:

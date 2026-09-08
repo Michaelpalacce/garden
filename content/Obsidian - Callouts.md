@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Callouts
 created: "[[2022-06-01]]"
-modified: 2026-01-29T07:01:04.217Z
+modified: 2026-01-29T04:36:52.600Z
 published: "[[2022-06-01]]"
 parent: "[[000 Obsidian Index]]"
 state:

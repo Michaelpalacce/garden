@@ -2,7 +2,7 @@
 publish: true
 description: How to handle updates for resources in kubernetes?
 created: "[[2026-01-31]]"
-modified: 2026-02-02T07:34:58.774Z
+modified: 2026-01-31T22:03:13.618Z
 published: "[[2026-01-31]]"
 parent: "[[Kubernetes]]"
 state:
