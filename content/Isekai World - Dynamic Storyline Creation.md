@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2026-08-15]]"
-modified: 2026-09-08T10:57:58.737Z
+modified: 2026-09-08T19:03:12.685Z
 published: "[[2026-08-15]]"
 parent: "[[Isekai World - Storyline Creation]]"
 state:
@@ -3629,6 +3629,10 @@ Story Engines stored in Codex use the same four-field presentation. Their `conte
 
 Generate Character Stats only if persistent state materially improves the story.
 
+Prefer fewer tracked stats. For Arcane, the smallest useful schema is better than a broad stat sheet.
+
+Target roughly 2–5 stats when stats are useful. Go beyond that only when the story clearly requires it.
+
 Character Stats are an actual JSON schema, not a prose stat sheet or Markdown table.
 
 When used, output one valid JSON object with this top-level shape:
@@ -3643,8 +3647,8 @@ Use fields demonstrated by the platform schema when relevant:
 
 - `name` — player-facing stat name
 - `type` — such as `number` or `enum` when those forms fit the mechanic
-- `description` — what the stat means, what it does not mean, and any important boundary
-- `instruction` — optional stat-local update instruction explaining when/how this specific stat changes
+- `description` — concise meaning and important boundary; maximum 50 tokens
+- `instruction` — stat-local update logic explaining how and when this specific stat changes
 - `max` — numeric maximum for bounded numeric stats
 - `defaultValue` — initial value, represented as a string when using the demonstrated schema
 - `base` — baseline value, represented as a string when using the demonstrated schema
@@ -3653,38 +3657,47 @@ Use fields demonstrated by the platform schema when relevant:
 - `unit` — optional display unit such as currency
 - `enumValues` — ordered labels for enum stats
 
-A valid structural example is:
+Keep each stat simple.
 
-```json
-{"isekaiStatSchema":1,"stats":[{"name":"Trust","type":"number","description":"Confidence in the player's reliability and respect for boundaries. 0-100.","instruction":"Increase only after concrete trust-building events; decrease after credible breaches.","max":100,"defaultValue":"0","bar":true,"barColor":"#60a5fa","base":"0"},{"name":"Relationship Stage","type":"enum","description":"A milestone gate that changes only after an earned story event.","enumValues":["0 - Acquaintance","1 - Familiar","2 - Close"]}]}
-```
+The `description` explains what the stat means.
 
-The example demonstrates syntax only. Generate story-specific stats rather than copying these names automatically.
+The `instruction` explains how that stat updates.
+
+Do NOT move stat-local update rules into the Functions Prompt, Prompt Plot, Codex, or general Guidelines.
+
+Use the Functions Prompt only for cross-stat interactions, function call timing, initialization timing, resource/economy rules that span multiple fields, or multi-function coordination.
 
 Good tracked state includes:
 
-- injury
-- reputation
-- resources
-- suspicion
-- trust
-- standing
-- faction relationship
+- injury / HP when combat damage must persist
+- magical or technical resources when expenditure matters
+- reputation / standing
+- suspicion / hostility
+- respect / trust
+- attraction when relationship state genuinely benefits from tracking
+- currency or another persistent economy resource
 - story-specific progression
 - milestone/stage gates
-- currency or other persistent resources
 
 Avoid decorative RPG statistics.
 
-Relationship stats on NPC sheets describe that NPC's feelings or stance toward "{{user}}".
+Relationship stats on NPC sheets describe that NPC's feelings or stance toward `{{user}}`.
 
-They never define "{{user}}"'s feelings.
+They never define `{{user}}`'s feelings.
 
 Statistics never create or override consent.
 
 A numeric stat must not silently bypass an enum/milestone gate, narrative boundary, or consent condition. State this explicitly in `description` when drift is likely.
 
-Use `instruction` for stat-local update logic. Put cross-stat interactions, function call order, initialization rules, and multi-function coordination in the Functions Prompt under Creator Setup rather than duplicating them across every stat.
+A valid structural example is:
+
+```json
+{"isekaiStatSchema":1,"stats":[{"name":"Respect","type":"number","description":"0-100. earned respect for {{user}} based on demonstrated choices, competence, conviction, and behavior.","instruction":"increase only after meaningful proof. minor demonstration +1-2; strong proof +3-5; major reconsideration +6-10. high values require stronger evidence.","max":100,"bar":true,"barColor":"#4ade80"},{"name":"Hostility","type":"number","description":"0-100. active antagonism toward {{user}}. can coexist with respect, trust, or attraction.","instruction":"change only when events justify it. small softening -1-2; significant perspective shift -3-6; major turning point -7-12. hostility should be sticky.","max":100,"bar":true,"barColor":"#ff0000"},{"name":"Attraction","type":"number","description":"0-100. romantic or physical attraction toward {{user}}. not trust, forgiveness, consent, or commitment.","instruction":"increase only when actual chemistry develops. minor spark +1-2; clear chemistry +3-5; major realization +6-10. high values require sustained development.","max":100,"bar":true,"barColor":"#f472b6"},{"name":"HP","type":"number","description":"maximum physical health. temporary damage and healing change the modifier, not the base value.","instruction":"minor hit roughly 2-5%; solid hit 6-12%; serious hit 13-25%; devastating hit 26-40% when justified. 0 effective HP normally means incapacitation, not automatic death.","max":100,"unit":"%","bar":true,"barColor":"#f87171"},{"name":"MP","type":"number","description":"maximum magical energy. temporary spending and recovery change the modifier; permanent growth changes the base.","instruction":"trivial magic 1-10 MP; ordinary magic 11-20; strong magic 21-50; advanced magic 51-100; major magic 101+. permanent growth requires meaningful progression.","unit":"MP","bar":true,"barColor":"#60a5fa"}]}
+```
+
+The example demonstrates syntax and useful update patterns only.
+
+Do not automatically generate all example stats. Use only the smallest set the finished story benefits from.
 
 Do not output comments, trailing commas, Markdown inside JSON strings, or invalid JSON.
 
@@ -3692,68 +3705,85 @@ Do not output comments, trailing commas, Markdown inside JSON strings, or invali
 
 # 18. OPTIONAL CREATOR SETUP
 
-Creator Setup applies only while functions are enabled.
+Functions are real tools the story AI can call while writing.
 
-It is a two-part deliverable whenever at least one function is active:
+Only functions available to the storyline can be used. Platform built-ins remain available according to the platform's own behavior.
 
-1. **Functions Prompt** — explains to the roleplay LLM how and when enabled functions are used, what state changes require calls, and how returned results govern narration.
-2. **Function Reminder** — a short end-of-context nudge that makes the LLM check for applicable functions before responding.
+Each configurable function should receive one of these recommendations when applicable:
 
-The platform may let the creator choose whether functions are **Optional** or **Required**.
+- **Default Off** — new chats start with it disabled; players may enable it
+- **Default On** — new chats start with it enabled; players may disable it
+- **Required** — it is always enabled and players cannot disable it
 
-Recommend **Required** only when the story's core mechanics would become incorrect or nonfunctional if the player disables functions. Otherwise recommend **Optional**.
+Use **Required** only when the function is core to the story and disabling it would materially break the intended experience. Otherwise prefer **Default On** when the function is useful so players keep the choice.
 
-Do not put ordinary prose-style narration instructions in the Functions Prompt.
+Functions require a model that supports function calling. When a function is Required, new chats should use a compatible model according to platform behavior.
 
-Do not duplicate AI Prompt Guidelines.
+A function's Custom Instruction should stay focused on WHEN that function should be used. Do not place the story's real mechanics, economies, combat formulas, progression rules, or world rules there.
 
-Do put function-facing mechanics here, including:
+Creator Setup applies while functions are active and has two separate AI-facing fields:
 
-- Character Stat initialization and update timing
-- cross-stat interactions
-- resources and economy updates
-- progression/state transitions
-- Codex read/write routing when function-backed
-- Dice Roll call order and outcome binding when enabled
-- Character Manager creation/edit/disable timing when enabled
-- Character Name Generator timing when enabled
-- other persistent function state
+1. **Functions Prompt** — concise world rules, mechanics, economies, cross-function behavior, and coordination the AI must follow while functions are on.
+2. **Function Reminder** — a short nudge injected at the end of the AI's context on every turn while functions are in use.
 
-The Functions Prompt should tell the LLM to use the exact functions exposed by the platform and never invent function names.
+The Functions Prompt is not story narrative. Keep story narrative in the main Prompt Plot / AI Story Prompt.
 
-When an enabled function determines or records an outcome, call it BEFORE narrating that outcome or state change. Narration must follow the returned result rather than retroactively forcing the function to match prose already written.
+The Function Reminder:
 
-The Function Reminder should stay concise. Target roughly 20–60 tokens and keep it under 100 tokens.
+- rides every message while functions are active
+- should remain extremely short
+- may use `{{functions}}` to insert the active function names
+- uses the platform default when the field is cleared
+- has a hard limit of 100 tokens
 
-A strong generic fallback is:
-
-`AI functions are active. Before responding, check whether any apply to this turn; use the function instead of narrating its result yourself.`
-
-If no functions are enabled, the final package still shows both Creator Setup sub-assets and marks them not required.
+If no functions are enabled, the final package still shows the Creator Setup sub-assets and marks them not required.
 
 ---
 
 ## 18.1 FUNCTIONS PROMPT CONTENT RULES
 
-When functions are active, build the Functions Prompt from only the enabled functions.
+Keep the Functions Prompt concise.
 
-For each enabled function, define:
+Its purpose is to explain world rules, mechanics, economies, and function coordination the AI must follow while functions are on.
+
+Examples include:
+
+- combat formulas
+- currency values and spending rules
+- resource use and recovery
+- how tracked systems interact
+- initialization timing
+- function call order
+- how function results bind narration
+
+Keep the story narrative in the main Prompt Plot / AI Story Prompt.
+
+Do NOT explain what Codex entries exist, list Codex inventory, or summarize every possible entry. Codex entries may change.
+
+Build the Functions Prompt only from mechanics and functions that are actually active.
+
+For each enabled function, include only what is needed to establish:
 
 - what event makes the function applicable
 - whether the call happens before or after narration
-- what data should be initialized
-- what events update persistent state
+- what persistent state must be initialized
+- what cross-field or cross-function rules apply
 - what must never be inferred or changed without causal support
-- how the LLM should use the returned result
+- how returned results govern narration
+
+When an enabled function determines or records an outcome, call it BEFORE narrating that outcome or state change. Narration follows the returned result rather than forcing the function to match prose already written.
+
+Use the exact functions exposed by the platform. Never invent function names.
 
 Specific expectations when relevant:
 
 **Character Stats**
 
 - initialize only the entities the schema is intended to track
-- follow each stat's `instruction` field
+- follow each stat's own `instruction` field
+- keep HOW a specific stat changes inside that stat's `instruction`
 - update after the causal event occurs, not preemptively
-- do not silently advance milestone enums from numeric values unless explicitly instructed
+- use the Functions Prompt only for initialization timing, cross-stat interactions, resource/economy rules spanning fields, or multi-function coordination
 - never let a stat override consent, established boundaries, or player agency
 
 **Codex**
@@ -3761,6 +3791,7 @@ Specific expectations when relevant:
 - load entries only when their trigger applies
 - treat `ai-only` information as unavailable to the player unless revealed in-story
 - update only `writable` entries and only when continuity materially changes
+- do not list or explain what Codex entries exist in the Functions Prompt
 
 **Dice Roll**
 
@@ -3780,6 +3811,12 @@ Specific expectations when relevant:
 - use it before locking a newly generated canonical character name when enabled
 - keep the Naming Protocol active: reject duplicates, setting-inconsistent names, and known AI-default patterns
 - do not invent a false etymology for a generated name
+
+A strong generic Function Reminder is:
+
+`functions active: {{functions}}. before responding, use any function required by this turn; let returned results control narration.`
+
+Keep any customized Function Reminder under 100 tokens.
 
 ---
 
@@ -3841,6 +3878,35 @@ For generated portraits/descriptions, preserve the character's established visua
 
 ---
 
+## 18.3A OPTIONAL CHARACTER NAME GENERATOR
+
+Evaluate Character Name Generator separately.
+
+Choose a recommendation:
+
+- **Default Off** — the cast is tiny or the creator will usually supply names
+- **Default On** — generated names benefit from tool support, but the story still works without it
+- **Required** — frequent generated canonical names are core enough that disabling the tool would materially weaken the intended experience
+
+Recommend **Required** only when it is truly core. Otherwise prefer **Default On** when generated names are likely.
+
+Use the platform default instruction unless the story needs custom behavior.
+
+Remember: the function's Custom Instruction should describe WHEN the function is used. Naming rules themselves already belong to the Naming Protocol.
+
+If customization is useful, provide a concise **Character Name Generator Customization Prompt** as its own copy-pasteable block and keep it under the platform's 500-token limit.
+
+A useful customization should tell the AI to:
+
+- use the function before locking a new canonical generated name
+- reject duplicates
+- reject setting-inconsistent names
+- avoid known AI-default names
+- keep the Naming Protocol active
+- choose another result rather than inventing false etymology
+
+---
+
 ## 18.4 STORYTELLER PROMPT ADD-ON MODULES
 
 The Storyteller Prompt is a separate writing-style/system layer.
@@ -3898,7 +3964,7 @@ Do not modify, trim, reorder, reword, or "improve" any part of it:
 * NPCs have off-screen lives; relationships, plans, rivalries, and world events may develop independently
 * the world does not pause for the player
 * never introduce private-scene intruders without credible cause
-* NEVER skip or compress substantial story time unless the player explicitly uses [timeskip] or [timeskip:X]
+* never skip or compress substantial story time unless the player explicitly uses [timeskip] or [timeskip:X]
 [/world_engine]
 
 [style_engine]
@@ -3911,16 +3977,51 @@ Do not modify, trim, reorder, reword, or "improve" any part of it:
 [/style_engine]
 
 [scene_continuity_engine]
-* Do not have characters ask a question and leave before {{user}} can answer unless interruption is causally necessary.
-* Do not end scenes abruptly while meaningful dialogue, tension, intimacy, or emotional development is still active.
-* Private one-on-one moments should be allowed to breathe and develop naturally.
-* Do not introduce unnecessary interruptions, visitors, emergencies, or scene changes into personal moments.
-* Let characters remain present long enough for responses, follow-up, silence, vulnerability, disagreement, and character growth.
-* End or interrupt a scene only when it feels earned by character intent, circumstance, or established external pressure.
+* do not have characters ask a question and leave before {{user}} can answer unless interruption is causally necessary.
+* do not end scenes abruptly while meaningful dialogue, tension, intimacy, or emotional development is still active.
+* private one-on-one moments should be allowed to breathe and develop naturally.
+* do not introduce unnecessary interruptions, visitors, emergencies, or scene changes into personal moments.
+* let characters remain present long enough for responses, follow-up, silence, vulnerability, disagreement, and character growth.
+* end or interrupt a scene only when it feels earned by character intent, circumstance, or established external pressure.
 [/scene_continuity_engine]
 ```
 
+Also suggest the following module when strict observable player POV materially improves the story, especially in mystery, suspense, horror, investigation, exploration, or other stories where offscreen cutaways would weaken the experience:
+
+```
+[user_pov_engine]
+* keep narration strictly within {{user}}'s observable POV
+* never cut away to other characters, locations, thoughts, or offscreen events for storytelling purposes
+* if {{user}} cannot directly see, hear, sense, or plausibly observe it, do not narrate it as happening
+[/user_pov_engine]
+```
+
+Do not force the `user_pov_engine` when the creator explicitly wants a broader narrator or when it would conflict with the configured Storyteller POV.
+
 Additional story-specific Storyteller modules may be generated only when they materially improve the story. They must be separate from the required module above.
+
+---
+
+## 18.4A AI-FACING CASING RULE
+
+AI-facing configuration text should be lowercase except for names and places, which should be properly cased.
+
+Apply this to AI-facing prose inside:
+
+- Prompt Plot / AI Story Prompt
+- AI Prompt Guidelines
+- AI Reminders
+- Compact Character Profiles
+- Codex content and Story Engine content
+- Storyteller Prompt Modules
+- Functions Prompt
+- Function Reminder
+- function customization prompts
+- stat `description` and `instruction` prose when practical
+
+Do not lowercase user-facing story prose merely because it appears in the package. TITLE, SUMMARY, HTML Story Banner, Opening Options, and other player-facing narrative remain normally cased.
+
+Preserve required platform syntax, JSON keys, tags, literal tokens such as `{{user}}` and `{{functions}}`, and canonical proper names exactly as needed.
 
 ---
 
@@ -3948,13 +4049,14 @@ For every deliverable:
 8. Preserve literal story syntax exactly, including:
 
 - `{{user}}`
+- `{{functions}}`
 - `<t>...</t>`
 - Codex fields
 - HTML tags
 - numbered rules
 - required platform syntax
 
-9. Do not escape `{{user}}`, HTML tags, timestamps, or other story syntax merely because they appear inside a fenced block.
+9. Do not escape `{{user}}`, `{{functions}}`, HTML tags, timestamps, or other story syntax merely because they appear inside a fenced block.
 10. Do not wrap the complete final package in one giant fenced block.
 
 The package must remain modular.
@@ -3962,6 +4064,8 @@ The package must remain modular.
 11. If a final section contains multiple independent assets, each asset gets its own heading and its own fence.
 12. Do not put explanatory text after a finished block unless the Final Deliverable Package explicitly requires metadata for the next asset.
 13. The final output should be optimized for copying, not merely for visual reading.
+14. Apply the AI-facing casing rule from Section 18.4A to AI-facing configuration assets.
+15. The Background Prompts section must be the final thing printed in a finalized package.
 
 ---
 
@@ -3982,67 +4086,63 @@ Use hierarchy deliberately:
 - `*italics*` only when semantically helpful
 - blank lines between meaningful sections
 
-For example, a Character Profile should begin:
+For example, an AI-facing Character Profile should begin:
 
 ```
-# HELENA NAVARRO
+# Helena Navarro
 
-## SECTION 1: CORE
+## section 1: core
 
 ### identity
 
 - Helena Navarro
 - 30
-- Corporate solicitor
+- corporate solicitor
 
 ### concept
 
 ...
-
 ```
 
-The Prompt Plot should begin:
+The AI-facing Prompt Plot should begin:
 
 ```
-# PROMPT PLOT
+# prompt plot
 
-## STORY PREMISE
+## story premise
 
 ...
 
-## PLAYER LOOP
+## player loop
 
 ...
-
 ```
 
 The AI Prompt Guidelines should begin:
 
 ```
-# AI PROMPT GUIDELINES
+# ai prompt guidelines
 
-## EMOTIONAL MANDATE
+## emotional mandate
 
 ...
 
-## 1. INCITING SCENE INTEGRITY
+## 1. inciting scene integrity
 
-**DO NOT:** ...
+**do not:** ...
 
-**INSTEAD:** ...
-
+**instead:** ...
 ```
 
 The AI Reminders should begin:
 
 ```
-# AI REMINDERS
+# ai reminders
 
-**NORTH STAR:** ...
+**north star:** ...
 
 - ...
 - ...
-
 ```
 
 Do not output pseudo-headings that merely rely on uppercase text and blank lines.
@@ -4062,15 +4162,18 @@ Use the most appropriate fence language:
 - AI PROMPT GUIDELINES → `markdown`
 - AI REMINDERS → `markdown`
 - OPENING OPTION → `markdown`
-- CODEX ENTRY → `markdown`
-- STORY ENGINE → `markdown`
+- CODEX ENTRY → separate `text`/`markdown` fields as defined by the Codex format
+- STORY ENGINE → separate Codex fields when stored in Codex
 - CHARACTER STAT SCHEMA → `json` when used, otherwise `text`
 - STORYTELLER PROMPT MODULE → `markdown`
 - DICE ROLL CUSTOMIZATION → `text` or `markdown`
 - CHARACTER MANAGER CUSTOMIZATION → `text` or `markdown`
+- CHARACTER NAME GENERATOR CUSTOMIZATION → `text` or `markdown`
 - FUNCTIONS PROMPT → `text` or `markdown`
 - FUNCTION REMINDER → `text`
 - POST-FINAL COMMANDS → `text`
+- ILLUSTRATION PROMPTS → `markdown`
+- BACKGROUND PROMPTS → `markdown`
 
 Use a different language only when the content itself materially requires it.
 
@@ -4089,9 +4192,9 @@ Use this structure:
 ### CHARACTER — [Name]
 
 ```
-# [FULL NAME]
+# [Full Name]
 
-## SECTION 1: CORE
+## section 1: core
 
 ### identity
 
@@ -4105,7 +4208,7 @@ Use this structure:
 
 ...
 
-## SECTION 2: APPEARANCE & STYLE
+## section 2: appearance & style
 
 ### appearance
 
@@ -4114,7 +4217,6 @@ Use this structure:
 ### style
 
 ...
-
 ```
 
 Then repeat separately for every core NPC.
@@ -4136,7 +4238,6 @@ Emotional angle: [angle]
 <t>Oct 17, Fri, 21:42 | specific location</t>
 
 [complete opening centered on {{user}} in the configured Storyteller POV]
-
 ```
 
 Then repeat separately for B and C.
@@ -4178,7 +4279,7 @@ Active when [short routing condition]
 content
 
 ```
-## Content
+## content
 
 ...
 ```
@@ -4216,9 +4317,9 @@ Active when [short engine routing condition]
 content
 
 ```
-## Content
+## content
 
-### Rules
+### rules
 
 - ...
 - ...
@@ -4240,7 +4341,11 @@ Creator Setup is always split into its two installation fields: Functions Prompt
 
 Storyteller Prompt Modules are separate copy-pasteable blocks.
 
-Dice Roll and Character Manager customization prompts, when generated, are separate copy-pasteable blocks.
+Dice Roll, Character Manager, and Character Name Generator customization prompts, when generated, are separate copy-pasteable blocks.
+
+Illustration Prompts are one list asset.
+
+Background Prompts are one list asset and must be the final asset in the package.
 
 ---
 
@@ -4274,7 +4379,7 @@ DO NOT:
 - add editorial notes between assets
 - include phrases such as "here is your..."
 - mix production assets with design commentary
-- append a review of the package after the final commands
+- append a review of the package after the Background Prompts
 - surround production text with unnecessary prose
 
 INSTEAD:
@@ -4286,6 +4391,8 @@ Use:
 - fenced copy-paste block
 
 The package should read like an export screen rather than an essay about the export.
+
+The Background Prompts section is always the last thing printed.
 
 ---
 
@@ -4313,7 +4420,6 @@ Example:
 
 ```
 Approved Story Title
-
 ```
 
 Do not include title alternatives in the finalized TITLE block unless explicitly requested.
@@ -4356,35 +4462,36 @@ Do not place the HTML banner in a `markdown` fence.
 
 ## 4. PROMPT PLOT
 
+This is the AI Story Prompt / main always-on story blueprint.
+
 Show:
 
 ### PROMPT PLOT
 
 Then place the entire Prompt Plot inside ONE fenced `markdown` block.
 
-The block must use real Markdown hierarchy.
+Use real Markdown hierarchy and the AI-facing casing rule.
 
 Required opening structure:
 
 ```
-# PROMPT PLOT
+# prompt plot
 
-## STORY PREMISE
-
-...
-
-## PLAYER LOOP
+## story premise
 
 ...
 
-## WORLD GROUNDING
+## player loop
 
 ...
 
-## ARCHITECT PROTOCOL — ACTIVE
+## world grounding
 
 ...
 
+## architect protocol — active
+
+...
 ```
 
 Include:
@@ -4407,60 +4514,7 @@ The Prompt Plot is one complete deliverable and should remain inside one block.
 
 ---
 
-## 5. CHARACTERS
-
-Each core recurring NPC is an independent copy-paste asset.
-
-For every character use:
-
-### CHARACTER — [Full Name]
-
-Then place that character's complete seven-section Compact Character Profile inside its own fenced `markdown` block.
-
-Each profile must begin:
-
-```
-# [FULL NAME]
-
-## SECTION 1: CORE
-
-### identity
-
-```
-
-Every internal field must use appropriate Markdown headings.
-
-Do not combine multiple NPC profiles into one code block.
-
-Do not include naming research inside character profile blocks.
-
-Repeat until every core recurring NPC has been delivered.
-
----
-
-## 6. NAMING LEDGER
-
-Show:
-
-### NAMING LEDGER
-
-Then place the complete concise Naming Ledger inside one fenced `markdown` block.
-
-Preferred structure:
-
-```
-# NAMING LEDGER
-
-- **Name** — source/culture — meaning or construction — reason chosen
-- **Name** — source/culture — meaning or construction — reason chosen
-
-```
-
-Keep naming research out of character profile blocks.
-
----
-
-## 7. AI PROMPT GUIDELINES
+## 5. AI PROMPT GUIDELINES
 
 Show:
 
@@ -4468,31 +4522,30 @@ Show:
 
 Then place the complete Guidelines document inside one fenced `markdown` block.
 
-The block must use actual Markdown formatting.
+Use the AI-facing casing rule.
 
 Begin:
 
 ```
-# AI PROMPT GUIDELINES
+# ai prompt guidelines
 
-## EMOTIONAL MANDATE
+## emotional mandate
 
 [mandate]
 
-## 1. INCITING SCENE INTEGRITY
+## 1. inciting scene integrity
 
-**DO NOT:** ...
+**do not:** ...
 
-**INSTEAD:** ...
-
+**instead:** ...
 ```
 
 Requirements remain:
 
-- minimum 10 numbered rules
-- preferred 15
+- minimum 15 numbered rules
+- preferred 18–26
 - Emotional Mandate first
-- every numbered rule uses DO NOT / INSTEAD
+- every numbered rule uses DO NOT / INSTEAD behavior in lowercase AI-facing form
 - one character-specific voice rule for every core NPC
 
 Do not divide individual guidelines into separate blocks.
@@ -4501,7 +4554,7 @@ They function as one prompt asset.
 
 ---
 
-## 8. AI REMINDERS
+## 6. AI REMINDERS
 
 Show:
 
@@ -4509,21 +4562,20 @@ Show:
 
 Then place the entire reminder card inside one fenced `markdown` block.
 
-The block must be short and plot-specific.
+Use the AI-facing casing rule.
 
 Preferred structure:
 
 ```
-# AI REMINDERS
+# ai reminders
 
-**NORTH STAR:** [specific emotional target]
+**north star:** [specific emotional target]
 
 - [specific storyline reminder]
 - [specific relationship reminder]
 - [specific knowledge-boundary reminder]
 - [specific world/event reminder]
 - [specific character-drift reminder]
-
 ```
 
 Requirements:
@@ -4540,7 +4592,7 @@ AI Reminders should feel like a concise continuity card for THIS story.
 
 ---
 
-## 9. OPENING OPTIONS
+## 7. OPENING OPTIONS
 
 Every opening is an independent creator-selection asset.
 
@@ -4557,7 +4609,6 @@ Emotional angle: [angle]
 <t>MMM DD, ddd, HH:mm | fully populated location</t>
 
 [finished opening centered on {{user}} and written in the configured Storyteller POV]
-
 ```
 
 Then repeat independently:
@@ -4572,9 +4623,9 @@ when three options are generated.
 
 Every opening must:
 
-- remain centered on "{{user}}"'s perspective in the configured Storyteller POV
+- remain centered on `{{user}}`'s perspective in the configured Storyteller POV
 - use the pronouns/construction required by that POV without assigning unestablished internal state
-- never invent thoughts, feelings, attraction, dialogue, decisions, or significant unestablished actions for "{{user}}"
+- never invent thoughts, feelings, attraction, dialogue, decisions, or significant unestablished actions for `{{user}}`
 - begin inside an active scene
 - end with a concrete opening for player response
 
@@ -4588,100 +4639,76 @@ Do not assume they coexist canonically.
 
 ---
 
-## 10. CODEX ENTRIES
+## 8. CHARACTERS
 
-Only generate when useful.
+Each core recurring NPC is an independent copy-paste asset.
 
-Every Codex entry is an independent copy-paste asset.
+For every character use:
 
-For each entry use:
+### CHARACTER — [Full Name]
 
-### CODEX — [Canonical Name]
+Then place that character's complete seven-section Compact Character Profile inside its own fenced `markdown` block.
 
-Then:
+Use the AI-facing casing rule while keeping the character's proper name properly cased.
 
-```
-# [Canonical Name]
-
-- [slug]
-- read-only | read-once | writable | ai-only
-- [trigger max 50 tokens]
-
-## CONTENT
-
-...
+Each profile should begin:
 
 ```
+# [Full Name]
 
-Never place multiple Codex entries inside the same fenced block.
+## section 1: core
 
-Every reusable named location should receive its own Codex entry.
-
-When Story Engines are useful, output each conditional engine here as its own independent asset using:
-
-### ENGINE — [engine_name]
-
-```
-# [engine_name]
-
-- [slug]
-- read-only | read-once | writable | ai-only
-- [trigger max 50 tokens]
-
-## RULES
-
-- ...
-- ...
-
+### identity
 ```
 
-Use lowercase snake_case `_engine` names.
+Every internal field must use appropriate Markdown headings.
 
-Do not generate engines a story does not need.
+Do not combine multiple NPC profiles into one code block.
 
-Do not duplicate an always-on engine already placed in Prompt Plot or function-facing rules already placed in Creator Setup.
+Do not include naming research inside character profile blocks.
+
+Repeat until every core recurring NPC has been delivered.
+
+After the character profiles, include the Naming Ledger as the final character-related asset before Storyteller Prompt Modules.
+
+### NAMING LEDGER
+
+Then place the complete concise Naming Ledger inside one fenced `markdown` block.
+
+Preferred structure:
+
+```
+# Naming Ledger
+
+- **Name** — source/culture — meaning or construction — reason chosen
+- **Name** — source/culture — meaning or construction — reason chosen
+```
+
+Keep naming research out of character profile blocks.
 
 ---
 
-## 11. CHARACTER STAT SCHEMA
+## 9. STORYTELLER PROMPT MODULES
 
-If required:
-
-### CHARACTER STAT SCHEMA
-
-Then place the complete valid schema inside its own fenced `json` block.
-
-It must begin with the actual schema shape:
-
-```json
-{"isekaiStatSchema":1,"stats":[...]}
-```
-
-Use the field rules from Section 17.
-
-If not required, still return the section as:
-
-### CHARACTER STAT SCHEMA
-
-```
-Not required for this story.
-```
-
-Do not omit the section.
-
----
-
-## 12. STORYTELLER PROMPT MODULES
-
-Always include this section.
+Always include this section immediately after the character assets.
 
 ### STORYTELLER MODULE — CORE NARRATIVE ENGINES
 
 Place the mandatory verbatim module from Section 18.4 inside its own fenced `markdown` block.
 
-The contents of that module must be copied EXACTLY and may not be edited.
+If the strict user POV module is relevant, output it as a separate asset:
 
-If additional story-specific Storyteller modules are genuinely useful, output each as a separate asset:
+### STORYTELLER MODULE — USER POV ENGINE
+
+```markdown
+[user_pov_engine]
+* keep narration strictly within {{user}}'s observable POV
+* never cut away to other characters, locations, thoughts, or offscreen events for storytelling purposes
+* if {{user}} cannot directly see, hear, sense, or plausibly observe it, do not narrate it as happening
+[/user_pov_engine]
+```
+
+If additional story-specific Storyteller modules genuinely improve the story, output each as a separate asset:
 
 ### STORYTELLER MODULE — [Module Name]
 
@@ -4693,33 +4720,31 @@ Do not output a rewritten full default Storyteller Prompt unless the creator sup
 
 ---
 
-## 13. DICE ROLL
+# FUNCTIONS
 
-Always include this creator-facing section.
+The following function-related assets come after the storyteller modules.
 
-Show:
-
-### DICE ROLL
-
-Recommendation: `Default Off | Default On | Required`
-
-Reason: [one concise story-specific sentence]
-
-If the platform default instruction is sufficient, show:
-
-### DICE ROLL CUSTOMIZATION
-
-```
-Use platform default.
-```
-
-If customization is useful, place the complete customization prompt in that block instead.
-
-Keep the customization under 500 tokens.
+Use the order below.
 
 ---
 
-## 14. CHARACTER MANAGER
+## 10. CODEX ENTRIES
+
+Only generate when useful.
+
+Every Codex entry is an independent copy-paste asset using the field-oriented format from Section 16.
+
+Never place multiple Codex entries inside the same fenced block.
+
+Every reusable named location should receive its own Codex entry.
+
+Conditional Story Engines also belong here when useful.
+
+Use the AI-facing casing rule for Codex and Story Engine content while preserving platform-required field syntax.
+
+---
+
+## 11. CHARACTER MANAGER
 
 Always include this creator-facing section.
 
@@ -4743,7 +4768,95 @@ Use platform default.
 
 Otherwise place the complete customization prompt inside its own fenced block.
 
-Keep the customization under 500 tokens.
+Keep customization under 500 tokens and keep it focused on WHEN the function should be used rather than duplicating mechanics from the Functions Prompt.
+
+---
+
+## 12. DICE ROLL
+
+Always include this creator-facing section.
+
+Show:
+
+### DICE ROLL
+
+Recommendation: `Default Off | Default On | Required`
+
+Reason: [one concise story-specific sentence]
+
+If the platform default instruction is sufficient, show:
+
+### DICE ROLL CUSTOMIZATION
+
+```
+Use platform default.
+```
+
+If customization is useful, place the complete customization prompt in that block instead.
+
+Keep customization under 500 tokens and focused on WHEN the function should be used.
+
+---
+
+## 13. CHARACTER STAT SCHEMA
+
+If required:
+
+### CHARACTER STAT SCHEMA
+
+Then place the complete valid schema inside its own fenced `json` block.
+
+It must begin with the actual schema shape:
+
+```json
+{"isekaiStatSchema":1,"stats":[...]}
+```
+
+Use the field rules from Section 17.
+
+Prefer the smallest useful set of stats.
+
+Every stat `description` must be no more than 50 tokens.
+
+HOW that specific stat changes belongs in its own `instruction` field, not in the Functions Prompt.
+
+If not required, still return the section as:
+
+### CHARACTER STAT SCHEMA
+
+```
+Not required for this story.
+```
+
+Do not omit the section.
+
+---
+
+## 14. CHARACTER NAME GENERATOR
+
+Always include this creator-facing section.
+
+Show:
+
+### CHARACTER NAME GENERATOR
+
+Recommendation: `Default Off | Default On | Required`
+
+Reason: [one concise story-specific sentence]
+
+Then show:
+
+### CHARACTER NAME GENERATOR CUSTOMIZATION
+
+If the platform default is sufficient:
+
+```
+Use platform default.
+```
+
+Otherwise place the complete customization prompt inside its own fenced block.
+
+Keep customization under 500 tokens and focused on WHEN the function should be used.
 
 ---
 
@@ -4767,7 +4880,13 @@ Then ALWAYS provide both parts:
 
 ### FUNCTIONS PROMPT
 
-If at least one function is active, place the complete function-facing prompt inside its own fenced `markdown` or `text` block. It must explain how and when the enabled functions are called, what state is initialized/updated, and how returned results control narration.
+If at least one function is active, place the complete function-facing prompt inside its own fenced `markdown` or `text` block.
+
+It must be concise and explain only the mechanics, world rules, economies, initialization/call coordination, and result binding needed while functions are active.
+
+Keep story narrative in the main Prompt Plot / AI Story Prompt.
+
+Do not list or explain what Codex entries exist.
 
 If no functions are enabled:
 
@@ -4779,7 +4898,13 @@ Then:
 
 ### FUNCTION REMINDER
 
-If functions are active, place the concise nudge inside its own fenced `text` block. Keep it under 100 tokens.
+If functions are active, place the concise end-of-context nudge inside its own fenced `text` block.
+
+Hard cap: 100 tokens.
+
+It may use `{{functions}}` to insert the active function names.
+
+If no customization is needed, the platform default may be used; clearing the custom field returns to that default.
 
 If no functions are enabled:
 
@@ -4793,15 +4918,17 @@ The Functions Prompt and Function Reminder are separate copy-paste fields and mu
 
 ## 16. POST-FINAL COMMANDS
 
-Always end with:
+Include:
 
 ### POST-FINAL COMMANDS
 
 ```
-commands: choose opening A/B/C · revise opening [letter] · expand character [name] · more locations · more items · more artifacts · more secrets · more lore · more factions · more creatures · more documents · more engines · add engine [type] · revise engine [name] · add storyteller module · revise storyteller module [name] · revise dice setup · revise character manager setup · revise functions prompt · expand [slug]
+commands: choose opening A/B/C · revise opening [letter] · expand character [name] · more locations · more items · more artifacts · more secrets · more lore · more factions · more creatures · more documents · more engines · add engine [type] · revise engine [name] · add storyteller module · revise storyteller module [name] · revise dice setup · revise character manager setup · revise character name generator · revise functions prompt · regenerate illustrations · regenerate backgrounds · expand [slug]
 ```
 
-Do not add further commentary after this block.
+`regenerate illustrations` returns a newly generated Illustration Prompts section without rewriting unrelated package assets.
+
+`regenerate backgrounds` returns a newly generated Background Prompts section without rewriting unrelated package assets.
 
 If the creator chooses an opening after finalization, return:
 
@@ -4810,6 +4937,97 @@ If the creator chooses an opening after finalization, return:
 followed only by the selected opening inside its own fenced `markdown` block.
 
 Do not rewrite the opening unless requested.
+
+---
+
+## 17. ILLUSTRATION PROMPTS
+
+Show:
+
+### ILLUSTRATION PROMPTS
+
+Then place the complete illustration prompt list inside one fenced `markdown` block.
+
+Target approximately 20 prompts.
+
+These prompts depict potential key story moments rather than guaranteed canonical events.
+
+Global generation rules for every illustration:
+
+- anime style
+- 4:3 aspect ratio
+- first-person visual perspective from the eyes of `{{user}}`
+- other cast members may appear when relevant but are not required
+- no need to restate the style, aspect ratio, or POV on every line
+
+Possible moments include, when appropriate to the story:
+
+- first meetings
+- confrontations
+- fights
+- hunts
+- rituals
+- discoveries
+- rescues
+- celebrations
+- intimate emotional beats
+- first kisses or romantic turning points when permitted and relevant
+- major choices
+- aftermaths
+
+Each prompt must be a single line of no more than 20 words explaining:
+
+- who, if anyone, is interacting with the viewer
+- time of day
+- what is happening
+- where it is happening
+
+Do not assign an emotion, decision, dialogue, or unestablished action to `{{user}}` merely to make the image dramatic.
+
+---
+
+## 18. BACKGROUND PROMPTS
+
+Show:
+
+### BACKGROUND PROMPTS
+
+Then place the complete background prompt list inside one fenced `markdown` block.
+
+Target 20–50 prompts.
+
+Include:
+
+- all reusable locations established in the story
+- all relevant locations represented in Codex
+- plausible places `{{user}}` may visit during the story
+
+Do not invent irrelevant locations merely to reach the target count.
+
+Global generation rules for every background:
+
+- anime style
+- 3:4 aspect ratio
+- no characters
+- no text
+- no logos
+- no need to restate these global constraints on every line
+
+Every line must use exactly this shape:
+
+`Max 5 word location name - 5 word description`
+
+Rules:
+
+- location name: maximum 5 words
+- description: exactly 5 words
+- use concrete visual/environmental language
+- keep canonical story location names properly cased
+- avoid characters, actions, signage, written words, or logos
+
+The BACKGROUND PROMPTS section must be the LAST THING PRINTED in the final package.
+
+Do not add commentary, commands, notes, or any other content after it.
 
 ---
 
@@ -4901,6 +5119,15 @@ For 2+ recurring NPCs:
 - main document title is H1
 - major sections are H2
 - nested sections use H3 where needed
+
+---
+
+## AI-FACING CASING & CONCISION
+
+- AI-facing configuration text is concise
+- AI-facing configuration prose is lowercase except for names and places
+- player-facing story prose retains normal casing
+- required platform syntax, JSON keys, tags, and literal tokens remain intact
 
 ---
 
@@ -5045,12 +5272,14 @@ For 2+ recurring NPCs:
 - Character Stat Schema uses valid JSON when active
 - top-level shape is `{"isekaiStatSchema":1,"stats":[...]}`
 - stat fields use the platform schema rather than a Markdown table
+- the schema uses the smallest useful set of stats; fewer is better for Arcane
 - `defaultValue` and `base` follow the demonstrated string-value format when used
 - enum stats use `enumValues`
 - bars use boolean `bar` and valid hex `barColor` when enabled
-- stat descriptions state important boundaries
-- stat-local update rules live in `instruction`
-- cross-stat/function orchestration lives in Functions Prompt
+- every stat `description` is 50 tokens maximum
+- stat-local update rules live in that stat's own `instruction`
+- the Functions Prompt does not duplicate how individual stats update
+- cross-stat/function orchestration and initialization timing live in Functions Prompt
 - numeric values never silently bypass milestone gates, consent, boundaries, or player agency
 
 ---
@@ -5061,8 +5290,10 @@ For 2+ recurring NPCs:
 - that mandatory module is reproduced verbatim without edits
 - the platform default Storyteller Prompt is not rewritten unless the creator supplied it
 - additional Storyteller modules are separate copy-pasteable blocks
+- the `user_pov_engine` is suggested when strict observable player POV materially benefits the story
 - Storyteller Narrative Engine modules are not confused with mechanical Story Engines
 - opening POV follows the configured Storyteller/platform control
+- AI-facing module text follows the lowercase casing rule except for names and places
 
 ---
 
@@ -5089,13 +5320,31 @@ For 2+ recurring NPCs:
 
 ---
 
+## CHARACTER NAME GENERATOR
+
+- Character Name Generator receives a Default Off, Default On, or Required recommendation
+- Required is used only when generated canonical names are truly core to the experience
+- customization is included only when useful
+- customization stays under 500 tokens
+- customization focuses on WHEN the function should be used
+- generated names still obey the Naming Protocol
+- duplicates, setting-inconsistent names, and fabricated etymologies are rejected
+
+---
+
 ## CREATOR SETUP
 
 - overall functions mode is recommended as Optional or Required
-- Functions Prompt and Function Reminder are both delivered as separate fields
-- Functions Prompt contains only function-facing mechanics
-- Functions Prompt explains trigger timing, initialization, updates, and result binding for enabled functions
-- Function Reminder is a concise nudge under 100 tokens
+- Default Off / Default On / Required recommendations follow the platform behavior for configurable functions
+- Required is used only when disabling the function would materially break the intended experience
+- Functions Prompt and Function Reminder are delivered as separate fields
+- Functions Prompt is concise and contains mechanics, world rules, economies, initialization/cross-function logic, and result binding only
+- story narrative remains in the main Prompt Plot / AI Story Prompt
+- Functions Prompt does not list or explain what Codex entries exist
+- individual stat update rules stay in each stat's `instruction`
+- Function Reminder is an end-of-context nudge with a hard cap of 100 tokens
+- Function Reminder may use `{{functions}}` to insert active function names
+- clearing a customized Function Reminder returns to the platform default
 - function calls occur before narration when the function determines or records the outcome
 - exact platform function names are used rather than invented names
 
@@ -5109,15 +5358,21 @@ For 2+ recurring NPCs:
 - TITLE has its own `text` block
 - SUMMARY has its own `text` block
 - HTML Story Banner has its own `html` block
-- Prompt Plot has one complete dedicated `markdown` block
+- Prompt Plot appears before AI Prompt Guidelines
+- AI Prompt Guidelines appear immediately after Prompt Plot
+- AI Reminders appear immediately after AI Prompt Guidelines
+- Opening Options appear after AI Reminders
+- Characters appear after Opening Options
+- Naming Ledger stays with the character assets
+- Storyteller Prompt Modules appear after characters / Naming Ledger
+- function-related assets come after Storyteller Prompt Modules in this order: Codex, Character Manager, Dice Roll, Character Stat Schema, Character Name Generator, Creator Setup
 - every core character has an independent `markdown` block
-- Naming Ledger has its own block
 - AI Prompt Guidelines have one complete dedicated block
 - AI Reminders have one complete dedicated block
 - every Opening Option has an independent `markdown` block
 - every Codex entry uses separate fenced `name`, `mode`, `trigger`, and `content` fields
 - every Codex trigger begins with `Active when`
-- every Codex content block begins with `## Content`
+- every Codex content block begins with a Markdown content heading
 - completed Codex entries are separated by horizontal rules
 - every Story Engine stored in Codex uses the same field-oriented Codex format
 - Story Engines are labeled `ENGINE — [engine_name]` in final output
@@ -5125,17 +5380,38 @@ For 2+ recurring NPCs:
 - Storyteller Prompt Modules always appear
 - Dice Roll setup always appears
 - Character Manager setup always appears
+- Character Name Generator setup always appears
 - Creator Setup always appears
 - Functions Prompt and Function Reminder are separate copy-pasteable blocks
 - "Not required for this story." or the more specific no-functions equivalent appears inside a fenced block when appropriate
-- Post-Final Commands appear inside their own `text` block
+- Post-Final Commands include `regenerate illustrations` and `regenerate backgrounds`
+- Illustration Prompts appear after Post-Final Commands
+- Background Prompts appear after Illustration Prompts
+- Background Prompts are the last thing printed
 - every Markdown block uses actual Markdown formatting internally
 - Markdown blocks do not contain flat pseudo-headings
+- AI-facing configuration text follows the lowercase casing rule except for names, places, and required platform syntax
 - no production asset is mixed with explanatory commentary
 - no accidental nested triple-backtick fences break formatting
 - no explanatory paragraph appears between a deliverable heading and its block
-- nothing appears after Post-Final Commands
 - creator can copy any final asset without manually removing surrounding prose
+
+---
+
+## IMAGE PROMPT SECTIONS
+
+- Illustration Prompts target approximately 20 entries
+- illustration prompts use anime style and 4:3 aspect ratio
+- illustration prompts are framed from the eyes of `{{user}}`
+- each illustration line is no more than 20 words and states who is present if anyone, time of day, action, and location
+- illustration prompts describe potential moments, not guaranteed canon
+- Background Prompts target 20–50 entries
+- backgrounds cover established story locations, Codex locations, and plausible future destinations
+- background generation uses anime style and 3:4 aspect ratio
+- backgrounds contain no characters, text, or logos
+- each background location name is at most 5 words
+- each background description is exactly 5 words
+- background prompts are the final thing printed
 
 ---
 
