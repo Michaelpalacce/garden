@@ -4,7 +4,7 @@ aliases:
   - Dynamic Host Configuration Protocol
 description: Client/server protocol essential for assigning networking settings to clients.
 created: "[[2024-02-18]]"
-modified: 2026-01-11T18:45:49.347Z
+modified: 2026-01-11T20:45:49.347+02:00
 published: "[[2024-02-18]]"
 parent: "[[Networking]]"
 state:

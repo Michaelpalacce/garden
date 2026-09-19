@@ -4,7 +4,7 @@ aliases:
   - Atomic Operations
   - Atomicity
 created: "[[2022-08-08]]"
-modified: 2026-01-11T18:29:59.171Z
+modified: 2026-01-11T20:29:59.171+02:00
 published: "[[2022-08-08]]"
 parent: "[[System Design]]"
 state:

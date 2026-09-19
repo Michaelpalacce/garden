@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2023-06-13]]"
-modified: 2026-01-11T13:29:45.436Z
+modified: 2026-01-11T15:29:45.436+02:00
 published: "[[2023-06-13]]"
 parent: "[[Software Design#Software Design Paradigms|Software Design Paradigm]]"
 state:

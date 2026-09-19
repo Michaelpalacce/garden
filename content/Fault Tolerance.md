@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-09-06]]"
-modified: 2026-01-11T13:36:05.876Z
+modified: 2026-01-11T15:36:05.876+02:00
 published: "[[2024-09-06]]"
 parent: "[[System Design]]"
 state:

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-06-02]]"
-modified: 2026-01-21T07:26:02.338Z
+modified: 2026-01-21T09:26:02.338+02:00
 published: "[[2024-06-02]]"
 parent: "[[Age (Encryption)]]"
 state: evergreen

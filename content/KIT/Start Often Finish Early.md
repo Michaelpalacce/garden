@@ -5,7 +5,7 @@ aliases:
   - Start Often Fuck Achievements
 description: Start many projects, see what sticks
 created: "[[2026-01-26]]"
-modified: 2026-01-28T23:58:46.760Z
+modified: 2026-01-29T01:58:46.760+02:00
 published: "[[2026-01-26]]"
 parent:
   - "[[Interleaved And Varied Learning]]"

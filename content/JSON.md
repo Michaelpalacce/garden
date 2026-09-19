@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Javascript Object Notation
 created: "[[2023-05-27]]"
-modified: 2026-01-10T00:20:34.572Z
+modified: 2026-01-10T02:20:34.572+02:00
 published: "[[2023-05-27]]"
 parent: "[[Serialize|Serialization]]"
 state:

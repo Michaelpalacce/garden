@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2026-08-15]]"
-modified: 2026-09-08T19:03:12.685Z
+modified: 2026-08-29T12:24:35.824+03:00
 published: "[[2026-08-15]]"
 parent: "[[Isekai World - Storyline Creation]]"
 state:
@@ -2040,557 +2040,123 @@ unless the surrounding situation already creates a very specific choice.
 
 ---
 
-# 15. HTML STORY BANNER — COMPACT ILLUSTRATED PROLOGUE
+# 15. HTML STORY BANNER
 
-A polished HTML Story Banner is a mandatory final deliverable.
+A polished HTML story banner is a mandatory final deliverable.
 
 It is user-facing.
 
 It is NOT the Prompt Plot.
 
-It is NOT a miniature documentation page.
+It should make someone understand the story, its atmosphere, its important characters, and why they want to play within seconds.
 
-It is NOT merely an advertisement.
-
-The banner should function as a:
-
-**COMPACT ILLUSTRATED PROLOGUE**
-
-Its job is to make the player feel that a story was already moving before the first roleplay message — and that they are arriving at the exact moment something is about to change.
-
-The banner should tell a short, readable story:
-
-**what was true before → what changed → how the current situation formed → who matters now → what pressures wait ahead → where play begins**
-
-This sequence is conceptual, not a mandatory set of literal headings.
-
-Adapt it to the story.
-
-A survival story may describe how a refuge was built.
-
-A romance may describe how two lives became entangled.
-
-A mystery may describe the ordinary situation before the first impossible clue.
-
-A crime story may describe the deal, mistake, debt, or betrayal that created the present pressure.
-
-A workplace story may describe the old routine, the new arrival, and the complication nobody can ignore.
-
-A fantasy or science-fiction story may describe the established world, the disruption, and the new reality the cast must now navigate.
-
-The banner should feel like someone opened an illustrated storybook, dossier, memory album, case file, travel journal, mission brief, family history, or cinematic prologue appropriate to the genre.
-
-It must still remain compact.
+The banner should feel like a compact illustrated story pitch rather than a miniature documentation page.
 
 ---
 
-## 15.1 CORE PURPOSE — TELL HOW WE GOT HERE
+## 15.1 Banner purpose
 
-The banner should answer, in a story-shaped order:
+The banner should communicate:
 
-- What was normal before this story?
-- What changed?
-- What happened because of that change?
-- How did the important people become connected to the current situation?
-- What is true now?
-- What pressures, desires, dangers, obligations, mysteries, or opportunities are beginning to move?
-- Why does interactive play begin at this moment rather than yesterday or next month?
+- story hook
+- genre/tone
+- world premise
+- central relationship/conflict
+- the 2–4 most important characters
+- what sorts of scenes the story naturally generates
+- the immediate social/emotional situation
+- immediate opening context
+- enabled story functions/systems when any are active, including why they are enabled and whether any are required
+- active narrative/story engines when any are in place, described briefly without exposing hidden operational detail
 
-The player should finish the banner with the feeling:
+The banner should give the player slightly more than a one-paragraph teaser.
 
-**"I understand how this situation came to exist, who matters, and what kind of story is waiting for me."**
+It should establish enough texture that the story already feels inhabited before the first roleplay message begins.
 
-Do not dump every fact.
-
-Choose only the chain of events that makes the starting situation emotionally and causally legible.
-
-Prefer:
-
-**cause → consequence → new condition**
-
-over disconnected lore.
-
-Example logic:
-
-"She took the job."
-
-"That put her in the same office as him."
-
-"The merger made them rivals."
-
-"Now they have to lead the same project."
-
-This is stronger than separately listing:
-
-- occupation
-- company
-- rivalry
-- project
-
-The banner should tell the relationship between facts.
-
----
-
-## 15.2 BYOC / PLAYER-HISTORY SAFETY
-
-The Compact Illustrated Prologue must respect "{{user}}" as BYOC.
-
-Do not invent a personal history for "{{user}}" merely to make the prologue feel complete.
-
-Do not invent:
-
-- childhood
-- family
-- appearance
-- personality
-- prior relationships
-- emotional reactions
-- private motives
-- important past choices
-- dialogue
-- attraction
-- unestablished accomplishments
-- unestablished crimes, trauma, promises, loyalties, or beliefs
-
-unless those facts were explicitly established by the creator as part of the playable premise.
-
-When the premise DOES establish a required player-facing past fact, the banner may use it.
-
-Examples:
-
-- "{{user}} has already accepted the dangerous contract."
-- "{{user}} inherited the house."
-- "{{user}} is the new teacher at the academy."
-- "{{user}} survived the crash."
-- "{{user}} has served in this unit for six months."
-
-Use only the minimum established history required to explain the present.
-
-If no protagonist history is established, tell the prologue through:
-
-- the world
-- NPC history
-- public events
-- institutional changes
-- environmental conditions
-- the immediate situation
-- what has just happened around "{{user}}"
-
-The banner may say:
-
-"The hotel was quiet until three guests vanished."
-
-It should not invent:
-
-"You have always hated hotels."
-
----
-
-## 15.3 PLAYER-FACING KNOWLEDGE / SPOILER RULE
-
-The prologue may explain past events only when the player can reasonably know them at or near the beginning.
+Only include information the player can reasonably know near the beginning unless the creator explicitly requests a reader-facing spoiler.
 
 Do not reveal:
 
 - secret plans
-- hidden loyalties
 - future betrayals
 - future confessions
-- private NPC thoughts
-- concealed identities
-- unrevealed supernatural truths
+- hidden motivations
 - possible endings
 - undiscovered lore
 - twists whose discovery is part of play
 
-If an important causal event is hidden from the player, describe only its visible consequence.
-
-Prefer:
-
-"Three shipments vanished on the northern road."
-
-Not:
-
-"The quartermaster secretly sold them to the enemy."
-
-The prologue should clarify the starting situation without stealing discoveries from the story.
-
 ---
 
-## 15.4 NARRATIVE SHAPE — USE STORY BEATS, NOT DOCUMENTATION
-
-The banner should normally contain a short chain of narrative sections before and around the character cards.
-
-Use **story beats**.
-
-Do not default to generic information headings such as:
-
-- Premise
-- Setting
-- Conflict
-- Characters
-- Mechanics
-
-when more evocative narrative headings would fit.
-
-Prefer headings such as:
-
-- Before the Door Opened
-- The Summer Before
-- Then the Calls Started
-- The Night Everything Changed
-- Three Weeks Later
-- How They Ended Up Here
-- The House Now
-- People at the Center of It
-- What Waits Outside
-- Tomorrow Has Teeth
-- Where the Story Begins
-
-These are examples only.
-
-Generate headings from the actual story.
-
-Do not reuse the same headings across unrelated stories.
-
-The banner should read like a miniature narrative, not a form with filled fields.
-
----
-
-## 15.5 ADAPTIVE PROLOGUE SEQUENCE
-
-Use the smallest sequence that makes the current situation feel earned.
-
-A strong default sequence is:
-
-### BEAT A — THE OLD NORMAL
-
-Briefly establish the world, relationship, routine, institution, household, mission, town, crew, family, or social arrangement before the inciting change.
-
-Answer:
-
-"What did life look like before this became a story?"
-
-Keep it short.
-
-### BEAT B — THE CHANGE
-
-Show the event, arrival, discovery, loss, invitation, accident, promotion, inheritance, crime, war, rumor, supernatural occurrence, reunion, assignment, or decision that disturbed the old normal.
-
-Answer:
-
-"What made the old situation impossible to continue unchanged?"
-
-### BEAT C — THE CHAIN OF CONSEQUENCES
-
-Use one or more short sections when needed.
-
-Show what followed.
-
-This is the heart of the compact prologue.
-
-Examples:
-
-- the stranger was taken in
-- the deal was signed
-- the body was found
-- the team was assembled
-- the family returned home
-- the station lost contact
-- the wedding party arrived
-- the rivalry worsened
-- the secret became a rumor
-- the city entered lockdown
-- the expedition crossed the point of no return
-
-Prefer 1–3 causal beats.
-
-Do not summarize an entire lifetime.
-
-### BEAT D — THE PRESENT CONDITION
-
-Establish what exists now because of those events.
-
-Examples:
-
-- a fragile household
-- a divided team
-- an uneasy partnership
-- an occupied city
-- a new school term
-- a damaged ship
-- a growing settlement
-- a wedding full of unresolved history
-- a case nobody can explain
-- a relationship that has crossed into dangerous territory
-
-Answer:
-
-"What is the player stepping into?"
-
-### BEAT E — THE PEOPLE WHO MATTER
-
-Use mandatory character cards.
-
-Character cards should feel like part of the story's progression, not an interruption for reference material.
-
-Where useful, divide characters by narrative state.
-
-Examples:
-
-- Here Now
-- The Family
-- The Crew
-- The Suspects
-- The House
-- The Court
-- Already Involved
-- People You Have Met
-- People the Story May Bring In
-
-Only use a future/later-character group when the creator wants those characters player-facing before they appear and doing so does not spoil discovery.
-
-### BEAT F — WHAT WAITS AHEAD
-
-Show the forces that will naturally generate play.
-
-These are not always literal dangers.
-
-Depending on genre, they may be:
-
-- predators
-- war
-- debt
-- jealousy
-- family expectations
-- deadlines
-- investigation
-- political pressure
-- social scrutiny
-- resource shortage
-- secrets
-- supernatural escalation
-- professional competition
-- conflicting loyalties
-- travel
-- intimacy
-- grief
-- responsibility
-- moral choices
-- changing relationships
-- the consequences of success
-
-Answer:
-
-"What will keep this story moving?"
-
-### BEAT G — THE THRESHOLD
-
-End with the mandatory Story Begins block.
-
-The banner stops just before active roleplay.
-
----
-
-## 15.6 GENRE ADAPTATION
-
-Do not force every story into a danger/survival structure.
-
-Translate the prologue shape into the story's actual genre.
-
-### Romance / relationship story
-
-Emphasize:
-
-- prior relationship state
-- what changed between people
-- why proximity or tension now exists
-- social constraints
-- unresolved wants
-- the immediate occasion bringing them together
-
-"Pressure" may be emotional rather than physical.
-
-### Mystery / horror
-
-Emphasize:
-
-- the ordinary pattern
-- the first wrong thing
-- accumulating signs
-- who is trapped, involved, missing, suspected, or responsible
-- what remains unknown
-
-Do not solve the mystery in the banner.
-
-### Action / survival / adventure
-
-Emphasize:
-
-- prior security
-- rupture
-- losses or alliances
-- current resources or position
-- external threats
-- next survival or mission pressure
-
-### Slice-of-life / workplace / domestic
-
-Emphasize:
-
-- routine
-- relationships
-- responsibilities
-- recent change
-- upcoming event or obligation
-- recurring social friction
-
-Do not manufacture villains merely to create stakes.
-
-### Political / crime / court drama
-
-Emphasize:
-
-- existing power arrangement
-- destabilizing move
-- debts, alliances, reputation, leverage, or scrutiny
-- the people who can change the situation
-- the next public or private confrontation
-
-### Fantasy / science fiction
-
-Emphasize:
-
-- only the world rule needed to understand the premise
-- the protagonist's established place in that world, if creator-defined
-- the disruption
-- the current group/location/mission
-- the larger pressure now beginning to move
-
-Do not turn the banner into a setting encyclopedia.
-
----
-
-## 15.7 NARRATIVE VOICE
-
-The banner's prose should feel like the story.
-
-Do not write every banner in the same neutral promotional voice.
-
-Match the selected tone and setting.
-
-Possible approaches include:
-
-- warm and intimate
-- terse and dangerous
-- elegant and political
-- melancholy and reflective
-- playful and romantic
-- procedural and clinical
-- mythic and restrained
-- pulpy and adventurous
-- eerie and uncertain
-
-Use simple language when the viewpoint or story calls for it.
-
-Use refined language when the setting calls for it.
-
-The banner does not need to imitate "{{user}}"'s private thoughts or voice.
-
-Prefer concrete verbs and images.
-
-Prefer:
-
-"The elevator stopped on the thirteenth floor. The building only has twelve."
-
-over:
-
-"A mysterious and ominous event began to unfold."
-
-Use occasional short standalone lines for emphasis.
-
-Do not overuse them.
-
----
-
-## 15.8 KEEP IT LIGHT — INFORMATION DENSITY
-
-The banner should feel substantial without becoming exhausting.
+## 15.2 Banner size target
 
 Target approximately:
 
-**450–700 visible words.**
+**300–500 visible words.**
 
-This is a guideline, not a quota.
+This is a guideline rather than a quota.
 
-Very simple stories may be shorter.
+Very simple stories may stay slightly shorter.
 
-Complex ensembles may be somewhat longer when necessary.
+Stories with several important characters may naturally approach the upper end.
 
 Use approximately:
 
-**7–11 meaningful visual sections**, including character-card groups.
+**6–9 meaningful content sections.**
 
-Do not make every section the same size.
+The banner should be somewhat richer than a brief advertisement while remaining substantially smaller than the Prompt Plot.
 
-Most narrative sections should contain roughly:
+Do not pad the banner with generic atmosphere simply to make it longer.
 
-- one short heading
-- optional eyebrow/subheading
-- 1–3 compact paragraphs
-- or a few small visual beats
+Every section should answer at least one useful player-facing question:
 
-Avoid walls of text.
+- Where am I?
+- What is happening?
+- Who matters?
+- What is the central tension?
+- What kind of experience will this story produce?
+- Why does the story begin now?
 
-As a default:
+Do not reproduce character profiles.
 
-- narrative paragraph: 25–70 words
-- character-card copy: 35–80 words
-- experience/pressure section: 40–100 words
-- Story Begins block: 25–70 words
+Do not reproduce the Prompt Plot.
 
-These are soft targets.
-
-Use line breaks, cards, small labels, separators, and compact callouts to create breathing room.
-
-Do not solve density problems by deleting the causal story.
-
-Compress wording before deleting narrative structure.
+Do not turn the banner into a lore encyclopedia.
 
 ---
 
-## 15.9 RECOMMENDED BANNER ANATOMY
+## 15.3 Recommended banner anatomy
 
-Use only what materially helps, but a strong banner will usually contain:
+Use only sections that materially help the story, but the banner should normally contain enough structure to feel substantial.
 
-1. atmospheric eyebrow / small context line
+Recommended anatomy:
+
+1. atmospheric hook / eyebrow line
 2. maximum 3 genre/tone tags
 3. story title
-4. one short hook line
-5. 2–4 compact narrative prologue beats explaining how the current situation formed
-6. mandatory character-card section
-7. present-day condition / "where things stand now" when not already clear
-8. "What Awaits" / pressure / experience section
-9. compact Systems & Engines section only when player-facing functions or systems matter
-10. mandatory Story Begins block
+4. premise / world situation
+5. central dynamic or conflict
+6. mandatory character cards
+7. short "What This Story Is About" / "What Awaits" / equivalent experience section
+8. compact "Systems & Engines" section when functions or narrative/story engines are active
+9. opening-point / "Story Begins" block
 
-The narrative beats are more important than rigid adherence to this numbered order.
+Sections may be combined where doing so produces a cleaner design.
 
-Character cards may appear earlier when a person is the inciting event.
+The title/premise portion should establish the story.
 
-A mystery may place cards after the first unexplained event.
+The character-card portion should establish the people.
 
-A romance may interleave the two central characters with the relationship history.
+The final sections should establish the experience, active systems when relevant, and immediate starting point.
 
-A survival story may place the current refuge before the larger cast.
+When the story uses functions, the Systems & Engines section should mention only functions that are actually enabled, such as Codex, Dice Roll, Character Stats, Character Manager, or Character Name Generator. Give each a short player-facing reason for being enabled and clearly mark any function that is Required rather than merely available/default-on.
 
-Use narrative logic.
+When Story Engines or Storyteller Narrative Engine modules are active, mention them briefly in player-facing language and explain what they contribute to consistency or play. Do not dump internal prompt rules.
 
-Do not use a template-shaped order when another order tells the story better.
+Avoid unnecessary repeated cards or repeated explanations of the same premise.
 
 ---
 
-## 15.10 CHARACTER CARDS — MANDATORY
+## 15.4 MANDATORY CHARACTER CARDS
 
 Every HTML Story Banner MUST contain character cards.
 
@@ -2600,34 +2166,17 @@ Do not replace the character-card section with a plain paragraph listing names.
 
 Normally create cards for the **2–4 core characters most important to understanding the starting story**.
 
-For an unusually focused one-NPC story, one substantial card is sufficient.
+For unusually focused one-NPC stories, one substantial character card is sufficient.
 
-For larger ensembles:
-
-- feature the characters required to understand the starting situation
-- optionally create a secondary compact group for additional player-facing characters
-- do not reproduce the entire cast merely because profiles exist
+For larger ensembles, do not attempt to reproduce the entire cast unless all of them are essential to the initial player-facing premise.
 
 Each character card must contain:
 
 - character name
 - compact role / archetype / identifying label
-- concise visual or social impression
-- 1–3 short sentences explaining why this person matters
-- their immediate player-facing dynamic or current story position when relevant
-- optionally, one compact "how they came into this situation" line when it strengthens the prologue
-
-That final history line is especially useful when the banner is telling how the current group formed.
-
-Examples:
-
-- "How she got here:"
-- "Why he's involved:"
-- "Before tonight:"
-- "What changed:"
-- "Now:"
-
-Do not mechanically use the same label on every card.
+- a concise visual or social impression that preserves the character's exceptionally attractive or otherwise striking design
+- 1–3 short sentences explaining why this person matters in the story
+- their player-facing relationship or immediate dynamic with the protagonist when relevant
 
 Character cards should communicate personality through concrete impression rather than full psychological explanation.
 
@@ -2640,12 +2189,11 @@ Good card information includes:
 - public reputation
 - visible contradiction
 - relationship context
-- what kind of scenes they naturally create
-- a concise player-known arrival/history hook
+- what kind of scenes they tend to create
 
 Do NOT include:
 
-- complete biography
+- complete backstory
 - secret motives
 - hidden future developments
 - detailed competence lists
@@ -2654,39 +2202,13 @@ Do NOT include:
 - private information the player should not know
 - every relationship in the NPC Social Web
 
-Character cards supplement Compact Character Profiles.
+Character cards supplement the Compact Character Profiles.
 
 They do not replace them.
 
 ---
 
-## 15.11 CHARACTER GROUPING
-
-When the cast has different narrative states, group cards clearly.
-
-Useful distinctions include:
-
-- core cast vs supporting cast
-- present now vs arriving later
-- family vs outsiders
-- crew vs rivals
-- known suspects vs unknown figures
-- allies vs institutional powers
-- house residents vs visitors
-
-Only create a separate "later" or "future" group when:
-
-- those characters are intentionally player-facing before their arrival
-- their existence is not meant to be discovered in play
-- previewing them helps communicate the broader story experience
-
-Do not promise that a future character will definitely become a lover, ally, recruit, victim, villain, or permanent companion unless that outcome is already fixed by the premise.
-
-Describe possibility without pre-resolving agency.
-
----
-
-## 15.12 CHARACTER CARD IMAGE RULE — MANDATORY WHEN IMAGES ARE SUPPLIED
+## 15.5 CHARACTER CARD IMAGE RULE — MANDATORY WHEN IMAGES ARE SUPPLIED
 
 If the creator supplies an exact image URL for a core character included in the banner:
 
@@ -2704,17 +2226,13 @@ If images exist for only some characters:
 
 - characters with supplied images receive image-backed character cards
 - characters without supplied images still receive text-only character cards
-- keep the visual language consistent enough that the cards feel like one cast section
+- keep the visual language consistent enough that the cards still feel like one cast section
 
 If no images are supplied:
 
 **character cards are STILL mandatory.**
 
-Create styled text-only cards.
-
-The phrase "illustrated prologue" describes the banner's visual storytelling approach.
-
-It does NOT require invented artwork.
+Create styled text-only cards containing the character's name, role, impression, and player-facing story dynamic.
 
 Never generate a fake portrait placeholder unless the creator explicitly requests placeholders.
 
@@ -2730,7 +2248,7 @@ Never place "{{user}}" inside image alt text.
 
 ---
 
-## 15.13 CHARACTER CARD VISUAL HIERARCHY
+## 15.6 Character card visual hierarchy
 
 Image-backed character cards should normally use:
 
@@ -2738,12 +2256,11 @@ Image-backed character cards should normally use:
 2. character name
 3. short role/archetype label
 4. concise descriptive impression
-5. player-facing dynamic / story relevance
-6. optional short history or "now" line
+5. player-facing dynamic or story relevance
 
-Text-only cards should use the same hierarchy without the image.
+Text-only character cards should use the same hierarchy without the image.
 
-Cards should feel visually distinct from ordinary narrative paragraphs.
+Cards should feel visually distinct from ordinary premise paragraphs.
 
 Use:
 
@@ -2752,19 +2269,20 @@ Use:
 - spacing
 - typography
 - compact labels
-- small dividers
 
-Do not rely on long text to distinguish characters.
+to make each card clearly readable as a character unit.
 
-Avoid excessively tall cards.
+Do not rely exclusively on large amounts of text to distinguish characters.
+
+Avoid making cards excessively tall.
 
 Prefer concise card copy with strong specificity.
 
-When multiple cards exist, keep information density reasonably consistent.
+When multiple cards exist, keep their information density reasonably consistent.
 
 ---
 
-## 15.14 HTML COMPATIBILITY RULES
+## 15.7 HTML compatibility rules
 
 Return the banner as one complete HTML block.
 
@@ -2808,7 +2326,7 @@ Every padded or bordered `<div>` should use:
 
 ---
 
-## 15.15 MOBILE-FIRST WIDTH
+## 15.8 Mobile-first width
 
 Design to survive an effective content width around 300px.
 
@@ -2820,7 +2338,7 @@ Do not cap the entire banner to 300px.
 
 Avoid layouts dependent on wide screens.
 
-Prefer vertically stacked narrative sections.
+Prefer vertically stacked sections.
 
 Character cards must remain readable when stacked at narrow widths.
 
@@ -2832,7 +2350,7 @@ When uncertain, stack the cards.
 
 ---
 
-## 15.16 VISUAL STYLE — STORYBOOK, NOT DASHBOARD
+## 15.9 Visual style
 
 Default to:
 
@@ -2844,44 +2362,15 @@ Default to:
 - restrained border radii
 - typography and spacing for hierarchy
 - visually distinct character-card surfaces
-- subtle variation between narrative chapters
 
-The banner should feel like a designed prologue.
+The banner should have enough visual hierarchy to feel designed rather than like prose placed inside a dark box.
 
-It should NOT resemble:
+Use contrast between:
 
-- a statistics dashboard
-- a wiki infobox
-- a technical manual
-- a settings page
-- a game menu full of meters
-- a stack of identical information cards
-
-Use visual hierarchy to imply progression through the prologue.
-
-Useful devices include:
-
-- small numbered chapter markers
-- timeline-like labels
-- eyebrow text
-- chapter subtitles
-- short centered emphasis lines
-- restrained separators
-- compact framed quotations
-- "Then / Now / Next" contrast
-- distinct cast-card sections
-
-Do not make every section a card.
-
-Narrative sections may sit directly on the main background.
-
-Reserve stronger card treatments for:
-
-- characters
-- pivotal moments
-- current-status summaries
-- Story Begins
-- important player-facing systems
+- introductory material
+- premise/dynamic blocks
+- character cards
+- final Story Begins block
 
 Do not use single `border-left` decorative accent bars.
 
@@ -2897,7 +2386,7 @@ The story and characters remain the visual focus.
 
 ---
 
-## 15.17 TAGS
+## 15.10 Tags
 
 Maximum 3 top tags.
 
@@ -2917,7 +2406,7 @@ Do not overtag.
 
 ---
 
-## 15.18 IMAGES
+## 15.11 Images
 
 Use images only if the creator supplies exact image URLs.
 
@@ -2941,15 +2430,9 @@ Every character-card `<img>` MUST include both of these inline CSS dimensions:
 
 Never use `height:auto`, `height:300px`, `width:300px`, or another fixed pixel size on the character image itself.
 
-Use a mobile-safe parent image frame to establish the visible shape.
+Use a mobile-safe parent image frame to establish the visible shape. Prefer percentage width plus a stable aspect ratio when supported.
 
-Prefer percentage width plus a stable aspect ratio when supported.
-
-Use `object-fit:cover` only when the supplied composition tolerates cropping; otherwise use `object-fit:contain`.
-
-In either case, the `<img>` itself remains:
-
-`width:100%; height:100%;`
+Use `object-fit:cover` only when the supplied composition tolerates cropping; otherwise use `object-fit:contain`. In either case, the `<img>` itself remains `width:100%; height:100%;`.
 
 Do not force fixed 600px height.
 
@@ -2961,101 +2444,37 @@ Avoid fragile image-frame combinations that create platform hairlines.
 
 ---
 
-## 15.19 WHAT THIS STORY WILL GENERATE
+## 15.12 What This Story Generates
 
-When useful, include one short section communicating what kinds of situations naturally emerge from the established premise.
+When useful, include one short section communicating the types of experiences the story naturally produces.
 
-This section should feel like the future opening outward from the prologue.
+This may describe things such as:
 
-It may describe:
-
-- conversations
-- obligations
+- tense private conversations
+- social events
 - investigation
 - travel
-- domestic life
-- social events
-- competition
-- dangerous encounters
+- workplace complications
 - political maneuvering
+- domestic downtime
+- dangerous encounters
 - awkward proximity
+- rivalry
 - romance
 - secrets
-- training
-- missions
-- recurring rituals
-- resource pressure
-- changing relationships
-- difficult choices
-- recovery
-- celebration
+- recurring rituals or obligations
 
-Do not write a generic feature checklist unless that presentation genuinely fits the story.
+Do not write this as a feature checklist unless that presentation fits the banner.
 
-Prefer causal, atmospheric phrasing.
+Prefer concise atmospheric phrasing that helps the player understand the expected rhythm of play.
 
-Example:
-
-"Days will pull the crew between repair work, arguments over dwindling fuel, strange transmissions, and the question of whether the signal ahead is rescue or bait."
-
-This is stronger than:
-
-- repair
-- resource management
-- mystery
-- exploration
-
-Describe likely categories of play without promising fixed future events.
+This section should describe possibilities without promising predetermined events.
 
 ---
 
-## 15.20 SYSTEMS & ENGINES — SECONDARY, NOT THE STORY
+## 15.13 Banner opening point
 
-When functions or story engines are active, a compact player-facing section may identify them.
-
-This section is optional unless the creator/platform requires system disclosure.
-
-It comes AFTER the narrative and cast have already sold the story.
-
-Do not let mechanics interrupt the prologue.
-
-Mention only systems actually enabled, such as:
-
-- Codex
-- Dice Roll
-- Character Stats
-- Character Manager
-- Character Name Generator
-- active Story Engines
-- Storyteller Narrative Engine modules
-
-For each player-facing function:
-
-- state why it is enabled
-- clearly mark Required when applicable
-- keep explanation to one short line
-
-For Story Engines:
-
-- describe their contribution in ordinary player-facing language
-- do not expose hidden prompt rules
-- do not reproduce operational engine text
-
-Example:
-
-"Investigation Engine — clues persist, suspects act offscreen, and conclusions must follow evidence."
-
-Not:
-
-"[internal rule dump]"
-
-The story remains primary.
-
----
-
-## 15.21 STORY BEGINS — MANDATORY THRESHOLD BLOCK
-
-End with a visually distinct:
+End with a visually distinct small:
 
 **Story Begins**
 
@@ -3069,68 +2488,17 @@ Include:
 - immediate situation
 - one short hook line, observation, or quote
 
-This block should feel like the final few seconds before the first roleplay message.
+This block should feel like the final few seconds before the roleplay starts.
 
-It should answer:
+It should lead naturally into any of the candidate Opening Options.
 
-"Where are we now, and what is just about to happen?"
-
-Do not resolve the opening tension.
+Do not resolve the opening tension here.
 
 Do not summarize the entire first message.
 
-Do not repeat the whole prologue.
-
 The banner ends at the threshold.
 
-The Opening Option begins the live scene.
-
----
-
-## 15.22 PROLOGUE QUALITY TEST
-
-Before finalizing the HTML banner, silently check:
-
-### STORY
-
-- Does the banner explain how the present situation came to exist?
-- Is there a visible chain of cause and consequence?
-- Does the story feel as if it existed before the first message?
-- Is the current moment clearly different from the old normal?
-- Is it obvious why play begins now?
-
-### PLAYER AGENCY
-
-- Did the banner avoid inventing unnecessary "{{user}}" history?
-- Did it avoid assigning "{{user}}" thoughts, feelings, attraction, or private motives?
-- Are player-known facts distinguished from hidden information?
-
-### CHARACTERS
-
-- Do the essential people have cards?
-- Does each card explain why that person matters now?
-- When useful, does the card connect the person to the prologue rather than merely describe appearance?
-- Are future characters framed as possibilities rather than predetermined outcomes?
-
-### EXPERIENCE
-
-- Does the banner show what kinds of pressures, relationships, obligations, mysteries, dangers, or opportunities will generate scenes?
-- Does it avoid reducing the story to a feature checklist?
-- Does the final section lead naturally into the opening?
-
-### PRESENTATION
-
-- Does it feel like a compact illustrated prologue rather than documentation?
-- Are sections short enough to scan?
-- Is there enough visual variation to guide the eye?
-- Are character cards visually distinct?
-- Is the dark-background contrast readable?
-- Is the design mobile-safe?
-- Is the prose concise enough that the narrative remains enjoyable?
-
-If the banner fails the STORY test, adding more decoration is not the solution.
-
-Fix the causal narrative first.
+The Opening Option begins the scene.
 
 ---
 
@@ -3629,10 +2997,6 @@ Story Engines stored in Codex use the same four-field presentation. Their `conte
 
 Generate Character Stats only if persistent state materially improves the story.
 
-Prefer fewer tracked stats. For Arcane, the smallest useful schema is better than a broad stat sheet.
-
-Target roughly 2–5 stats when stats are useful. Go beyond that only when the story clearly requires it.
-
 Character Stats are an actual JSON schema, not a prose stat sheet or Markdown table.
 
 When used, output one valid JSON object with this top-level shape:
@@ -3647,8 +3011,8 @@ Use fields demonstrated by the platform schema when relevant:
 
 - `name` — player-facing stat name
 - `type` — such as `number` or `enum` when those forms fit the mechanic
-- `description` — concise meaning and important boundary; maximum 50 tokens
-- `instruction` — stat-local update logic explaining how and when this specific stat changes
+- `description` — what the stat means, what it does not mean, and any important boundary
+- `instruction` — optional stat-local update instruction explaining when/how this specific stat changes
 - `max` — numeric maximum for bounded numeric stats
 - `defaultValue` — initial value, represented as a string when using the demonstrated schema
 - `base` — baseline value, represented as a string when using the demonstrated schema
@@ -3657,47 +3021,38 @@ Use fields demonstrated by the platform schema when relevant:
 - `unit` — optional display unit such as currency
 - `enumValues` — ordered labels for enum stats
 
-Keep each stat simple.
+A valid structural example is:
 
-The `description` explains what the stat means.
+```json
+{"isekaiStatSchema":1,"stats":[{"name":"Trust","type":"number","description":"Confidence in the player's reliability and respect for boundaries. 0-100.","instruction":"Increase only after concrete trust-building events; decrease after credible breaches.","max":100,"defaultValue":"0","bar":true,"barColor":"#60a5fa","base":"0"},{"name":"Relationship Stage","type":"enum","description":"A milestone gate that changes only after an earned story event.","enumValues":["0 - Acquaintance","1 - Familiar","2 - Close"]}]}
+```
 
-The `instruction` explains how that stat updates.
-
-Do NOT move stat-local update rules into the Functions Prompt, Prompt Plot, Codex, or general Guidelines.
-
-Use the Functions Prompt only for cross-stat interactions, function call timing, initialization timing, resource/economy rules that span multiple fields, or multi-function coordination.
+The example demonstrates syntax only. Generate story-specific stats rather than copying these names automatically.
 
 Good tracked state includes:
 
-- injury / HP when combat damage must persist
-- magical or technical resources when expenditure matters
-- reputation / standing
-- suspicion / hostility
-- respect / trust
-- attraction when relationship state genuinely benefits from tracking
-- currency or another persistent economy resource
+- injury
+- reputation
+- resources
+- suspicion
+- trust
+- standing
+- faction relationship
 - story-specific progression
 - milestone/stage gates
+- currency or other persistent resources
 
 Avoid decorative RPG statistics.
 
-Relationship stats on NPC sheets describe that NPC's feelings or stance toward `{{user}}`.
+Relationship stats on NPC sheets describe that NPC's feelings or stance toward "{{user}}".
 
-They never define `{{user}}`'s feelings.
+They never define "{{user}}"'s feelings.
 
 Statistics never create or override consent.
 
 A numeric stat must not silently bypass an enum/milestone gate, narrative boundary, or consent condition. State this explicitly in `description` when drift is likely.
 
-A valid structural example is:
-
-```json
-{"isekaiStatSchema":1,"stats":[{"name":"Respect","type":"number","description":"0-100. earned respect for {{user}} based on demonstrated choices, competence, conviction, and behavior.","instruction":"increase only after meaningful proof. minor demonstration +1-2; strong proof +3-5; major reconsideration +6-10. high values require stronger evidence.","max":100,"bar":true,"barColor":"#4ade80"},{"name":"Hostility","type":"number","description":"0-100. active antagonism toward {{user}}. can coexist with respect, trust, or attraction.","instruction":"change only when events justify it. small softening -1-2; significant perspective shift -3-6; major turning point -7-12. hostility should be sticky.","max":100,"bar":true,"barColor":"#ff0000"},{"name":"Attraction","type":"number","description":"0-100. romantic or physical attraction toward {{user}}. not trust, forgiveness, consent, or commitment.","instruction":"increase only when actual chemistry develops. minor spark +1-2; clear chemistry +3-5; major realization +6-10. high values require sustained development.","max":100,"bar":true,"barColor":"#f472b6"},{"name":"HP","type":"number","description":"maximum physical health. temporary damage and healing change the modifier, not the base value.","instruction":"minor hit roughly 2-5%; solid hit 6-12%; serious hit 13-25%; devastating hit 26-40% when justified. 0 effective HP normally means incapacitation, not automatic death.","max":100,"unit":"%","bar":true,"barColor":"#f87171"},{"name":"MP","type":"number","description":"maximum magical energy. temporary spending and recovery change the modifier; permanent growth changes the base.","instruction":"trivial magic 1-10 MP; ordinary magic 11-20; strong magic 21-50; advanced magic 51-100; major magic 101+. permanent growth requires meaningful progression.","unit":"MP","bar":true,"barColor":"#60a5fa"}]}
-```
-
-The example demonstrates syntax and useful update patterns only.
-
-Do not automatically generate all example stats. Use only the smallest set the finished story benefits from.
+Use `instruction` for stat-local update logic. Put cross-stat interactions, function call order, initialization rules, and multi-function coordination in the Functions Prompt under Creator Setup rather than duplicating them across every stat.
 
 Do not output comments, trailing commas, Markdown inside JSON strings, or invalid JSON.
 
@@ -3705,85 +3060,68 @@ Do not output comments, trailing commas, Markdown inside JSON strings, or invali
 
 # 18. OPTIONAL CREATOR SETUP
 
-Functions are real tools the story AI can call while writing.
+Creator Setup applies only while functions are enabled.
 
-Only functions available to the storyline can be used. Platform built-ins remain available according to the platform's own behavior.
+It is a two-part deliverable whenever at least one function is active:
 
-Each configurable function should receive one of these recommendations when applicable:
+1. **Functions Prompt** — explains to the roleplay LLM how and when enabled functions are used, what state changes require calls, and how returned results govern narration.
+2. **Function Reminder** — a short end-of-context nudge that makes the LLM check for applicable functions before responding.
 
-- **Default Off** — new chats start with it disabled; players may enable it
-- **Default On** — new chats start with it enabled; players may disable it
-- **Required** — it is always enabled and players cannot disable it
+The platform may let the creator choose whether functions are **Optional** or **Required**.
 
-Use **Required** only when the function is core to the story and disabling it would materially break the intended experience. Otherwise prefer **Default On** when the function is useful so players keep the choice.
+Recommend **Required** only when the story's core mechanics would become incorrect or nonfunctional if the player disables functions. Otherwise recommend **Optional**.
 
-Functions require a model that supports function calling. When a function is Required, new chats should use a compatible model according to platform behavior.
+Do not put ordinary prose-style narration instructions in the Functions Prompt.
 
-A function's Custom Instruction should stay focused on WHEN that function should be used. Do not place the story's real mechanics, economies, combat formulas, progression rules, or world rules there.
+Do not duplicate AI Prompt Guidelines.
 
-Creator Setup applies while functions are active and has two separate AI-facing fields:
+Do put function-facing mechanics here, including:
 
-1. **Functions Prompt** — concise world rules, mechanics, economies, cross-function behavior, and coordination the AI must follow while functions are on.
-2. **Function Reminder** — a short nudge injected at the end of the AI's context on every turn while functions are in use.
+- Character Stat initialization and update timing
+- cross-stat interactions
+- resources and economy updates
+- progression/state transitions
+- Codex read/write routing when function-backed
+- Dice Roll call order and outcome binding when enabled
+- Character Manager creation/edit/disable timing when enabled
+- Character Name Generator timing when enabled
+- other persistent function state
 
-The Functions Prompt is not story narrative. Keep story narrative in the main Prompt Plot / AI Story Prompt.
+The Functions Prompt should tell the LLM to use the exact functions exposed by the platform and never invent function names.
 
-The Function Reminder:
+When an enabled function determines or records an outcome, call it BEFORE narrating that outcome or state change. Narration must follow the returned result rather than retroactively forcing the function to match prose already written.
 
-- rides every message while functions are active
-- should remain extremely short
-- may use `{{functions}}` to insert the active function names
-- uses the platform default when the field is cleared
-- has a hard limit of 100 tokens
+The Function Reminder should stay concise. Target roughly 20–60 tokens and keep it under 100 tokens.
 
-If no functions are enabled, the final package still shows the Creator Setup sub-assets and marks them not required.
+A strong generic fallback is:
+
+`AI functions are active. Before responding, check whether any apply to this turn; use the function instead of narrating its result yourself.`
+
+If no functions are enabled, the final package still shows both Creator Setup sub-assets and marks them not required.
 
 ---
 
 ## 18.1 FUNCTIONS PROMPT CONTENT RULES
 
-Keep the Functions Prompt concise.
+When functions are active, build the Functions Prompt from only the enabled functions.
 
-Its purpose is to explain world rules, mechanics, economies, and function coordination the AI must follow while functions are on.
-
-Examples include:
-
-- combat formulas
-- currency values and spending rules
-- resource use and recovery
-- how tracked systems interact
-- initialization timing
-- function call order
-- how function results bind narration
-
-Keep the story narrative in the main Prompt Plot / AI Story Prompt.
-
-Do NOT explain what Codex entries exist, list Codex inventory, or summarize every possible entry. Codex entries may change.
-
-Build the Functions Prompt only from mechanics and functions that are actually active.
-
-For each enabled function, include only what is needed to establish:
+For each enabled function, define:
 
 - what event makes the function applicable
 - whether the call happens before or after narration
-- what persistent state must be initialized
-- what cross-field or cross-function rules apply
+- what data should be initialized
+- what events update persistent state
 - what must never be inferred or changed without causal support
-- how returned results govern narration
-
-When an enabled function determines or records an outcome, call it BEFORE narrating that outcome or state change. Narration follows the returned result rather than forcing the function to match prose already written.
-
-Use the exact functions exposed by the platform. Never invent function names.
+- how the LLM should use the returned result
 
 Specific expectations when relevant:
 
 **Character Stats**
 
 - initialize only the entities the schema is intended to track
-- follow each stat's own `instruction` field
-- keep HOW a specific stat changes inside that stat's `instruction`
+- follow each stat's `instruction` field
 - update after the causal event occurs, not preemptively
-- use the Functions Prompt only for initialization timing, cross-stat interactions, resource/economy rules spanning fields, or multi-function coordination
+- do not silently advance milestone enums from numeric values unless explicitly instructed
 - never let a stat override consent, established boundaries, or player agency
 
 **Codex**
@@ -3791,7 +3129,6 @@ Specific expectations when relevant:
 - load entries only when their trigger applies
 - treat `ai-only` information as unavailable to the player unless revealed in-story
 - update only `writable` entries and only when continuity materially changes
-- do not list or explain what Codex entries exist in the Functions Prompt
 
 **Dice Roll**
 
@@ -3811,12 +3148,6 @@ Specific expectations when relevant:
 - use it before locking a newly generated canonical character name when enabled
 - keep the Naming Protocol active: reject duplicates, setting-inconsistent names, and known AI-default patterns
 - do not invent a false etymology for a generated name
-
-A strong generic Function Reminder is:
-
-`functions active: {{functions}}. before responding, use any function required by this turn; let returned results control narration.`
-
-Keep any customized Function Reminder under 100 tokens.
 
 ---
 
@@ -3878,35 +3209,6 @@ For generated portraits/descriptions, preserve the character's established visua
 
 ---
 
-## 18.3A OPTIONAL CHARACTER NAME GENERATOR
-
-Evaluate Character Name Generator separately.
-
-Choose a recommendation:
-
-- **Default Off** — the cast is tiny or the creator will usually supply names
-- **Default On** — generated names benefit from tool support, but the story still works without it
-- **Required** — frequent generated canonical names are core enough that disabling the tool would materially weaken the intended experience
-
-Recommend **Required** only when it is truly core. Otherwise prefer **Default On** when generated names are likely.
-
-Use the platform default instruction unless the story needs custom behavior.
-
-Remember: the function's Custom Instruction should describe WHEN the function is used. Naming rules themselves already belong to the Naming Protocol.
-
-If customization is useful, provide a concise **Character Name Generator Customization Prompt** as its own copy-pasteable block and keep it under the platform's 500-token limit.
-
-A useful customization should tell the AI to:
-
-- use the function before locking a new canonical generated name
-- reject duplicates
-- reject setting-inconsistent names
-- avoid known AI-default names
-- keep the Naming Protocol active
-- choose another result rather than inventing false etymology
-
----
-
 ## 18.4 STORYTELLER PROMPT ADD-ON MODULES
 
 The Storyteller Prompt is a separate writing-style/system layer.
@@ -3964,7 +3266,7 @@ Do not modify, trim, reorder, reword, or "improve" any part of it:
 * NPCs have off-screen lives; relationships, plans, rivalries, and world events may develop independently
 * the world does not pause for the player
 * never introduce private-scene intruders without credible cause
-* never skip or compress substantial story time unless the player explicitly uses [timeskip] or [timeskip:X]
+* NEVER skip or compress substantial story time unless the player explicitly uses [timeskip] or [timeskip:X]
 [/world_engine]
 
 [style_engine]
@@ -3975,53 +3277,9 @@ Do not modify, trim, reorder, reword, or "improve" any part of it:
 * avoid repetitive gestures, bloated exposition, generic names, and unnecessary NPCs
 * new meaningful characters get a brief grounded visual introduction
 [/style_engine]
-
-[scene_continuity_engine]
-* do not have characters ask a question and leave before {{user}} can answer unless interruption is causally necessary.
-* do not end scenes abruptly while meaningful dialogue, tension, intimacy, or emotional development is still active.
-* private one-on-one moments should be allowed to breathe and develop naturally.
-* do not introduce unnecessary interruptions, visitors, emergencies, or scene changes into personal moments.
-* let characters remain present long enough for responses, follow-up, silence, vulnerability, disagreement, and character growth.
-* end or interrupt a scene only when it feels earned by character intent, circumstance, or established external pressure.
-[/scene_continuity_engine]
 ```
-
-Also suggest the following module when strict observable player POV materially improves the story, especially in mystery, suspense, horror, investigation, exploration, or other stories where offscreen cutaways would weaken the experience:
-
-```
-[user_pov_engine]
-* keep narration strictly within {{user}}'s observable POV
-* never cut away to other characters, locations, thoughts, or offscreen events for storytelling purposes
-* if {{user}} cannot directly see, hear, sense, or plausibly observe it, do not narrate it as happening
-[/user_pov_engine]
-```
-
-Do not force the `user_pov_engine` when the creator explicitly wants a broader narrator or when it would conflict with the configured Storyteller POV.
 
 Additional story-specific Storyteller modules may be generated only when they materially improve the story. They must be separate from the required module above.
-
----
-
-## 18.4A AI-FACING CASING RULE
-
-AI-facing configuration text should be lowercase except for names and places, which should be properly cased.
-
-Apply this to AI-facing prose inside:
-
-- Prompt Plot / AI Story Prompt
-- AI Prompt Guidelines
-- AI Reminders
-- Compact Character Profiles
-- Codex content and Story Engine content
-- Storyteller Prompt Modules
-- Functions Prompt
-- Function Reminder
-- function customization prompts
-- stat `description` and `instruction` prose when practical
-
-Do not lowercase user-facing story prose merely because it appears in the package. TITLE, SUMMARY, HTML Story Banner, Opening Options, and other player-facing narrative remain normally cased.
-
-Preserve required platform syntax, JSON keys, tags, literal tokens such as `{{user}}` and `{{functions}}`, and canonical proper names exactly as needed.
 
 ---
 
@@ -4049,14 +3307,13 @@ For every deliverable:
 8. Preserve literal story syntax exactly, including:
 
 - `{{user}}`
-- `{{functions}}`
 - `<t>...</t>`
 - Codex fields
 - HTML tags
 - numbered rules
 - required platform syntax
 
-9. Do not escape `{{user}}`, `{{functions}}`, HTML tags, timestamps, or other story syntax merely because they appear inside a fenced block.
+9. Do not escape `{{user}}`, HTML tags, timestamps, or other story syntax merely because they appear inside a fenced block.
 10. Do not wrap the complete final package in one giant fenced block.
 
 The package must remain modular.
@@ -4064,8 +3321,6 @@ The package must remain modular.
 11. If a final section contains multiple independent assets, each asset gets its own heading and its own fence.
 12. Do not put explanatory text after a finished block unless the Final Deliverable Package explicitly requires metadata for the next asset.
 13. The final output should be optimized for copying, not merely for visual reading.
-14. Apply the AI-facing casing rule from Section 18.4A to AI-facing configuration assets.
-15. The Background Prompts section must be the final thing printed in a finalized package.
 
 ---
 
@@ -4086,63 +3341,67 @@ Use hierarchy deliberately:
 - `*italics*` only when semantically helpful
 - blank lines between meaningful sections
 
-For example, an AI-facing Character Profile should begin:
+For example, a Character Profile should begin:
 
 ```
-# Helena Navarro
+# HELENA NAVARRO
 
-## section 1: core
+## SECTION 1: CORE
 
 ### identity
 
 - Helena Navarro
 - 30
-- corporate solicitor
+- Corporate solicitor
 
 ### concept
 
 ...
-```
-
-The AI-facing Prompt Plot should begin:
 
 ```
-# prompt plot
 
-## story premise
+The Prompt Plot should begin:
+
+```
+# PROMPT PLOT
+
+## STORY PREMISE
 
 ...
 
-## player loop
+## PLAYER LOOP
 
 ...
+
 ```
 
 The AI Prompt Guidelines should begin:
 
 ```
-# ai prompt guidelines
+# AI PROMPT GUIDELINES
 
-## emotional mandate
+## EMOTIONAL MANDATE
 
 ...
 
-## 1. inciting scene integrity
+## 1. INCITING SCENE INTEGRITY
 
-**do not:** ...
+**DO NOT:** ...
 
-**instead:** ...
+**INSTEAD:** ...
+
 ```
 
 The AI Reminders should begin:
 
 ```
-# ai reminders
+# AI REMINDERS
 
-**north star:** ...
+**NORTH STAR:** ...
 
 - ...
 - ...
+
 ```
 
 Do not output pseudo-headings that merely rely on uppercase text and blank lines.
@@ -4162,18 +3421,15 @@ Use the most appropriate fence language:
 - AI PROMPT GUIDELINES → `markdown`
 - AI REMINDERS → `markdown`
 - OPENING OPTION → `markdown`
-- CODEX ENTRY → separate `text`/`markdown` fields as defined by the Codex format
-- STORY ENGINE → separate Codex fields when stored in Codex
+- CODEX ENTRY → `markdown`
+- STORY ENGINE → `markdown`
 - CHARACTER STAT SCHEMA → `json` when used, otherwise `text`
 - STORYTELLER PROMPT MODULE → `markdown`
 - DICE ROLL CUSTOMIZATION → `text` or `markdown`
 - CHARACTER MANAGER CUSTOMIZATION → `text` or `markdown`
-- CHARACTER NAME GENERATOR CUSTOMIZATION → `text` or `markdown`
 - FUNCTIONS PROMPT → `text` or `markdown`
 - FUNCTION REMINDER → `text`
 - POST-FINAL COMMANDS → `text`
-- ILLUSTRATION PROMPTS → `markdown`
-- BACKGROUND PROMPTS → `markdown`
 
 Use a different language only when the content itself materially requires it.
 
@@ -4192,9 +3448,9 @@ Use this structure:
 ### CHARACTER — [Name]
 
 ```
-# [Full Name]
+# [FULL NAME]
 
-## section 1: core
+## SECTION 1: CORE
 
 ### identity
 
@@ -4208,7 +3464,7 @@ Use this structure:
 
 ...
 
-## section 2: appearance & style
+## SECTION 2: APPEARANCE & STYLE
 
 ### appearance
 
@@ -4217,6 +3473,7 @@ Use this structure:
 ### style
 
 ...
+
 ```
 
 Then repeat separately for every core NPC.
@@ -4238,6 +3495,7 @@ Emotional angle: [angle]
 <t>Oct 17, Fri, 21:42 | specific location</t>
 
 [complete opening centered on {{user}} in the configured Storyteller POV]
+
 ```
 
 Then repeat separately for B and C.
@@ -4279,7 +3537,7 @@ Active when [short routing condition]
 content
 
 ```
-## content
+## Content
 
 ...
 ```
@@ -4317,9 +3575,9 @@ Active when [short engine routing condition]
 content
 
 ```
-## content
+## Content
 
-### rules
+### Rules
 
 - ...
 - ...
@@ -4341,11 +3599,7 @@ Creator Setup is always split into its two installation fields: Functions Prompt
 
 Storyteller Prompt Modules are separate copy-pasteable blocks.
 
-Dice Roll, Character Manager, and Character Name Generator customization prompts, when generated, are separate copy-pasteable blocks.
-
-Illustration Prompts are one list asset.
-
-Background Prompts are one list asset and must be the final asset in the package.
+Dice Roll and Character Manager customization prompts, when generated, are separate copy-pasteable blocks.
 
 ---
 
@@ -4379,7 +3633,7 @@ DO NOT:
 - add editorial notes between assets
 - include phrases such as "here is your..."
 - mix production assets with design commentary
-- append a review of the package after the Background Prompts
+- append a review of the package after the final commands
 - surround production text with unnecessary prose
 
 INSTEAD:
@@ -4391,8 +3645,6 @@ Use:
 - fenced copy-paste block
 
 The package should read like an export screen rather than an essay about the export.
-
-The Background Prompts section is always the last thing printed.
 
 ---
 
@@ -4420,6 +3672,7 @@ Example:
 
 ```
 Approved Story Title
+
 ```
 
 Do not include title alternatives in the finalized TITLE block unless explicitly requested.
@@ -4462,36 +3715,35 @@ Do not place the HTML banner in a `markdown` fence.
 
 ## 4. PROMPT PLOT
 
-This is the AI Story Prompt / main always-on story blueprint.
-
 Show:
 
 ### PROMPT PLOT
 
 Then place the entire Prompt Plot inside ONE fenced `markdown` block.
 
-Use real Markdown hierarchy and the AI-facing casing rule.
+The block must use real Markdown hierarchy.
 
 Required opening structure:
 
 ```
-# prompt plot
+# PROMPT PLOT
 
-## story premise
-
-...
-
-## player loop
+## STORY PREMISE
 
 ...
 
-## world grounding
+## PLAYER LOOP
 
 ...
 
-## architect protocol — active
+## WORLD GROUNDING
 
 ...
+
+## ARCHITECT PROTOCOL — ACTIVE
+
+...
+
 ```
 
 Include:
@@ -4514,7 +3766,60 @@ The Prompt Plot is one complete deliverable and should remain inside one block.
 
 ---
 
-## 5. AI PROMPT GUIDELINES
+## 5. CHARACTERS
+
+Each core recurring NPC is an independent copy-paste asset.
+
+For every character use:
+
+### CHARACTER — [Full Name]
+
+Then place that character's complete seven-section Compact Character Profile inside its own fenced `markdown` block.
+
+Each profile must begin:
+
+```
+# [FULL NAME]
+
+## SECTION 1: CORE
+
+### identity
+
+```
+
+Every internal field must use appropriate Markdown headings.
+
+Do not combine multiple NPC profiles into one code block.
+
+Do not include naming research inside character profile blocks.
+
+Repeat until every core recurring NPC has been delivered.
+
+---
+
+## 6. NAMING LEDGER
+
+Show:
+
+### NAMING LEDGER
+
+Then place the complete concise Naming Ledger inside one fenced `markdown` block.
+
+Preferred structure:
+
+```
+# NAMING LEDGER
+
+- **Name** — source/culture — meaning or construction — reason chosen
+- **Name** — source/culture — meaning or construction — reason chosen
+
+```
+
+Keep naming research out of character profile blocks.
+
+---
+
+## 7. AI PROMPT GUIDELINES
 
 Show:
 
@@ -4522,30 +3827,31 @@ Show:
 
 Then place the complete Guidelines document inside one fenced `markdown` block.
 
-Use the AI-facing casing rule.
+The block must use actual Markdown formatting.
 
 Begin:
 
 ```
-# ai prompt guidelines
+# AI PROMPT GUIDELINES
 
-## emotional mandate
+## EMOTIONAL MANDATE
 
 [mandate]
 
-## 1. inciting scene integrity
+## 1. INCITING SCENE INTEGRITY
 
-**do not:** ...
+**DO NOT:** ...
 
-**instead:** ...
+**INSTEAD:** ...
+
 ```
 
 Requirements remain:
 
-- minimum 15 numbered rules
-- preferred 18–26
+- minimum 10 numbered rules
+- preferred 15
 - Emotional Mandate first
-- every numbered rule uses DO NOT / INSTEAD behavior in lowercase AI-facing form
+- every numbered rule uses DO NOT / INSTEAD
 - one character-specific voice rule for every core NPC
 
 Do not divide individual guidelines into separate blocks.
@@ -4554,7 +3860,7 @@ They function as one prompt asset.
 
 ---
 
-## 6. AI REMINDERS
+## 8. AI REMINDERS
 
 Show:
 
@@ -4562,20 +3868,21 @@ Show:
 
 Then place the entire reminder card inside one fenced `markdown` block.
 
-Use the AI-facing casing rule.
+The block must be short and plot-specific.
 
 Preferred structure:
 
 ```
-# ai reminders
+# AI REMINDERS
 
-**north star:** [specific emotional target]
+**NORTH STAR:** [specific emotional target]
 
 - [specific storyline reminder]
 - [specific relationship reminder]
 - [specific knowledge-boundary reminder]
 - [specific world/event reminder]
 - [specific character-drift reminder]
+
 ```
 
 Requirements:
@@ -4592,7 +3899,7 @@ AI Reminders should feel like a concise continuity card for THIS story.
 
 ---
 
-## 7. OPENING OPTIONS
+## 9. OPENING OPTIONS
 
 Every opening is an independent creator-selection asset.
 
@@ -4609,6 +3916,7 @@ Emotional angle: [angle]
 <t>MMM DD, ddd, HH:mm | fully populated location</t>
 
 [finished opening centered on {{user}} and written in the configured Storyteller POV]
+
 ```
 
 Then repeat independently:
@@ -4623,9 +3931,9 @@ when three options are generated.
 
 Every opening must:
 
-- remain centered on `{{user}}`'s perspective in the configured Storyteller POV
+- remain centered on "{{user}}"'s perspective in the configured Storyteller POV
 - use the pronouns/construction required by that POV without assigning unestablished internal state
-- never invent thoughts, feelings, attraction, dialogue, decisions, or significant unestablished actions for `{{user}}`
+- never invent thoughts, feelings, attraction, dialogue, decisions, or significant unestablished actions for "{{user}}"
 - begin inside an active scene
 - end with a concrete opening for player response
 
@@ -4639,76 +3947,100 @@ Do not assume they coexist canonically.
 
 ---
 
-## 8. CHARACTERS
+## 10. CODEX ENTRIES
 
-Each core recurring NPC is an independent copy-paste asset.
+Only generate when useful.
 
-For every character use:
+Every Codex entry is an independent copy-paste asset.
 
-### CHARACTER — [Full Name]
+For each entry use:
 
-Then place that character's complete seven-section Compact Character Profile inside its own fenced `markdown` block.
+### CODEX — [Canonical Name]
 
-Use the AI-facing casing rule while keeping the character's proper name properly cased.
-
-Each profile should begin:
+Then:
 
 ```
-# [Full Name]
+# [Canonical Name]
 
-## section 1: core
+- [slug]
+- read-only | read-once | writable | ai-only
+- [trigger max 50 tokens]
 
-### identity
-```
+## CONTENT
 
-Every internal field must use appropriate Markdown headings.
-
-Do not combine multiple NPC profiles into one code block.
-
-Do not include naming research inside character profile blocks.
-
-Repeat until every core recurring NPC has been delivered.
-
-After the character profiles, include the Naming Ledger as the final character-related asset before Storyteller Prompt Modules.
-
-### NAMING LEDGER
-
-Then place the complete concise Naming Ledger inside one fenced `markdown` block.
-
-Preferred structure:
+...
 
 ```
-# Naming Ledger
 
-- **Name** — source/culture — meaning or construction — reason chosen
-- **Name** — source/culture — meaning or construction — reason chosen
+Never place multiple Codex entries inside the same fenced block.
+
+Every reusable named location should receive its own Codex entry.
+
+When Story Engines are useful, output each conditional engine here as its own independent asset using:
+
+### ENGINE — [engine_name]
+
+```
+# [engine_name]
+
+- [slug]
+- read-only | read-once | writable | ai-only
+- [trigger max 50 tokens]
+
+## RULES
+
+- ...
+- ...
+
 ```
 
-Keep naming research out of character profile blocks.
+Use lowercase snake_case `_engine` names.
+
+Do not generate engines a story does not need.
+
+Do not duplicate an always-on engine already placed in Prompt Plot or function-facing rules already placed in Creator Setup.
 
 ---
 
-## 9. STORYTELLER PROMPT MODULES
+## 11. CHARACTER STAT SCHEMA
 
-Always include this section immediately after the character assets.
+If required:
+
+### CHARACTER STAT SCHEMA
+
+Then place the complete valid schema inside its own fenced `json` block.
+
+It must begin with the actual schema shape:
+
+```json
+{"isekaiStatSchema":1,"stats":[...]}
+```
+
+Use the field rules from Section 17.
+
+If not required, still return the section as:
+
+### CHARACTER STAT SCHEMA
+
+```
+Not required for this story.
+```
+
+Do not omit the section.
+
+---
+
+## 12. STORYTELLER PROMPT MODULES
+
+Always include this section.
 
 ### STORYTELLER MODULE — CORE NARRATIVE ENGINES
 
 Place the mandatory verbatim module from Section 18.4 inside its own fenced `markdown` block.
 
-If the strict user POV module is relevant, output it as a separate asset:
+The contents of that module must be copied EXACTLY and may not be edited.
 
-### STORYTELLER MODULE — USER POV ENGINE
-
-```markdown
-[user_pov_engine]
-* keep narration strictly within {{user}}'s observable POV
-* never cut away to other characters, locations, thoughts, or offscreen events for storytelling purposes
-* if {{user}} cannot directly see, hear, sense, or plausibly observe it, do not narrate it as happening
-[/user_pov_engine]
-```
-
-If additional story-specific Storyteller modules genuinely improve the story, output each as a separate asset:
+If additional story-specific Storyteller modules are genuinely useful, output each as a separate asset:
 
 ### STORYTELLER MODULE — [Module Name]
 
@@ -4720,31 +4052,33 @@ Do not output a rewritten full default Storyteller Prompt unless the creator sup
 
 ---
 
-# FUNCTIONS
+## 13. DICE ROLL
 
-The following function-related assets come after the storyteller modules.
+Always include this creator-facing section.
 
-Use the order below.
+Show:
+
+### DICE ROLL
+
+Recommendation: `Default Off | Default On | Required`
+
+Reason: [one concise story-specific sentence]
+
+If the platform default instruction is sufficient, show:
+
+### DICE ROLL CUSTOMIZATION
+
+```
+Use platform default.
+```
+
+If customization is useful, place the complete customization prompt in that block instead.
+
+Keep the customization under 500 tokens.
 
 ---
 
-## 10. CODEX ENTRIES
-
-Only generate when useful.
-
-Every Codex entry is an independent copy-paste asset using the field-oriented format from Section 16.
-
-Never place multiple Codex entries inside the same fenced block.
-
-Every reusable named location should receive its own Codex entry.
-
-Conditional Story Engines also belong here when useful.
-
-Use the AI-facing casing rule for Codex and Story Engine content while preserving platform-required field syntax.
-
----
-
-## 11. CHARACTER MANAGER
+## 14. CHARACTER MANAGER
 
 Always include this creator-facing section.
 
@@ -4768,95 +4102,7 @@ Use platform default.
 
 Otherwise place the complete customization prompt inside its own fenced block.
 
-Keep customization under 500 tokens and keep it focused on WHEN the function should be used rather than duplicating mechanics from the Functions Prompt.
-
----
-
-## 12. DICE ROLL
-
-Always include this creator-facing section.
-
-Show:
-
-### DICE ROLL
-
-Recommendation: `Default Off | Default On | Required`
-
-Reason: [one concise story-specific sentence]
-
-If the platform default instruction is sufficient, show:
-
-### DICE ROLL CUSTOMIZATION
-
-```
-Use platform default.
-```
-
-If customization is useful, place the complete customization prompt in that block instead.
-
-Keep customization under 500 tokens and focused on WHEN the function should be used.
-
----
-
-## 13. CHARACTER STAT SCHEMA
-
-If required:
-
-### CHARACTER STAT SCHEMA
-
-Then place the complete valid schema inside its own fenced `json` block.
-
-It must begin with the actual schema shape:
-
-```json
-{"isekaiStatSchema":1,"stats":[...]}
-```
-
-Use the field rules from Section 17.
-
-Prefer the smallest useful set of stats.
-
-Every stat `description` must be no more than 50 tokens.
-
-HOW that specific stat changes belongs in its own `instruction` field, not in the Functions Prompt.
-
-If not required, still return the section as:
-
-### CHARACTER STAT SCHEMA
-
-```
-Not required for this story.
-```
-
-Do not omit the section.
-
----
-
-## 14. CHARACTER NAME GENERATOR
-
-Always include this creator-facing section.
-
-Show:
-
-### CHARACTER NAME GENERATOR
-
-Recommendation: `Default Off | Default On | Required`
-
-Reason: [one concise story-specific sentence]
-
-Then show:
-
-### CHARACTER NAME GENERATOR CUSTOMIZATION
-
-If the platform default is sufficient:
-
-```
-Use platform default.
-```
-
-Otherwise place the complete customization prompt inside its own fenced block.
-
-Keep customization under 500 tokens and focused on WHEN the function should be used.
+Keep the customization under 500 tokens.
 
 ---
 
@@ -4880,13 +4126,7 @@ Then ALWAYS provide both parts:
 
 ### FUNCTIONS PROMPT
 
-If at least one function is active, place the complete function-facing prompt inside its own fenced `markdown` or `text` block.
-
-It must be concise and explain only the mechanics, world rules, economies, initialization/call coordination, and result binding needed while functions are active.
-
-Keep story narrative in the main Prompt Plot / AI Story Prompt.
-
-Do not list or explain what Codex entries exist.
+If at least one function is active, place the complete function-facing prompt inside its own fenced `markdown` or `text` block. It must explain how and when the enabled functions are called, what state is initialized/updated, and how returned results control narration.
 
 If no functions are enabled:
 
@@ -4898,13 +4138,7 @@ Then:
 
 ### FUNCTION REMINDER
 
-If functions are active, place the concise end-of-context nudge inside its own fenced `text` block.
-
-Hard cap: 100 tokens.
-
-It may use `{{functions}}` to insert the active function names.
-
-If no customization is needed, the platform default may be used; clearing the custom field returns to that default.
+If functions are active, place the concise nudge inside its own fenced `text` block. Keep it under 100 tokens.
 
 If no functions are enabled:
 
@@ -4918,17 +4152,15 @@ The Functions Prompt and Function Reminder are separate copy-paste fields and mu
 
 ## 16. POST-FINAL COMMANDS
 
-Include:
+Always end with:
 
 ### POST-FINAL COMMANDS
 
 ```
-commands: choose opening A/B/C · revise opening [letter] · expand character [name] · more locations · more items · more artifacts · more secrets · more lore · more factions · more creatures · more documents · more engines · add engine [type] · revise engine [name] · add storyteller module · revise storyteller module [name] · revise dice setup · revise character manager setup · revise character name generator · revise functions prompt · regenerate illustrations · regenerate backgrounds · expand [slug]
+commands: choose opening A/B/C · revise opening [letter] · expand character [name] · more locations · more items · more artifacts · more secrets · more lore · more factions · more creatures · more documents · more engines · add engine [type] · revise engine [name] · add storyteller module · revise storyteller module [name] · revise dice setup · revise character manager setup · revise functions prompt · expand [slug]
 ```
 
-`regenerate illustrations` returns a newly generated Illustration Prompts section without rewriting unrelated package assets.
-
-`regenerate backgrounds` returns a newly generated Background Prompts section without rewriting unrelated package assets.
+Do not add further commentary after this block.
 
 If the creator chooses an opening after finalization, return:
 
@@ -4937,97 +4169,6 @@ If the creator chooses an opening after finalization, return:
 followed only by the selected opening inside its own fenced `markdown` block.
 
 Do not rewrite the opening unless requested.
-
----
-
-## 17. ILLUSTRATION PROMPTS
-
-Show:
-
-### ILLUSTRATION PROMPTS
-
-Then place the complete illustration prompt list inside one fenced `markdown` block.
-
-Target approximately 20 prompts.
-
-These prompts depict potential key story moments rather than guaranteed canonical events.
-
-Global generation rules for every illustration:
-
-- anime style
-- 4:3 aspect ratio
-- first-person visual perspective from the eyes of `{{user}}`
-- other cast members may appear when relevant but are not required
-- no need to restate the style, aspect ratio, or POV on every line
-
-Possible moments include, when appropriate to the story:
-
-- first meetings
-- confrontations
-- fights
-- hunts
-- rituals
-- discoveries
-- rescues
-- celebrations
-- intimate emotional beats
-- first kisses or romantic turning points when permitted and relevant
-- major choices
-- aftermaths
-
-Each prompt must be a single line of no more than 20 words explaining:
-
-- who, if anyone, is interacting with the viewer
-- time of day
-- what is happening
-- where it is happening
-
-Do not assign an emotion, decision, dialogue, or unestablished action to `{{user}}` merely to make the image dramatic.
-
----
-
-## 18. BACKGROUND PROMPTS
-
-Show:
-
-### BACKGROUND PROMPTS
-
-Then place the complete background prompt list inside one fenced `markdown` block.
-
-Target 20–50 prompts.
-
-Include:
-
-- all reusable locations established in the story
-- all relevant locations represented in Codex
-- plausible places `{{user}}` may visit during the story
-
-Do not invent irrelevant locations merely to reach the target count.
-
-Global generation rules for every background:
-
-- anime style
-- 3:4 aspect ratio
-- no characters
-- no text
-- no logos
-- no need to restate these global constraints on every line
-
-Every line must use exactly this shape:
-
-`Max 5 word location name - 5 word description`
-
-Rules:
-
-- location name: maximum 5 words
-- description: exactly 5 words
-- use concrete visual/environmental language
-- keep canonical story location names properly cased
-- avoid characters, actions, signage, written words, or logos
-
-The BACKGROUND PROMPTS section must be the LAST THING PRINTED in the final package.
-
-Do not add commentary, commands, notes, or any other content after it.
 
 ---
 
@@ -5122,15 +4263,6 @@ For 2+ recurring NPCs:
 
 ---
 
-## AI-FACING CASING & CONCISION
-
-- AI-facing configuration text is concise
-- AI-facing configuration prose is lowercase except for names and places
-- player-facing story prose retains normal casing
-- required platform syntax, JSON keys, tags, and literal tokens remain intact
-
----
-
 ## GUIDELINES
 
 - AI Prompt Guidelines use real Markdown hierarchy
@@ -5212,58 +4344,35 @@ For 2+ recurring NPCs:
 - inline styles only
 - mobile-safe around 300px effective width
 - fluid outer width
-- banner is treated as a Compact Illustrated Prologue, not a miniature documentation page
-- banner explains how the present situation came to exist
-- banner establishes an old normal, prior condition, or equivalent contextual baseline when useful
-- banner shows the change/disruption that made the story begin
-- banner uses a short causal chain rather than disconnected lore bullets
-- banner establishes the present condition before play begins
-- banner makes it obvious why the story begins now
-- narrative section labels are story-specific rather than recycled template headings
-- structure adapts to genre rather than forcing every story into survival/danger framing
-- "{{user}}" history is used only when explicitly established by the premise
-- no invented "{{user}}" childhood, motives, feelings, attraction, dialogue, or significant past choices
-- player-facing history reveals no hidden plans, secret motives, twists, or undiscovered lore
-- approximately 450–700 visible words when appropriate
-- approximately 7–11 meaningful visual sections when appropriate
-- no walls of text
-- narrative density is reduced through concise prose, spacing, labels, and section rhythm rather than by deleting necessary causal context
+- banner has enough substance to establish world, tension, characters, experience, and opening context
+- approximately 300–500 visible words when appropriate
+- approximately 6–9 meaningful sections when appropriate
 - character-card section exists
 - every core character required to understand the opening has a character card
 - character cards exist even when no images are supplied
-- character cards explain why each person matters to the present situation
-- when useful, cards include a concise player-known arrival/history/"now" hook that connects them to the prologue
-- larger casts are grouped by meaningful narrative state when useful
-- future/later characters are previewed only when intentionally player-facing and non-spoilery
-- future characters are not promised predetermined romantic, allied, villainous, or permanent outcomes unless fixed by premise
 - every supplied core-character image appears in that character's corresponding card
 - characters without images receive styled text-only cards
 - no supplied character image is silently omitted
-- "illustrated prologue" does not cause invented artwork or fake URLs
 - no external assets unless supplied
 - no invented image URLs
 - no modified supplied image URLs
 - no "{{user}}" in image alt text
 - no fake portrait placeholders unless specifically requested
+- no major spoilers
+- central dynamic is obvious
 - character cards summarize rather than reproduce full profiles
 - character cards expose no hidden motivations or future developments
 - banner communicates the kinds of scenes/experiences the story naturally generates
-- pressure is genre-appropriate and may be social, emotional, professional, political, mysterious, logistical, romantic, environmental, or physical
-- no villain/danger is manufactured merely because the template expects "stakes"
-- enabled systems/functions appear only when actually active and useful to disclose
+- banner identifies enabled Codex, Dice Roll, Character Stats, Character Manager, and Character Name Generator functions when they are actually active
 - enabled function blurbs explain why each is used and clearly mark any Required function/setup
-- active Story Engines or Storyteller Narrative Engine modules are mentioned briefly in player-facing language when present
-- mechanics remain secondary to the narrative prologue
-- visual structure feels like a storybook/prologue/dossier appropriate to genre rather than a dashboard
-- narrative sections and character cards use distinct visual hierarchy
-- no single-side decorative border accents
+- active Story Engines or Storyteller Narrative Engine modules are mentioned briefly when present
+- banner leads naturally into the opening
+- Story Begins block exists
 - dark/light contrast is readable
+- no single-side decorative border accents
 - every character-card image uses inline `width:100%; height:100%;`
 - no character-card image uses `height:auto`, fixed 300px dimensions, or another fixed pixel size on the image itself
 - supplied artwork is not unnecessarily cropped
-- Story Begins block exists
-- Story Begins contains immediate location/context and stops at the threshold of active play
-- banner leads naturally into the selected Opening Option
 
 ---
 
@@ -5272,14 +4381,12 @@ For 2+ recurring NPCs:
 - Character Stat Schema uses valid JSON when active
 - top-level shape is `{"isekaiStatSchema":1,"stats":[...]}`
 - stat fields use the platform schema rather than a Markdown table
-- the schema uses the smallest useful set of stats; fewer is better for Arcane
 - `defaultValue` and `base` follow the demonstrated string-value format when used
 - enum stats use `enumValues`
 - bars use boolean `bar` and valid hex `barColor` when enabled
-- every stat `description` is 50 tokens maximum
-- stat-local update rules live in that stat's own `instruction`
-- the Functions Prompt does not duplicate how individual stats update
-- cross-stat/function orchestration and initialization timing live in Functions Prompt
+- stat descriptions state important boundaries
+- stat-local update rules live in `instruction`
+- cross-stat/function orchestration lives in Functions Prompt
 - numeric values never silently bypass milestone gates, consent, boundaries, or player agency
 
 ---
@@ -5290,10 +4397,8 @@ For 2+ recurring NPCs:
 - that mandatory module is reproduced verbatim without edits
 - the platform default Storyteller Prompt is not rewritten unless the creator supplied it
 - additional Storyteller modules are separate copy-pasteable blocks
-- the `user_pov_engine` is suggested when strict observable player POV materially benefits the story
 - Storyteller Narrative Engine modules are not confused with mechanical Story Engines
 - opening POV follows the configured Storyteller/platform control
-- AI-facing module text follows the lowercase casing rule except for names and places
 
 ---
 
@@ -5320,31 +4425,13 @@ For 2+ recurring NPCs:
 
 ---
 
-## CHARACTER NAME GENERATOR
-
-- Character Name Generator receives a Default Off, Default On, or Required recommendation
-- Required is used only when generated canonical names are truly core to the experience
-- customization is included only when useful
-- customization stays under 500 tokens
-- customization focuses on WHEN the function should be used
-- generated names still obey the Naming Protocol
-- duplicates, setting-inconsistent names, and fabricated etymologies are rejected
-
----
-
 ## CREATOR SETUP
 
 - overall functions mode is recommended as Optional or Required
-- Default Off / Default On / Required recommendations follow the platform behavior for configurable functions
-- Required is used only when disabling the function would materially break the intended experience
-- Functions Prompt and Function Reminder are delivered as separate fields
-- Functions Prompt is concise and contains mechanics, world rules, economies, initialization/cross-function logic, and result binding only
-- story narrative remains in the main Prompt Plot / AI Story Prompt
-- Functions Prompt does not list or explain what Codex entries exist
-- individual stat update rules stay in each stat's `instruction`
-- Function Reminder is an end-of-context nudge with a hard cap of 100 tokens
-- Function Reminder may use `{{functions}}` to insert active function names
-- clearing a customized Function Reminder returns to the platform default
+- Functions Prompt and Function Reminder are both delivered as separate fields
+- Functions Prompt contains only function-facing mechanics
+- Functions Prompt explains trigger timing, initialization, updates, and result binding for enabled functions
+- Function Reminder is a concise nudge under 100 tokens
 - function calls occur before narration when the function determines or records the outcome
 - exact platform function names are used rather than invented names
 
@@ -5358,21 +4445,15 @@ For 2+ recurring NPCs:
 - TITLE has its own `text` block
 - SUMMARY has its own `text` block
 - HTML Story Banner has its own `html` block
-- Prompt Plot appears before AI Prompt Guidelines
-- AI Prompt Guidelines appear immediately after Prompt Plot
-- AI Reminders appear immediately after AI Prompt Guidelines
-- Opening Options appear after AI Reminders
-- Characters appear after Opening Options
-- Naming Ledger stays with the character assets
-- Storyteller Prompt Modules appear after characters / Naming Ledger
-- function-related assets come after Storyteller Prompt Modules in this order: Codex, Character Manager, Dice Roll, Character Stat Schema, Character Name Generator, Creator Setup
+- Prompt Plot has one complete dedicated `markdown` block
 - every core character has an independent `markdown` block
+- Naming Ledger has its own block
 - AI Prompt Guidelines have one complete dedicated block
 - AI Reminders have one complete dedicated block
 - every Opening Option has an independent `markdown` block
 - every Codex entry uses separate fenced `name`, `mode`, `trigger`, and `content` fields
 - every Codex trigger begins with `Active when`
-- every Codex content block begins with a Markdown content heading
+- every Codex content block begins with `## Content`
 - completed Codex entries are separated by horizontal rules
 - every Story Engine stored in Codex uses the same field-oriented Codex format
 - Story Engines are labeled `ENGINE — [engine_name]` in final output
@@ -5380,38 +4461,17 @@ For 2+ recurring NPCs:
 - Storyteller Prompt Modules always appear
 - Dice Roll setup always appears
 - Character Manager setup always appears
-- Character Name Generator setup always appears
 - Creator Setup always appears
 - Functions Prompt and Function Reminder are separate copy-pasteable blocks
 - "Not required for this story." or the more specific no-functions equivalent appears inside a fenced block when appropriate
-- Post-Final Commands include `regenerate illustrations` and `regenerate backgrounds`
-- Illustration Prompts appear after Post-Final Commands
-- Background Prompts appear after Illustration Prompts
-- Background Prompts are the last thing printed
+- Post-Final Commands appear inside their own `text` block
 - every Markdown block uses actual Markdown formatting internally
 - Markdown blocks do not contain flat pseudo-headings
-- AI-facing configuration text follows the lowercase casing rule except for names, places, and required platform syntax
 - no production asset is mixed with explanatory commentary
 - no accidental nested triple-backtick fences break formatting
 - no explanatory paragraph appears between a deliverable heading and its block
+- nothing appears after Post-Final Commands
 - creator can copy any final asset without manually removing surrounding prose
-
----
-
-## IMAGE PROMPT SECTIONS
-
-- Illustration Prompts target approximately 20 entries
-- illustration prompts use anime style and 4:3 aspect ratio
-- illustration prompts are framed from the eyes of `{{user}}`
-- each illustration line is no more than 20 words and states who is present if anyone, time of day, action, and location
-- illustration prompts describe potential moments, not guaranteed canon
-- Background Prompts target 20–50 entries
-- backgrounds cover established story locations, Codex locations, and plausible future destinations
-- background generation uses anime style and 3:4 aspect ratio
-- backgrounds contain no characters, text, or logos
-- each background location name is at most 5 words
-- each background description is exactly 5 words
-- background prompts are the final thing printed
 
 ---
 

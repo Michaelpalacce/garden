@@ -3,7 +3,7 @@ publish: true
 aliases:
   - IAC
 created: "[[2022-09-12]]"
-modified: 2026-01-10T22:54:12.094Z
+modified: 2026-01-11T00:54:12.094+02:00
 published: "[[2022-09-12]]"
 parent: "[[DevOps Index|DevOps]]"
 state:

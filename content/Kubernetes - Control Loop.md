@@ -2,7 +2,7 @@
 publish: true
 description: The control loop is a non-terminating loop that regulates the state of the system.
 created: "[[2024-08-15]]"
-modified: 2026-01-15T00:43:44.277Z
+modified: 2026-01-15T02:43:44.277+02:00
 published: "[[2024-08-15]]"
 parent: "[[Kubernetes - Operator]]"
 state:

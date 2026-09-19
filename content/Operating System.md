@@ -3,7 +3,7 @@ publish: true
 aliases:
   - OS
 created: "[[2022-08-24]]"
-modified: 2026-01-11T16:20:39.375Z
+modified: 2026-01-11T18:20:39.375+02:00
 published: "[[2022-08-24]]"
 parent: "[[Forest]]"
 state:

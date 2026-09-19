@@ -2,7 +2,7 @@
 publish: true
 description: How to handle errors in our applications
 created: "[[2023-02-01]]"
-modified: 2026-01-10T21:40:26.946Z
+modified: 2026-01-10T23:40:26.946+02:00
 published: "[[2023-02-01]]"
 parent: "[[Programming Index]]"
 state:

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2023-06-13]]"
-modified: 2026-01-09T11:58:24.690Z
+modified: 2026-01-09T13:58:24.690+02:00
 published: "[[2023-06-13]]"
 parent: "[[NoMa Method]]"
 state:

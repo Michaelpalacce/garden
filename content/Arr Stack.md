@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2026-01-14]]"
-modified: 2026-01-14T18:53:55.880Z
+modified: 2026-01-14T20:53:55.880+02:00
 published: "[[2026-01-14]]"
 parent: "[[Docker Compose]]"
 state: evergreen

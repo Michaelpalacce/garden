@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2023-06-19]]"
-modified: 2026-01-10T23:11:28.310Z
+modified: 2026-01-11T01:11:28.310+02:00
 published: "[[2023-06-19]]"
 parent: "[[Programming Index]]"
 state:

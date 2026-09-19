@@ -2,7 +2,7 @@
 publish: true
 description: Document database and a member of the NoSQL family of databases
 created: "[[2024-06-21]]"
-modified: 2026-01-12T20:46:38.557Z
+modified: 2026-01-12T22:46:38.557+02:00
 published: "[[2024-06-21]]"
 parent: "[[Databases]]"
 state:

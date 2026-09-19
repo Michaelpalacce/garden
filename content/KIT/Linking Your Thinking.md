@@ -2,7 +2,7 @@
 publish: true
 description: Creating connections is the primary way of retaining information.
 created: "[[2025-04-27]]"
-modified: 2026-01-09T11:58:24.502Z
+modified: 2026-01-09T13:58:24.502+02:00
 published: "[[2025-04-27]]"
 parent: "[[Framework]]"
 state:

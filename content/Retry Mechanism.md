@@ -4,7 +4,7 @@ aliases:
   - Retries
 description: Sometimes retrying am operation is the most sensible thing to do
 created: "[[2024-06-16]]"
-modified: 2026-01-10T21:38:44.514Z
+modified: 2026-01-10T23:38:44.514+02:00
 published: "[[2024-06-16]]"
 parent: "[[Error Resiliency]]"
 state:

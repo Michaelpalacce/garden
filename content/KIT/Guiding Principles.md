@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Framework Getting Started
 created: "[[2023-06-14]]"
-modified: 2026-01-12T09:22:14.492Z
+modified: 2026-01-12T11:22:14.492+02:00
 published: "[[2023-06-14]]"
 parent: "[[Framework]]"
 state: evergreen

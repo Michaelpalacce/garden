@@ -2,7 +2,7 @@
 publish: true
 description: Learn how to learn
 created: "[[2025-04-20]]"
-modified: 2026-01-10T22:57:33.526Z
+modified: 2026-01-11T00:57:33.526+02:00
 published: "[[2025-04-20]]"
 parent: "[[Learning]]"
 state:

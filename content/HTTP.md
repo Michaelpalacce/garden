@@ -5,7 +5,7 @@ aliases:
   - HTTP/1
   - HTTPS
 created: "[[2025-04-13]]"
-modified: 2026-01-11T18:46:41.347Z
+modified: 2026-01-11T20:46:41.347+02:00
 published: "[[2025-04-13]]"
 parent: "[[Network Protocols]]"
 state:

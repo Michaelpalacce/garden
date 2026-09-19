@@ -5,7 +5,7 @@ aliases:
   - How To Talk To People
   - Talking To People
 created: "[[2023-07-20]]"
-modified: 2026-01-12T21:41:00.173Z
+modified: 2026-01-12T23:41:00.173+02:00
 published: "[[2023-07-20]]"
 parent: "[[Soft Skills]]"
 state:

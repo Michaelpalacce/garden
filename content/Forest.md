@@ -2,7 +2,7 @@
 publish: true
 description: The forest contains your notes that are not personal
 created: "[[2024-09-05]]"
-modified: 2026-01-21T12:20:44.438Z
+modified: 2026-01-21T14:20:44.438+02:00
 published: "[[2024-09-05]]"
 parent:
   - "[[Pathways]]"

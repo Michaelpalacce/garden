@@ -2,7 +2,7 @@
 publish: true
 description: Learning multiple things and switching often.
 created: "[[2025-04-27]]"
-modified: 2026-01-25T23:37:28.001Z
+modified: 2026-01-26T01:37:28.001+02:00
 published: "[[2025-04-27]]"
 parent: "[[Framework]]"
 state:

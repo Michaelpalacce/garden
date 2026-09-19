@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2023-07-01]]"
-modified: 2026-01-09T12:00:20.532Z
+modified: 2026-01-09T14:00:20.532+02:00
 published: "[[2023-07-01]]"
 parent: "[[Time Management]]"
 state:

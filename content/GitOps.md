@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2022-11-13]]"
-modified: 2026-01-11T18:43:43.191Z
+modified: 2026-01-11T20:43:43.191+02:00
 published: "[[2022-11-13]]"
 parent: "[[DevOps Index|DevOps]]"
 state:

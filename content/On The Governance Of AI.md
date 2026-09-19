@@ -4,7 +4,7 @@ aliases:
   - Thoughts about government of AI generation
 description: Who will censor artificial intelligences?
 created: "[[2026-01-04]]"
-modified: 2026-01-09T12:02:35.291Z
+modified: 2026-01-09T14:02:35.291+02:00
 published: "[[2026-01-04]]"
 parent: "[[Artificial Intelligence]]"
 state:

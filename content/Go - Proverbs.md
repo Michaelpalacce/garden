@@ -2,7 +2,7 @@
 publish: true
 description: Simple rules and guides to follow when writing Go code.
 created: "[[2025-04-16]]"
-modified: 2026-01-12T20:28:42.363Z
+modified: 2026-01-12T22:28:42.363+02:00
 published: "[[2025-04-16]]"
 parent: "[[Go]]"
 state:

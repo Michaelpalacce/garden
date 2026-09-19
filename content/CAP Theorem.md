@@ -5,7 +5,7 @@ aliases:
   - Consistency Availability Partition Tolerance
 description: A theorem of the shortcomings of distributed systems.
 created: "[[2024-09-07]]"
-modified: 2026-01-31T22:17:28.221Z
+modified: 2026-02-01T00:17:28.221+02:00
 published: "[[2024-09-07]]"
 parent: "[[System Design]]"
 state:

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-09-02]]"
-modified: 2026-01-21T11:25:20.015Z
+modified: 2026-01-21T13:25:20.015+02:00
 published: "[[2024-09-02]]"
 parent: "[[Framework]]"
 state:

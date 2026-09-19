@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-10-12]]"
-modified: 2026-01-11T13:45:44.688Z
+modified: 2026-01-11T15:45:44.688+02:00
 published: "[[2024-10-12]]"
 parent: "[[Software Engineering Index]]"
 state:

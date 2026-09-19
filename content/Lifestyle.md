@@ -2,7 +2,7 @@
 publish: true
 description: My lifestyle
 created: "[[2025-12-31]]"
-modified: 2026-01-20T08:47:09.666Z
+modified: 2026-01-20T10:47:09.666+02:00
 published: "[[2025-12-31]]"
 parent:
   - "[[Pathways]]"

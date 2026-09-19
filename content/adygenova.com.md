@@ -2,7 +2,7 @@
 publish: true
 description: adygenova.com will be hosted on my servers
 created: "[[2025-12-07]]"
-modified: 2026-01-10T15:20:26.603Z
+modified: 2026-01-10T17:20:26.603+02:00
 published: "[[2025-12-07]]"
 parent: "[[Projects]]"
 state:

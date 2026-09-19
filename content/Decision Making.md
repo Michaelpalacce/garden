@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2024-08-03]]"
-modified: 2026-01-11T13:11:45.929Z
+modified: 2026-01-11T15:11:45.929+02:00
 published: "[[2024-08-03]]"
 parent: "[[Soft Skills]]"
 state:

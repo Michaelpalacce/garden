@@ -2,7 +2,7 @@
 publish: true
 description: Trading space usage for time and vice versa. Higher space usage, less time, more time, lower space usage.
 created: "[[2024-10-10]]"
-modified: 2026-01-11T13:42:18.744Z
+modified: 2026-01-11T15:42:18.744+02:00
 published: "[[2024-10-10]]"
 parent: "[[Performance]]"
 state:
