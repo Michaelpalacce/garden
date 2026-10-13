@@ -4,7 +4,7 @@ aliases:
   - Writing
 description: How to deliver written documents with the most impact.
 created: "[[2025-05-02]]"
-modified: 2026-01-11T15:16:03.381+02:00
+modified: 2026-01-11T13:16:03.381Z
 published: "[[2025-05-02]]"
 parent: "[[Communication]]"
 state:

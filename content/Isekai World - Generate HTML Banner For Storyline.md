@@ -2,7 +2,7 @@
 publish: true
 description: Prompt to generate a banner
 created: "[[2026-08-14]]"
-modified: 2026-08-29T12:01:33.507+03:00
+modified: 2026-08-29T09:01:33.507Z
 published: "[[2026-08-14]]"
 parent: "[[Isekai World - Storyline Creation]]"
 state:

@@ -7,7 +7,7 @@ aliases:
   - You can't write everything down
 description: Reading should stimulate my thinking and produce new ideas/links.
 created: "[[2025-09-15]]"
-modified: 2026-01-21T13:26:24.175+02:00
+modified: 2026-01-21T11:26:24.175Z
 published: "[[2025-09-15]]"
 parent: "[[Linking Your Thinking]]"
 state:

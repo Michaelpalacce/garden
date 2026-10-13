@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Gossip Protocol
 created: "[[2023-03-04]]"
-modified: 2026-01-12T22:44:35.389+02:00
+modified: 2026-01-12T20:44:35.389Z
 published: "[[2023-03-04]]"
 parent: "[[Cassandra]]"
 state: sapling

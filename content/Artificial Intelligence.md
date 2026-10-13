@@ -4,7 +4,7 @@ aliases:
   - AI
 description: AI revolution is upon us.
 created: "[[2025-03-29]]"
-modified: 2026-01-20T10:03:33.862+02:00
+modified: 2026-01-20T08:03:33.862Z
 published: "[[2025-03-29]]"
 parent: "[[Forest]]"
 state:

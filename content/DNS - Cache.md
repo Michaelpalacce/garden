@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2023-06-11]]"
-modified: 2026-01-11T15:42:38.732+02:00
+modified: 2026-01-11T13:42:38.732Z
 published: "[[2023-06-11]]"
 parent: "[[DNS]]"
 state: sapling

@@ -2,7 +2,7 @@
 publish: true
 description: Development bad practices
 created: "[[2025-02-20]]"
-modified: 2026-01-11T15:40:11.808+02:00
+modified: 2026-01-11T13:40:11.808Z
 published: "[[2025-02-20]]"
 parent: "[[Software Engineering Index]]"
 state:

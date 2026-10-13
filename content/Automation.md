@@ -2,7 +2,7 @@
 publish: true
 description: Automate for predictable results.
 created: "[[2026-01-21]]"
-modified: 2026-01-22T00:31:14.031+02:00
+modified: 2026-01-21T22:31:14.031Z
 published: "[[2026-01-21]]"
 parent:
   - "[[Forest]]"

@@ -2,7 +2,7 @@
 publish: true
 description: Tool used to inspect docker images layers size
 created: "[[2026-01-22]]"
-modified: 2026-01-29T01:51:03.092+02:00
+modified: 2026-01-28T23:51:03.092Z
 published: "[[2026-01-22]]"
 parent: "[[Docker]]"
 state:

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: "[[2023-06-15]]"
-modified: 2026-01-12T08:38:56.890+02:00
+modified: 2026-01-12T06:38:56.890Z
 published: "[[2023-06-15]]"
 parent: "[[Command & Control Center Index|Command & Control Center]]"
 state:

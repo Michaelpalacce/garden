@@ -4,7 +4,7 @@ aliases:
   - Studying
 description: Learning is an integral part of my life.
 created: "[[2025-04-20]]"
-modified: 2026-01-20T10:15:22.608+02:00
+modified: 2026-01-20T08:15:22.608Z
 published: "[[2025-04-20]]"
 parent: "[[Forest]]"
 state:
